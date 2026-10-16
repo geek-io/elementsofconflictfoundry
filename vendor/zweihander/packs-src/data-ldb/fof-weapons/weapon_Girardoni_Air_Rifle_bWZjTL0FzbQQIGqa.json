@@ -1,0 +1,63 @@
+{
+  "_id": "bWZjTL0FzbQQIGqa",
+  "effects": [],
+  "img": "systems/zweihander/assets/icons/musket.svg",
+  "name": "Girardoni Air Rifle",
+  "type": "weapon",
+  "_stats": {
+    "coreVersion": "13.342",
+    "systemId": "zweihander",
+    "systemVersion": "5.4.1",
+    "createdTime": 1745429307092,
+    "modifiedTime": 1745429307092,
+    "lastModifiedBy": "rivg6xcMxdlVDM8y",
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "system": {
+    "description": {
+      "@en": "<p>These curious devices are powered by pneumatics, producing little noise and no smoke. However, they also have one decisive disadvantage: empty reservoirs must be refilled using a large air-pump, which is not portable.</p>"
+    },
+    "notes": "",
+    "price": {
+      "bp": "0",
+      "gc": "6",
+      "ss": "0"
+    },
+    "encumbrance": 3,
+    "carried": true,
+    "weaponType": "Ranged",
+    "equipped": false,
+    "associatedSkill": "Martial Ranged",
+    "ranged": {
+      "load": 0,
+      "value": false
+    },
+    "handling": "Two-handed",
+    "qualities": {
+      "value": "Pneumatic, Repeating (20), Silent",
+      "arrayOfValues": []
+    },
+    "distance": "6 + [PB] yards",
+    "damage": {
+      "formula": "[CB] + (1+[#])d6x6",
+      "attributeBonus": "[CB]",
+      "number": 1,
+      "die": "d6",
+      "bonus": 0,
+      "fury": {
+        "value": false,
+        "explodesOn": []
+      }
+    },
+    "load": 2
+  },
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {},
+  "_key": "!items!bWZjTL0FzbQQIGqa"
+}

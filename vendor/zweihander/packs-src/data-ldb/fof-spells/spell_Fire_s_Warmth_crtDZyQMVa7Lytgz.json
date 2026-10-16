@@ -1,0 +1,60 @@
+{
+  "_id": "crtDZyQMVa7Lytgz",
+  "effects": [],
+  "img": "systems/zweihander/assets/icons/spell-book.svg",
+  "name": "Fire's Warmth",
+  "type": "spell",
+  "_stats": {
+    "coreVersion": "13.342",
+    "systemId": "zweihander",
+    "systemVersion": "5.4.1",
+    "createdTime": 1745429303233,
+    "modifiedTime": 1745429303233,
+    "lastModifiedBy": "rivg6xcMxdlVDM8y",
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "system": {
+    "description": {
+      "@en": "<p>I shall call an elemental spirit to warm our bodies and spirits . . .</p>"
+    },
+    "notes": "",
+    "rules": {
+      "effect": {
+        "@en": "<p>After successfully casting, up to [WB] allies can ignore the negative effects of cold weather, also avoiding Frostbite.</p>"
+      },
+      "criticalSuccess": {
+        "@en": "Up to 6x your [WB] allies are affected."
+      },
+      "criticalFailure": {
+        "@en": "The allies affected suffer [[/roll 2D10+2]] Peril every hour."
+      },
+      "reagents": {
+        "@en": "A piece of charcoal, rubbed on allies’ heads (expended)"
+      }
+    },
+    "tradition": "Common",
+    "principle": "Intermediate Tier",
+    "distance": "By Touch",
+    "duration": {
+      "value": "instantaneous",
+      "label": "6+[WB] hours",
+      "formula": {
+        "override": true
+      },
+      "base": "[WB]",
+      "bonus": 6,
+      "unit": "hours"
+    },
+    "castingTime": "9 Minutes",
+    "castingCost": null
+  },
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {},
+  "_key": "!items!crtDZyQMVa7Lytgz"
+}

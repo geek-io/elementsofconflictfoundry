@@ -1,0 +1,37 @@
+{
+  "_id": "UTRPC4SdrWEGZVPv",
+  "effects": [],
+  "img": "systems/zweihander/assets/icons/fire-silhouette.svg",
+  "name": "Dense Anatomy",
+  "system": {
+    "description": {
+      "@en": ""
+    },
+    "notes": "",
+    "rules": {
+      "effect": {
+        "@en": "These creatures only suffer Damage dealt by fire."
+      }
+    },
+    "category": "creature"
+  },
+  "type": "trait",
+  "_stats": {
+    "coreVersion": "13.342",
+    "systemId": "zweihander",
+    "systemVersion": "5.4.1",
+    "createdTime": null,
+    "modifiedTime": 1735915786851,
+    "lastModifiedBy": "rivg6xcMxdlVDM8y",
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {},
+  "_key": "!items!UTRPC4SdrWEGZVPv"
+}

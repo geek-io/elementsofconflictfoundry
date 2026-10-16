@@ -1,0 +1,37 @@
+{
+  "_id": "APBhQB6ZomAli12f",
+  "effects": [],
+  "img": "systems/zweihander/assets/icons/cursed-star.svg",
+  "name": "True Name",
+  "system": {
+    "description": {
+      "@en": ""
+    },
+    "notes": "",
+    "rules": {
+      "effect": {
+        "@en": "Unless foes invoke this creature’s True Name before casting Magick, it fails to affect the creature."
+      }
+    },
+    "category": "creature"
+  },
+  "type": "trait",
+  "_stats": {
+    "coreVersion": "13.342",
+    "systemId": "zweihander",
+    "systemVersion": "5.4.1",
+    "createdTime": null,
+    "modifiedTime": 1735915786824,
+    "lastModifiedBy": "rivg6xcMxdlVDM8y",
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {},
+  "_key": "!items!APBhQB6ZomAli12f"
+}

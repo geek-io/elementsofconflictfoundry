@@ -1,0 +1,731 @@
+{
+  "_id": "VLBJg0L6gZDb9WmN",
+  "displayRoll": true,
+  "formula": "1d26",
+  "img": "systems/zweihander/assets/icons/armor-downgrade.svg",
+  "name": "Character Creation Drawbacks",
+  "replacement": true,
+  "results": [
+    {
+      "_id": "ffJwPLrXh1QSJHaK",
+      "drawn": false,
+      "flags": {},
+      "img": "systems/zweihander/assets/icons/spiked-halo.svg",
+      "range": [
+        1,
+        1
+      ],
+      "type": "document",
+      "weight": 1,
+      "_stats": {
+        "coreVersion": "13.342",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "name": "Bad Ticker",
+      "documentUuid": "Compendium.zweihander.zh-drawbacks.Item.E1WR1vI6HRD9M41F",
+      "description": "",
+      "_key": "!tables.results!VLBJg0L6gZDb9WmN.ffJwPLrXh1QSJHaK"
+    },
+    {
+      "_id": "HmCfHieRcva2tQEg",
+      "drawn": false,
+      "flags": {},
+      "img": "systems/zweihander/assets/icons/spiked-halo.svg",
+      "range": [
+        2,
+        2
+      ],
+      "type": "document",
+      "weight": 1,
+      "_stats": {
+        "coreVersion": "13.342",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "name": "Black Cataract",
+      "documentUuid": "Compendium.zweihander.zh-drawbacks.Item.sj2TdgXtDljxUqXN",
+      "description": "",
+      "_key": "!tables.results!VLBJg0L6gZDb9WmN.HmCfHieRcva2tQEg"
+    },
+    {
+      "_id": "XHU3CWfst9AFJUvh",
+      "drawn": false,
+      "flags": {},
+      "img": "systems/zweihander/assets/icons/spiked-halo.svg",
+      "range": [
+        3,
+        3
+      ],
+      "type": "document",
+      "weight": 1,
+      "_stats": {
+        "coreVersion": "13.342",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "name": "Bleeder",
+      "documentUuid": "Compendium.zweihander.zh-drawbacks.Item.brRo4ptVdhPWeLdG",
+      "description": "",
+      "_key": "!tables.results!VLBJg0L6gZDb9WmN.XHU3CWfst9AFJUvh"
+    },
+    {
+      "_id": "qZ4Mwi4XWFtqGSAp",
+      "drawn": false,
+      "flags": {},
+      "img": "systems/zweihander/assets/icons/spiked-halo.svg",
+      "range": [
+        4,
+        4
+      ],
+      "type": "document",
+      "weight": 1,
+      "_stats": {
+        "coreVersion": "13.342",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "name": "Branded",
+      "documentUuid": "Compendium.zweihander.zh-drawbacks.Item.JCz5U9P6rvb8amF4",
+      "description": "",
+      "_key": "!tables.results!VLBJg0L6gZDb9WmN.qZ4Mwi4XWFtqGSAp"
+    },
+    {
+      "_id": "ZdM0yuZNzH6K4uAY",
+      "drawn": false,
+      "flags": {},
+      "img": "systems/zweihander/assets/icons/spiked-halo.svg",
+      "range": [
+        5,
+        5
+      ],
+      "type": "document",
+      "weight": 1,
+      "_stats": {
+        "coreVersion": "13.342",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "name": "Choleric Temperament",
+      "documentUuid": "Compendium.zweihander.zh-drawbacks.Item.94JAFIzomT2aZnU8",
+      "description": "",
+      "_key": "!tables.results!VLBJg0L6gZDb9WmN.ZdM0yuZNzH6K4uAY"
+    },
+    {
+      "_id": "PnF0gZdeqXaxZtLO",
+      "drawn": false,
+      "flags": {},
+      "img": "systems/zweihander/assets/icons/spiked-halo.svg",
+      "range": [
+        6,
+        6
+      ],
+      "type": "document",
+      "weight": 1,
+      "_stats": {
+        "coreVersion": "13.342",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "name": "Crop Ear",
+      "documentUuid": "Compendium.zweihander.zh-drawbacks.Item.6nIPbE3DZorxYjgw",
+      "description": "",
+      "_key": "!tables.results!VLBJg0L6gZDb9WmN.PnF0gZdeqXaxZtLO"
+    },
+    {
+      "_id": "1XwErlL4XMFAHOQv",
+      "drawn": false,
+      "flags": {},
+      "img": "systems/zweihander/assets/icons/spiked-halo.svg",
+      "range": [
+        7,
+        7
+      ],
+      "type": "document",
+      "weight": 1,
+      "_stats": {
+        "coreVersion": "13.342",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "name": "Cursed",
+      "documentUuid": "Compendium.zweihander.zh-drawbacks.Item.97ZUqf20FOmTdeKz",
+      "description": "",
+      "_key": "!tables.results!VLBJg0L6gZDb9WmN.1XwErlL4XMFAHOQv"
+    },
+    {
+      "_id": "8V9RvzizxFVcoq4b",
+      "drawn": false,
+      "flags": {},
+      "img": "systems/zweihander/assets/icons/spiked-halo.svg",
+      "range": [
+        8,
+        8
+      ],
+      "type": "document",
+      "weight": 1,
+      "_stats": {
+        "coreVersion": "13.342",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "name": "Deal with the Devil",
+      "documentUuid": "Compendium.zweihander.zh-drawbacks.Item.8mavFk680Ix6MueH",
+      "description": "",
+      "_key": "!tables.results!VLBJg0L6gZDb9WmN.8V9RvzizxFVcoq4b"
+    },
+    {
+      "_id": "taizBAk3r8YLw9i3",
+      "drawn": false,
+      "flags": {},
+      "img": "systems/zweihander/assets/icons/spiked-halo.svg",
+      "range": [
+        9,
+        9
+      ],
+      "type": "document",
+      "weight": 1,
+      "_stats": {
+        "coreVersion": "13.342",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "name": "Debt-ridden",
+      "documentUuid": "Compendium.zweihander.zh-drawbacks.Item.A0RVzMyQDap6Wq2D",
+      "description": "",
+      "_key": "!tables.results!VLBJg0L6gZDb9WmN.taizBAk3r8YLw9i3"
+    },
+    {
+      "_id": "qXhedkc8rvdfK3ED",
+      "drawn": false,
+      "flags": {},
+      "img": "systems/zweihander/assets/icons/spiked-halo.svg",
+      "range": [
+        10,
+        10
+      ],
+      "type": "document",
+      "weight": 1,
+      "_stats": {
+        "coreVersion": "13.342",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "name": "Dunderhead",
+      "documentUuid": "Compendium.zweihander.zh-drawbacks.Item.YkJ1g1ZnFObmIGgd",
+      "description": "",
+      "_key": "!tables.results!VLBJg0L6gZDb9WmN.qXhedkc8rvdfK3ED"
+    },
+    {
+      "_id": "qw5XfsRkmFuZw818",
+      "drawn": false,
+      "flags": {},
+      "img": "systems/zweihander/assets/icons/spiked-halo.svg",
+      "range": [
+        11,
+        11
+      ],
+      "type": "document",
+      "weight": 1,
+      "_stats": {
+        "coreVersion": "13.342",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "name": "Eunuch",
+      "documentUuid": "Compendium.zweihander.zh-drawbacks.Item.2jLdwVtjN3Y6in0H",
+      "description": "",
+      "_key": "!tables.results!VLBJg0L6gZDb9WmN.qw5XfsRkmFuZw818"
+    },
+    {
+      "_id": "IwMhNLrPuCsKGrOt",
+      "drawn": false,
+      "flags": {},
+      "img": "systems/zweihander/assets/icons/spiked-halo.svg",
+      "range": [
+        12,
+        12
+      ],
+      "type": "document",
+      "weight": 1,
+      "_stats": {
+        "coreVersion": "13.342",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "name": "Lily-Livered",
+      "documentUuid": "Compendium.zweihander.zh-drawbacks.Item.F2m1N1tZOtS05mPM",
+      "description": "",
+      "_key": "!tables.results!VLBJg0L6gZDb9WmN.IwMhNLrPuCsKGrOt"
+    },
+    {
+      "_id": "VZ4QzSaFIuGoCRar",
+      "drawn": false,
+      "flags": {},
+      "img": "systems/zweihander/assets/icons/spiked-halo.svg",
+      "range": [
+        13,
+        13
+      ],
+      "type": "document",
+      "weight": 1,
+      "_stats": {
+        "coreVersion": "13.342",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "name": "Melancholic Temperament",
+      "documentUuid": "Compendium.zweihander.zh-drawbacks.Item.0KdUmM1H6Fln7q3W",
+      "description": "",
+      "_key": "!tables.results!VLBJg0L6gZDb9WmN.VZ4QzSaFIuGoCRar"
+    },
+    {
+      "_id": "QO71Pjm2JMkWbjUt",
+      "drawn": false,
+      "flags": {},
+      "img": "systems/zweihander/assets/icons/spiked-halo.svg",
+      "range": [
+        14,
+        14
+      ],
+      "type": "document",
+      "weight": 1,
+      "_stats": {
+        "coreVersion": "13.342",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "name": "Ne'er Do Well",
+      "documentUuid": "Compendium.zweihander.zh-drawbacks.Item.qcXF72cbUSSBao4k",
+      "description": "",
+      "_key": "!tables.results!VLBJg0L6gZDb9WmN.QO71Pjm2JMkWbjUt"
+    },
+    {
+      "_id": "rHaINVfOvviFMWr4",
+      "drawn": false,
+      "flags": {},
+      "img": "systems/zweihander/assets/icons/spiked-halo.svg",
+      "range": [
+        15,
+        15
+      ],
+      "type": "document",
+      "weight": 1,
+      "_stats": {
+        "coreVersion": "13.342",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "name": "Nemesis",
+      "documentUuid": "Compendium.zweihander.zh-drawbacks.Item.1BE1hUIpSwet1fET",
+      "description": "",
+      "_key": "!tables.results!VLBJg0L6gZDb9WmN.rHaINVfOvviFMWr4"
+    },
+    {
+      "_id": "bBqPo0U2ginNKO94",
+      "drawn": false,
+      "flags": {},
+      "img": "systems/zweihander/assets/icons/spiked-halo.svg",
+      "range": [
+        16,
+        16
+      ],
+      "type": "document",
+      "weight": 1,
+      "_stats": {
+        "coreVersion": "13.342",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "name": "Painkiller",
+      "documentUuid": "Compendium.zweihander.zh-drawbacks.Item.q7lIGDIlm27R5Qp3",
+      "description": "",
+      "_key": "!tables.results!VLBJg0L6gZDb9WmN.bBqPo0U2ginNKO94"
+    },
+    {
+      "_id": "3RdkjbgpUTweKI9o",
+      "drawn": false,
+      "flags": {},
+      "img": "systems/zweihander/assets/icons/spiked-halo.svg",
+      "range": [
+        17,
+        17
+      ],
+      "type": "document",
+      "weight": 1,
+      "_stats": {
+        "coreVersion": "13.342",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "name": "Persecution Complex",
+      "documentUuid": "Compendium.zweihander.zh-drawbacks.Item.UcVKfr1JZV0akhO6",
+      "description": "",
+      "_key": "!tables.results!VLBJg0L6gZDb9WmN.3RdkjbgpUTweKI9o"
+    },
+    {
+      "_id": "sKT3c4FimMc1yLPW",
+      "drawn": false,
+      "flags": {},
+      "img": "systems/zweihander/assets/icons/spiked-halo.svg",
+      "range": [
+        18,
+        18
+      ],
+      "type": "document",
+      "weight": 1,
+      "_stats": {
+        "coreVersion": "13.342",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "name": "Phlegmatic Temperament",
+      "documentUuid": "Compendium.zweihander.zh-drawbacks.Item.s15Vp05YdK0dXlkV",
+      "description": "",
+      "_key": "!tables.results!VLBJg0L6gZDb9WmN.sKT3c4FimMc1yLPW"
+    },
+    {
+      "_id": "knptLzEXJEzbcHai",
+      "drawn": false,
+      "flags": {},
+      "img": "systems/zweihander/assets/icons/spiked-halo.svg",
+      "range": [
+        19,
+        19
+      ],
+      "type": "document",
+      "weight": 1,
+      "_stats": {
+        "coreVersion": "13.342",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "name": "Sanguine Temperament",
+      "documentUuid": "Compendium.zweihander.zh-drawbacks.Item.XP2tgnizCdQJwgiJ",
+      "description": "",
+      "_key": "!tables.results!VLBJg0L6gZDb9WmN.knptLzEXJEzbcHai"
+    },
+    {
+      "_id": "us8VuUgJFRXToYw8",
+      "drawn": false,
+      "flags": {},
+      "img": "systems/zweihander/assets/icons/spiked-halo.svg",
+      "range": [
+        20,
+        20
+      ],
+      "type": "document",
+      "weight": 1,
+      "_stats": {
+        "coreVersion": "13.342",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "name": "Sour Stomach",
+      "documentUuid": "Compendium.zweihander.zh-drawbacks.Item.2IAkhZeGl0Td1cYa",
+      "description": "",
+      "_key": "!tables.results!VLBJg0L6gZDb9WmN.us8VuUgJFRXToYw8"
+    },
+    {
+      "_id": "qyMV2P4hhniQUVY1",
+      "drawn": false,
+      "flags": {},
+      "img": "systems/zweihander/assets/icons/spiked-halo.svg",
+      "range": [
+        21,
+        21
+      ],
+      "type": "document",
+      "weight": 1,
+      "_stats": {
+        "coreVersion": "13.342",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "name": "Split Face",
+      "documentUuid": "Compendium.zweihander.zh-drawbacks.Item.5YB4PaPVJjzSaasg",
+      "description": "",
+      "_key": "!tables.results!VLBJg0L6gZDb9WmN.qyMV2P4hhniQUVY1"
+    },
+    {
+      "_id": "rg9BhhvEhUGzueBs",
+      "drawn": false,
+      "flags": {},
+      "img": "systems/zweihander/assets/icons/spiked-halo.svg",
+      "range": [
+        22,
+        22
+      ],
+      "type": "document",
+      "weight": 1,
+      "_stats": {
+        "coreVersion": "13.342",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "name": "Veteran's Boot",
+      "documentUuid": "Compendium.zweihander.zh-drawbacks.Item.OdGBkmSHNZCrNEWC",
+      "description": "",
+      "_key": "!tables.results!VLBJg0L6gZDb9WmN.rg9BhhvEhUGzueBs"
+    },
+    {
+      "_id": "Lv9De55bYUHJ8PR0",
+      "drawn": false,
+      "flags": {},
+      "img": "systems/zweihander/assets/icons/spiked-halo.svg",
+      "range": [
+        23,
+        23
+      ],
+      "type": "document",
+      "weight": 1,
+      "_stats": {
+        "coreVersion": "13.342",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "name": "Veteran's Eye",
+      "documentUuid": "Compendium.zweihander.zh-drawbacks.Item.xFOby2mzPD7EsR8L",
+      "description": "",
+      "_key": "!tables.results!VLBJg0L6gZDb9WmN.Lv9De55bYUHJ8PR0"
+    },
+    {
+      "_id": "qtxgtfIarw8YUlN4",
+      "drawn": false,
+      "flags": {},
+      "img": "systems/zweihander/assets/icons/spiked-halo.svg",
+      "range": [
+        24,
+        24
+      ],
+      "type": "document",
+      "weight": 1,
+      "_stats": {
+        "coreVersion": "13.342",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "name": "Veteran's Hand",
+      "documentUuid": "Compendium.zweihander.zh-drawbacks.Item.FpuzGl88vbbG2a1C",
+      "description": "",
+      "_key": "!tables.results!VLBJg0L6gZDb9WmN.qtxgtfIarw8YUlN4"
+    },
+    {
+      "_id": "Uhu7BGYeEY7UjxDJ",
+      "drawn": false,
+      "flags": {},
+      "img": "systems/zweihander/assets/icons/spiked-halo.svg",
+      "range": [
+        25,
+        25
+      ],
+      "type": "document",
+      "weight": 1,
+      "_stats": {
+        "coreVersion": "13.342",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "name": "Veteran's Leg",
+      "documentUuid": "Compendium.zweihander.zh-drawbacks.Item.EilnrNsVS45Jgr3M",
+      "description": "",
+      "_key": "!tables.results!VLBJg0L6gZDb9WmN.Uhu7BGYeEY7UjxDJ"
+    },
+    {
+      "_id": "bbLJBWsWvf7BsoZK",
+      "drawn": false,
+      "flags": {},
+      "img": "systems/zweihander/assets/icons/spiked-halo.svg",
+      "range": [
+        26,
+        26
+      ],
+      "type": "document",
+      "weight": 1,
+      "_stats": {
+        "coreVersion": "13.342",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "name": "Weak Lungs",
+      "documentUuid": "Compendium.zweihander.zh-drawbacks.Item.690JtyKbpVJuJdHX",
+      "description": "",
+      "_key": "!tables.results!VLBJg0L6gZDb9WmN.bbLJBWsWvf7BsoZK"
+    }
+  ],
+  "_stats": {
+    "coreVersion": "13.342",
+    "systemId": null,
+    "systemVersion": null,
+    "createdTime": null,
+    "modifiedTime": null,
+    "lastModifiedBy": null,
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "description": "",
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {},
+  "_key": "!tables!VLBJg0L6gZDb9WmN"
+}

@@ -1,0 +1,37 @@
+{
+  "_id": "Rs48VtD50n9mZu3r",
+  "effects": [],
+  "img": "systems/zweihander/assets/icons/vitruvian-man.svg",
+  "name": "Situational Awareness",
+  "type": "trait",
+  "_stats": {
+    "coreVersion": "13.342",
+    "systemId": "zweihander",
+    "systemVersion": "5.4.1",
+    "createdTime": null,
+    "modifiedTime": 1735911103063,
+    "lastModifiedBy": "rivg6xcMxdlVDM8y",
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "system": {
+    "description": {
+      "@en": "Your road-weariness has turned into a wariness unseen amongst others. You have attuned yourself to the smallest of sounds in the wilds, and can react quickly and efficiently."
+    },
+    "notes": "",
+    "rules": {
+      "effect": {
+        "@en": "When you fail an Awareness or Stealth Test, you may re-roll to generate a better result, but must accept the outcome."
+      }
+    },
+    "category": "professional"
+  },
+  "folder": null,
+  "sort": 8600000,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {},
+  "_key": "!items!Rs48VtD50n9mZu3r"
+}

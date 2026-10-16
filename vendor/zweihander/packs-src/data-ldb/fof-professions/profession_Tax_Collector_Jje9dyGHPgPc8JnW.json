@@ -1,0 +1,124 @@
+{
+  "_id": "Jje9dyGHPgPc8JnW",
+  "effects": [],
+  "img": "systems/zweihander/assets/icons/abstract-082.svg",
+  "name": "Tax Collector",
+  "type": "profession",
+  "_stats": {
+    "coreVersion": "13.342",
+    "systemId": "zweihander",
+    "systemVersion": "5.4.1",
+    "createdTime": null,
+    "modifiedTime": 1734972168205,
+    "lastModifiedBy": "rivg6xcMxdlVDM8y",
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "system": {
+    "description": {
+      "@en": "<p>It&rsquo;s no secret. I am one of the most hated people in the cities. Ever since the Stamp Act passed, I have been spat on and had stones thrown at me by Rebels and Loyalists alike. I serve an essential purpose, though: taxes help pay for roadways, ports, imported commodities and the army. It&rsquo;s not my fault my superiors passed these laws; I&rsquo;m just doing my job when I come to collect. However, I grow weary with the daily insults and the fact that I must always watch my back to prevent being assaulted or worse.</p>\n<p>The more tax is squeezed from the people, the angrier they get&mdash;it&rsquo;s inevitable at this point that a conflict will break out. Many are misplacing their anger, though, attacking quill-pushers like myself who have no real power in these deliberations. This anger will soon turn to bloodshed, and I wouldn&rsquo;t be surprised if my fellow collectors are the first to be tarred and feathered.</p>"
+    },
+    "notes": "",
+    "expert": {
+      "value": false,
+      "requirements": ""
+    },
+    "archetype": "Urbane Profession",
+    "bonusAdvances": [
+      {
+        "name": "[BB]"
+      },
+      {
+        "name": "[FB]"
+      },
+      {
+        "name": "[FB]"
+      },
+      {
+        "name": "[IB]"
+      },
+      {
+        "name": "[IB]"
+      },
+      {
+        "name": "[PB]"
+      },
+      {
+        "name": "[PB]"
+      }
+    ],
+    "skillRanks": [
+      {
+        "name": "Awareness"
+      },
+      {
+        "name": "Bargain"
+      },
+      {
+        "name": "Counterfeit"
+      },
+      {
+        "name": "Eavesdrop"
+      },
+      {
+        "name": "Guile"
+      },
+      {
+        "name": "Intimidate"
+      },
+      {
+        "name": "Rumor"
+      },
+      {
+        "name": "Scrutinize"
+      },
+      {
+        "name": "Simple Melee"
+      },
+      {
+        "name": "Toughness"
+      }
+    ],
+    "talents": [
+      {
+        "linkedId": null,
+        "name": "Perceptive",
+        "uuid": "Compendium.zweihander.fof-talents.Item.JmMCrWUhVBwdpgcA"
+      },
+      {
+        "linkedId": null,
+        "name": "Rebel Yell",
+        "uuid": "Compendium.zweihander.fof-talents.Item.9NESmqzMAUt7AegH"
+      },
+      {
+        "linkedId": null,
+        "name": "Steadfast",
+        "uuid": "Compendium.zweihander.fof-talents.Item.4RJe6zOS2jRugwsM"
+      }
+    ],
+    "professionalTrait": {
+      "name": "Eyes in the Back of my Head",
+      "uuid": "Compendium.zweihander.fof-professional-traits.Item.4Ooa8ir1hPpwMOI2",
+      "linkedId": null
+    },
+    "specialTrait": {
+      "name": "",
+      "uuid": "",
+      "linkedId": null
+    },
+    "drawback": {
+      "name": "Political Responsibilities",
+      "uuid": "Compendium.zweihander.fof-quirks.Item.WQayo4nTwZnRIcoz",
+      "linkedId": null
+    },
+    "tier": ""
+  },
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {},
+  "_key": "!items!Jje9dyGHPgPc8JnW"
+}

@@ -1,0 +1,149 @@
+{
+  "_id": "Cznrk1YzXWYgJG2Q",
+  "effects": [],
+  "img": "systems/zweihander/assets/icons/shaman.svg",
+  "name": "Shaman",
+  "type": "profession",
+  "_stats": {
+    "coreVersion": "13.342",
+    "systemId": "zweihander",
+    "systemVersion": "5.4.1",
+    "createdTime": null,
+    "modifiedTime": 1735050410978,
+    "lastModifiedBy": "rivg6xcMxdlVDM8y",
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "system": {
+    "description": {
+      "@en": "Being a Shaman is more than just respecting nature; it’s about becoming one with it. To a Shaman, everything in nature has a spirit and an essence, be it a bear, a babbling brook or a majestic oak. Life to them is a constant battle between these forces, where only the strongest spirits survive. This includes the Shaman, who is also one of these spirits. They are perhaps mages of the wild, even priests in a sense, but they make no attempt to control the energies of this savage eternal war. Instead, Shaman are proxies to their power, guiding it into the Material Realm as conduits of power. The most potent spirits are animalistic spirits and when the Shaman gathers Magick, they are said to take on the very aspects of the beasts they so cherish. Shamans respect all animals, but many of them will have a ‘totem’, an animal that they hold in particularly high regard and feel a kinship towards.\nShamans are wild, unkempt and ripe of smell, being closer to a beast of nature than of their own race. Most of these wild arcanists shun civilized society, making homes in the rural villages that accept the Shaman’s way. Some find any society too much, retreating into the wilderness and their Magick, and taking on the essence of the animals they respect. They become unhinged, violent and sometimes cannibalistic in order to protect their territory. Those who have been driven even further into madness may try to actually overthrow civilization, believing the only path to true enlightenment resides with learning to unleash the beast within."
+    },
+    "notes": "",
+    "expert": {
+      "value": true,
+      "requirements": {
+        "skillRanks": [
+          {
+            "key": "incantation",
+            "value": 1
+          }
+        ],
+        "additional": "<p>You must have the Special Trait of Arcane Magick.</p>"
+      }
+    },
+    "archetype": "Expert Profession",
+    "bonusAdvances": [
+      {
+        "name": "[AB]",
+        "purchased": false
+      },
+      {
+        "name": "[BB]",
+        "purchased": false
+      },
+      {
+        "name": "[BB]",
+        "purchased": false
+      },
+      {
+        "name": "[FB]",
+        "purchased": false
+      },
+      {
+        "name": "[IB]",
+        "purchased": false
+      },
+      {
+        "name": "[PB]",
+        "purchased": false
+      },
+      {
+        "name": "[WB]",
+        "purchased": false
+      }
+    ],
+    "skillRanks": [
+      {
+        "name": "Awareness",
+        "purchased": false
+      },
+      {
+        "name": "Folklore",
+        "purchased": false
+      },
+      {
+        "name": "Handle Animal",
+        "purchased": false
+      },
+      {
+        "name": "Incantation",
+        "purchased": false
+      },
+      {
+        "name": "Intimidate",
+        "purchased": false
+      },
+      {
+        "name": "Navigation",
+        "purchased": false
+      },
+      {
+        "name": "Ride",
+        "purchased": false
+      },
+      {
+        "name": "Simple Melee",
+        "purchased": false
+      },
+      {
+        "name": "Survival",
+        "purchased": false
+      },
+      {
+        "name": "Toughness",
+        "purchased": false
+      }
+    ],
+    "talents": [
+      {
+        "linkedId": "tLtCUfaidoxc4bAr",
+        "name": "Azimuth",
+        "uuid": "Compendium.zweihander.zh-talents.Item.tLtCUfaidoxc4bAr"
+      },
+      {
+        "linkedId": "Iiu9G1OsUFo0Tiw6",
+        "name": "Instincts",
+        "uuid": "Compendium.zweihander.zh-talents.Item.Iiu9G1OsUFo0Tiw6"
+      },
+      {
+        "linkedId": "iox3y41c5QOhZn0Y",
+        "name": "Menacing Demeanor",
+        "uuid": "Compendium.zweihander.zh-talents.Item.iox3y41c5QOhZn0Y"
+      }
+    ],
+    "professionalTrait": {
+      "name": "Friend of the Wildlands",
+      "uuid": "Compendium.zweihander.zh-traits.Item.tccVAuyAYlWDvAgm",
+      "linkedId": null
+    },
+    "specialTrait": {
+      "name": "Arcana of Animism",
+      "uuid": "Compendium.zweihander.zh-traits.Item.H5PaP5SYmW8aaqfC",
+      "linkedId": null
+    },
+    "drawback": {
+      "name": "Brown Temperament",
+      "uuid": "Compendium.zweihander.zh-drawbacks.Item.hy5Qa3RMTA4TeVf5",
+      "linkedId": null
+    },
+    "tier": ""
+  },
+  "folder": null,
+  "sort": 4400000,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {},
+  "_key": "!items!Cznrk1YzXWYgJG2Q"
+}

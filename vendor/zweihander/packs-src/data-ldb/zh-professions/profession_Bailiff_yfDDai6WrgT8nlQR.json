@@ -1,0 +1,144 @@
+{
+  "_id": "yfDDai6WrgT8nlQR",
+  "effects": [],
+  "img": "systems/zweihander/assets/icons/bailiff.svg",
+  "name": "Bailiff",
+  "type": "profession",
+  "_stats": {
+    "coreVersion": "13.342",
+    "systemId": "zweihander",
+    "systemVersion": "5.4.1",
+    "createdTime": null,
+    "modifiedTime": 1734990834196,
+    "lastModifiedBy": "rivg6xcMxdlVDM8y",
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "system": {
+    "description": {
+      "@en": "Everyone locks their doors when the Bailiff comes to collect. The Bailiff ’s main job is guarding the various major roadways that cross the lands. Roads are expensive to build and maintain, so the Bailiff is employed by local government to collect tolls for those that use them. Besides collecting road tolls, the Bailiff undertakes other bureaucratic tasks in the towns where they are appointed, including tax collector, debt collector, and local government strong-arm. The Bailiff wears many hats, but townspeople hate them all. Some may be corrupt, other just try to do their job, but when the job is to take people’s money, respect is the last thing earned.\nA Bailiff can lose their job for slightest of reasons. Whether it is because belligerent peasants have driven them out of town, they embezzled the taxes from their lord or local government no longer needing their services, the Bailiff often finds themselves forced out onto the road in search of another post or something hopefully better. Often seen as no more than a pampered official, the Bailiff ’s varied responsibilities and occasional need to fend for themselves, makes them broadly skilled, from intimidation tactics to advanced combat maneuvers. Bailiffs often quest to return to a lord’s good graces, to obtain a need employer, or simply to engage in exploitation and thuggery. It remains rare for Bailiffs to gain respect, admiration or safety; not only do their customers hate them, Mutants are equally as happy to have them for lunch."
+    },
+    "notes": "",
+    "expert": {
+      "value": false,
+      "requirements": {
+        "skillRanks": [],
+        "additional": ""
+      }
+    },
+    "archetype": "Ranger",
+    "bonusAdvances": [
+      {
+        "name": "[BB]",
+        "purchased": false
+      },
+      {
+        "name": "[AB]",
+        "purchased": false
+      },
+      {
+        "name": "[CB]",
+        "purchased": false
+      },
+      {
+        "name": "[CB]",
+        "purchased": false
+      },
+      {
+        "name": "[FB]",
+        "purchased": false
+      },
+      {
+        "name": "[PB]",
+        "purchased": false
+      },
+      {
+        "name": "[WB]",
+        "purchased": false
+      }
+    ],
+    "skillRanks": [
+      {
+        "name": "Bargain",
+        "purchased": false
+      },
+      {
+        "name": "Interrogation",
+        "purchased": false
+      },
+      {
+        "name": "Intimidate",
+        "purchased": false
+      },
+      {
+        "name": "Martial Melee",
+        "purchased": false
+      },
+      {
+        "name": "Ride",
+        "purchased": false
+      },
+      {
+        "name": "Rumor",
+        "purchased": false
+      },
+      {
+        "name": "Simple Melee",
+        "purchased": false
+      },
+      {
+        "name": "Simple Ranged",
+        "purchased": false
+      },
+      {
+        "name": "Survival",
+        "purchased": false
+      },
+      {
+        "name": "Toughness",
+        "purchased": false
+      }
+    ],
+    "talents": [
+      {
+        "linkedId": "WsD0GRMRKX8Ov0mT",
+        "name": "Impervious Mind",
+        "uuid": "Compendium.zweihander.zh-talents.Item.WsD0GRMRKX8Ov0mT"
+      },
+      {
+        "linkedId": "iox3y41c5QOhZn0Y",
+        "name": "Menacing Demeanor",
+        "uuid": "Compendium.zweihander.zh-talents.Item.iox3y41c5QOhZn0Y"
+      },
+      {
+        "linkedId": "LLp6kwPTz9wJLpvG",
+        "name": "Meeting of the Minds",
+        "uuid": "Compendium.zweihander.zh-talents.Item.LLp6kwPTz9wJLpvG"
+      }
+    ],
+    "professionalTrait": {
+      "name": "Pay the Piper",
+      "uuid": "Compendium.zweihander.zh-traits.Item.vky9fwIdG3dhtDFe",
+      "linkedId": null
+    },
+    "specialTrait": {
+      "name": "",
+      "uuid": "",
+      "linkedId": null
+    },
+    "drawback": {
+      "name": "",
+      "uuid": "",
+      "linkedId": null
+    },
+    "tier": ""
+  },
+  "folder": null,
+  "sort": 17900000,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {},
+  "_key": "!items!yfDDai6WrgT8nlQR"
+}

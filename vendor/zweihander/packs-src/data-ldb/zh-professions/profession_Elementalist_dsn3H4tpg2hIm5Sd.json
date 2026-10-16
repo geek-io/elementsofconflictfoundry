@@ -1,0 +1,149 @@
+{
+  "_id": "dsn3H4tpg2hIm5Sd",
+  "effects": [],
+  "img": "systems/zweihander/assets/icons/elementalist.svg",
+  "name": "Elementalist",
+  "type": "profession",
+  "_stats": {
+    "coreVersion": "13.342",
+    "systemId": "zweihander",
+    "systemVersion": "5.4.1",
+    "createdTime": null,
+    "modifiedTime": 1735047844363,
+    "lastModifiedBy": "rivg6xcMxdlVDM8y",
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "system": {
+    "description": {
+      "@en": "Mages of the plants, the land and of weather, Elementalists take an almost wild and unhinged approach to their Magick. Like nature itself, it can be placid or explosive – a calming breeze one minute, a crop-destroying deluge the next. As they let elemental energy flow through and ravage them, they can split the ground with enormous rifts, bring down storms of hail and change the very atmosphere around them with lighting storms. Elementalists have much in common with Shaman, but embrace nature as a primal force rather focusing upon animals and creatures. Many Elementalists believe in the inevitability of nature’s triumph, the more that the wilds are destroyed, the more they will push back. Nature has always been there and always will be, and they know retribution can be swift. Most Elementalists favor one season or natural disaster and so both garb themselves and have attitudes to fit – Elementalists who favor winter and blizzards wear thick furs, while those of summer and heat waves wear robes of thin linen.\nElementalists are volatile, prone to mood swings, and often mercurial and aloof when in their right minds. As their power grows they become more unstable, causing the wind to blow and the ground to shake and they are capable of knocking down forts with mighty hurricanes or sundering cities with massive earthquakes. At their most radical, they came to see civilization as a blight upon the world and they will not hesitate in striking down those who transgress against nature and the wilds."
+    },
+    "notes": "",
+    "expert": {
+      "value": true,
+      "requirements": {
+        "skillRanks": [
+          {
+            "key": "incantation",
+            "value": 1
+          }
+        ],
+        "additional": "<p>You must have the Special Trait of Arcane Magick.</p>"
+      }
+    },
+    "archetype": "Expert Profession",
+    "bonusAdvances": [
+      {
+        "name": "[FB]",
+        "purchased": false
+      },
+      {
+        "name": "[IB]",
+        "purchased": false
+      },
+      {
+        "name": "[IB]",
+        "purchased": false
+      },
+      {
+        "name": "[PB]",
+        "purchased": false
+      },
+      {
+        "name": "[PB]",
+        "purchased": false
+      },
+      {
+        "name": "[WB]",
+        "purchased": false
+      },
+      {
+        "name": "[WB]",
+        "purchased": false
+      }
+    ],
+    "skillRanks": [
+      {
+        "name": "Alchemy",
+        "purchased": false
+      },
+      {
+        "name": "Awareness",
+        "purchased": false
+      },
+      {
+        "name": "Folklore",
+        "purchased": false
+      },
+      {
+        "name": "Handle Animal",
+        "purchased": false
+      },
+      {
+        "name": "Incantation",
+        "purchased": false
+      },
+      {
+        "name": "Navigation",
+        "purchased": false
+      },
+      {
+        "name": "Resolve",
+        "purchased": false
+      },
+      {
+        "name": "Rumor",
+        "purchased": false
+      },
+      {
+        "name": "Simple Ranged",
+        "purchased": false
+      },
+      {
+        "name": "Survival",
+        "purchased": false
+      }
+    ],
+    "talents": [
+      {
+        "linkedId": "WsD0GRMRKX8Ov0mT",
+        "name": "Impervious Mind",
+        "uuid": "Compendium.zweihander.zh-talents.Item.WsD0GRMRKX8Ov0mT"
+      },
+      {
+        "linkedId": "sVFqLRKgBdMFvBOh",
+        "name": "Left-handed Path",
+        "uuid": "Compendium.zweihander.zh-talents.Item.sVFqLRKgBdMFvBOh"
+      },
+      {
+        "linkedId": "0l5T7zT8MMm0Fhp8",
+        "name": "Light Sleeper",
+        "uuid": "Compendium.zweihander.zh-talents.Item.0l5T7zT8MMm0Fhp8"
+      }
+    ],
+    "professionalTrait": {
+      "name": "Seasons to Pass",
+      "uuid": "Compendium.zweihander.zh-traits.Item.jdq348IkHkHnhUGD",
+      "linkedId": null
+    },
+    "specialTrait": {
+      "name": "Arcana of Elementalism",
+      "uuid": "Compendium.zweihander.zh-traits.Item.4CcdhIe51WnLuOAd",
+      "linkedId": null
+    },
+    "drawback": {
+      "name": "Green Temperament",
+      "uuid": "Compendium.zweihander.zh-drawbacks.Item.92ndBXiHV0a7boJq",
+      "linkedId": null
+    },
+    "tier": ""
+  },
+  "folder": null,
+  "sort": 12300000,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {},
+  "_key": "!items!dsn3H4tpg2hIm5Sd"
+}

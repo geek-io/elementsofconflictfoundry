@@ -1,0 +1,37 @@
+{
+  "_id": "Lmsn0p8iNWaT9vCc",
+  "effects": [],
+  "img": "systems/zweihander/assets/icons/deadly-strike.svg",
+  "name": "Dauntless",
+  "type": "trait",
+  "_stats": {
+    "coreVersion": "13.342",
+    "systemId": "zweihander",
+    "systemVersion": "5.4.1",
+    "createdTime": null,
+    "modifiedTime": 1734974463043,
+    "lastModifiedBy": "rivg6xcMxdlVDM8y",
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "system": {
+    "description": {
+      "@en": "Humans’ sheer force of will helps them withstand many challenges. Rarely do they cross the threshold to fear and darkness, as their stalwart nature shields them from the horrors that surround them."
+    },
+    "notes": "",
+    "rules": {
+      "effect": {
+        "@en": "You are immune to the effects of the Intimidate Skill and cannot be Stunned or Knocked Out!"
+      }
+    },
+    "category": "ancestral"
+  },
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {},
+  "_key": "!items!Lmsn0p8iNWaT9vCc"
+}

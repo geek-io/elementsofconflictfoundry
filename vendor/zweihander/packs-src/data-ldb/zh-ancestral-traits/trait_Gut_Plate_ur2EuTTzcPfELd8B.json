@@ -1,0 +1,37 @@
+{
+  "_id": "ur2EuTTzcPfELd8B",
+  "effects": [],
+  "img": "systems/zweihander/assets/icons/chest-armor.svg",
+  "name": "Gut-Plate",
+  "type": "trait",
+  "_stats": {
+    "coreVersion": "13.342",
+    "systemId": "zweihander",
+    "systemVersion": "5.4.1",
+    "createdTime": null,
+    "modifiedTime": 1734974463060,
+    "lastModifiedBy": "rivg6xcMxdlVDM8y",
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "system": {
+    "description": {
+      "@en": "Your great belly is covered in an outer carapace of bones and muscles. Unfortunately, it makes for an easy target. Fortunately, it protects you from most blows."
+    },
+    "notes": "",
+    "rules": {
+      "effect": {
+        "@en": "Whenever unarmored, add +2 to your Damage Threshold as if you were wearing a suit of leather armor. You also gain the benefits of the Natural Quality in these cases."
+      }
+    },
+    "category": "ancestral"
+  },
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {},
+  "_key": "!items!ur2EuTTzcPfELd8B"
+}

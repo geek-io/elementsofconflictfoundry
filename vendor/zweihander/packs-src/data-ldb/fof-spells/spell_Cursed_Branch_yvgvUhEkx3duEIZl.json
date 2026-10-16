@@ -1,0 +1,60 @@
+{
+  "_id": "yvgvUhEkx3duEIZl",
+  "effects": [],
+  "img": "systems/zweihander/assets/icons/wizard-staff.svg",
+  "name": "Cursed Branch",
+  "type": "spell",
+  "_stats": {
+    "coreVersion": "13.342",
+    "systemId": "zweihander",
+    "systemVersion": "5.4.1",
+    "createdTime": 1745429303238,
+    "modifiedTime": 1745429303238,
+    "lastModifiedBy": "rivg6xcMxdlVDM8y",
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "system": {
+    "description": {
+      "@en": "<p>Hazel twig from twisted tree, a curse upon mine enemy . . .</p>"
+    },
+    "notes": "",
+    "rules": {
+      "effect": {
+        "@en": "<p>After successfully casting (and foes in a Cone Template cannot or fail to Resist using Coordination), they suffer [[/roll 3D10]]+[WB] Damage and 9 Conflict. Roll Chaos Dice as you normally would for Injuries, but if any land on face &lsquo;6,&rsquo; they suffer from Terror.</p>"
+      },
+      "criticalSuccess": {
+        "@en": "As above, but your foe cannot Resist."
+      },
+      "criticalFailure": {
+        "@en": "The wand snaps and the Spell rebounds toward you in a Cone Template, treated as a Critical Success."
+      },
+      "reagents": {
+        "@en": "A single branch of a witch hazel tree, pointed outward"
+      }
+    },
+    "tradition": "Witchcraft",
+    "principle": "Advanced Tier",
+    "distance": "Cone Template, extending from you",
+    "duration": {
+      "value": "instantaneous",
+      "label": "Instantaneous",
+      "formula": {
+        "override": false
+      },
+      "base": "[WB]",
+      "bonus": 0,
+      "unit": "Instantaneous"
+    },
+    "castingTime": "1 Minute",
+    "castingCost": 3
+  },
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {},
+  "_key": "!items!yvgvUhEkx3duEIZl"
+}

@@ -1,0 +1,36 @@
+{
+  "_id": "5YB4PaPVJjzSaasg",
+  "effects": [],
+  "img": "systems/zweihander/assets/icons/spiked-halo.svg",
+  "name": "Split Face",
+  "type": "drawback",
+  "_stats": {
+    "coreVersion": "13.342",
+    "systemId": null,
+    "systemVersion": null,
+    "createdTime": null,
+    "modifiedTime": 1733923835859,
+    "lastModifiedBy": "rivg6xcMxdlVDM8y",
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "system": {
+    "description": {
+      "@en": "Whether you took the haft of an axe to the face, your nose was broken in a fight or were born with a deformity, you have a poor sense of smell."
+    },
+    "notes": "",
+    "rules": {
+      "effect": {
+        "@en": "You must flip the results to fail all Skill Tests which rely on smell and taste."
+      }
+    }
+  },
+  "folder": null,
+  "sort": 1300000,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {},
+  "_key": "!items!5YB4PaPVJjzSaasg"
+}

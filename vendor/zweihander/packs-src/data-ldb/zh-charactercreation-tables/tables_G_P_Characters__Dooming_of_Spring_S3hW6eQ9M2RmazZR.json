@@ -1,0 +1,679 @@
+{
+  "_id": "S3hW6eQ9M2RmazZR",
+  "displayRoll": true,
+  "formula": "1d100",
+  "img": "icons/svg/d20-grey.svg",
+  "name": "G&P Characters: Dooming of Spring",
+  "replacement": true,
+  "results": [
+    {
+      "_id": "3V2LcgR39r2ZDVnu",
+      "drawn": false,
+      "flags": {},
+      "img": "icons/svg/d20-black.svg",
+      "range": [
+        1,
+        4
+      ],
+      "type": "text",
+      "weight": 1,
+      "_stats": {
+        "coreVersion": "13.342",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Pride cometh before a fall",
+      "name": "",
+      "_key": "!tables.results!S3hW6eQ9M2RmazZR.3V2LcgR39r2ZDVnu"
+    },
+    {
+      "_id": "VrBwSocstYbYjuIU",
+      "drawn": false,
+      "flags": {},
+      "img": "icons/svg/d20-black.svg",
+      "range": [
+        5,
+        8
+      ],
+      "type": "text",
+      "weight": 1,
+      "_stats": {
+        "coreVersion": "13.342",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Ivy will claw at thy skin and prick like a rose",
+      "name": "",
+      "_key": "!tables.results!S3hW6eQ9M2RmazZR.VrBwSocstYbYjuIU"
+    },
+    {
+      "_id": "4cGi1VD5RiQyNUaR",
+      "drawn": false,
+      "flags": {},
+      "img": "icons/svg/d20-black.svg",
+      "range": [
+        9,
+        12
+      ],
+      "type": "text",
+      "weight": 1,
+      "_stats": {
+        "coreVersion": "13.342",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Health be not always healthy",
+      "name": "",
+      "_key": "!tables.results!S3hW6eQ9M2RmazZR.4cGi1VD5RiQyNUaR"
+    },
+    {
+      "_id": "yotXSdtctkV2cEE4",
+      "drawn": false,
+      "flags": {},
+      "img": "icons/svg/d20-black.svg",
+      "range": [
+        13,
+        16
+      ],
+      "type": "text",
+      "weight": 1,
+      "_stats": {
+        "coreVersion": "13.342",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Still waters run deep",
+      "name": "",
+      "_key": "!tables.results!S3hW6eQ9M2RmazZR.yotXSdtctkV2cEE4"
+    },
+    {
+      "_id": "lsM3gwisogn5iOaI",
+      "drawn": false,
+      "flags": {},
+      "img": "icons/svg/d20-black.svg",
+      "range": [
+        17,
+        20
+      ],
+      "type": "text",
+      "weight": 1,
+      "_stats": {
+        "coreVersion": "13.342",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "The forest shalt strike back when the campfire is low",
+      "name": "",
+      "_key": "!tables.results!S3hW6eQ9M2RmazZR.lsM3gwisogn5iOaI"
+    },
+    {
+      "_id": "TJm3w6a1ZsWq8lan",
+      "drawn": false,
+      "flags": {},
+      "img": "icons/svg/d20-black.svg",
+      "range": [
+        21,
+        24
+      ],
+      "type": "text",
+      "weight": 1,
+      "_stats": {
+        "coreVersion": "13.342",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Pluck not the low-hanging fruit",
+      "name": "",
+      "_key": "!tables.results!S3hW6eQ9M2RmazZR.TJm3w6a1ZsWq8lan"
+    },
+    {
+      "_id": "hfcn2ShSlOkmi1Nn",
+      "drawn": false,
+      "flags": {},
+      "img": "icons/svg/d20-black.svg",
+      "range": [
+        25,
+        28
+      ],
+      "type": "text",
+      "weight": 1,
+      "_stats": {
+        "coreVersion": "13.342",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "The serpent is in the garden",
+      "name": "",
+      "_key": "!tables.results!S3hW6eQ9M2RmazZR.hfcn2ShSlOkmi1Nn"
+    },
+    {
+      "_id": "sSgTdyj7X67kPLJK",
+      "drawn": false,
+      "flags": {},
+      "img": "icons/svg/d20-black.svg",
+      "range": [
+        29,
+        32
+      ],
+      "type": "text",
+      "weight": 1,
+      "_stats": {
+        "coreVersion": "13.342",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Climb not the mighty oak",
+      "name": "",
+      "_key": "!tables.results!S3hW6eQ9M2RmazZR.sSgTdyj7X67kPLJK"
+    },
+    {
+      "_id": "bxYZbrZnZ7JhYoK2",
+      "drawn": false,
+      "flags": {},
+      "img": "icons/svg/d20-black.svg",
+      "range": [
+        33,
+        36
+      ],
+      "type": "text",
+      "weight": 1,
+      "_stats": {
+        "coreVersion": "13.342",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Beware fairy rings and standing stones",
+      "name": "",
+      "_key": "!tables.results!S3hW6eQ9M2RmazZR.bxYZbrZnZ7JhYoK2"
+    },
+    {
+      "_id": "QRk9gdsdZLu8vP60",
+      "drawn": false,
+      "flags": {},
+      "img": "icons/svg/d20-black.svg",
+      "range": [
+        37,
+        40
+      ],
+      "type": "text",
+      "weight": 1,
+      "_stats": {
+        "coreVersion": "13.342",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "The land will reclaim what is hers",
+      "name": "",
+      "_key": "!tables.results!S3hW6eQ9M2RmazZR.QRk9gdsdZLu8vP60"
+    },
+    {
+      "_id": "O38H62Fic5ii4Ung",
+      "drawn": false,
+      "flags": {},
+      "img": "icons/svg/d20-black.svg",
+      "range": [
+        41,
+        44
+      ],
+      "type": "text",
+      "weight": 1,
+      "_stats": {
+        "coreVersion": "13.342",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Stare not directly into the light",
+      "name": "",
+      "_key": "!tables.results!S3hW6eQ9M2RmazZR.O38H62Fic5ii4Ung"
+    },
+    {
+      "_id": "KY2xmLtlsjuNxcNp",
+      "drawn": false,
+      "flags": {},
+      "img": "icons/svg/d20-black.svg",
+      "range": [
+        45,
+        48
+      ],
+      "type": "text",
+      "weight": 1,
+      "_stats": {
+        "coreVersion": "13.342",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Good intentions create bad situations",
+      "name": "",
+      "_key": "!tables.results!S3hW6eQ9M2RmazZR.KY2xmLtlsjuNxcNp"
+    },
+    {
+      "_id": "AAWedokebNPUVHUq",
+      "drawn": false,
+      "flags": {},
+      "img": "icons/svg/d20-black.svg",
+      "range": [
+        49,
+        52
+      ],
+      "type": "text",
+      "weight": 1,
+      "_stats": {
+        "coreVersion": "13.342",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Accept not trust lightly",
+      "name": "",
+      "_key": "!tables.results!S3hW6eQ9M2RmazZR.AAWedokebNPUVHUq"
+    },
+    {
+      "_id": "DryW56DuomJSYcHV",
+      "drawn": false,
+      "flags": {},
+      "img": "icons/svg/d20-black.svg",
+      "range": [
+        53,
+        56
+      ],
+      "type": "text",
+      "weight": 1,
+      "_stats": {
+        "coreVersion": "13.342",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "There is always another problem",
+      "name": "",
+      "_key": "!tables.results!S3hW6eQ9M2RmazZR.DryW56DuomJSYcHV"
+    },
+    {
+      "_id": "NWjj9BT4q4pCewMt",
+      "drawn": false,
+      "flags": {},
+      "img": "icons/svg/d20-black.svg",
+      "range": [
+        57,
+        60
+      ],
+      "type": "text",
+      "weight": 1,
+      "_stats": {
+        "coreVersion": "13.342",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Light burns just as much as it heals",
+      "name": "",
+      "_key": "!tables.results!S3hW6eQ9M2RmazZR.NWjj9BT4q4pCewMt"
+    },
+    {
+      "_id": "Xjp0Ikj0SgtAEF9p",
+      "drawn": false,
+      "flags": {},
+      "img": "icons/svg/d20-black.svg",
+      "range": [
+        61,
+        64
+      ],
+      "type": "text",
+      "weight": 1,
+      "_stats": {
+        "coreVersion": "13.342",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Radiance can't illuminate all",
+      "name": "",
+      "_key": "!tables.results!S3hW6eQ9M2RmazZR.Xjp0Ikj0SgtAEF9p"
+    },
+    {
+      "_id": "gy5DmHv4RrUVPEOW",
+      "drawn": false,
+      "flags": {},
+      "img": "icons/svg/d20-black.svg",
+      "range": [
+        65,
+        68
+      ],
+      "type": "text",
+      "weight": 1,
+      "_stats": {
+        "coreVersion": "13.342",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Charity will cause thy end",
+      "name": "",
+      "_key": "!tables.results!S3hW6eQ9M2RmazZR.gy5DmHv4RrUVPEOW"
+    },
+    {
+      "_id": "cUFjAvmN4y5isOIL",
+      "drawn": false,
+      "flags": {},
+      "img": "icons/svg/d20-black.svg",
+      "range": [
+        69,
+        72
+      ],
+      "type": "text",
+      "weight": 1,
+      "_stats": {
+        "coreVersion": "13.342",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Underestimate no one",
+      "name": "",
+      "_key": "!tables.results!S3hW6eQ9M2RmazZR.cUFjAvmN4y5isOIL"
+    },
+    {
+      "_id": "VTV9LvlSZ205CjFW",
+      "drawn": false,
+      "flags": {},
+      "img": "icons/svg/d20-black.svg",
+      "range": [
+        73,
+        76
+      ],
+      "type": "text",
+      "weight": 1,
+      "_stats": {
+        "coreVersion": "13.342",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Birth is but the start of death",
+      "name": "",
+      "_key": "!tables.results!S3hW6eQ9M2RmazZR.VTV9LvlSZ205CjFW"
+    },
+    {
+      "_id": "AvcMP4qLqMHbY2jH",
+      "drawn": false,
+      "flags": {},
+      "img": "icons/svg/d20-black.svg",
+      "range": [
+        77,
+        80
+      ],
+      "type": "text",
+      "weight": 1,
+      "_stats": {
+        "coreVersion": "13.342",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Provide no succor to the blind man",
+      "name": "",
+      "_key": "!tables.results!S3hW6eQ9M2RmazZR.AvcMP4qLqMHbY2jH"
+    },
+    {
+      "_id": "LlSPBmflktyFPuZR",
+      "drawn": false,
+      "flags": {},
+      "img": "icons/svg/d20-black.svg",
+      "range": [
+        81,
+        84
+      ],
+      "type": "text",
+      "weight": 1,
+      "_stats": {
+        "coreVersion": "13.342",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Gather not the discarded coins",
+      "name": "",
+      "_key": "!tables.results!S3hW6eQ9M2RmazZR.LlSPBmflktyFPuZR"
+    },
+    {
+      "_id": "d3IrlGDlP9MlmOpX",
+      "drawn": false,
+      "flags": {},
+      "img": "icons/svg/d20-black.svg",
+      "range": [
+        85,
+        88
+      ],
+      "type": "text",
+      "weight": 1,
+      "_stats": {
+        "coreVersion": "13.342",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Twice for poison, thrice for a kiss",
+      "name": "",
+      "_key": "!tables.results!S3hW6eQ9M2RmazZR.d3IrlGDlP9MlmOpX"
+    },
+    {
+      "_id": "AHpjrEtClCPAsztA",
+      "drawn": false,
+      "flags": {},
+      "img": "icons/svg/d20-black.svg",
+      "range": [
+        89,
+        92
+      ],
+      "type": "text",
+      "weight": 1,
+      "_stats": {
+        "coreVersion": "13.342",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Fate is cruel, but ironic",
+      "name": "",
+      "_key": "!tables.results!S3hW6eQ9M2RmazZR.AHpjrEtClCPAsztA"
+    },
+    {
+      "_id": "twXNxo7y3Wa8zWad",
+      "drawn": false,
+      "flags": {},
+      "img": "icons/svg/d20-black.svg",
+      "range": [
+        93,
+        96
+      ],
+      "type": "text",
+      "weight": 1,
+      "_stats": {
+        "coreVersion": "13.342",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "A trick is not an illusion",
+      "name": "",
+      "_key": "!tables.results!S3hW6eQ9M2RmazZR.twXNxo7y3Wa8zWad"
+    },
+    {
+      "_id": "oSVQ6H6RBdGrGHDm",
+      "drawn": false,
+      "flags": {},
+      "img": "icons/svg/d20-black.svg",
+      "range": [
+        97,
+        100
+      ],
+      "type": "text",
+      "weight": 1,
+      "_stats": {
+        "coreVersion": "13.342",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Thou wilt be stabbed by thine own knife",
+      "name": "",
+      "_key": "!tables.results!S3hW6eQ9M2RmazZR.oSVQ6H6RBdGrGHDm"
+    }
+  ],
+  "_stats": {
+    "coreVersion": "13.342",
+    "systemId": null,
+    "systemVersion": null,
+    "createdTime": null,
+    "modifiedTime": null,
+    "lastModifiedBy": null,
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "description": "",
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {},
+  "_key": "!tables!S3hW6eQ9M2RmazZR"
+}

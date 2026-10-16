@@ -1,0 +1,149 @@
+{
+  "_id": "RcMVw5r2WVa3gDK3",
+  "effects": [],
+  "img": "systems/zweihander/assets/icons/daemon-skull.svg",
+  "name": "Grey Vivimancer",
+  "type": "profession",
+  "_stats": {
+    "coreVersion": "13.342",
+    "systemId": "zweihander",
+    "systemVersion": "5.4.1",
+    "createdTime": null,
+    "modifiedTime": 1735066687220,
+    "lastModifiedBy": "rivg6xcMxdlVDM8y",
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "system": {
+    "description": {
+      "@en": "Deep below the earth, the Kabals of the Skrzzak chitter, scratch and connive over the divine authority of their mysterious god, the Thirteen. It is unknown what brings about the creation of the Grey Vivimancer, but it is a curse indeed. Both Skrzzak and other folk that become one of these dark priests grow goat-like horns that arch back past their heads. These are seen as a blessing from the Thirteen, though their Human servants must go to great lengths to hide their affliction (oftentimes beneath an oddly-shaped turban). The Grey Vivimancer sees events not in seconds, but in years as they constantly peer into the delirious haze of Wytchstone Essence. Thus, most Grey Vivimancers have green within green eyes – a signature of their Wytchstone addition. Skrzzak Vivimancers serve as close advisors to the Broodmother of a Kabal, while humanoid Vivimancers serve as liaisons of Skrzzak power on the surface world. Grey Vivimancers are both incredibly intelligent and damningly cunning.\\nThe Magicks of the Thirteen are both rotten and dark, not to be tampered with by anyone save the Grey Vivimancer. Unsurprising, they become absorbed with the Skrzzak’s foul gestalt god as they grow more powerful. Even their fellow Skrzzak become more frightened of them, seeing them less as occultists and more as direct hands (and feet) of the fury of the Thirteen. That said, Skrzzak and their allies are mostly jumped-up ruffians disrespected by other forces of Corruption – they are a new blight and one that will most likely eat its tail long before it gains ground. That does not stop the Grey Vivimancers, however, as they believe the destiny of reality is to be swallowed into the foul embrace of the Thirteen."
+    },
+    "notes": "",
+    "expert": {
+      "value": true,
+      "requirements": {
+        "skillRanks": [
+          {
+            "key": "incantation",
+            "value": 1
+          }
+        ],
+        "additional": "<p>You must have the Special Trait of either Arcane or Divine Magick.</p>"
+      }
+    },
+    "archetype": "Expert Profession",
+    "bonusAdvances": [
+      {
+        "name": "[AB]",
+        "purchased": false
+      },
+      {
+        "name": "[AB]",
+        "purchased": false
+      },
+      {
+        "name": "[FB]",
+        "purchased": false
+      },
+      {
+        "name": "[IB]",
+        "purchased": false
+      },
+      {
+        "name": "[PB]",
+        "purchased": false
+      },
+      {
+        "name": "[WB]",
+        "purchased": false
+      },
+      {
+        "name": "[WB]",
+        "purchased": false
+      }
+    ],
+    "skillRanks": [
+      {
+        "name": "Alchemy",
+        "purchased": false
+      },
+      {
+        "name": "Coordination",
+        "purchased": false
+      },
+      {
+        "name": "Disguise",
+        "purchased": false
+      },
+      {
+        "name": "Folklore",
+        "purchased": false
+      },
+      {
+        "name": "Guile",
+        "purchased": false
+      },
+      {
+        "name": "Incantation",
+        "purchased": false
+      },
+      {
+        "name": "Interrogation",
+        "purchased": false
+      },
+      {
+        "name": "Rumor",
+        "purchased": false
+      },
+      {
+        "name": "Scrutinize",
+        "purchased": false
+      },
+      {
+        "name": "Simple Melee",
+        "purchased": false
+      }
+    ],
+    "talents": [
+      {
+        "linkedId": "XmrQY5We9Dj3m5Yn",
+        "name": "Ambidexterity",
+        "uuid": "Compendium.zweihander.zh-talents.Item.XmrQY5We9Dj3m5Yn"
+      },
+      {
+        "linkedId": "Ga2VnAZ0nlJGZNnF",
+        "name": "Lightning Reaction",
+        "uuid": "Compendium.zweihander.zh-talents.Item.Ga2VnAZ0nlJGZNnF"
+      },
+      {
+        "linkedId": "Iiu9G1OsUFo0Tiw6",
+        "name": "Instincts",
+        "uuid": "Compendium.zweihander.zh-talents.Item.Iiu9G1OsUFo0Tiw6"
+      }
+    ],
+    "professionalTrait": {
+      "name": "Wyrding Way",
+      "uuid": "Compendium.zweihander.zh-traits.Item.cXnq5rGcsRrxfO1x",
+      "linkedId": null
+    },
+    "specialTrait": {
+      "name": "Covenant Magick",
+      "uuid": "Compendium.zweihander.zh-traits.Item.7xtxO5xA5ouHjMWs",
+      "linkedId": null
+    },
+    "drawback": {
+      "name": "Ruinous Power",
+      "uuid": "Compendium.zweihander.zh-drawbacks.Item.I2DPy2uay4xYiOVL",
+      "linkedId": null
+    },
+    "tier": ""
+  },
+  "folder": null,
+  "sort": 9200000,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {},
+  "_key": "!items!RcMVw5r2WVa3gDK3"
+}

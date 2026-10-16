@@ -1,0 +1,60 @@
+{
+  "_id": "v3Pxin4DB5S1uTCU",
+  "effects": [],
+  "img": "systems/zweihander/assets/icons/concentric-crescents.svg",
+  "name": "Bridge the Realm",
+  "type": "spell",
+  "_stats": {
+    "coreVersion": "13.342",
+    "systemId": "zweihander",
+    "systemVersion": "5.4.1",
+    "createdTime": 1745429303237,
+    "modifiedTime": 1745429303237,
+    "lastModifiedBy": "rivg6xcMxdlVDM8y",
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "system": {
+    "description": {
+      "@en": "<p>We shall slip between the material world and where the spirits dwell, to emerge on the other side.</p>"
+    },
+    "notes": "",
+    "rules": {
+      "effect": {
+        "@en": "<p>After successfully casting, you and a number of persons equal to 6+[WB] instantaneously travel to another location. You can only travel to specific location you have previously visited. Upon arrival, everyone excep for you suffers [[/roll 2D10+2]] Peril.</p>"
+      },
+      "criticalSuccess": {
+        "@en": "No one suffers Peril."
+      },
+      "criticalFailure": {
+        "@en": "You and your comrades step into an everwidening dark pit, which swallows you all whole. It spits you back out where you started, and you all are instantly Incapacitated!, gaining 6 Conflict."
+      },
+      "reagents": {
+        "@en": "A powdered sapphire, laid at the foot of a doorway (expended)"
+      }
+    },
+    "tradition": "Black & White",
+    "principle": "Intermediate Tier",
+    "distance": "By Touch",
+    "duration": {
+      "value": "instantaneous",
+      "label": "Instantaneous",
+      "formula": {
+        "override": false
+      },
+      "base": "[WB]",
+      "bonus": 0,
+      "unit": "Instantaneous"
+    },
+    "castingTime": "10 Minutes",
+    "castingCost": null
+  },
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {},
+  "_key": "!items!v3Pxin4DB5S1uTCU"
+}

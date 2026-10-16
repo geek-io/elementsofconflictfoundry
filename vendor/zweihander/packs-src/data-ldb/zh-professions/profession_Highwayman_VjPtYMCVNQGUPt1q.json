@@ -1,0 +1,144 @@
+{
+  "_id": "VjPtYMCVNQGUPt1q",
+  "effects": [],
+  "img": "systems/zweihander/assets/icons/highwayman.svg",
+  "name": "Highwayman",
+  "type": "profession",
+  "_stats": {
+    "coreVersion": "13.342",
+    "systemId": "zweihander",
+    "systemVersion": "5.4.1",
+    "createdTime": null,
+    "modifiedTime": 1734990834119,
+    "lastModifiedBy": "rivg6xcMxdlVDM8y",
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "system": {
+    "description": {
+      "@en": "Highwaymen are folk heroes, champions of the downtrodden in dark times. Striking along dark roads, they ambush the wealthy and well-to-do, steal their wealth and goods, then distribute it among the small folk. Brash, boisterous, yet extremely charismatic, they very rarely harm their victims except for rustling the odd bodice or causing a monocle to pop out. Regardless, the aristocracy despises the noble Highwayman despite the commoner’s love of them. Furious reeves and incompetent counts will hunt them to no avail, often making fools of themselves and only bolstering the Highwayman’s reputation and charm.\nShould their small folk be threatened, their friends captured, or they be run out of their homes, Highwaymen will sometimes take their pistols on the road. Their combat abilities, wit and rakish charm are a boon to any party, though their notoriety will rarely place them in good light with the ruling class. Chaos loves a rebel, and if a Highwayman finds their way into the sweet stink of corruption, they will often feel compelled not to only steal from the rich, but to kill and usurp them. Sometimes they just steal from everyone, only to be pursued by the peasants who used to sing their praises, braying for recompense."
+    },
+    "notes": "",
+    "expert": {
+      "value": false,
+      "requirements": {
+        "skillRanks": [],
+        "additional": ""
+      }
+    },
+    "archetype": "Knave",
+    "bonusAdvances": [
+      {
+        "name": "[AB]",
+        "purchased": false
+      },
+      {
+        "name": "[FB]",
+        "purchased": false
+      },
+      {
+        "name": "[FB]",
+        "purchased": false
+      },
+      {
+        "name": "[IB]",
+        "purchased": false
+      },
+      {
+        "name": "[IB]",
+        "purchased": false
+      },
+      {
+        "name": "[PB]",
+        "purchased": false
+      },
+      {
+        "name": "[PB]",
+        "purchased": false
+      }
+    ],
+    "skillRanks": [
+      {
+        "name": "Awareness",
+        "purchased": false
+      },
+      {
+        "name": "Charm",
+        "purchased": false
+      },
+      {
+        "name": "Disguise",
+        "purchased": false
+      },
+      {
+        "name": "Eavesdrop",
+        "purchased": false
+      },
+      {
+        "name": "Education",
+        "purchased": false
+      },
+      {
+        "name": "Martial Ranged",
+        "purchased": false
+      },
+      {
+        "name": "Ride",
+        "purchased": false
+      },
+      {
+        "name": "Rumor",
+        "purchased": false
+      },
+      {
+        "name": "Simple Melee",
+        "purchased": false
+      },
+      {
+        "name": "Simple Ranged",
+        "purchased": false
+      }
+    ],
+    "talents": [
+      {
+        "linkedId": "GjZkdiVXA2uiJxhL",
+        "name": "Saddle-born",
+        "uuid": "Compendium.zweihander.zh-talents.Item.GjZkdiVXA2uiJxhL"
+      },
+      {
+        "linkedId": "YNxzq8R08710DoOF",
+        "name": "Silver Tongue",
+        "uuid": "Compendium.zweihander.zh-talents.Item.YNxzq8R08710DoOF"
+      },
+      {
+        "linkedId": "GVpa5lVWCJJbor4m",
+        "name": "Take ‘em Down",
+        "uuid": "Compendium.zweihander.zh-talents.Item.GVpa5lVWCJJbor4m"
+      }
+    ],
+    "professionalTrait": {
+      "name": "Stand and Deliver!",
+      "uuid": "Compendium.zweihander.zh-traits.Item.yic8Yjzf0UqG2ibc",
+      "linkedId": null
+    },
+    "specialTrait": {
+      "name": "",
+      "uuid": "",
+      "linkedId": null
+    },
+    "drawback": {
+      "name": "",
+      "uuid": "",
+      "linkedId": null
+    },
+    "tier": ""
+  },
+  "folder": null,
+  "sort": 9900000,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {},
+  "_key": "!items!VjPtYMCVNQGUPt1q"
+}

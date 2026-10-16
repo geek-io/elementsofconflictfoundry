@@ -1,0 +1,37 @@
+{
+  "_id": "OoINtVCCKhtiQXqV",
+  "effects": [],
+  "img": "systems/zweihander/assets/icons/vitruvian-man.svg",
+  "name": "Dogs of War",
+  "type": "trait",
+  "_stats": {
+    "coreVersion": "13.342",
+    "systemId": "zweihander",
+    "systemVersion": "5.4.1",
+    "createdTime": null,
+    "modifiedTime": 1735911103060,
+    "lastModifiedBy": "rivg6xcMxdlVDM8y",
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "system": {
+    "description": {
+      "@en": "Every scar a Sellsword bears has a story behind it. Every disfigurement speaks to their history of violence. But war... war never changes. And every mercenary must debase themselves for survival, doling out barbarity with reckless abandon."
+    },
+    "notes": "",
+    "rules": {
+      "effect": {
+        "@en": "You never suffer Serious Injuries."
+      }
+    },
+    "category": "professional"
+  },
+  "folder": null,
+  "sort": 8000000,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {},
+  "_key": "!items!OoINtVCCKhtiQXqV"
+}

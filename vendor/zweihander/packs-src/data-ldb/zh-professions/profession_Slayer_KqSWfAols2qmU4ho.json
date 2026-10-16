@@ -1,0 +1,144 @@
+{
+  "_id": "KqSWfAols2qmU4ho",
+  "effects": [],
+  "img": "systems/zweihander/assets/icons/slayer.svg",
+  "name": "Slayer",
+  "type": "profession",
+  "_stats": {
+    "coreVersion": "13.342",
+    "systemId": "zweihander",
+    "systemVersion": "5.4.1",
+    "createdTime": null,
+    "modifiedTime": 1734990834105,
+    "lastModifiedBy": "rivg6xcMxdlVDM8y",
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "system": {
+    "description": {
+      "@en": "There are things in the dark that mean ill to all, but there are a few who dedicate their lives to hunting such things. Taking up the mantle of Slayer never comes about under joyous circumstances. It always begins in blood, a mind-shattering experience that leaves the Slayer in pain and on a path that invariably ends in their bloody demise. Each Slayer vows to aid all those who need monsters slain. The best survive great battles unseen and unsung, their offers of aid seen as a means to scare or exhort the peasantry out of ale and coin. There is no such thing as a bad Slayer; should one make even a single mistake, then they will probably end up as another skull littering the bloody lairs of the things that still stalk the night.\nThe path of the Slayer takes them into dark corners where they often discover the naked and ugly truths of the world. They know the sins that birthed monstrous creatures that lurk; have seen the shadowed undead on the periphery of reality; and faced demonic hordes in mortal combat. Few escape such encounters unscathed, mentally or physically, only for the Slayer to search out the deadly after deadly encounters until sweet death takes their last breath. This path can also lead a Slayer’s comrades to their doom, for the Slayer possesses a death wish that can only be fulfilled by a vainglorious death!"
+    },
+    "notes": "",
+    "expert": {
+      "value": false,
+      "requirements": {
+        "skillRanks": [],
+        "additional": ""
+      }
+    },
+    "archetype": "Ranger",
+    "bonusAdvances": [
+      {
+        "name": "[BB]",
+        "purchased": false
+      },
+      {
+        "name": "[BB]",
+        "purchased": false
+      },
+      {
+        "name": "[CB]",
+        "purchased": false
+      },
+      {
+        "name": "[CB]",
+        "purchased": false
+      },
+      {
+        "name": "[PB]",
+        "purchased": false
+      },
+      {
+        "name": "[WB]",
+        "purchased": false
+      },
+      {
+        "name": "[WB]",
+        "purchased": false
+      }
+    ],
+    "skillRanks": [
+      {
+        "name": "Athletics",
+        "purchased": false
+      },
+      {
+        "name": "Coordination",
+        "purchased": false
+      },
+      {
+        "name": "Folklore",
+        "purchased": false
+      },
+      {
+        "name": "Intimidate",
+        "purchased": false
+      },
+      {
+        "name": "Martial Melee",
+        "purchased": false
+      },
+      {
+        "name": "Resolve",
+        "purchased": false
+      },
+      {
+        "name": "Rumor",
+        "purchased": false
+      },
+      {
+        "name": "Simple Melee",
+        "purchased": false
+      },
+      {
+        "name": "Survival",
+        "purchased": false
+      },
+      {
+        "name": "Toughness",
+        "purchased": false
+      }
+    ],
+    "talents": [
+      {
+        "linkedId": "XmrQY5We9Dj3m5Yn",
+        "name": "Ambidexterity",
+        "uuid": "Compendium.zweihander.zh-talents.Item.XmrQY5We9Dj3m5Yn"
+      },
+      {
+        "linkedId": "6zO2Ewu5BxfOK8p4",
+        "name": "Bad Axx!",
+        "uuid": "Compendium.zweihander.zh-talents.Item.6zO2Ewu5BxfOK8p4"
+      },
+      {
+        "linkedId": "fe7vdZghpPmVpFPn",
+        "name": "Die Hard",
+        "uuid": "Compendium.zweihander.zh-talents.Item.fe7vdZghpPmVpFPn"
+      }
+    ],
+    "professionalTrait": {
+      "name": "The Slayer’s Path",
+      "uuid": "Compendium.zweihander.zh-traits.Item.7rwCNLskqeUN4mkM",
+      "linkedId": null
+    },
+    "specialTrait": {
+      "name": "",
+      "uuid": "",
+      "linkedId": null
+    },
+    "drawback": {
+      "name": "Death Wish",
+      "uuid": "Compendium.zweihander.zh-drawbacks.Item.Er2XZVV7RiqasaB3",
+      "linkedId": null
+    },
+    "tier": ""
+  },
+  "folder": null,
+  "sort": 7000000,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {},
+  "_key": "!items!KqSWfAols2qmU4ho"
+}

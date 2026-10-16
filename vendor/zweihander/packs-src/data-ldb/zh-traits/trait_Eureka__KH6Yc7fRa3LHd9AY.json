@@ -1,0 +1,37 @@
+{
+  "_id": "KH6Yc7fRa3LHd9AY",
+  "effects": [],
+  "img": "systems/zweihander/assets/icons/vitruvian-man.svg",
+  "name": "Eureka!",
+  "type": "trait",
+  "_stats": {
+    "coreVersion": "13.342",
+    "systemId": "zweihander",
+    "systemVersion": "5.4.1",
+    "createdTime": null,
+    "modifiedTime": 1735911103053,
+    "lastModifiedBy": "rivg6xcMxdlVDM8y",
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "system": {
+    "description": {
+      "@en": "Whether a crude affair or an extraordinarily complex apparatus, your contrivances are notoriously reliable. As a consequence, you possess an eye for finding the right materials for the job."
+    },
+    "notes": "",
+    "rules": {
+      "effect": {
+        "@en": "You may flip the results to succeed at Tradecraft Tests. When you succeed, it is always considered a Critical Success. In addition, you always succeed at Skill Tests to locate resources needed for construction."
+      }
+    },
+    "category": "professional"
+  },
+  "folder": null,
+  "sort": 6500000,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {},
+  "_key": "!items!KH6Yc7fRa3LHd9AY"
+}

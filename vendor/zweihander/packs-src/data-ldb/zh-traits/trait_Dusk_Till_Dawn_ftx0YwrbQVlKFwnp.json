@@ -1,0 +1,37 @@
+{
+  "_id": "ftx0YwrbQVlKFwnp",
+  "effects": [],
+  "img": "systems/zweihander/assets/icons/vitruvian-man.svg",
+  "name": "Dusk Till Dawn",
+  "type": "trait",
+  "_stats": {
+    "coreVersion": "13.342",
+    "systemId": "zweihander",
+    "systemVersion": "5.4.1",
+    "createdTime": null,
+    "modifiedTime": 1735911103090,
+    "lastModifiedBy": "rivg6xcMxdlVDM8y",
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "system": {
+    "description": {
+      "@en": "You are charged with filling your days with funerary needs and your nights warding the graveyard against corpse thieves and tomb robbery. Thus, you have grown accustomed to just a few hours of sleep a night."
+    },
+    "notes": "",
+    "rules": {
+      "effect": {
+        "@en": "You may flip the results to succeed at Resolve Tests. When you succeed, it is always considered a Critical Success. In addition, you only need 3 hours of uninterrupted sleep to recover your Peril Condition Track."
+      }
+    },
+    "category": "professional"
+  },
+  "folder": null,
+  "sort": 14600000,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {},
+  "_key": "!items!ftx0YwrbQVlKFwnp"
+}

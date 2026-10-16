@@ -1,0 +1,60 @@
+{
+  "_id": "KOuiofKXwxRrDixl",
+  "effects": [],
+  "img": "systems/zweihander/assets/icons/wizard-staff.svg",
+  "name": "Vengeful Wrath",
+  "type": "spell",
+  "_stats": {
+    "coreVersion": "13.342",
+    "systemId": "zweihander",
+    "systemVersion": "5.4.1",
+    "createdTime": null,
+    "modifiedTime": 1745410666680,
+    "lastModifiedBy": "rivg6xcMxdlVDM8y",
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "system": {
+    "description": {
+      "@en": "With but a touch, you imbue a weapon with vengeful wrath."
+    },
+    "notes": "",
+    "rules": {
+      "effect": {
+        "@en": "After successfully casting this spell, a weapon you touch is given the gift of wrath. A foe who is struck by this weapon ignores any modifier to their Damage Threshold when considering Damage. This Magick is then immediately expended afterwards."
+      },
+      "criticalSuccess": {
+        "@en": "As above and the person may add the Vicious Quality to their weapon until it is expended afterwards."
+      },
+      "criticalFailure": {
+        "@en": "Your invocation has angered the gods. In fact, on the next attack you suffer from a melee or ranged weapon you must ignore your armor’s modifier to Damage Threshold. In addition, it is treated as if it had the Vicious Quality, until it is expended afterwards."
+      },
+      "reagents": {
+        "@en": "A whetstone used to sharpen a weapon (expended)"
+      }
+    },
+    "tradition": "Divine (Steward)",
+    "principle": "Petty",
+    "distance": "Any one weapon you can touch",
+    "duration": {
+      "value": "instantaneous",
+      "label": "Instantaneous",
+      "formula": {
+        "override": false
+      },
+      "base": "[WB]",
+      "bonus": 0,
+      "unit": "Instantaneous"
+    },
+    "castingTime": "1 min",
+    "castingCost": 0
+  },
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {},
+  "_key": "!items!KOuiofKXwxRrDixl"
+}

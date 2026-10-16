@@ -1,0 +1,17 @@
+assets/
+.github/
+fonts/
+lang/
+node_modules/
+packs/*.db
+packs/data/
+readme-assets/
+tinymce/
+system.json
+system.template.json
+template.json
+dist/
+rollup.config.js
+*.hbs
+*.min.*
+.vite-cache/

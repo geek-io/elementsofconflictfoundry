@@ -1,0 +1,353 @@
+{
+  "_id": "6KpkGNlZsyEAepOy",
+  "description": "",
+  "displayRoll": true,
+  "formula": "1d12",
+  "img": "systems/zweihander/assets/icons/hobbit-dwelling.svg",
+  "name": "Ancestral Traits (Halfling)",
+  "replacement": true,
+  "results": [
+    {
+      "_id": "aHV68JPP3e4aPqMY",
+      "drawn": false,
+      "flags": {},
+      "img": "systems/zweihander/assets/icons/snake-tongue.svg",
+      "range": [
+        1,
+        1
+      ],
+      "type": "document",
+      "weight": 1,
+      "_stats": {
+        "coreVersion": "13.342",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "name": "Beguiler",
+      "documentUuid": "Compendium.zweihander.zh-ancestral-traits.Item.VEYkwWgh9LtpI51G",
+      "description": "",
+      "_key": "!tables.results!6KpkGNlZsyEAepOy.aHV68JPP3e4aPqMY"
+    },
+    {
+      "_id": "5jah8asnH2PC410b",
+      "drawn": false,
+      "flags": {},
+      "img": "systems/zweihander/assets/icons/hollow-cat.svg",
+      "range": [
+        2,
+        2
+      ],
+      "type": "document",
+      "weight": 1,
+      "_stats": {
+        "coreVersion": "13.342",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "name": "Cat-like Reflexes",
+      "documentUuid": "Compendium.zweihander.zh-ancestral-traits.Item.cjecuBK7dFCBf2Qg",
+      "description": "",
+      "_key": "!tables.results!6KpkGNlZsyEAepOy.5jah8asnH2PC410b"
+    },
+    {
+      "_id": "yjHUTikFNt7XsmCE",
+      "drawn": false,
+      "flags": {},
+      "img": "systems/zweihander/assets/icons/crossed-air-flows.svg",
+      "range": [
+        3,
+        3
+      ],
+      "type": "document",
+      "weight": 1,
+      "_stats": {
+        "coreVersion": "13.342",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "name": "Craven",
+      "documentUuid": "Compendium.zweihander.zh-ancestral-traits.Item.YB9aCmZDxbbxGuv4",
+      "description": "",
+      "_key": "!tables.results!6KpkGNlZsyEAepOy.yjHUTikFNt7XsmCE"
+    },
+    {
+      "_id": "F8Zwmz18VLxgnhnb",
+      "drawn": false,
+      "flags": {},
+      "img": "systems/zweihander/assets/icons/brass-eye.svg",
+      "range": [
+        4,
+        4
+      ],
+      "type": "document",
+      "weight": 1,
+      "_stats": {
+        "coreVersion": "13.342",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "name": "Farsight",
+      "documentUuid": "Compendium.zweihander.zh-ancestral-traits.Item.iU8XYuLvthiG902b",
+      "description": "",
+      "_key": "!tables.results!6KpkGNlZsyEAepOy.F8Zwmz18VLxgnhnb"
+    },
+    {
+      "_id": "lmfQz55XlcKJ4Pdr",
+      "drawn": false,
+      "flags": {},
+      "img": "systems/zweihander/assets/icons/door-watcher.svg",
+      "range": [
+        5,
+        5
+      ],
+      "type": "document",
+      "weight": 1,
+      "_stats": {
+        "coreVersion": "13.342",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "name": "Fettered Chaos",
+      "documentUuid": "Compendium.zweihander.zh-ancestral-traits.Item.SYU5CnOJgNbvBnpP",
+      "description": "",
+      "_key": "!tables.results!6KpkGNlZsyEAepOy.lmfQz55XlcKJ4Pdr"
+    },
+    {
+      "_id": "Yr5fJSSZ5o7yGCZP",
+      "drawn": false,
+      "flags": {},
+      "img": "systems/zweihander/assets/icons/sling.svg",
+      "range": [
+        6,
+        6
+      ],
+      "type": "document",
+      "weight": 1,
+      "_stats": {
+        "coreVersion": "13.342",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "name": "Fieldwarden",
+      "documentUuid": "Compendium.zweihander.zh-ancestral-traits.Item.ds1yTxGNVi3ac4T6",
+      "description": "",
+      "_key": "!tables.results!6KpkGNlZsyEAepOy.Yr5fJSSZ5o7yGCZP"
+    },
+    {
+      "_id": "dsuiGPM5ksv6atcp",
+      "drawn": false,
+      "flags": {},
+      "img": "systems/zweihander/assets/icons/wingfoot.svg",
+      "range": [
+        7,
+        7
+      ],
+      "type": "document",
+      "weight": 1,
+      "_stats": {
+        "coreVersion": "13.342",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "name": "Fleet-Footed",
+      "documentUuid": "Compendium.zweihander.zh-ancestral-traits.Item.jHijOuMq8jiChKHa",
+      "description": "",
+      "_key": "!tables.results!6KpkGNlZsyEAepOy.dsuiGPM5ksv6atcp"
+    },
+    {
+      "_id": "4WwihiQmqOVQeqX2",
+      "drawn": false,
+      "flags": {},
+      "img": "systems/zweihander/assets/icons/shield-reflect.svg",
+      "range": [
+        8,
+        8
+      ],
+      "type": "document",
+      "weight": 1,
+      "_stats": {
+        "coreVersion": "13.342",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "name": "Hijinks",
+      "documentUuid": "Compendium.zweihander.zh-ancestral-traits.Item.7Yj3jcz8l1KOt7jK",
+      "description": "",
+      "_key": "!tables.results!6KpkGNlZsyEAepOy.4WwihiQmqOVQeqX2"
+    },
+    {
+      "_id": "xzsfqzEoCz46DKbZ",
+      "drawn": false,
+      "flags": {},
+      "img": "systems/zweihander/assets/icons/robber-hand.svg",
+      "range": [
+        9,
+        9
+      ],
+      "type": "document",
+      "weight": 1,
+      "_stats": {
+        "coreVersion": "13.342",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "name": "Kleptomania",
+      "documentUuid": "Compendium.zweihander.zh-ancestral-traits.Item.jAQ28LIDHaEEFiOg",
+      "description": "",
+      "_key": "!tables.results!6KpkGNlZsyEAepOy.xzsfqzEoCz46DKbZ"
+    },
+    {
+      "_id": "89BDvYpfhmEZ24nl",
+      "drawn": false,
+      "flags": {},
+      "img": "systems/zweihander/assets/icons/nailed-foot.svg",
+      "range": [
+        10,
+        10
+      ],
+      "type": "document",
+      "weight": 1,
+      "_stats": {
+        "coreVersion": "13.342",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "name": "Low Blow",
+      "documentUuid": "Compendium.zweihander.zh-ancestral-traits.Item.7gqkFr8KySeD54VP",
+      "description": "",
+      "_key": "!tables.results!6KpkGNlZsyEAepOy.89BDvYpfhmEZ24nl"
+    },
+    {
+      "_id": "xkZCs2e4HCVSUcBC",
+      "drawn": false,
+      "flags": {},
+      "img": "systems/zweihander/assets/icons/saphir.svg",
+      "range": [
+        11,
+        11
+      ],
+      "type": "document",
+      "weight": 1,
+      "_stats": {
+        "coreVersion": "13.342",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "name": "Memento",
+      "documentUuid": "Compendium.zweihander.zh-ancestral-traits.Item.gdyU4KeM7jQjMtW5",
+      "description": "",
+      "_key": "!tables.results!6KpkGNlZsyEAepOy.xkZCs2e4HCVSUcBC"
+    },
+    {
+      "_id": "NK7ORdBWBvg8ULtp",
+      "drawn": false,
+      "flags": {},
+      "img": "systems/zweihander/assets/icons/body-height.svg",
+      "range": [
+        12,
+        12
+      ],
+      "type": "document",
+      "weight": 1,
+      "_stats": {
+        "coreVersion": "13.342",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "name": "Pintsized",
+      "documentUuid": "Compendium.zweihander.zh-ancestral-traits.Item.neMREgMrwuVnNXIj",
+      "description": "",
+      "_key": "!tables.results!6KpkGNlZsyEAepOy.NK7ORdBWBvg8ULtp"
+    }
+  ],
+  "_stats": {
+    "coreVersion": "13.342",
+    "systemId": null,
+    "systemVersion": null,
+    "createdTime": null,
+    "modifiedTime": 1735228604517,
+    "lastModifiedBy": "rivg6xcMxdlVDM8y",
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {},
+  "_key": "!tables!6KpkGNlZsyEAepOy"
+}

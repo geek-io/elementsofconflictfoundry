@@ -1,0 +1,17 @@
+<div class="currency-container flexrow">
+  {{#each settings.currencies as | currency i | }}
+  <div class="icon-and-input flexcol">
+    <span class="coins-icon" style="color:{{currency.color}}"><i class="fas fa-coins"></i></span>
+    <input class="coin-input" style="color:{{currency.color}}" type="number"
+      name="system.currency.{{currency.abbreviation}}" value="{{lookup ../system.currency currency.abbreviation}}"
+      placeholder="0" />
+  </div>
+  {{#unless @last}}
+  <div class="currency flexcol">
+    <a class="exchange-currency" data-bigger-index="{{i}}">
+      <i class="fa fa-arrow-right-arrow-left"></i>
+    </a>
+  </div>
+  {{/unless}}
+  {{/each}}
+</div>

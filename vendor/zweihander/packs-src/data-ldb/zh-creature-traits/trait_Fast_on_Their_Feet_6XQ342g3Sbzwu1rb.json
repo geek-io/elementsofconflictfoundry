@@ -1,0 +1,37 @@
+{
+  "_id": "6XQ342g3Sbzwu1rb",
+  "effects": [],
+  "img": "systems/zweihander/assets/icons/wingfoot.svg",
+  "name": "Fast on Their Feet",
+  "system": {
+    "description": {
+      "@en": ""
+    },
+    "notes": "",
+    "rules": {
+      "effect": {
+        "@en": "These creatures reduce all Movement Actions by 1 AP (to a minimum of 1 AP). They can also Dodge both melee and ranged weapons."
+      }
+    },
+    "category": "creature"
+  },
+  "type": "trait",
+  "_stats": {
+    "coreVersion": "13.342",
+    "systemId": "zweihander",
+    "systemVersion": "5.4.1",
+    "createdTime": null,
+    "modifiedTime": 1735915786821,
+    "lastModifiedBy": "rivg6xcMxdlVDM8y",
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {},
+  "_key": "!items!6XQ342g3Sbzwu1rb"
+}

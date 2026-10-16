@@ -1,0 +1,37 @@
+{
+  "_id": "2B3kbufi8JBuso2N",
+  "effects": [],
+  "img": "systems/zweihander/assets/icons/vitruvian-man.svg",
+  "name": "Second Oldest Profession",
+  "type": "trait",
+  "_stats": {
+    "coreVersion": "13.342",
+    "systemId": "zweihander",
+    "systemVersion": "5.4.1",
+    "createdTime": null,
+    "modifiedTime": 1735911103022,
+    "lastModifiedBy": "rivg6xcMxdlVDM8y",
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "system": {
+    "description": {
+      "@en": "While prostitution is often heralded as the world’s oldest profession, the work of a Forger is said to come a close second. Your handiwork is nearly unparalleled, both by seekers of art and by Fences who know your craft."
+    },
+    "notes": "",
+    "rules": {
+      "effect": {
+        "@en": "Any object you counterfeit is treated and appraised at its full value. Furthermore, you may flip the results to succeed at Skill Tests to identify and create counterfeit items."
+      }
+    },
+    "category": "professional"
+  },
+  "folder": null,
+  "sort": 400000,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {},
+  "_key": "!items!2B3kbufi8JBuso2N"
+}

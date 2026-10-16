@@ -1,0 +1,144 @@
+{
+  "_id": "zFbTCoid1TP2FfuN",
+  "effects": [],
+  "img": "systems/zweihander/assets/icons/smuggler.svg",
+  "name": "Smuggler",
+  "type": "profession",
+  "_stats": {
+    "coreVersion": "13.342",
+    "systemId": "zweihander",
+    "systemVersion": "5.4.1",
+    "createdTime": null,
+    "modifiedTime": 1734990834202,
+    "lastModifiedBy": "rivg6xcMxdlVDM8y",
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "system": {
+    "description": {
+      "@en": "Draconian laws, xenophobia and social taboos are a boon to some, but they are the bread and butter of the ever-elusive Smuggler. Any Smuggler worth their salt knows every port, seedy tavern and crime family; and if they don’t, they are a dead man walking. Selfish and greedy, but only because they and their customers know their time is valuable, Smugglers often have debts to pay or families that rely on their criminal ways, but as long as they can make Kessel’s Trade Run in twelve days, they can put food on the table. Not all Smugglers are noble at heart, breaking blockades and serving the needy. Many trade in illegal goods: hallucinogens, dangerous animals from distant lands and illegal arms. Such black market goods sell for high profits, but come with high risks of imprisonment or execution.\nSmugglers and adventurers have skills in common. Quick reflexes, weapons and negotiation skills, and expert vehicle control means that if they can’t convince someone or defeat them, they can certainly outrun them. Since not every deal goes down, this means that many Smugglers are constantly on the run from their pasts, with skeletons in the closet and ghosts of the dead lurking behind their shoulders and on empty stretches of the road, wearing nerves thin. This is an opportunity for chaos to play on doubt and paranoia and worry fester until it seems that all the Smuggler ever does is run."
+    },
+    "notes": "",
+    "expert": {
+      "value": false,
+      "requirements": {
+        "skillRanks": [],
+        "additional": ""
+      }
+    },
+    "archetype": "Knave",
+    "bonusAdvances": [
+      {
+        "name": "[AB]",
+        "purchased": false
+      },
+      {
+        "name": "[AB]",
+        "purchased": false
+      },
+      {
+        "name": "[FB]",
+        "purchased": false
+      },
+      {
+        "name": "[FB]",
+        "purchased": false
+      },
+      {
+        "name": "[IB]",
+        "purchased": false
+      },
+      {
+        "name": "[PB]",
+        "purchased": false
+      },
+      {
+        "name": "[PB]",
+        "purchased": false
+      }
+    ],
+    "skillRanks": [
+      {
+        "name": "Awareness",
+        "purchased": false
+      },
+      {
+        "name": "Bargain",
+        "purchased": false
+      },
+      {
+        "name": "Counterfeit",
+        "purchased": false
+      },
+      {
+        "name": "Disguise",
+        "purchased": false
+      },
+      {
+        "name": "Drive",
+        "purchased": false
+      },
+      {
+        "name": "Pilot",
+        "purchased": false
+      },
+      {
+        "name": "Rumor",
+        "purchased": false
+      },
+      {
+        "name": "Simple Melee",
+        "purchased": false
+      },
+      {
+        "name": "Simple Ranged",
+        "purchased": false
+      },
+      {
+        "name": "Stealth",
+        "purchased": false
+      }
+    ],
+    "talents": [
+      {
+        "linkedId": "wRTdadnNJpHE32RU",
+        "name": "Larceny",
+        "uuid": "Compendium.zweihander.zh-talents.Item.wRTdadnNJpHE32RU"
+      },
+      {
+        "linkedId": "0l5T7zT8MMm0Fhp8",
+        "name": "Light Sleeper",
+        "uuid": "Compendium.zweihander.zh-talents.Item.0l5T7zT8MMm0Fhp8"
+      },
+      {
+        "linkedId": "nmeKtDNOuY6FGU8n",
+        "name": "Streetwise",
+        "uuid": "Compendium.zweihander.zh-talents.Item.nmeKtDNOuY6FGU8n"
+      }
+    ],
+    "professionalTrait": {
+      "name": "Häns Shot First",
+      "uuid": "Compendium.zweihander.zh-traits.Item.530yhwh8NuF307vA",
+      "linkedId": null
+    },
+    "specialTrait": {
+      "name": "",
+      "uuid": "",
+      "linkedId": null
+    },
+    "drawback": {
+      "name": "",
+      "uuid": "",
+      "linkedId": null
+    },
+    "tier": ""
+  },
+  "folder": null,
+  "sort": 18200000,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {},
+  "_key": "!items!zFbTCoid1TP2FfuN"
+}

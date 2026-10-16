@@ -1,0 +1,60 @@
+{
+  "_id": "9fGzABwJE77TZvY5",
+  "effects": [],
+  "img": "systems/zweihander/assets/icons/crossed-chains.svg",
+  "name": "Bonds of Justice",
+  "type": "spell",
+  "_stats": {
+    "coreVersion": "13.342",
+    "systemId": "zweihander",
+    "systemVersion": "5.4.1",
+    "createdTime": null,
+    "modifiedTime": 1745410540833,
+    "lastModifiedBy": "rivg6xcMxdlVDM8y",
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "system": {
+    "description": {
+      "@en": "With a wave of your hands, you bind the hands and ankles of another with Ætheric energy."
+    },
+    "notes": "",
+    "rules": {
+      "effect": {
+        "@en": "After successfully casting this spell, a foe who can see and hear you must Resist with a Resolve Test or be left Helpless. A foe caught in the shackles who wants to break free of them, is required to Resist with an Athletics Test. However, they cannot add their Skill Ranks to their Athletics Test to break them."
+      },
+      "criticalSuccess": {
+        "@en": "As above, but the affected cannot break free of the shackles."
+      },
+      "criticalFailure": {
+        "@en": "You have made a minor transgression against the gods. You are immediately rendered Helpless for the spell’s Duration, unable to break free of the Bonds of Justice."
+      },
+      "reagents": {
+        "@en": "A single link of a chain, held in-hand (expended)"
+      }
+    },
+    "tradition": "Divine (Learner)",
+    "principle": "Petty",
+    "distance": "Any one person you can see",
+    "duration": {
+      "value": "instantaneous",
+      "label": "[WB] + 3 minutes",
+      "formula": {
+        "override": true
+      },
+      "base": "[WB]",
+      "bonus": 3,
+      "unit": "minutes"
+    },
+    "castingTime": "1 min",
+    "castingCost": 0
+  },
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {},
+  "_key": "!items!9fGzABwJE77TZvY5"
+}

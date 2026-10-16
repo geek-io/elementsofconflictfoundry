@@ -1,0 +1,37 @@
+{
+  "_id": "7Yj3jcz8l1KOt7jK",
+  "effects": [],
+  "img": "systems/zweihander/assets/icons/shield-reflect.svg",
+  "name": "Hijinks",
+  "type": "trait",
+  "_stats": {
+    "coreVersion": "13.342",
+    "systemId": "zweihander",
+    "systemVersion": "5.4.1",
+    "createdTime": null,
+    "modifiedTime": 1734974463033,
+    "lastModifiedBy": "rivg6xcMxdlVDM8y",
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "system": {
+    "description": {
+      "@en": "Sly in their ways, Halflings use their vexing mannerisms and general under-footedness to confound the tall folk. These pranks are meant to annoy, as Halflings love to make others an ass to their japes."
+    },
+    "notes": "",
+    "rules": {
+      "effect": {
+        "@en": "Whenever you suffer Damage from a melee weapon, spend a Fortune Point to ignore it entirely."
+      }
+    },
+    "category": "ancestral"
+  },
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {},
+  "_key": "!items!7Yj3jcz8l1KOt7jK"
+}

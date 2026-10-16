@@ -1,0 +1,37 @@
+{
+  "_id": "q7YutnSZ5u0MEa82",
+  "effects": [],
+  "img": "systems/zweihander/assets/icons/two-coins.svg",
+  "name": "For a Few Shillings More",
+  "type": "trait",
+  "_stats": {
+    "coreVersion": "13.342",
+    "systemId": "zweihander",
+    "systemVersion": "5.4.1",
+    "createdTime": null,
+    "modifiedTime": 1735911103107,
+    "lastModifiedBy": "rivg6xcMxdlVDM8y",
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "system": {
+    "description": {
+      "@en": "The Bounty Hunter is an inscrutable and enigmatic hunter, undeterred by danger. Dogged in their pursuit, they always get their quarry."
+    },
+    "notes": "",
+    "rules": {
+      "effect": {
+        "@en": "In combat, whenever you make your first Attack Action with a ranged weapon, you never miss. In addition, your intended target cannot Dodge, Parry or Resist the attack. You also add an additional 1D6 Fury Die to the same attack."
+      }
+    },
+    "category": "professional"
+  },
+  "folder": null,
+  "sort": 18000000,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {},
+  "_key": "!items!q7YutnSZ5u0MEa82"
+}

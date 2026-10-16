@@ -1,0 +1,185 @@
+{
+  "_id": "yMirZtA6Wa5qiScF",
+  "displayRoll": true,
+  "formula": "1d6",
+  "img": "systems/zweihander/assets/icons/abstract-013.svg",
+  "name": "Archetypes",
+  "replacement": true,
+  "results": [
+    {
+      "_id": "T53JdPVR3AizTTkg",
+      "drawn": false,
+      "flags": {},
+      "img": "systems/zweihander/assets/icons/bookshelf.svg",
+      "range": [
+        1,
+        1
+      ],
+      "type": "text",
+      "weight": 1,
+      "_stats": {
+        "coreVersion": "13.342",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Academic",
+      "name": "",
+      "_key": "!tables.results!yMirZtA6Wa5qiScF.T53JdPVR3AizTTkg"
+    },
+    {
+      "_id": "gyIZt2sB2445Mfx5",
+      "drawn": false,
+      "flags": {},
+      "img": "systems/zweihander/assets/icons/peasant.svg",
+      "range": [
+        2,
+        2
+      ],
+      "type": "text",
+      "weight": 1,
+      "_stats": {
+        "coreVersion": "13.342",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Commoner",
+      "name": "",
+      "_key": "!tables.results!yMirZtA6Wa5qiScF.gyIZt2sB2445Mfx5"
+    },
+    {
+      "_id": "bHPdjp7Mp33bx2TI",
+      "drawn": false,
+      "flags": {},
+      "img": "systems/zweihander/assets/icons/rogue.svg",
+      "range": [
+        3,
+        3
+      ],
+      "type": "text",
+      "weight": 1,
+      "_stats": {
+        "coreVersion": "13.342",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Knave",
+      "name": "",
+      "_key": "!tables.results!yMirZtA6Wa5qiScF.bHPdjp7Mp33bx2TI"
+    },
+    {
+      "_id": "WtbezfFygeSWyZFK",
+      "drawn": false,
+      "flags": {},
+      "img": "systems/zweihander/assets/icons/hunting-horn.svg",
+      "range": [
+        4,
+        4
+      ],
+      "type": "text",
+      "weight": 1,
+      "_stats": {
+        "coreVersion": "13.342",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Ranger",
+      "name": "",
+      "_key": "!tables.results!yMirZtA6Wa5qiScF.WtbezfFygeSWyZFK"
+    },
+    {
+      "_id": "lQfolKnMUpyn7Et2",
+      "drawn": false,
+      "flags": {},
+      "img": "systems/zweihander/assets/icons/talk.svg",
+      "range": [
+        5,
+        5
+      ],
+      "type": "text",
+      "weight": 1,
+      "_stats": {
+        "coreVersion": "13.342",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Socialite",
+      "name": "",
+      "_key": "!tables.results!yMirZtA6Wa5qiScF.lQfolKnMUpyn7Et2"
+    },
+    {
+      "_id": "YYg99OkTS79h0RXR",
+      "drawn": false,
+      "flags": {},
+      "img": "systems/zweihander/assets/icons/war-axe.svg",
+      "range": [
+        6,
+        6
+      ],
+      "type": "text",
+      "weight": 1,
+      "_stats": {
+        "coreVersion": "13.342",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Warrior",
+      "name": "",
+      "_key": "!tables.results!yMirZtA6Wa5qiScF.YYg99OkTS79h0RXR"
+    }
+  ],
+  "_stats": {
+    "coreVersion": "13.342",
+    "systemId": null,
+    "systemVersion": null,
+    "createdTime": null,
+    "modifiedTime": null,
+    "lastModifiedBy": null,
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "description": "",
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {},
+  "_key": "!tables!yMirZtA6Wa5qiScF"
+}

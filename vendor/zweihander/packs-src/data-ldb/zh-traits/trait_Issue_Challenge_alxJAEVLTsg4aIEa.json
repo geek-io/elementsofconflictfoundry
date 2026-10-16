@@ -1,0 +1,37 @@
+{
+  "_id": "alxJAEVLTsg4aIEa",
+  "effects": [],
+  "img": "systems/zweihander/assets/icons/sonic-shout.svg",
+  "name": "Issue Challenge",
+  "type": "trait",
+  "_stats": {
+    "coreVersion": "13.342",
+    "systemId": "zweihander",
+    "systemVersion": "5.4.1",
+    "createdTime": null,
+    "modifiedTime": 1735911103077,
+    "lastModifiedBy": "rivg6xcMxdlVDM8y",
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "system": {
+    "description": {
+      "@en": "Confronting a Hedge Knight is a dangerous prospect and many foes quickly find themselves pinned down by their valorous onslaught."
+    },
+    "notes": "",
+    "rules": {
+      "effect": {
+        "@en": "Select one foe in combat. That foe is left Defenseless to all Melee Attacks and Called Shots made with melee weapons you make against them until they are defeated. You may select another foe once the current one is defeated."
+      }
+    },
+    "category": "professional"
+  },
+  "folder": null,
+  "sort": 12100000,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {},
+  "_key": "!items!alxJAEVLTsg4aIEa"
+}

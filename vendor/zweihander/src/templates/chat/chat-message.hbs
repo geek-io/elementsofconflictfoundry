@@ -1,0 +1,25 @@
+<li class="chat-message zweihander-chat-message message flexcol {{cssClass}}" data-message-id="{{message._id}}" {{#if borderColor}}style="border-color:{{borderColor}}" {{/if}}>
+  <header class="message-header">
+    <div class="flexrow">
+      <img class="chat-profile-image" src="{{zhSpeakerPic message}}" />
+      <div class="flexcol">
+        <h4 class="message-sender">{{alias}}</h4>
+        {{#if speakerActor}}
+        <h5 class="message-sender-user">{{!--{{localize 'CHAT.From'}}: --}}{{author.name}}</h5>
+        {{/if}}
+        {{#if isWhisper}}
+        <h5 class="message-sender-user-target">{{localize 'CHAT.To'}}: {{whisperTo}}</h5>
+        {{/if}}
+      </div>
+      <div class="flexrow time-and-delete">
+        <time class="message-timestamp">{{timeSince message.timestamp}}</time>
+        {{#if user.isGM}}
+        <a class="button message-delete" data-action="deleteMessage"><i class="fas fa-ellipsis-vertical"></i></a>
+        {{/if}}
+      </div>
+    </div>
+  </header>
+  <div class="message-content">
+    {{{message.content}}}
+  </div>
+</li>

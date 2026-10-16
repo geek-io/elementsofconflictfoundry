@@ -1,0 +1,353 @@
+{
+  "_id": "l2EvhkJb5DlfjKGW",
+  "description": "",
+  "displayRoll": true,
+  "formula": "1d12",
+  "img": "systems/zweihander/assets/icons/bad-gnome.svg",
+  "name": "Ancestral Traits (Gnome)",
+  "replacement": true,
+  "results": [
+    {
+      "_id": "aHV68JPP3e4aPqMY",
+      "drawn": false,
+      "flags": {},
+      "img": "systems/zweihander/assets/icons/cogsplosion.svg",
+      "range": [
+        1,
+        1
+      ],
+      "type": "document",
+      "weight": 1,
+      "_stats": {
+        "coreVersion": "13.342",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "name": "Clockworks of War",
+      "documentUuid": "Compendium.zweihander.zh-ancestral-traits.Item.0dN7XydUbyPtfOFw",
+      "description": "",
+      "_key": "!tables.results!l2EvhkJb5DlfjKGW.aHV68JPP3e4aPqMY"
+    },
+    {
+      "_id": "5jah8asnH2PC410b",
+      "drawn": false,
+      "flags": {},
+      "img": "systems/zweihander/assets/icons/hooded-assassin.svg",
+      "range": [
+        2,
+        2
+      ],
+      "type": "document",
+      "weight": 1,
+      "_stats": {
+        "coreVersion": "13.342",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "name": "Crag Fighting",
+      "documentUuid": "Compendium.zweihander.zh-ancestral-traits.Item.8HFd6r5ri3wCw9E0",
+      "description": "",
+      "_key": "!tables.results!l2EvhkJb5DlfjKGW.5jah8asnH2PC410b"
+    },
+    {
+      "_id": "yjHUTikFNt7XsmCE",
+      "drawn": false,
+      "flags": {},
+      "img": "systems/zweihander/assets/icons/stone-block.svg",
+      "range": [
+        3,
+        3
+      ],
+      "type": "document",
+      "weight": 1,
+      "_stats": {
+        "coreVersion": "13.342",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "name": "Denizen of Stone",
+      "documentUuid": "Compendium.zweihander.zh-ancestral-traits.Item.dOKwamju161jKDbN",
+      "description": "",
+      "_key": "!tables.results!l2EvhkJb5DlfjKGW.yjHUTikFNt7XsmCE"
+    },
+    {
+      "_id": "F8Zwmz18VLxgnhnb",
+      "drawn": false,
+      "flags": {},
+      "img": "systems/zweihander/assets/icons/dungeon-gate.svg",
+      "range": [
+        4,
+        4
+      ],
+      "type": "document",
+      "weight": 1,
+      "_stats": {
+        "coreVersion": "13.342",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "name": "Dungeons Deep",
+      "documentUuid": "Compendium.zweihander.zh-ancestral-traits.Item.JVpQu7XLEG5t0cCV",
+      "description": "",
+      "_key": "!tables.results!l2EvhkJb5DlfjKGW.F8Zwmz18VLxgnhnb"
+    },
+    {
+      "_id": "lmfQz55XlcKJ4Pdr",
+      "drawn": false,
+      "flags": {},
+      "img": "systems/zweihander/assets/icons/knot.svg",
+      "range": [
+        5,
+        5
+      ],
+      "type": "document",
+      "weight": 1,
+      "_stats": {
+        "coreVersion": "13.342",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "name": "Escape Artist",
+      "documentUuid": "Compendium.zweihander.zh-ancestral-traits.Item.IiolZXJcYNaj7wHh",
+      "description": "",
+      "_key": "!tables.results!l2EvhkJb5DlfjKGW.lmfQz55XlcKJ4Pdr"
+    },
+    {
+      "_id": "Yr5fJSSZ5o7yGCZP",
+      "drawn": false,
+      "flags": {},
+      "img": "systems/zweihander/assets/icons/big-gear.svg",
+      "range": [
+        6,
+        6
+      ],
+      "type": "document",
+      "weight": 1,
+      "_stats": {
+        "coreVersion": "13.342",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "name": "Goldbergian",
+      "documentUuid": "Compendium.zweihander.zh-ancestral-traits.Item.pm49kWYfwDG4xKNu",
+      "description": "",
+      "_key": "!tables.results!l2EvhkJb5DlfjKGW.Yr5fJSSZ5o7yGCZP"
+    },
+    {
+      "_id": "dsuiGPM5ksv6atcp",
+      "drawn": false,
+      "flags": {},
+      "img": "systems/zweihander/assets/icons/magic-portal.svg",
+      "range": [
+        7,
+        7
+      ],
+      "type": "document",
+      "weight": 1,
+      "_stats": {
+        "coreVersion": "13.342",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "name": "Hocus Pocus",
+      "documentUuid": "Compendium.zweihander.zh-ancestral-traits.Item.9a0cGzx1EZ72GpX7",
+      "description": "",
+      "_key": "!tables.results!l2EvhkJb5DlfjKGW.dsuiGPM5ksv6atcp"
+    },
+    {
+      "_id": "4WwihiQmqOVQeqX2",
+      "drawn": false,
+      "flags": {},
+      "img": "systems/zweihander/assets/icons/price-tag.svg",
+      "range": [
+        8,
+        8
+      ],
+      "type": "document",
+      "weight": 1,
+      "_stats": {
+        "coreVersion": "13.342",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "name": "Metrognome",
+      "documentUuid": "Compendium.zweihander.zh-ancestral-traits.Item.GNoPJprEC9KZGXXB",
+      "description": "",
+      "_key": "!tables.results!l2EvhkJb5DlfjKGW.4WwihiQmqOVQeqX2"
+    },
+    {
+      "_id": "xzsfqzEoCz46DKbZ",
+      "drawn": false,
+      "flags": {},
+      "img": "systems/zweihander/assets/icons/bad-gnome.svg",
+      "range": [
+        9,
+        9
+      ],
+      "type": "document",
+      "weight": 1,
+      "_stats": {
+        "coreVersion": "13.342",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "name": "Thieving Stunties",
+      "documentUuid": "Compendium.zweihander.zh-ancestral-traits.Item.gnV2ajTiCS6DZehZ",
+      "description": "",
+      "_key": "!tables.results!l2EvhkJb5DlfjKGW.xzsfqzEoCz46DKbZ"
+    },
+    {
+      "_id": "89BDvYpfhmEZ24nl",
+      "drawn": false,
+      "flags": {},
+      "img": "systems/zweihander/assets/icons/underground-cave.svg",
+      "range": [
+        10,
+        10
+      ],
+      "type": "document",
+      "weight": 1,
+      "_stats": {
+        "coreVersion": "13.342",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "name": "Tunnel Vision",
+      "documentUuid": "Compendium.zweihander.zh-ancestral-traits.Item.o4lKRIP9Yq498WTG",
+      "description": "",
+      "_key": "!tables.results!l2EvhkJb5DlfjKGW.89BDvYpfhmEZ24nl"
+    },
+    {
+      "_id": "xkZCs2e4HCVSUcBC",
+      "drawn": false,
+      "flags": {},
+      "img": "systems/zweihander/assets/icons/giant.svg",
+      "range": [
+        11,
+        11
+      ],
+      "type": "document",
+      "weight": 1,
+      "_stats": {
+        "coreVersion": "13.342",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "name": "Underfoot",
+      "documentUuid": "Compendium.zweihander.zh-ancestral-traits.Item.Sy16U343MXLeYVi0",
+      "description": "",
+      "_key": "!tables.results!l2EvhkJb5DlfjKGW.xkZCs2e4HCVSUcBC"
+    },
+    {
+      "_id": "NK7ORdBWBvg8ULtp",
+      "drawn": false,
+      "flags": {},
+      "img": "systems/zweihander/assets/icons/tongue.svg",
+      "range": [
+        12,
+        12
+      ],
+      "type": "document",
+      "weight": 1,
+      "_stats": {
+        "coreVersion": "13.342",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "name": "Wretched Prankster",
+      "documentUuid": "Compendium.zweihander.zh-ancestral-traits.Item.83bf9KcpWizKHlye",
+      "description": "",
+      "_key": "!tables.results!l2EvhkJb5DlfjKGW.NK7ORdBWBvg8ULtp"
+    }
+  ],
+  "_stats": {
+    "coreVersion": "13.342",
+    "systemId": null,
+    "systemVersion": null,
+    "createdTime": null,
+    "modifiedTime": 1735228596133,
+    "lastModifiedBy": "rivg6xcMxdlVDM8y",
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {},
+  "_key": "!tables!l2EvhkJb5DlfjKGW"
+}

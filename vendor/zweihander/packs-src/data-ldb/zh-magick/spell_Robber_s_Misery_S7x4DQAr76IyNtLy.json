@@ -1,0 +1,60 @@
+{
+  "_id": "S7x4DQAr76IyNtLy",
+  "effects": [],
+  "img": "systems/zweihander/assets/icons/wizard-staff.svg",
+  "name": "Robber's Misery",
+  "type": "spell",
+  "_stats": {
+    "coreVersion": "13.342",
+    "systemId": "zweihander",
+    "systemVersion": "5.4.1",
+    "createdTime": null,
+    "modifiedTime": 1745410666692,
+    "lastModifiedBy": "rivg6xcMxdlVDM8y",
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "system": {
+    "description": {
+      "@en": "You permanently lock a door, preventing second story men from ever entering."
+    },
+    "notes": "",
+    "rules": {
+      "effect": {
+        "@en": "After successfully casting this spell, a key you touch can be used to permanently lock one portal or lock. That lock can never be picked or the door opened without use of this key. However, it doesn’t prevent it from being busted open."
+      },
+      "criticalSuccess": {
+        "@en": "As above, but this key can be used on three portals."
+      },
+      "criticalFailure": {
+        "@en": "Doubtlessly, you will be made victim to theft in the next 24 hours. Likely, it will be at the hands of a treacherous little Guttersnipe. Only the GM knows the truth of what is to occur."
+      },
+      "reagents": {
+        "@en": "A skeleton key"
+      }
+    },
+    "tradition": "Generalist",
+    "principle": "Generalist",
+    "distance": "Any one key you can touch",
+    "duration": {
+      "value": "forever",
+      "label": "Instantaneous",
+      "formula": {
+        "override": false
+      },
+      "base": "[WB]",
+      "bonus": 0,
+      "unit": "Forever"
+    },
+    "castingTime": "1 min",
+    "castingCost": 0
+  },
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {},
+  "_key": "!items!S7x4DQAr76IyNtLy"
+}

@@ -1,0 +1,77 @@
+{
+  "_id": "n22RBEbFqsncABnG",
+  "effects": [],
+  "img": "systems/zweihander/assets/icons/cannon-shot.svg",
+  "name": "Hand Cannon",
+  "type": "weapon",
+  "_stats": {
+    "coreVersion": "13.342",
+    "systemId": "zweihander",
+    "systemVersion": "5.4.1",
+    "createdTime": null,
+    "modifiedTime": 1745255492525,
+    "lastModifiedBy": "rivg6xcMxdlVDM8y",
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "system": {
+    "description": {
+      "@en": "<p>The size of a pistol with the power of a musket, you will make others pray, &lsquo;Is this your lucky day, knave?&rsquo; when you level it at them.</p>"
+    },
+    "notes": "",
+    "price": {
+      "bp": 0,
+      "gc": 0,
+      "ss": 0,
+      "ad": null
+    },
+    "encumbrance": 2,
+    "carried": true,
+    "weaponType": "Gunpowder",
+    "equipped": false,
+    "associatedSkill": "Martial Ranged",
+    "ranged": {
+      "load": 2,
+      "value": true
+    },
+    "handling": "One-handed",
+    "qualities": [
+      "Compendium.zweihander.zh-qualities.Item.0L1YXMkZ0dXhGb0R",
+      "Compendium.zweihander.zh-qualities.Item.a0KJwwHCoJIwG1ck",
+      "Compendium.zweihander.zh-qualities.Item.y0gqG8Wy1G6pNTRQ",
+      "Compendium.zweihander.zh-qualities.Item.AzjY6oWyIGOukSqQ"
+    ],
+    "distance": {
+      "value": "[PB]+3 ",
+      "base": "[PB]",
+      "bonus": 3
+    },
+    "damage": {
+      "formula": {
+        "override": false,
+        "value": "[CB] + (1+[#])d6x1&6"
+      },
+      "attributeBonus": "[CB]",
+      "number": 1,
+      "die": "d6",
+      "bonus": 0,
+      "fury": {
+        "value": true,
+        "explodesOn": [
+          "1",
+          "6"
+        ]
+      },
+      "associatedPrimaryAttribute": "Combat"
+    },
+    "load": 2
+  },
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {},
+  "_key": "!items!n22RBEbFqsncABnG"
+}

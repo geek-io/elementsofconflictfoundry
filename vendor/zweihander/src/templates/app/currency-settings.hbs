@@ -1,0 +1,49 @@
+<div class="settings-menu-container">
+  <header class="requirements-change requirements-header flexrow">
+    <div class="key">{{localize "ZWEI.settings.cusettings.name"}}</div>
+    <div class="value">{{localize "ZWEI.settings.cusettings.abbr"}}</div>
+    <div class="value">{{localize "ZWEI.settings.cusettings.equivalent"}}</div>
+    <div class="value">{{localize "ZWEI.settings.cusettings.color"}}</div>
+    <div class="requirements-controls">
+      <a class="requirements-control" data-action="addCurrency" data-tooltip="{{localize "ZWEI.settings.cusettings.add"}}" data-tooltip-direction="UP"><i
+          class="far fa-plus-square"
+        ></i></a>
+    </div>
+  </header>
+
+  <ol class="requirements-list flexcol">
+    {{#each currencies as |currency index|}}
+      <li class="requirements-change flexrow">
+        <div class="key">
+          <input type="text" name="[{{index}}].name" value="{{currency.name}}" placeholder="Currency Name" />
+        </div>
+        <div class="value">
+          <input type="text" name="[{{index}}].abbreviation" value="{{currency.abbreviation}}" placeholder="Currency Abbreviation" />
+        </div>
+        <div class="value">
+          <input type="number" name="[{{index}}].equivalentOfLower" value="{{currency.equivalentOfLower}}" placeholder="100" />
+        </div>
+        <color-picker name="{{concat '[' index '].color'}}" value="{{currency.color}}"></color-picker>
+        <div class="requirements-controls">
+          <a
+            class="requirements-control"
+            data-action="deleteCurrency"
+            data-tooltip="{{localize 'ZWEI.settings.cusettings.delete'}}"
+            data-tooltip-direction="UP"
+            data-index="{{index}}"
+          ><i class="fas fa-trash-alt"></i></a>
+        </div>
+      </li>
+    {{/each}}
+  </ol>
+
+  <footer class="form-footer">
+    {{#each buttons as |button|}}
+    <button type="{{button.type}}" {{#if button.name}}name="{{button.name}}"{{/if}} class="{{button.cssClass}}"
+            {{#if button.action}}data-action="{{button.action}}"{{/if}} {{#if button.disabled}}disabled{{/if}}>
+        {{#if button.icon}}<i class="{{button.icon}}" inert></i>{{/if}}
+        {{#if button.label}}<span>{{localize button.label}}</span>{{/if}}
+    </button>
+    {{/each}}
+  </footer> 
+</div>

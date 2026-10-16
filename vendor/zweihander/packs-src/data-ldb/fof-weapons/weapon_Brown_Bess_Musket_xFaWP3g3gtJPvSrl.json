@@ -1,0 +1,72 @@
+{
+  "_id": "xFaWP3g3gtJPvSrl",
+  "effects": [],
+  "img": "systems/zweihander/assets/icons/musket.svg",
+  "name": "Brown Bess Musket",
+  "type": "weapon",
+  "_stats": {
+    "coreVersion": "13.342",
+    "systemId": "zweihander",
+    "systemVersion": "5.4.1",
+    "createdTime": 1745429307094,
+    "modifiedTime": 1745429307094,
+    "lastModifiedBy": "rivg6xcMxdlVDM8y",
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "system": {
+    "description": {
+      "@en": "<p>Those who find a Brown Bess use a musket leftover from the French and Indian War. They&rsquo;re commonly found in the hands of the British Empire and Loyalists.</p>"
+    },
+    "notes": "",
+    "price": {
+      "bp": "0",
+      "gc": "4",
+      "ss": "0"
+    },
+    "encumbrance": 3,
+    "carried": true,
+    "weaponType": "Ranged",
+    "equipped": false,
+    "associatedSkill": "Martial Ranged",
+    "ranged": {
+      "load": 3,
+      "value": true
+    },
+    "handling": "Two-handed",
+    "qualities": [
+      "Compendium.zweihander.fof-qualities.Item.ppIvvHocfKBJKcUg",
+      "Compendium.zweihander.fof-qualities.Item.YX4VmVVSfzQaqZoD"
+    ],
+    "distance": {
+      "value": "9 + [PB] ",
+      "base": "[PB]",
+      "bonus": 9
+    },
+    "damage": {
+      "formula": {
+        "override": false,
+        "value": "[CB] + (1+[#])d6x1,6"
+      },
+      "attributeBonus": "[CB]",
+      "number": 1,
+      "die": "d6",
+      "bonus": 0,
+      "fury": {
+        "value": true,
+        "explodesOn": [
+          "6"
+        ]
+      }
+    },
+    "load": 3
+  },
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {},
+  "_key": "!items!xFaWP3g3gtJPvSrl"
+}

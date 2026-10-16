@@ -1,0 +1,37 @@
+{
+  "_id": "c4qKvjMXKmWbTh7y",
+  "effects": [],
+  "img": "systems/zweihander/assets/icons/vitruvian-man.svg",
+  "name": "Mastery of the Void",
+  "type": "trait",
+  "_stats": {
+    "coreVersion": "13.342",
+    "systemId": "zweihander",
+    "systemVersion": "5.4.1",
+    "createdTime": null,
+    "modifiedTime": 1735911103079,
+    "lastModifiedBy": "rivg6xcMxdlVDM8y",
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "system": {
+    "description": {
+      "@en": "You ‘crush’ the unstable Winds of the Æther, forcing them to coalesce into chaotic yet powerful combinations with dramatically amplified effects. However, even as you bend these deeply destructive Winds in the shapes you desire, they can have wildly unpredictable side effects that can unravel the thin veil between the Material Realm and the Abyss, creating unstable rifts."
+    },
+    "notes": "",
+    "rules": {
+      "effect": {
+        "@en": "When you Channel Power and succeed at your Skill Test, you Critically Succeed instead."
+      }
+    },
+    "category": "professional"
+  },
+  "folder": null,
+  "sort": 12600000,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {},
+  "_key": "!items!c4qKvjMXKmWbTh7y"
+}

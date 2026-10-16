@@ -1,0 +1,124 @@
+{
+  "_id": "4rf01JrHfTOKLIuO",
+  "effects": [],
+  "img": "systems/zweihander/assets/icons/abstract-082.svg",
+  "name": "Dilettante",
+  "type": "profession",
+  "_stats": {
+    "coreVersion": "13.342",
+    "systemId": "zweihander",
+    "systemVersion": "5.4.1",
+    "createdTime": null,
+    "modifiedTime": 1734972168197,
+    "lastModifiedBy": "rivg6xcMxdlVDM8y",
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "system": {
+    "description": {
+      "@en": "<p>Nothing ever seems good enough or interesting enough, and as soon as something novel piques my interest, my attention is then like gossamer, floating along with the breeze. It is not that I lack drive or a sense of commitment&mdash;it is just that I really do not care. I have money&mdash;or at least an inheritance coming to me&mdash;which ensures my needs are met. To fill my time, I must do something fun, which often means seeking new experiences. Sadly, even these new dalliances can hardly hold my attention for long.</p>\n<p>My idylls have brought me many things&mdash;namely connections and knowledge that come in handy from time to time. The downside of these experiences is that I have come into contact with some unsavory sorts, as well as seeing things I rather wish I did not. I have seen many unspeakable events and some unspeakable things no one should see. Though many fear a brewing violent confrontation here in the New World, I fear a greater darkness engulfing all.</p>"
+    },
+    "notes": "",
+    "expert": {
+      "value": false,
+      "requirements": ""
+    },
+    "archetype": "Intellectual Profession",
+    "bonusAdvances": [
+      {
+        "name": "[FB]"
+      },
+      {
+        "name": "[FB]"
+      },
+      {
+        "name": "[IB]"
+      },
+      {
+        "name": "[IB]"
+      },
+      {
+        "name": "[PB]"
+      },
+      {
+        "name": "[PB]"
+      },
+      {
+        "name": "[WB]"
+      }
+    ],
+    "skillRanks": [
+      {
+        "name": "Bargain"
+      },
+      {
+        "name": "Charm"
+      },
+      {
+        "name": "Eavesdrop"
+      },
+      {
+        "name": "Education"
+      },
+      {
+        "name": "Folklore"
+      },
+      {
+        "name": "Gamble"
+      },
+      {
+        "name": "Resolve"
+      },
+      {
+        "name": "Rumor"
+      },
+      {
+        "name": "Scrutinize"
+      },
+      {
+        "name": "Simple Ranged"
+      }
+    ],
+    "talents": [
+      {
+        "linkedId": null,
+        "name": "Charismatic",
+        "uuid": "Compendium.zweihander.fof-talents.Item.wbRXSLMAxYi81wSW"
+      },
+      {
+        "linkedId": null,
+        "name": "Common Sense",
+        "uuid": "Compendium.zweihander.fof-talents.Item.Tl0z5FKDok7M8Juh"
+      },
+      {
+        "linkedId": null,
+        "name": "Dressed to the Nines",
+        "uuid": "Compendium.zweihander.fof-talents.Item.E1aE3LvoIM1d8WIq"
+      }
+    ],
+    "professionalTrait": {
+      "name": "A Little Bit of Everything",
+      "uuid": "Compendium.zweihander.fof-professional-traits.Item.AXJhN7cJpCaZyhy4",
+      "linkedId": null
+    },
+    "specialTrait": {
+      "name": "",
+      "uuid": "",
+      "linkedId": null
+    },
+    "drawback": {
+      "name": "Can't Fend for Myself",
+      "uuid": "Compendium.zweihander.fof-quirks.Item.1WlRY2lFT2B0QsmX",
+      "linkedId": null
+    },
+    "tier": ""
+  },
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {},
+  "_key": "!items!4rf01JrHfTOKLIuO"
+}

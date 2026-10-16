@@ -1,0 +1,149 @@
+{
+  "_id": "BNhy4Dqij0EvzP6i",
+  "effects": [],
+  "img": "systems/zweihander/assets/icons/assassin.svg",
+  "name": "Assassin",
+  "type": "profession",
+  "_stats": {
+    "coreVersion": "13.342",
+    "systemId": "zweihander",
+    "systemVersion": "5.4.1",
+    "createdTime": null,
+    "modifiedTime": 1735047342748,
+    "lastModifiedBy": "rivg6xcMxdlVDM8y",
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "system": {
+    "description": {
+      "@en": "A cold body with their throat cut by a garrote; a noble suffering a seizure and foaming at the mouth; a heretical priest shot in the head from afar. These are all victims of the Assassin, a professional killer of the highest caliber. The most famous assassins are Bloodmongers who worship the Crouching One, but they only commit their crimes for the sake of their god. A true Assassin is the consummate professional – all business and confidence in their abilities. They wear immaculately inconspicuous wardrobes, move with a poise and posture that enables them to act at any moment and conceal a small armory about their persons – though they can strike with their hands just as much as they can with blades and bolts. Their tasks are simple: get in, complete the job, and get out: no muss, no fuss. Every Assassin has their favored tools, but all use disguises, concealment and forgery to accomplish their goal.\nAssassins rarely adventure into the wider world – their home is in the city, full of wealthy benefactors and spurned lovers. Those that do are fleeing something – often with another Assassin hot on their tail (Assassins see other Assassins as the targets truly worthy of cold calculated methods). Assassins kill without being there and with people hearing what they want them to, making them useful in countless situations. The true hindrance to any Assassin is too much evidence, too many witnesses, too little alibi. When Assassins lose their poise and composure, they often come to enjoy the kill for kill’s sake, relishing the death as much as their skills used. Corrupted they come to worship death itself and are thus ripe for conscription by the darkest of powers."
+    },
+    "notes": "",
+    "expert": {
+      "value": true,
+      "requirements": {
+        "skillRanks": [
+          {
+            "key": "stealth",
+            "value": 2
+          }
+        ],
+        "additional": "<p>-</p>"
+      }
+    },
+    "archetype": "Expert Profession",
+    "bonusAdvances": [
+      {
+        "name": "[AB]",
+        "purchased": false
+      },
+      {
+        "name": "[AB]",
+        "purchased": false
+      },
+      {
+        "name": "[CB]",
+        "purchased": false
+      },
+      {
+        "name": "[CB]",
+        "purchased": false
+      },
+      {
+        "name": "[IB]",
+        "purchased": false
+      },
+      {
+        "name": "[PB]",
+        "purchased": false
+      },
+      {
+        "name": "[WB]",
+        "purchased": false
+      }
+    ],
+    "skillRanks": [
+      {
+        "name": "Coordination",
+        "purchased": false
+      },
+      {
+        "name": "Counterfeit",
+        "purchased": false
+      },
+      {
+        "name": "Disguise",
+        "purchased": false
+      },
+      {
+        "name": "Eavesdrop",
+        "purchased": false
+      },
+      {
+        "name": "Guile",
+        "purchased": false
+      },
+      {
+        "name": "Martial Melee",
+        "purchased": false
+      },
+      {
+        "name": "Rumor",
+        "purchased": false
+      },
+      {
+        "name": "Simple Melee",
+        "purchased": false
+      },
+      {
+        "name": "Simple Ranged",
+        "purchased": false
+      },
+      {
+        "name": "Stealth",
+        "purchased": false
+      }
+    ],
+    "talents": [
+      {
+        "linkedId": "VTJ2gonJGSCCGwov",
+        "name": "Doppelganger",
+        "uuid": "Compendium.zweihander.zh-talents.Item.VTJ2gonJGSCCGwov"
+      },
+      {
+        "linkedId": "3Bvirk4uric3aNZN",
+        "name": "Gruesome Shot",
+        "uuid": "Compendium.zweihander.zh-talents.Item.3Bvirk4uric3aNZN"
+      },
+      {
+        "linkedId": "cIaEhW4y3xK76XWt",
+        "name": "Indifference",
+        "uuid": "Compendium.zweihander.zh-talents.Item.cIaEhW4y3xK76XWt"
+      }
+    ],
+    "professionalTrait": {
+      "name": "Art of Invisibility",
+      "uuid": "Compendium.zweihander.zh-traits.Item.XRZqohblgx1Ua2HU",
+      "linkedId": null
+    },
+    "specialTrait": {
+      "name": "",
+      "uuid": "",
+      "linkedId": null
+    },
+    "drawback": {
+      "name": "Assassin’s Creed",
+      "uuid": "Compendium.zweihander.zh-drawbacks.Item.CJq9F7h5Q64Z9bbY",
+      "linkedId": null
+    },
+    "tier": ""
+  },
+  "folder": null,
+  "sort": 3900000,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {},
+  "_key": "!items!BNhy4Dqij0EvzP6i"
+}

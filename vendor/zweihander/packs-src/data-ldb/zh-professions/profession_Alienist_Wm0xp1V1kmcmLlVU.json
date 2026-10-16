@@ -1,0 +1,149 @@
+{
+  "_id": "Wm0xp1V1kmcmLlVU",
+  "effects": [],
+  "img": "systems/zweihander/assets/icons/pendulum-swing.svg",
+  "name": "Alienist",
+  "type": "profession",
+  "_stats": {
+    "coreVersion": "13.342",
+    "systemId": "zweihander",
+    "systemVersion": "5.4.1",
+    "createdTime": null,
+    "modifiedTime": 1735050611238,
+    "lastModifiedBy": "rivg6xcMxdlVDM8y",
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "system": {
+    "description": {
+      "@en": "For centuries, the mind has been a mystery. Though Physikers are finally starting to understand the body and how people get sick, the mind remains an enigma. Many explore the reaches of the conscious, trying to figure out what makes people tick. The most common method of this is hypnotism, and those who devote themselves to hypnotism and the workings of the ‘mental machine’ call themselves Alienists. The average Alienist speaks calmly and soothingly, assuring their convalescent that what they are experiencing is completely ‘normal’. They then subject their patients to tests with all sorts of medieval and unusual devices like calipers and silver charms, before plunging them into a twilight dream-state to find out what haunts them. Alienists are often employed by the rich and powerful, but often they care little if they are actually helping or not – most are striving to find a breakthrough that will grant them medical acclaim. Alienists may truly have developed an understanding of the mind’s mysteries, but even if this approach is not ‘real’, the placebo effect it can have on patients is certainly determinable.\\nAlienists are not well-trusted by the common populace nor the priesthood, as the idea of someone ‘picking around in your head’ is not something most rational people find appealing. Regardless, Alienists see the power that hypnotism and suggestion can have. They pose as innocent enough, worming their way into haughty circles of blue-bloods or in with jumped up burghers who crave a social status a notch above their peers. The Alienist’s end goals may be to eventually entrance these fools and request they reveal family secrets and treasures, or entreat them to far worse outcomes under suggestive influence. Understandably, those desperate and truly damaged long for their problems to be fixed, and thus turn to this heinous form of treatment. Corruption loves a good Alienist, as it allows them to infiltrate their filth and hatred into someone’s subconscious willingly, leading to a servant who runs less on suggestion and more on animal instinct."
+    },
+    "notes": "",
+    "expert": {
+      "value": true,
+      "requirements": {
+        "skillRanks": [
+          {
+            "key": "heal",
+            "value": 1
+          }
+        ],
+        "additional": "<p>-</p>"
+      }
+    },
+    "archetype": "Expert Profession",
+    "bonusAdvances": [
+      {
+        "name": "[FB]",
+        "purchased": false
+      },
+      {
+        "name": "[FB]",
+        "purchased": false
+      },
+      {
+        "name": "[IB]",
+        "purchased": false
+      },
+      {
+        "name": "[IB]",
+        "purchased": false
+      },
+      {
+        "name": "[PB]",
+        "purchased": false
+      },
+      {
+        "name": "[WB]",
+        "purchased": false
+      },
+      {
+        "name": "[WB]",
+        "purchased": false
+      }
+    ],
+    "skillRanks": [
+      {
+        "name": "Charm",
+        "purchased": false
+      },
+      {
+        "name": "Education",
+        "purchased": false
+      },
+      {
+        "name": "Folklore",
+        "purchased": false
+      },
+      {
+        "name": "Guile",
+        "purchased": false
+      },
+      {
+        "name": "Heal",
+        "purchased": false
+      },
+      {
+        "name": "Interrogation",
+        "purchased": false
+      },
+      {
+        "name": "Resolve",
+        "purchased": false
+      },
+      {
+        "name": "Rumor",
+        "purchased": false
+      },
+      {
+        "name": "Scrutinize",
+        "purchased": false
+      },
+      {
+        "name": "Simple Melee",
+        "purchased": false
+      }
+    ],
+    "talents": [
+      {
+        "linkedId": "sD4Et1dOsSjT3fPt",
+        "name": "Incredible Numeration",
+        "uuid": "Compendium.zweihander.zh-talents.Item.sD4Et1dOsSjT3fPt"
+      },
+      {
+        "linkedId": "sr0nQ2JrQV4DnTeU",
+        "name": "Secret Signs",
+        "uuid": "Compendium.zweihander.zh-talents.Item.sr0nQ2JrQV4DnTeU"
+      },
+      {
+        "linkedId": "mbtJHdgWqR6fct7f",
+        "name": "Supernatural Paranoia",
+        "uuid": "Compendium.zweihander.zh-talents.Item.mbtJHdgWqR6fct7f"
+      }
+    ],
+    "professionalTrait": {
+      "name": "Doktor Mind-Bender",
+      "uuid": "Compendium.zweihander.zh-traits.Item.DD20GqCHKDTZxDGv",
+      "linkedId": null
+    },
+    "specialTrait": {
+      "name": "",
+      "uuid": "",
+      "linkedId": null
+    },
+    "drawback": {
+      "name": "Placebo Effect",
+      "uuid": "Compendium.zweihander.zh-drawbacks.Item.m1rqBK2hzPusk8hX",
+      "linkedId": null
+    },
+    "tier": ""
+  },
+  "folder": null,
+  "sort": 10100000,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {},
+  "_key": "!items!Wm0xp1V1kmcmLlVU"
+}

@@ -1,0 +1,124 @@
+{
+  "_id": "yTzwe6HByhhIkTRr",
+  "effects": [],
+  "img": "systems/zweihander/assets/icons/abstract-082.svg",
+  "name": "Tailor",
+  "type": "profession",
+  "_stats": {
+    "coreVersion": "13.342",
+    "systemId": "zweihander",
+    "systemVersion": "5.4.1",
+    "createdTime": null,
+    "modifiedTime": 1734972168230,
+    "lastModifiedBy": "rivg6xcMxdlVDM8y",
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "system": {
+    "description": {
+      "@en": "<p>Me, a spy? No, no . . . clothes may not be the most essential thing in people&rsquo;s minds, but without my skills, everyone would be wearing rags, rope and sackcloth like the old days. I usually work for exclusive clients, but that exclusivity is fine with me. Instead, I create for more discerning, affluent clients than those who think lace and buckles are unnecessary fripperies. After all, their cash is as important as the secrets they know.</p>\n<p>I know war is coming, as it is the one topic all my clients speak about. The wealthy are upset about taxation, which I admit does cut into my profits. Those who call for independence are willing to risk everything for it, but losing their patronage would also cut into my profits. As things stand now, I take no sides because shouting about my ideals would spell my financial ruin. For now, I sit back, sewing and smiling, but I am sure a day will come when I am forced to declare my allegiances. Until then, I can blend into the background, sell my secrets and pursue my art unaccosted.</p>"
+    },
+    "notes": "",
+    "expert": {
+      "value": false,
+      "requirements": ""
+    },
+    "archetype": "Commoner Profession",
+    "bonusAdvances": [
+      {
+        "name": "[AB]"
+      },
+      {
+        "name": "[FB]"
+      },
+      {
+        "name": "[FB]"
+      },
+      {
+        "name": "[IB]"
+      },
+      {
+        "name": "[PB]"
+      },
+      {
+        "name": "[PB]"
+      },
+      {
+        "name": "[WB]"
+      }
+    ],
+    "skillRanks": [
+      {
+        "name": "Awareness"
+      },
+      {
+        "name": "Charm"
+      },
+      {
+        "name": "Coordination"
+      },
+      {
+        "name": "Counterfeit"
+      },
+      {
+        "name": "Disguise"
+      },
+      {
+        "name": "Eavesdrop"
+      },
+      {
+        "name": "Rumor"
+      },
+      {
+        "name": "Simple Melee"
+      },
+      {
+        "name": "Simple Ranged"
+      },
+      {
+        "name": "Tradecraft"
+      }
+    ],
+    "talents": [
+      {
+        "linkedId": null,
+        "name": "Costuming",
+        "uuid": "Compendium.zweihander.fof-talents.Item.KdkFuQP9VOz1euKl"
+      },
+      {
+        "linkedId": null,
+        "name": "Nimble Fingers",
+        "uuid": "Compendium.zweihander.fof-talents.Item.Ghk04LKapabZUPG4"
+      },
+      {
+        "linkedId": null,
+        "name": "Tailoring",
+        "uuid": "Compendium.zweihander.fof-talents.Item.VrlfpSGacIm2NalI"
+      }
+    ],
+    "professionalTrait": {
+      "name": "Respect the Drip",
+      "uuid": "Compendium.zweihander.fof-professional-traits.Item.uxhl3bPhHpwt54mg",
+      "linkedId": null
+    },
+    "specialTrait": {
+      "name": "",
+      "uuid": "",
+      "linkedId": null
+    },
+    "drawback": {
+      "name": "Discerning Tastes",
+      "uuid": "Compendium.zweihander.fof-quirks.Item.phTOeVQQ4XCQIHlI",
+      "linkedId": null
+    },
+    "tier": ""
+  },
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {},
+  "_key": "!items!yTzwe6HByhhIkTRr"
+}

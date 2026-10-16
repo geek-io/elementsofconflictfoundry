@@ -1,0 +1,153 @@
+{
+  "_id": "6Cu1bpCrxb859EXZ",
+  "effects": [],
+  "img": "systems/zweihander/assets/icons/snake.svg",
+  "name": "Cult Leader",
+  "type": "profession",
+  "_stats": {
+    "coreVersion": "13.342",
+    "systemId": "zweihander",
+    "systemVersion": "5.4.1",
+    "createdTime": null,
+    "modifiedTime": 1735051153325,
+    "lastModifiedBy": "rivg6xcMxdlVDM8y",
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "system": {
+    "description": {
+      "@en": "Despite stories of ‘vast armies of chaos’, most seedlings of Corruption are borne from cults. Cults are generally formed as a social groups between people who’ve lost their faith in the world. When aligned with like-minded individuals, they grow towards a system of unorthodox beliefs and dangerous philosophies. In fact, they rarely pay tribute to gods or Daemons at all. No matter its size, every cult has an authority figure who becomes a shining beacon to their following. Cult Leaders are these charismatic individuals, able to sway those on hard paths or uncertainties into the embrace of their ‘religion’. To fully indoctrinate others to their beliefs, potential followers are at first separated from friends and family. Once separated, the Cult Leader goes to work, spitting venomous doctrine in their ears and often ask of their followers vile things. The cult and its devotees eventually accept and follow the Cult Leader’s words without question.\\nA Cult Leader is more than just a charismatic person - they are a pontiff and a parent, and perhaps even a deity in their own right - feeding off the emotions of their followers. Many Cult Leaders become enamored with themselves, turning not to gods or Daemons, but towards self-worship. When gripped by insanity, a Cult Leader can easily destroy their own congregation for selfish purposes. More than one story has been told of a Cult Leader trapping their flock inside a compound while soldiers bargain for release - only for the Cult Leader to kill everyone inside, rather than being taken alive. More often than not, a disavowed Cult Leader will simply die, writhing in their own emissions as their flock abandons them at their last waking moment."
+    },
+    "notes": "",
+    "expert": {
+      "value": true,
+      "requirements": {
+        "skillRanks": [
+          {
+            "key": "charm",
+            "value": 2
+          },
+          {
+            "key": "education",
+            "value": 2
+          }
+        ],
+        "additional": "<p>-</p>"
+      }
+    },
+    "archetype": "Expert Profession",
+    "bonusAdvances": [
+      {
+        "name": "[BB]",
+        "purchased": false
+      },
+      {
+        "name": "[FB]",
+        "purchased": false
+      },
+      {
+        "name": "[FB]",
+        "purchased": false
+      },
+      {
+        "name": "[IB]",
+        "purchased": false
+      },
+      {
+        "name": "[IB]",
+        "purchased": false
+      },
+      {
+        "name": "[WB]",
+        "purchased": false
+      },
+      {
+        "name": "[WB]",
+        "purchased": false
+      }
+    ],
+    "skillRanks": [
+      {
+        "name": "Charm",
+        "purchased": false
+      },
+      {
+        "name": "Education",
+        "purchased": false
+      },
+      {
+        "name": "Folklore",
+        "purchased": false
+      },
+      {
+        "name": "Guile",
+        "purchased": false
+      },
+      {
+        "name": "Interrogation",
+        "purchased": false
+      },
+      {
+        "name": "Intimidate",
+        "purchased": false
+      },
+      {
+        "name": "Resolve",
+        "purchased": false
+      },
+      {
+        "name": "Rumor",
+        "purchased": false
+      },
+      {
+        "name": "Scrutinize",
+        "purchased": false
+      },
+      {
+        "name": "Simple Melee",
+        "purchased": false
+      }
+    ],
+    "talents": [
+      {
+        "linkedId": "WsD0GRMRKX8Ov0mT",
+        "name": "Impervious Mind",
+        "uuid": "Compendium.zweihander.zh-talents.Item.WsD0GRMRKX8Ov0mT"
+      },
+      {
+        "linkedId": "2BQgCknFDwpvM47Q",
+        "name": "Nerves of Steel",
+        "uuid": "Compendium.zweihander.zh-talents.Item.2BQgCknFDwpvM47Q"
+      },
+      {
+        "linkedId": "YNxzq8R08710DoOF",
+        "name": "Silver Tongue",
+        "uuid": "Compendium.zweihander.zh-talents.Item.YNxzq8R08710DoOF"
+      }
+    ],
+    "professionalTrait": {
+      "name": "Cult Indoctrination",
+      "uuid": "Compendium.zweihander.zh-traits.Item.kUntxghWnFOf1NEN",
+      "linkedId": null
+    },
+    "specialTrait": {
+      "name": "",
+      "uuid": "",
+      "linkedId": null
+    },
+    "drawback": {
+      "name": "Public Enemy",
+      "uuid": "Compendium.zweihander.zh-drawbacks.Item.ltGInmtf2UcPfJ22",
+      "linkedId": null
+    },
+    "tier": ""
+  },
+  "folder": null,
+  "sort": 2500000,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {},
+  "_key": "!items!6Cu1bpCrxb859EXZ"
+}

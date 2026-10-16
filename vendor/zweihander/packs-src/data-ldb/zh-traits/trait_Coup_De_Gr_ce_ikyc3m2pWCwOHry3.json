@@ -1,0 +1,37 @@
+{
+  "_id": "ikyc3m2pWCwOHry3",
+  "effects": [],
+  "img": "systems/zweihander/assets/icons/backstab.svg",
+  "name": "Coup De Grâce",
+  "type": "trait",
+  "_stats": {
+    "coreVersion": "13.342",
+    "systemId": "zweihander",
+    "systemVersion": "5.4.1",
+    "createdTime": null,
+    "modifiedTime": 1735911103094,
+    "lastModifiedBy": "rivg6xcMxdlVDM8y",
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "system": {
+    "description": {
+      "@en": "An Executioner deals the death stroke to those that kneel before them."
+    },
+    "notes": "",
+    "rules": {
+      "effect": {
+        "@en": "When you inflict Injuries with melee weapons, they are always considered to be Grievous Injuries unless you’re using a weapon possessing the Ineffective, Pummeling or Weak Qualities."
+      }
+    },
+    "category": "professional"
+  },
+  "folder": null,
+  "sort": 15300000,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {},
+  "_key": "!items!ikyc3m2pWCwOHry3"
+}

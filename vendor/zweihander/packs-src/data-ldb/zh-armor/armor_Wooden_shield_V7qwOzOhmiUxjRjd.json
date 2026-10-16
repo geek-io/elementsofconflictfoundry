@@ -1,0 +1,45 @@
+{
+  "_id": "V7qwOzOhmiUxjRjd",
+  "effects": [],
+  "img": "systems/zweihander/assets/icons/round-shield.svg",
+  "name": "Wooden Shield",
+  "type": "armor",
+  "_stats": {
+    "coreVersion": "13.342",
+    "systemId": "zweihander",
+    "systemVersion": "5.4.1",
+    "createdTime": null,
+    "modifiedTime": 1745251037265,
+    "lastModifiedBy": "rivg6xcMxdlVDM8y",
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "system": {
+    "description": {
+      "@en": "These shields are bought and painted beautifully, though among poorer soldiers they’re simply barrel lids or rotted, reappropriated oak doors. It actually provides a solid amount of defense – as long as they are not splintered or set ablaze."
+    },
+    "notes": "One-handed",
+    "price": {
+      "bp": 0,
+      "gc": 2,
+      "ss": 0,
+      "ad": null
+    },
+    "encumbrance": 1,
+    "carried": true,
+    "equipped": false,
+    "qualities": [
+      "Compendium.zweihander.zh-qualities.Item.8FWfohgwFCFmsfFR",
+      "Compendium.zweihander.zh-qualities.Item.vOutwhK95uttj9j8"
+    ],
+    "damageThresholdModifier": 0
+  },
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {},
+  "_key": "!items!V7qwOzOhmiUxjRjd"
+}

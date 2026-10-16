@@ -1,0 +1,144 @@
+{
+  "_id": "y9ORiK08M5BkqdBJ",
+  "effects": [],
+  "img": "systems/zweihander/assets/icons/cultist.svg",
+  "name": "Cultist",
+  "type": "profession",
+  "_stats": {
+    "coreVersion": "13.342",
+    "systemId": "zweihander",
+    "systemVersion": "5.4.1",
+    "createdTime": null,
+    "modifiedTime": 1734990834191,
+    "lastModifiedBy": "rivg6xcMxdlVDM8y",
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "system": {
+    "description": {
+      "@en": "In today’s grim & perilous world, it should be no surprise that there are aristocrats, burghers and the learned who seek power beyond their ossified positions in society. Perhaps they joined a fraternal club at university, found a musty tome in the family library, followed family tradition, listened to the folklore of old, or were simply bored. Inducted into dark societies, they practice rites of ages past, use sex Magick, make strange sacrifices, and appease forgotten or banned gods, all with one aim – to make the darkness kneel before them. And over time, they can learn to command a sliver of the same divine ‘grace’ as worshipers of state-sanctioned religions and employ the darkest of Magicks for their own benefit – power both temporal and material.\nEvery Cultist knows they run the risk of losing their very soul in exchange for power. Such a yearning is never easy; it must be practiced in secret, lest they risk persecution. It explains why so many band together in secret clubs to practice their faith together – safety in numbers. Their desire for dark knowledge means that some also take up the adventuring life, because adventurers are more likely to uncover baleful knowledge and artifacts than anyone else. Of course, this knowledge claws at the minds of the impressionable and many become raving lunatics locked away in distant sanitariums where they converse with the voice of the Abyss."
+    },
+    "notes": "",
+    "expert": {
+      "value": false,
+      "requirements": {
+        "skillRanks": [],
+        "additional": ""
+      }
+    },
+    "archetype": "Socialite",
+    "bonusAdvances": [
+      {
+        "name": "[FB]",
+        "purchased": false
+      },
+      {
+        "name": "[IB]",
+        "purchased": false
+      },
+      {
+        "name": "[IB]",
+        "purchased": false
+      },
+      {
+        "name": "[PB]",
+        "purchased": false
+      },
+      {
+        "name": "[PB]",
+        "purchased": false
+      },
+      {
+        "name": "[WB]",
+        "purchased": false
+      },
+      {
+        "name": "[WB]",
+        "purchased": false
+      }
+    ],
+    "skillRanks": [
+      {
+        "name": "Eavesdrop",
+        "purchased": false
+      },
+      {
+        "name": "Education",
+        "purchased": false
+      },
+      {
+        "name": "Folklore",
+        "purchased": false
+      },
+      {
+        "name": "Guile",
+        "purchased": false
+      },
+      {
+        "name": "Incantation",
+        "purchased": false
+      },
+      {
+        "name": "Navigation",
+        "purchased": false
+      },
+      {
+        "name": "Resolve",
+        "purchased": false
+      },
+      {
+        "name": "Rumor",
+        "purchased": false
+      },
+      {
+        "name": "Scrutinize",
+        "purchased": false
+      },
+      {
+        "name": "Simple Melee",
+        "purchased": false
+      }
+    ],
+    "talents": [
+      {
+        "linkedId": "cmpM3lJrRrftzSaX",
+        "name": "Blood Magick",
+        "uuid": "Compendium.zweihander.zh-talents.Item.cmpM3lJrRrftzSaX"
+      },
+      {
+        "linkedId": "AHui6a3KaaMWrKp1",
+        "name": "Forked Tongue",
+        "uuid": "Compendium.zweihander.zh-talents.Item.AHui6a3KaaMWrKp1"
+      },
+      {
+        "linkedId": "sr0nQ2JrQV4DnTeU",
+        "name": "Secret Signs",
+        "uuid": "Compendium.zweihander.zh-talents.Item.sr0nQ2JrQV4DnTeU"
+      }
+    ],
+    "professionalTrait": {
+      "name": "Cult of Personality",
+      "uuid": "Compendium.zweihander.zh-traits.Item.vhTc3N2WZlrkDX3g",
+      "linkedId": null
+    },
+    "specialTrait": {
+      "name": "Divine Magick",
+      "uuid": "Compendium.zweihander.zh-traits.Item.7hbSL3txePqSbctr",
+      "linkedId": null
+    },
+    "drawback": {
+      "name": "Cruel Tutelage",
+      "uuid": "Compendium.zweihander.zh-drawbacks.Item.Cf1R7mSlDEAQPW7t",
+      "linkedId": null
+    },
+    "tier": ""
+  },
+  "folder": null,
+  "sort": 17700000,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {},
+  "_key": "!items!y9ORiK08M5BkqdBJ"
+}

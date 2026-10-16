@@ -1,0 +1,153 @@
+{
+  "_id": "abi1FnvKpTyvYrkO",
+  "effects": [],
+  "img": "systems/zweihander/assets/icons/rune-thane.svg",
+  "name": "Rune Thane",
+  "type": "profession",
+  "_stats": {
+    "coreVersion": "13.342",
+    "systemId": "zweihander",
+    "systemVersion": "5.4.1",
+    "createdTime": null,
+    "modifiedTime": 1735050281853,
+    "lastModifiedBy": "rivg6xcMxdlVDM8y",
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "system": {
+    "description": {
+      "@en": "Deep underground and in fallen places, carvings in odd languages and scripts have been found. Many remain a mystery, but the most common and oldest letters are the runes, both a complete alphabet for the language of a lost civilization and enchanted primal sounds that produce effects when they are inscribed. These self-described Rune Thanes are artisans of the highest caliber, focusing all their energy and attention on the weapons and runes they produce. They are not quite spell casters, nor mundane researchers, as the purpose and use of runes lies somewhere in between of a nebulous grey area. Rune Thanes make much of their living wage as blacksmiths, as runes are one of the only reliable ways to produce ‘Magic Weapons’ without terrible drawbacks.\nThough most of the runic alphabet has been discovered, many Rune Thanes believe there are yet more eldritch runes waiting to be found. They take to the road, serving as ‘enchanters’ of a sort for their allies, as well as being welltravelled and conversant in several languages. Where manyspell casters are untrusted, the Rune Thane is barely given a glance, their Magick being subtle and only used on objects and not people. Other wizards argue that there is something dangerous within the runes, for Magick in a grim & perilous world is never pure and contains its own destruction. So they warn that the runes are hiding their horrid potential for the right moment. Many Rune Thanes have gone insane studying and staring into the lusty glow of the runes, drawn into a world and a time that no longer exists, becoming furious and choleric when their inscriptions seemingly twist to another purpose."
+    },
+    "notes": "",
+    "expert": {
+      "value": true,
+      "requirements": {
+        "skillRanks": [
+          {
+            "key": "resolve",
+            "value": 1
+          },
+          {
+            "key": "tradecraft",
+            "value": 1
+          }
+        ],
+        "additional": "<p>-</p>"
+      }
+    },
+    "archetype": "Expert Profession",
+    "bonusAdvances": [
+      {
+        "name": "[AB]",
+        "purchased": false
+      },
+      {
+        "name": "[AB]",
+        "purchased": false
+      },
+      {
+        "name": "[BB]",
+        "purchased": false
+      },
+      {
+        "name": "[BB]",
+        "purchased": false
+      },
+      {
+        "name": "[CB]",
+        "purchased": false
+      },
+      {
+        "name": "[IB]",
+        "purchased": false
+      },
+      {
+        "name": "[IB]",
+        "purchased": false
+      }
+    ],
+    "skillRanks": [
+      {
+        "name": "Alchemy",
+        "purchased": false
+      },
+      {
+        "name": "Athletics",
+        "purchased": false
+      },
+      {
+        "name": "Coordination",
+        "purchased": false
+      },
+      {
+        "name": "Education",
+        "purchased": false
+      },
+      {
+        "name": "Folklore",
+        "purchased": false
+      },
+      {
+        "name": "Martial Melee",
+        "purchased": false
+      },
+      {
+        "name": "Resolve",
+        "purchased": false
+      },
+      {
+        "name": "Ride",
+        "purchased": false
+      },
+      {
+        "name": "Simple Melee",
+        "purchased": false
+      },
+      {
+        "name": "Tradecraft",
+        "purchased": false
+      }
+    ],
+    "talents": [
+      {
+        "linkedId": "UMcOubezruAYIWze",
+        "name": "Determination",
+        "uuid": "Compendium.zweihander.zh-talents.Item.UMcOubezruAYIWze"
+      },
+      {
+        "linkedId": "WsD0GRMRKX8Ov0mT",
+        "name": "Impervious Mind",
+        "uuid": "Compendium.zweihander.zh-talents.Item.WsD0GRMRKX8Ov0mT"
+      },
+      {
+        "linkedId": "Iiu9G1OsUFo0Tiw6",
+        "name": "Instincts",
+        "uuid": "Compendium.zweihander.zh-talents.Item.Iiu9G1OsUFo0Tiw6"
+      }
+    ],
+    "professionalTrait": {
+      "name": "Elder Futhark",
+      "uuid": "Compendium.zweihander.zh-traits.Item.Wx0TZHB8ghGoBzwV",
+      "linkedId": null
+    },
+    "specialTrait": {
+      "name": "",
+      "uuid": "",
+      "linkedId": null
+    },
+    "drawback": {
+      "name": "Wallow In Misery",
+      "uuid": "Compendium.zweihander.zh-drawbacks.Item.In4s1ArMmuOYsIfa",
+      "linkedId": null
+    },
+    "tier": ""
+  },
+  "folder": null,
+  "sort": 11200000,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {},
+  "_key": "!items!abi1FnvKpTyvYrkO"
+}

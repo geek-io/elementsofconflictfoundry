@@ -1,0 +1,1849 @@
+{
+  "_id": "t6RRKQQvuCMdQ5L0",
+  "effects": [],
+  "img": "systems/zweihander/assets/tokens-border/orx_bigboss.webp",
+  "items": [
+    {
+      "_id": "Jy6p17HGlB0QSMM0",
+      "_stats": {
+        "coreVersion": "13.342",
+        "createdTime": 1670641943263,
+        "lastModifiedBy": "lALaOinxcjw7OSz8",
+        "modifiedTime": 1670642274857,
+        "systemId": "zweihander",
+        "systemVersion": "5.0.4",
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "effects": [],
+      "flags": {},
+      "folder": null,
+      "img": "systems/zweihander/assets/icons/crossed-chains.svg",
+      "name": "Rusted Chains",
+      "ownership": {
+        "default": 0,
+        "lALaOinxcjw7OSz8": 3
+      },
+      "sort": 0,
+      "system": {
+        "description": {
+          "@en": ""
+        },
+        "notes": "",
+        "price": {
+          "bp": 0,
+          "gc": 0,
+          "ss": 0
+        },
+        "encumbrance": 1,
+        "carried": true,
+        "weaponType": "Crushing",
+        "equipped": false,
+        "associatedSkill": "Simple Melee",
+        "ranged": {
+          "load": 0,
+          "value": false
+        },
+        "handling": "One-handed",
+        "qualities": [
+          "Compendium.zweihander.zh-qualities.Item.M5GL0fE9wFHhBqjJ",
+          "Compendium.zweihander.zh-qualities.Item.XX3z9Md3skZ2CqTh",
+          "Compendium.zweihander.zh-qualities.Item.HZVu7VfwJDkoCO1U"
+        ],
+        "distance": {
+          "value": "Engaged",
+          "base": "[PB]",
+          "bonus": 0
+        },
+        "damage": {
+          "formula": {
+            "override": false,
+            "value": "[BB] + 0 + (1+[#])d6x6"
+          },
+          "attributeBonus": "[BB]",
+          "number": 1,
+          "die": "d6",
+          "bonus": 0,
+          "fury": {
+            "value": true,
+            "explodesOn": [
+              "6"
+            ]
+          }
+        },
+        "load": 0
+      },
+      "type": "weapon",
+      "_key": "!actors.items!t6RRKQQvuCMdQ5L0.Jy6p17HGlB0QSMM0"
+    },
+    {
+      "_id": "wP6vx5lUHjSJNCh1",
+      "_stats": {
+        "coreVersion": "13.342",
+        "createdTime": 1670642145435,
+        "lastModifiedBy": "lALaOinxcjw7OSz8",
+        "modifiedTime": 1670642228270,
+        "systemId": "zweihander",
+        "systemVersion": "5.0.4",
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "effects": [],
+      "flags": {},
+      "folder": null,
+      "img": "systems/zweihander/assets/icons/chest-armor.svg",
+      "name": "Brigandine",
+      "ownership": {
+        "default": 0,
+        "lALaOinxcjw7OSz8": 3
+      },
+      "sort": 0,
+      "system": {
+        "description": {
+          "@en": ""
+        },
+        "notes": "",
+        "price": {
+          "bp": 0,
+          "gc": 33,
+          "ss": 0
+        },
+        "encumbrance": 4,
+        "carried": true,
+        "rules": {
+          "effect": {
+            "@en": ""
+          }
+        },
+        "details": {
+          "category": {
+            "@en": "Armor"
+          }
+        },
+        "quantity": 1
+      },
+      "type": "trapping",
+      "_key": "!actors.items!t6RRKQQvuCMdQ5L0.wP6vx5lUHjSJNCh1"
+    },
+    {
+      "_id": "mybtsdESTLuw7oQi",
+      "_stats": {
+        "coreVersion": "13.342",
+        "createdTime": 1670642230715,
+        "lastModifiedBy": "lALaOinxcjw7OSz8",
+        "modifiedTime": 1670642246569,
+        "systemId": "zweihander",
+        "systemVersion": "5.0.4",
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "effects": [],
+      "flags": {},
+      "folder": null,
+      "img": "systems/zweihander/assets/icons/flanged-mace.svg",
+      "name": "Flanged Mace",
+      "ownership": {
+        "default": 0,
+        "lALaOinxcjw7OSz8": 3
+      },
+      "sort": 0,
+      "system": {
+        "description": {
+          "@en": ""
+        },
+        "notes": "",
+        "price": {
+          "bp": 0,
+          "gc": 0,
+          "ss": 0
+        },
+        "encumbrance": 0,
+        "carried": true,
+        "rules": {
+          "effect": {
+            "@en": ""
+          }
+        },
+        "details": {
+          "category": {
+            "@en": ""
+          }
+        },
+        "quantity": 1
+      },
+      "type": "trapping",
+      "_key": "!actors.items!t6RRKQQvuCMdQ5L0.mybtsdESTLuw7oQi"
+    },
+    {
+      "_id": "8WFATcVdce9PoI7Q",
+      "_stats": {
+        "coreVersion": "13.342",
+        "createdTime": 1670642412873,
+        "lastModifiedBy": "lALaOinxcjw7OSz8",
+        "modifiedTime": 1670642451353,
+        "systemId": "zweihander",
+        "systemVersion": "5.0.4",
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "effects": [],
+      "flags": {},
+      "folder": null,
+      "img": "systems/zweihander/assets/icons/crossed-chains.svg",
+      "name": "Rusted Chains",
+      "ownership": {
+        "default": 0,
+        "lALaOinxcjw7OSz8": 3
+      },
+      "sort": 0,
+      "system": {
+        "description": {
+          "@en": ""
+        },
+        "notes": "",
+        "price": {
+          "bp": 0,
+          "gc": 0,
+          "ss": 0
+        },
+        "encumbrance": 2,
+        "carried": true,
+        "rules": {
+          "effect": {
+            "@en": ""
+          }
+        },
+        "details": {
+          "category": {
+            "@en": "Weapon"
+          }
+        },
+        "quantity": 1
+      },
+      "type": "trapping",
+      "_key": "!actors.items!t6RRKQQvuCMdQ5L0.8WFATcVdce9PoI7Q"
+    },
+    {
+      "_id": "jbt9RrgyQunPC5S3",
+      "effects": [],
+      "img": "systems/zweihander/assets/icons/hunter-eyes.svg",
+      "name": "Dark Sense",
+      "system": {
+        "description": {
+          "@en": ""
+        },
+        "notes": "",
+        "rules": {
+          "effect": {
+            "@en": "These creatures can see in the dark."
+          }
+        },
+        "category": "creature"
+      },
+      "type": "trait",
+      "_stats": {
+        "coreVersion": "13.342",
+        "systemId": "zweihander",
+        "systemVersion": "5.4.1",
+        "createdTime": null,
+        "modifiedTime": 1745449022164,
+        "lastModifiedBy": "rivg6xcMxdlVDM8y",
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "folder": null,
+      "sort": 0,
+      "ownership": {
+        "default": 0
+      },
+      "flags": {},
+      "_key": "!actors.items!t6RRKQQvuCMdQ5L0.jbt9RrgyQunPC5S3"
+    },
+    {
+      "_id": "oaMgp53eSq6LUIMj",
+      "effects": [],
+      "img": "systems/zweihander/assets/icons/brass-knuckles.svg",
+      "name": "Shootfighting",
+      "system": {
+        "description": {
+          "@en": ""
+        },
+        "notes": "",
+        "rules": {
+          "effect": {
+            "@en": "These creatures ignore the Pummeling and Weak Qualities when fighting bare-handed, with a blackjack or using knuckledusters. In addition, they can refer to [BB] or [CB] when inflicting Damage with these same weapons."
+          }
+        },
+        "category": "creature"
+      },
+      "type": "trait",
+      "_stats": {
+        "coreVersion": "13.342",
+        "systemId": "zweihander",
+        "systemVersion": "5.4.1",
+        "createdTime": null,
+        "modifiedTime": 1745449022179,
+        "lastModifiedBy": "rivg6xcMxdlVDM8y",
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "folder": null,
+      "sort": 0,
+      "ownership": {
+        "default": 0
+      },
+      "flags": {},
+      "_key": "!actors.items!t6RRKQQvuCMdQ5L0.oaMgp53eSq6LUIMj"
+    },
+    {
+      "_id": "mi9ZXkdTDkosZ2U2",
+      "effects": [],
+      "img": "systems/zweihander/assets/icons/brain.svg",
+      "name": "Steely Fortitude",
+      "system": {
+        "description": {
+          "@en": ""
+        },
+        "notes": "",
+        "rules": {
+          "effect": {
+            "@en": "These creatures always succeed at Resolve Tests and cannot be Intimidated."
+          }
+        },
+        "category": "creature"
+      },
+      "type": "trait",
+      "_stats": {
+        "coreVersion": "13.342",
+        "systemId": "zweihander",
+        "systemVersion": "5.4.1",
+        "createdTime": null,
+        "modifiedTime": 1745449022183,
+        "lastModifiedBy": "rivg6xcMxdlVDM8y",
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "folder": null,
+      "sort": 0,
+      "ownership": {
+        "default": 0
+      },
+      "flags": {},
+      "_key": "!actors.items!t6RRKQQvuCMdQ5L0.mi9ZXkdTDkosZ2U2"
+    },
+    {
+      "_id": "Lkum13sYHRDuixQv",
+      "effects": [],
+      "img": "systems/zweihander/assets/icons/flanged-mace.svg",
+      "name": "Flanged mace",
+      "type": "weapon",
+      "_stats": {
+        "coreVersion": "13.342",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "system": {
+        "description": {
+          "@en": "<p>A metal version of the cudgel, it comes in a myriad of designs. Used by priests because they are &lsquo;gentler&rsquo; than a blade, though many caved-in skulls rebuke this fact.</p>"
+        },
+        "notes": "",
+        "price": {
+          "bp": "0",
+          "gc": "5",
+          "ss": "0"
+        },
+        "encumbrance": 1,
+        "carried": true,
+        "weaponType": "Crushing",
+        "equipped": false,
+        "associatedSkill": "Martial Melee",
+        "ranged": {
+          "load": 0,
+          "value": false
+        },
+        "handling": "One-handed",
+        "qualities": [
+          "Compendium.zweihander.zh-qualities.Item.Rg7ayPFAQ8iYSTDz"
+        ],
+        "distance": {
+          "value": "Engaged",
+          "base": "[PB]",
+          "bonus": 0
+        },
+        "damage": {
+          "formula": {
+            "override": false,
+            "value": "[CB] + 1 + (1+[#])d6x6"
+          },
+          "attributeBonus": "[CB]",
+          "number": 1,
+          "die": "d6",
+          "bonus": 0,
+          "fury": {
+            "value": true,
+            "explodesOn": [
+              "6"
+            ]
+          }
+        },
+        "load": 0
+      },
+      "folder": null,
+      "sort": 0,
+      "ownership": {
+        "default": 0
+      },
+      "flags": {},
+      "_key": "!actors.items!t6RRKQQvuCMdQ5L0.Lkum13sYHRDuixQv"
+    },
+    {
+      "_id": "013qebwwR0UsPJW3",
+      "effects": [],
+      "img": "systems/zweihander/assets/icons/skills.svg",
+      "name": "Alchemy",
+      "type": "skill",
+      "_stats": {
+        "coreVersion": "13.342",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "system": {
+        "description": {
+          "@en": ""
+        },
+        "notes": "",
+        "requiresTraining": true,
+        "associatedPrimaryAttribute": "Intelligence",
+        "bonusPerRank": 10
+      },
+      "folder": null,
+      "sort": 0,
+      "ownership": {
+        "default": 0
+      },
+      "flags": {},
+      "_key": "!actors.items!t6RRKQQvuCMdQ5L0.013qebwwR0UsPJW3"
+    },
+    {
+      "_id": "09BoIxH6f7X0JR7D",
+      "effects": [],
+      "img": "systems/zweihander/assets/icons/skills.svg",
+      "name": "Leadership",
+      "type": "skill",
+      "_stats": {
+        "coreVersion": "13.342",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "system": {
+        "description": {
+          "@en": ""
+        },
+        "notes": "",
+        "requiresTraining": true,
+        "associatedPrimaryAttribute": "Fellowship",
+        "bonusPerRank": 10
+      },
+      "folder": null,
+      "sort": 0,
+      "ownership": {
+        "default": 0
+      },
+      "flags": {},
+      "_key": "!actors.items!t6RRKQQvuCMdQ5L0.09BoIxH6f7X0JR7D"
+    },
+    {
+      "_id": "0H1aT1HQINq8euom",
+      "effects": [],
+      "img": "systems/zweihander/assets/icons/skills.svg",
+      "name": "Drive",
+      "type": "skill",
+      "_stats": {
+        "coreVersion": "13.342",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "system": {
+        "description": {
+          "@en": ""
+        },
+        "notes": "",
+        "requiresTraining": true,
+        "associatedPrimaryAttribute": "Brawn",
+        "bonusPerRank": 10
+      },
+      "folder": null,
+      "sort": 0,
+      "ownership": {
+        "default": 0
+      },
+      "flags": {},
+      "_key": "!actors.items!t6RRKQQvuCMdQ5L0.0H1aT1HQINq8euom"
+    },
+    {
+      "_id": "3KDvQ8zcNOxrcZIT",
+      "effects": [],
+      "img": "systems/zweihander/assets/icons/skills.svg",
+      "name": "Incantation",
+      "type": "skill",
+      "_stats": {
+        "coreVersion": "13.342",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "system": {
+        "description": {
+          "@en": ""
+        },
+        "notes": "",
+        "requiresTraining": true,
+        "associatedPrimaryAttribute": "Willpower",
+        "bonusPerRank": 10
+      },
+      "folder": null,
+      "sort": 0,
+      "ownership": {
+        "default": 0
+      },
+      "flags": {},
+      "_key": "!actors.items!t6RRKQQvuCMdQ5L0.3KDvQ8zcNOxrcZIT"
+    },
+    {
+      "_id": "4EXrIhf6XL3cC8YW",
+      "effects": [],
+      "img": "systems/zweihander/assets/icons/skills.svg",
+      "name": "Ride",
+      "type": "skill",
+      "_stats": {
+        "coreVersion": "13.342",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "system": {
+        "description": {
+          "@en": ""
+        },
+        "notes": "",
+        "requiresTraining": true,
+        "associatedPrimaryAttribute": "Agility",
+        "bonusPerRank": 10
+      },
+      "folder": null,
+      "sort": 0,
+      "ownership": {
+        "default": 0
+      },
+      "flags": {},
+      "_key": "!actors.items!t6RRKQQvuCMdQ5L0.4EXrIhf6XL3cC8YW"
+    },
+    {
+      "_id": "53GCwqszF0yw3Evx",
+      "effects": [],
+      "img": "systems/zweihander/assets/icons/skills.svg",
+      "name": "Heal",
+      "type": "skill",
+      "_stats": {
+        "coreVersion": "13.342",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "system": {
+        "description": {
+          "@en": ""
+        },
+        "notes": "",
+        "requiresTraining": true,
+        "associatedPrimaryAttribute": "Intelligence",
+        "bonusPerRank": 10
+      },
+      "folder": null,
+      "sort": 0,
+      "ownership": {
+        "default": 0
+      },
+      "flags": {},
+      "_key": "!actors.items!t6RRKQQvuCMdQ5L0.53GCwqszF0yw3Evx"
+    },
+    {
+      "_id": "6clcPZpa4nmW37WE",
+      "effects": [],
+      "img": "systems/zweihander/assets/icons/skills.svg",
+      "name": "Handle Animal",
+      "type": "skill",
+      "_stats": {
+        "coreVersion": "13.342",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "system": {
+        "description": {
+          "@en": ""
+        },
+        "notes": "",
+        "requiresTraining": true,
+        "associatedPrimaryAttribute": "Fellowship",
+        "bonusPerRank": 10
+      },
+      "folder": null,
+      "sort": 0,
+      "ownership": {
+        "default": 0
+      },
+      "flags": {},
+      "_key": "!actors.items!t6RRKQQvuCMdQ5L0.6clcPZpa4nmW37WE"
+    },
+    {
+      "_id": "7nFbNzvVCTXOPOJP",
+      "effects": [],
+      "img": "systems/zweihander/assets/icons/skills.svg",
+      "name": "Intimidate",
+      "type": "skill",
+      "_stats": {
+        "coreVersion": "13.342",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "system": {
+        "description": {
+          "@en": ""
+        },
+        "notes": "",
+        "requiresTraining": false,
+        "associatedPrimaryAttribute": "Brawn",
+        "bonusPerRank": 10
+      },
+      "folder": null,
+      "sort": 0,
+      "ownership": {
+        "default": 0
+      },
+      "flags": {},
+      "_key": "!actors.items!t6RRKQQvuCMdQ5L0.7nFbNzvVCTXOPOJP"
+    },
+    {
+      "_id": "DUaQ3tJnvJT7kSv1",
+      "effects": [],
+      "img": "systems/zweihander/assets/icons/skills.svg",
+      "name": "Warfare",
+      "type": "skill",
+      "_stats": {
+        "coreVersion": "13.342",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "system": {
+        "description": {
+          "@en": ""
+        },
+        "notes": "",
+        "requiresTraining": true,
+        "associatedPrimaryAttribute": "Intelligence",
+        "bonusPerRank": 10
+      },
+      "folder": null,
+      "sort": 0,
+      "ownership": {
+        "default": 0
+      },
+      "flags": {},
+      "_key": "!actors.items!t6RRKQQvuCMdQ5L0.DUaQ3tJnvJT7kSv1"
+    },
+    {
+      "_id": "Flo1wDWXkfgHgmSC",
+      "effects": [],
+      "img": "systems/zweihander/assets/icons/skills.svg",
+      "name": "Navigation",
+      "type": "skill",
+      "_stats": {
+        "coreVersion": "13.342",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "system": {
+        "description": {
+          "@en": ""
+        },
+        "notes": "",
+        "requiresTraining": true,
+        "associatedPrimaryAttribute": "Intelligence",
+        "bonusPerRank": 10
+      },
+      "folder": null,
+      "sort": 0,
+      "ownership": {
+        "default": 0
+      },
+      "flags": {},
+      "_key": "!actors.items!t6RRKQQvuCMdQ5L0.Flo1wDWXkfgHgmSC"
+    },
+    {
+      "_id": "ISOWU2LXU4UStMlM",
+      "effects": [],
+      "img": "systems/zweihander/assets/icons/skills.svg",
+      "name": "Simple Melee",
+      "type": "skill",
+      "_stats": {
+        "coreVersion": "13.342",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "system": {
+        "description": {
+          "@en": ""
+        },
+        "notes": "",
+        "requiresTraining": false,
+        "associatedPrimaryAttribute": "Combat",
+        "bonusPerRank": 10
+      },
+      "folder": null,
+      "sort": 0,
+      "ownership": {
+        "default": 0
+      },
+      "flags": {},
+      "_key": "!actors.items!t6RRKQQvuCMdQ5L0.ISOWU2LXU4UStMlM"
+    },
+    {
+      "_id": "Mxz4jZ5qVxfTt21c",
+      "effects": [],
+      "img": "systems/zweihander/assets/icons/skills.svg",
+      "name": "Counterfeit",
+      "type": "skill",
+      "_stats": {
+        "coreVersion": "13.342",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "system": {
+        "description": {
+          "@en": ""
+        },
+        "notes": "",
+        "requiresTraining": true,
+        "associatedPrimaryAttribute": "Intelligence",
+        "bonusPerRank": 10
+      },
+      "folder": null,
+      "sort": 0,
+      "ownership": {
+        "default": 0
+      },
+      "flags": {},
+      "_key": "!actors.items!t6RRKQQvuCMdQ5L0.Mxz4jZ5qVxfTt21c"
+    },
+    {
+      "_id": "NcUHZKUfmCZzifrC",
+      "effects": [],
+      "img": "systems/zweihander/assets/icons/skills.svg",
+      "name": "Disguise",
+      "type": "skill",
+      "_stats": {
+        "coreVersion": "13.342",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "system": {
+        "description": {
+          "@en": ""
+        },
+        "notes": "",
+        "requiresTraining": true,
+        "associatedPrimaryAttribute": "Fellowship",
+        "bonusPerRank": 10
+      },
+      "folder": null,
+      "sort": 0,
+      "ownership": {
+        "default": 0
+      },
+      "flags": {},
+      "_key": "!actors.items!t6RRKQQvuCMdQ5L0.NcUHZKUfmCZzifrC"
+    },
+    {
+      "_id": "O9q1tMNrfA7yL1Wc",
+      "effects": [],
+      "img": "systems/zweihander/assets/icons/skills.svg",
+      "name": "Resolve",
+      "type": "skill",
+      "_stats": {
+        "coreVersion": "13.342",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "system": {
+        "description": {
+          "@en": ""
+        },
+        "notes": "",
+        "requiresTraining": false,
+        "associatedPrimaryAttribute": "Willpower",
+        "bonusPerRank": 10
+      },
+      "folder": null,
+      "sort": 0,
+      "ownership": {
+        "default": 0
+      },
+      "flags": {},
+      "_key": "!actors.items!t6RRKQQvuCMdQ5L0.O9q1tMNrfA7yL1Wc"
+    },
+    {
+      "_id": "PeqUxOLue5z66RkH",
+      "effects": [],
+      "img": "systems/zweihander/assets/icons/skills.svg",
+      "name": "Athletics",
+      "type": "skill",
+      "_stats": {
+        "coreVersion": "13.342",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "system": {
+        "description": {
+          "@en": ""
+        },
+        "notes": "",
+        "requiresTraining": false,
+        "associatedPrimaryAttribute": "Brawn",
+        "bonusPerRank": 10
+      },
+      "folder": null,
+      "sort": 0,
+      "ownership": {
+        "default": 0
+      },
+      "flags": {},
+      "_key": "!actors.items!t6RRKQQvuCMdQ5L0.PeqUxOLue5z66RkH"
+    },
+    {
+      "_id": "RS3JSDoEMtQ9g9ci",
+      "effects": [],
+      "img": "systems/zweihander/assets/icons/skills.svg",
+      "name": "Pilot",
+      "type": "skill",
+      "_stats": {
+        "coreVersion": "13.342",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "system": {
+        "description": {
+          "@en": ""
+        },
+        "notes": "",
+        "requiresTraining": true,
+        "associatedPrimaryAttribute": "Agility",
+        "bonusPerRank": 10
+      },
+      "folder": null,
+      "sort": 0,
+      "ownership": {
+        "default": 0
+      },
+      "flags": {},
+      "_key": "!actors.items!t6RRKQQvuCMdQ5L0.RS3JSDoEMtQ9g9ci"
+    },
+    {
+      "_id": "UpCT6nM1pDrrwDNb",
+      "effects": [],
+      "img": "systems/zweihander/assets/icons/skills.svg",
+      "name": "Scrutinize",
+      "type": "skill",
+      "_stats": {
+        "coreVersion": "13.342",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "system": {
+        "description": {
+          "@en": ""
+        },
+        "notes": "",
+        "requiresTraining": false,
+        "associatedPrimaryAttribute": "Perception",
+        "bonusPerRank": 10
+      },
+      "folder": null,
+      "sort": 0,
+      "ownership": {
+        "default": 0
+      },
+      "flags": {},
+      "_key": "!actors.items!t6RRKQQvuCMdQ5L0.UpCT6nM1pDrrwDNb"
+    },
+    {
+      "_id": "UviSlLkTASDHsfWE",
+      "effects": [],
+      "img": "systems/zweihander/assets/icons/skills.svg",
+      "name": "Folklore",
+      "type": "skill",
+      "_stats": {
+        "coreVersion": "13.342",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "system": {
+        "description": {
+          "@en": ""
+        },
+        "notes": "",
+        "requiresTraining": false,
+        "associatedPrimaryAttribute": "Intelligence",
+        "bonusPerRank": 10
+      },
+      "folder": null,
+      "sort": 0,
+      "ownership": {
+        "default": 0
+      },
+      "flags": {},
+      "_key": "!actors.items!t6RRKQQvuCMdQ5L0.UviSlLkTASDHsfWE"
+    },
+    {
+      "_id": "VvGLd58xqVsauasU",
+      "effects": [],
+      "img": "systems/zweihander/assets/icons/skills.svg",
+      "name": "Skulduggery",
+      "type": "skill",
+      "_stats": {
+        "coreVersion": "13.342",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "system": {
+        "description": {
+          "@en": ""
+        },
+        "notes": "",
+        "requiresTraining": true,
+        "associatedPrimaryAttribute": "Agility",
+        "bonusPerRank": 10
+      },
+      "folder": null,
+      "sort": 0,
+      "ownership": {
+        "default": 0
+      },
+      "flags": {},
+      "_key": "!actors.items!t6RRKQQvuCMdQ5L0.VvGLd58xqVsauasU"
+    },
+    {
+      "_id": "WrVlpX7sExHC3Vhz",
+      "effects": [],
+      "img": "systems/zweihander/assets/icons/skills.svg",
+      "name": "Education",
+      "type": "skill",
+      "_stats": {
+        "coreVersion": "13.342",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "system": {
+        "description": {
+          "@en": ""
+        },
+        "notes": "",
+        "requiresTraining": true,
+        "associatedPrimaryAttribute": "Intelligence",
+        "bonusPerRank": 10
+      },
+      "folder": null,
+      "sort": 0,
+      "ownership": {
+        "default": 0
+      },
+      "flags": {},
+      "_key": "!actors.items!t6RRKQQvuCMdQ5L0.WrVlpX7sExHC3Vhz"
+    },
+    {
+      "_id": "YVo0t79ZC3uNCpb6",
+      "effects": [],
+      "img": "systems/zweihander/assets/icons/skills.svg",
+      "name": "Martial Melee",
+      "type": "skill",
+      "_stats": {
+        "coreVersion": "13.342",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "system": {
+        "description": {
+          "@en": ""
+        },
+        "notes": "",
+        "requiresTraining": true,
+        "associatedPrimaryAttribute": "Combat",
+        "bonusPerRank": 10
+      },
+      "folder": null,
+      "sort": 0,
+      "ownership": {
+        "default": 0
+      },
+      "flags": {},
+      "_key": "!actors.items!t6RRKQQvuCMdQ5L0.YVo0t79ZC3uNCpb6"
+    },
+    {
+      "_id": "aG2PyFqhpBm2yfuN",
+      "effects": [],
+      "img": "systems/zweihander/assets/icons/skills.svg",
+      "name": "Bargain",
+      "type": "skill",
+      "_stats": {
+        "coreVersion": "13.342",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "system": {
+        "description": {
+          "@en": ""
+        },
+        "notes": "",
+        "requiresTraining": false,
+        "associatedPrimaryAttribute": "Fellowship",
+        "bonusPerRank": 10
+      },
+      "folder": null,
+      "sort": 0,
+      "ownership": {
+        "default": 0
+      },
+      "flags": {},
+      "_key": "!actors.items!t6RRKQQvuCMdQ5L0.aG2PyFqhpBm2yfuN"
+    },
+    {
+      "_id": "b0AdxogFI1ePq069",
+      "effects": [],
+      "img": "systems/zweihander/assets/icons/skills.svg",
+      "name": "Gamble",
+      "type": "skill",
+      "_stats": {
+        "coreVersion": "13.342",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "system": {
+        "description": {
+          "@en": ""
+        },
+        "notes": "",
+        "requiresTraining": false,
+        "associatedPrimaryAttribute": "Intelligence",
+        "bonusPerRank": 10
+      },
+      "folder": null,
+      "sort": 0,
+      "ownership": {
+        "default": 0
+      },
+      "flags": {},
+      "_key": "!actors.items!t6RRKQQvuCMdQ5L0.b0AdxogFI1ePq069"
+    },
+    {
+      "_id": "cOXHjdhyXZFIOrPR",
+      "effects": [],
+      "img": "systems/zweihander/assets/icons/skills.svg",
+      "name": "Awareness",
+      "type": "skill",
+      "_stats": {
+        "coreVersion": "13.342",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "system": {
+        "description": {
+          "@en": ""
+        },
+        "notes": "",
+        "requiresTraining": false,
+        "associatedPrimaryAttribute": "Perception",
+        "bonusPerRank": 10
+      },
+      "folder": null,
+      "sort": 0,
+      "ownership": {
+        "default": 0
+      },
+      "flags": {},
+      "_key": "!actors.items!t6RRKQQvuCMdQ5L0.cOXHjdhyXZFIOrPR"
+    },
+    {
+      "_id": "cOgVWBkWyhZB09YG",
+      "effects": [],
+      "img": "systems/zweihander/assets/icons/skills.svg",
+      "name": "Tradecraft",
+      "type": "skill",
+      "_stats": {
+        "coreVersion": "13.342",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "system": {
+        "description": {
+          "@en": ""
+        },
+        "notes": "",
+        "requiresTraining": true,
+        "associatedPrimaryAttribute": "Willpower",
+        "bonusPerRank": 10
+      },
+      "folder": null,
+      "sort": 0,
+      "ownership": {
+        "default": 0
+      },
+      "flags": {},
+      "_key": "!actors.items!t6RRKQQvuCMdQ5L0.cOgVWBkWyhZB09YG"
+    },
+    {
+      "_id": "dZJl4nmYtNjaeXgy",
+      "effects": [],
+      "img": "systems/zweihander/assets/icons/skills.svg",
+      "name": "Charm",
+      "type": "skill",
+      "_stats": {
+        "coreVersion": "13.342",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "system": {
+        "description": {
+          "@en": ""
+        },
+        "notes": "",
+        "requiresTraining": false,
+        "associatedPrimaryAttribute": "Fellowship",
+        "bonusPerRank": 10
+      },
+      "folder": null,
+      "sort": 0,
+      "ownership": {
+        "default": 0
+      },
+      "flags": {},
+      "_key": "!actors.items!t6RRKQQvuCMdQ5L0.dZJl4nmYtNjaeXgy"
+    },
+    {
+      "_id": "jqobIe82ZBGOZmYi",
+      "effects": [],
+      "img": "systems/zweihander/assets/icons/skills.svg",
+      "name": "Eavesdrop",
+      "type": "skill",
+      "_stats": {
+        "coreVersion": "13.342",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "system": {
+        "description": {
+          "@en": ""
+        },
+        "notes": "",
+        "requiresTraining": false,
+        "associatedPrimaryAttribute": "Perception",
+        "bonusPerRank": 10
+      },
+      "folder": null,
+      "sort": 0,
+      "ownership": {
+        "default": 0
+      },
+      "flags": {},
+      "_key": "!actors.items!t6RRKQQvuCMdQ5L0.jqobIe82ZBGOZmYi"
+    },
+    {
+      "_id": "lPfwfPHspXokC0Ao",
+      "effects": [],
+      "img": "systems/zweihander/assets/icons/skills.svg",
+      "name": "Martial Ranged",
+      "type": "skill",
+      "_stats": {
+        "coreVersion": "13.342",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "system": {
+        "description": {
+          "@en": ""
+        },
+        "notes": "",
+        "requiresTraining": true,
+        "associatedPrimaryAttribute": "Combat",
+        "bonusPerRank": 10
+      },
+      "folder": null,
+      "sort": 0,
+      "ownership": {
+        "default": 0
+      },
+      "flags": {},
+      "_key": "!actors.items!t6RRKQQvuCMdQ5L0.lPfwfPHspXokC0Ao"
+    },
+    {
+      "_id": "m1VAGBmW3pjriFZr",
+      "effects": [],
+      "img": "systems/zweihander/assets/icons/skills.svg",
+      "name": "Survival",
+      "type": "skill",
+      "_stats": {
+        "coreVersion": "13.342",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "system": {
+        "description": {
+          "@en": ""
+        },
+        "notes": "",
+        "requiresTraining": false,
+        "associatedPrimaryAttribute": "Perception",
+        "bonusPerRank": 10
+      },
+      "folder": null,
+      "sort": 0,
+      "ownership": {
+        "default": 0
+      },
+      "flags": {},
+      "_key": "!actors.items!t6RRKQQvuCMdQ5L0.m1VAGBmW3pjriFZr"
+    },
+    {
+      "_id": "nXt5D0UEapcq2cAM",
+      "effects": [],
+      "img": "systems/zweihander/assets/icons/skills.svg",
+      "name": "Stealth",
+      "type": "skill",
+      "_stats": {
+        "coreVersion": "13.342",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "system": {
+        "description": {
+          "@en": ""
+        },
+        "notes": "",
+        "requiresTraining": false,
+        "associatedPrimaryAttribute": "Agility",
+        "bonusPerRank": 10
+      },
+      "folder": null,
+      "sort": 0,
+      "ownership": {
+        "default": 0
+      },
+      "flags": {},
+      "_key": "!actors.items!t6RRKQQvuCMdQ5L0.nXt5D0UEapcq2cAM"
+    },
+    {
+      "_id": "r6VL5isi1OFxLS96",
+      "effects": [],
+      "img": "systems/zweihander/assets/icons/skills.svg",
+      "name": "Rumor",
+      "type": "skill",
+      "_stats": {
+        "coreVersion": "13.342",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "system": {
+        "description": {
+          "@en": ""
+        },
+        "notes": "",
+        "requiresTraining": false,
+        "associatedPrimaryAttribute": "Fellowship",
+        "bonusPerRank": 10
+      },
+      "folder": null,
+      "sort": 0,
+      "ownership": {
+        "default": 0
+      },
+      "flags": {},
+      "_key": "!actors.items!t6RRKQQvuCMdQ5L0.r6VL5isi1OFxLS96"
+    },
+    {
+      "_id": "s4hMs5SsiR6uhNY8",
+      "effects": [],
+      "img": "systems/zweihander/assets/icons/skills.svg",
+      "name": "Toughness",
+      "type": "skill",
+      "_stats": {
+        "coreVersion": "13.342",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "system": {
+        "description": {
+          "@en": ""
+        },
+        "notes": "",
+        "requiresTraining": false,
+        "associatedPrimaryAttribute": "Brawn",
+        "bonusPerRank": 10
+      },
+      "folder": null,
+      "sort": 0,
+      "ownership": {
+        "default": 0
+      },
+      "flags": {},
+      "_key": "!actors.items!t6RRKQQvuCMdQ5L0.s4hMs5SsiR6uhNY8"
+    },
+    {
+      "_id": "tUlGNzZEfpfrh1wN",
+      "effects": [],
+      "img": "systems/zweihander/assets/icons/skills.svg",
+      "name": "Guile",
+      "type": "skill",
+      "_stats": {
+        "coreVersion": "13.342",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "system": {
+        "description": {
+          "@en": ""
+        },
+        "notes": "",
+        "requiresTraining": false,
+        "associatedPrimaryAttribute": "Fellowship",
+        "bonusPerRank": 10
+      },
+      "folder": null,
+      "sort": 0,
+      "ownership": {
+        "default": 0
+      },
+      "flags": {},
+      "_key": "!actors.items!t6RRKQQvuCMdQ5L0.tUlGNzZEfpfrh1wN"
+    },
+    {
+      "_id": "uwxLb12nJrZwmheT",
+      "effects": [],
+      "img": "systems/zweihander/assets/icons/skills.svg",
+      "name": "Coordination",
+      "type": "skill",
+      "_stats": {
+        "coreVersion": "13.342",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "system": {
+        "description": {
+          "@en": ""
+        },
+        "notes": "",
+        "requiresTraining": false,
+        "associatedPrimaryAttribute": "Agility",
+        "bonusPerRank": 10
+      },
+      "folder": null,
+      "sort": 0,
+      "ownership": {
+        "default": 0
+      },
+      "flags": {},
+      "_key": "!actors.items!t6RRKQQvuCMdQ5L0.uwxLb12nJrZwmheT"
+    },
+    {
+      "_id": "vRWa2nVsYWzbuSo1",
+      "effects": [],
+      "img": "systems/zweihander/assets/icons/skills.svg",
+      "name": "Interrogation",
+      "type": "skill",
+      "_stats": {
+        "coreVersion": "13.342",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "system": {
+        "description": {
+          "@en": ""
+        },
+        "notes": "",
+        "requiresTraining": true,
+        "associatedPrimaryAttribute": "Willpower",
+        "bonusPerRank": 10
+      },
+      "folder": null,
+      "sort": 0,
+      "ownership": {
+        "default": 0
+      },
+      "flags": {},
+      "_key": "!actors.items!t6RRKQQvuCMdQ5L0.vRWa2nVsYWzbuSo1"
+    },
+    {
+      "_id": "z2GfrhmRDmQ4luLz",
+      "effects": [],
+      "img": "systems/zweihander/assets/icons/skills.svg",
+      "name": "Simple Ranged",
+      "type": "skill",
+      "_stats": {
+        "coreVersion": "13.342",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "system": {
+        "description": {
+          "@en": ""
+        },
+        "notes": "",
+        "requiresTraining": false,
+        "associatedPrimaryAttribute": "Combat",
+        "bonusPerRank": 10
+      },
+      "folder": null,
+      "sort": 0,
+      "ownership": {
+        "default": 0
+      },
+      "flags": {},
+      "_key": "!actors.items!t6RRKQQvuCMdQ5L0.z2GfrhmRDmQ4luLz"
+    }
+  ],
+  "name": "High Orx",
+  "prototypeToken": {
+    "actorLink": false,
+    "alpha": 1,
+    "bar1": {
+      "attribute": "stats.secondaryAttributes.damageCurrent"
+    },
+    "bar2": {
+      "attribute": "stats.secondaryAttributes.perilCurrent"
+    },
+    "detectionModes": [],
+    "displayBars": 0,
+    "displayName": 0,
+    "disposition": -1,
+    "flags": {},
+    "height": 1,
+    "light": {
+      "alpha": 0.5,
+      "angle": 360,
+      "animation": {
+        "intensity": 5,
+        "reverse": false,
+        "speed": 5,
+        "type": null
+      },
+      "attenuation": 0.5,
+      "bright": 0,
+      "color": null,
+      "coloration": 1,
+      "contrast": 0,
+      "darkness": {
+        "max": 1,
+        "min": 0
+      },
+      "dim": 0,
+      "luminosity": 0.5,
+      "saturation": 0,
+      "shadows": 0,
+      "negative": false,
+      "priority": 0
+    },
+    "lockRotation": false,
+    "name": "High Orx",
+    "randomImg": false,
+    "rotation": 0,
+    "sight": {
+      "angle": 360,
+      "attenuation": 0.1,
+      "brightness": 0,
+      "color": null,
+      "contrast": 0,
+      "enabled": false,
+      "range": 0,
+      "saturation": 0,
+      "visionMode": "basic"
+    },
+    "texture": {
+      "offsetX": 0,
+      "offsetY": 0,
+      "rotation": 0,
+      "scaleX": 1,
+      "scaleY": 1,
+      "src": "systems/zweihander/assets/tokens-border/orx_bigboss.webp",
+      "tint": "#ffffff",
+      "anchorX": 0.5,
+      "anchorY": 0.5,
+      "fit": "contain",
+      "alphaThreshold": 0.75
+    },
+    "width": 1,
+    "appendNumber": false,
+    "prependAdjective": false,
+    "occludable": {
+      "radius": 0
+    },
+    "ring": {
+      "enabled": false,
+      "colors": {
+        "ring": null,
+        "background": null
+      },
+      "effects": 1,
+      "subject": {
+        "scale": 1,
+        "texture": null
+      }
+    },
+    "turnMarker": {
+      "mode": 1,
+      "animation": null,
+      "src": null,
+      "disposition": false
+    },
+    "movementAction": null
+  },
+  "system": {
+    "stats": {
+      "primaryAttributes": {
+        "combat": {
+          "value": 45,
+          "bonusAdvances": 0
+        },
+        "brawn": {
+          "value": 50,
+          "bonusAdvances": 2
+        },
+        "agility": {
+          "value": 40,
+          "bonusAdvances": 0
+        },
+        "perception": {
+          "value": 45,
+          "bonusAdvances": 1
+        },
+        "intelligence": {
+          "value": 35,
+          "bonusAdvances": 0
+        },
+        "willpower": {
+          "value": 40,
+          "bonusAdvances": 1
+        },
+        "fellowship": {
+          "value": 40,
+          "bonusAdvances": 0
+        }
+      },
+      "secondaryAttributes": {
+        "perilCurrent": {
+          "value": 5,
+          "max": 5
+        },
+        "damageCurrent": {
+          "value": 5,
+          "max": 5
+        },
+        "parry": {
+          "associatedSkill": "Simple Melee",
+          "value": 55
+        },
+        "dodge": {
+          "associatedSkill": "Coordination",
+          "value": 40
+        },
+        "magick": {
+          "associatedSkill": "Incantation"
+        },
+        "movement": {
+          "value": 9,
+          "fly": 0
+        },
+        "initiative": {
+          "value": 8
+        },
+        "damageThreshold": {
+          "value": 10
+        },
+        "perilThreshold": {
+          "value": 8
+        }
+      },
+      "manualMode": true
+    },
+    "description": {
+      "@en": "The Tusked One demands powerful sacrifices from the Orx folk and those that dare take up the challenge may ascend to become a High Orx. After a Low Orx makes an appropriate number of blood sacrifices to the Bigboss, they are sometimes granted an advancement in rank among the WAAAR! Horde. Should the Bigboss approve, they will ritually slay a Low Orx, laying them among the shallow ditches where dead humanoid mothers previously used to birth Boogan are interred. While their body decomposes in this grotesque ‘rebirthing chamber’, a Low Orx undergoes a hibernation period until the new moon rises. Then their horrid transformation begins. Their shoulders broaden to the width of the span between a man’s hands, as their skin calcifies yellow and grey. Their arms take upon the appearance of corded rope, sinewy and powerful. Their head swells – if only to accommodate a row of vicious teeth and gelatinous mass to further protect their peanutsized brain – as a massive cleft chin bristles with hair. And when the blinding pain fades, they arise, having undergone a rebirth from the vast sickness, as a High Orx. Long ago, High Orx were enslaved by the Dvergar, used as a force of cheap labor and sometimes even a source of food. They soon rebelled, as High Orx knew they were capable of much more than their masters wanted of them. Intelligent and brutal, High Orx serve as both front-line fighters and lieutenants within the WAAAR! Horde. While they still hold to the three cultural values of the Low Orx – birth, violence and death – they also seek to exemplify the legacy of their clan. High Orx are visionaries and big thinkers, commanding slaves to erect towers of iron and stone, build statues in testament to the greatness of Bigbosses and aid in crafting the numerous war machines of the Orx WAAAR! Horde."
+    },
+    "notes": "",
+    "currency": {},
+    "skillRanks": {
+      "Athletics": 1,
+      "Intimidate": 1,
+      "Resolve": 1,
+      "Scrutinize": 1,
+      "Simple Melee": 1,
+      "Simple Ranged": 1,
+      "Survival": 1,
+      "Toughness": 1,
+      "Tradecraft": 1,
+      "Warfare": 1
+    },
+    "details": {
+      "riskFactor": {
+        "value": "0",
+        "notch": "0"
+      },
+      "classification": "Mutant",
+      "size": "1",
+      "role": "",
+      "influences": ""
+    },
+    "languages": [],
+    "flavor": {}
+  },
+  "type": "creature",
+  "_stats": {
+    "coreVersion": "13.342",
+    "systemId": "zweihander",
+    "systemVersion": "5.4.1",
+    "createdTime": 1745447134732,
+    "modifiedTime": 1745447315771,
+    "lastModifiedBy": "rivg6xcMxdlVDM8y",
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {},
+  "_key": "!actors!t6RRKQQvuCMdQ5L0"
+}

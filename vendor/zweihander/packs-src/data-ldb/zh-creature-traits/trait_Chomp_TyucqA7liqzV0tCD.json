@@ -1,0 +1,37 @@
+{
+  "_id": "TyucqA7liqzV0tCD",
+  "effects": [],
+  "img": "systems/zweihander/assets/icons/snake-bite.svg",
+  "name": "Chomp",
+  "system": {
+    "description": {
+      "@en": ""
+    },
+    "notes": "",
+    "rules": {
+      "effect": {
+        "@en": "When foes Parry this creature’s melee attack, it can make an Opportunity Attack at this same foe."
+      }
+    },
+    "category": "creature"
+  },
+  "type": "trait",
+  "_stats": {
+    "coreVersion": "13.342",
+    "systemId": "zweihander",
+    "systemVersion": "5.4.1",
+    "createdTime": null,
+    "modifiedTime": 1735915786851,
+    "lastModifiedBy": "rivg6xcMxdlVDM8y",
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {},
+  "_key": "!items!TyucqA7liqzV0tCD"
+}

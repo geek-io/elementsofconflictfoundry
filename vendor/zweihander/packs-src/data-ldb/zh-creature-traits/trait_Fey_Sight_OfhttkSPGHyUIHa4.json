@@ -1,0 +1,37 @@
+{
+  "_id": "OfhttkSPGHyUIHa4",
+  "effects": [],
+  "img": "systems/zweihander/assets/icons/lightning-tear.svg",
+  "name": "Fey Sight",
+  "system": {
+    "description": {
+      "@en": ""
+    },
+    "notes": "",
+    "rules": {
+      "effect": {
+        "@en": "These creatures automatically spot hidden and Æthereal foes, and can see in the dark."
+      }
+    },
+    "category": "creature"
+  },
+  "type": "trait",
+  "_stats": {
+    "coreVersion": "13.342",
+    "systemId": "zweihander",
+    "systemVersion": "5.4.1",
+    "createdTime": null,
+    "modifiedTime": 1735915786842,
+    "lastModifiedBy": "rivg6xcMxdlVDM8y",
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {},
+  "_key": "!items!OfhttkSPGHyUIHa4"
+}

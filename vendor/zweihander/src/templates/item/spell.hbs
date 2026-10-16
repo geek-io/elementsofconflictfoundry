@@ -1,0 +1,120 @@
+<fieldset>
+  <legend>{{localize "ZWEI.actor.items.tradition"}} & {{localize "ZWEI.actor.items.principle"}}</legend>
+  <div class="form-group">
+    <label>{{localize "ZWEI.actor.items.tradition"}}</label>
+    <input name="system.tradition" type="text" value="{{system.tradition}}" />
+  </div>
+
+  <div class="form-group">
+    <label>{{localize "ZWEI.actor.items.principle"}}</label>
+    <input name="system.principle" type="text" value="{{system.principle}}" />
+  </div>
+</fieldset>
+
+<fieldset>
+  <legend>{{localize "ZWEI.actor.items.requirements"}}</legend>
+  <div class="form-group">
+    <label>{{localize "ZWEI.actor.items.distance"}}</label>
+    <input name="system.distance" type="text" value="{{system.distance}}" />
+  </div>
+
+  <div class="form-group stacked">
+    <label>{{localize "ZWEI.actor.items.reagents"}}</label>
+    <prose-mirror
+      name="{{zhLocalizePath 'system.rules.reagents'}}"
+      value="{{zhLocalize system.rules.reagents}}"
+      toggled="true"
+    >
+      {{{html.rules.reagents}}}
+    </prose-mirror>
+  </div>
+
+  {{#if (eq settings.gameSystem "fof")}}
+    <div class="form-group">
+      <label>{{localize "ZWEI.actor.items.castingtime"}}</label>
+      <input name="system.castingTime" type="text" value="{{system.castingTime}}" />
+    </div>
+    <div class="form-group">
+      <label>{{localize "ZWEI.actor.items.apcost"}}</label>
+      <input name="system.castingCost" type="number" value="{{system.castingCost}}" />
+    </div>
+  {{/if}}
+</fieldset>
+
+<fieldset>
+  <legend>{{localize "ZWEI.actor.items.duration"}}</legend>
+  <div class="form-group">
+    <label>{{localize "ZWEI.actor.items.durationList.formula"}}</label>
+    <input
+      name="system.duration.formula.override"
+      type="checkbox"
+      class="link-checkbox"
+      {{checked system.duration.formula.override}}
+    />
+  </div>
+
+  {{#if system.duration.formula.override}}
+    <div class="form-group">
+      <label class="formula-label"></label>
+      <div class="damage-inputs flexrow">
+        <div class="form-group label-top wide">
+          <label>{{localize "ZWEI.actor.items.base"}}</label>
+          <select name="system.duration.base">
+            {{selectOptions governingDurationAttribute valueAttr="value" labelAttr="label" selected=selected}}
+          </select>
+        </div>
+        <div class="form-group label-top">
+          <label>{{localize "ZWEI.actor.items.bonus"}}</label>
+          <input type="number" name="system.duration.bonus" value="{{system.duration.bonus}}" />
+        </div>
+        <div class="form-group label-top">
+          <label>{{localize "ZWEI.actor.items.units"}}</label>
+          <input type="text" name="system.duration.unit" value="{{system.duration.unit}}" />
+        </div>
+      </div>
+    </div>
+  {{else}}
+    <div class="form-group">
+      <label>{{localize "ZWEI.actor.items.duration"}}</label>
+      <select name="system.duration.value">
+        {{selectOptions spellDurations valueAttr="value" labelAttr="label" selected=selected}}
+      </select>
+    </div>
+  {{/if}}
+</fieldset>
+
+<fieldset>
+  <legend>{{localize "ZWEI.actor.items.consequences"}}</legend>
+  <div class="form-group stacked">
+    <label>{{localize "ZWEI.actor.items.effect"}}</label>
+    <prose-mirror
+      name="{{zhLocalizePath 'system.rules.effect'}}"
+      value="{{zhLocalize system.rules.effect}}"
+      toggled="true"
+    >
+      {{{html.rules.effect}}}
+    </prose-mirror>
+  </div>
+
+  <div class="form-group stacked">
+    <label>{{localize "ZWEI.chatskill.criticalsuccess"}}</label>
+    <prose-mirror
+      name="{{zhLocalizePath 'system.rules.criticalSuccess'}}"
+      value="{{zhLocalize system.rules.criticalSuccess}}"
+      toggled="true"
+    >
+      {{{html.rules.criticalSuccess}}}
+    </prose-mirror>
+  </div>
+
+  <div class="form-group stacked">
+    <label>{{localize "ZWEI.chatskill.criticalfailure"}}</label>
+    <prose-mirror
+      name="{{zhLocalizePath 'system.rules.criticalFailure'}}"
+      value="{{zhLocalize system.rules.criticalFailure}}"
+      toggled="true"
+    >
+      {{{html.rules.criticalFailure}}}
+    </prose-mirror>
+  </div>
+</fieldset>

@@ -1,0 +1,16 @@
+{{#if focuses.length}}
+  <span class="focus-container">
+    <span class="focus-indicator" data-tooltip-html="{{zhFocusesTooltip focuses}}" data-tooltip-direction="LEFT" data-tooltip-class="fancy-tooltip">◉</span>
+    {{!--
+    <ol class="focus-tooltip">
+      <span class="focus-tooltip-header">Focuses:</span>
+      {{#each focuses as |focus key|}}
+        <li><span class="focus-label">{{focus}}</span></li>
+      {{/each}}
+    </ol>--}}
+  </span>
+{{else}}
+  <span class="focus-container">
+    <span class="focus-missing"> </span>
+  </span>
+{{/if}}

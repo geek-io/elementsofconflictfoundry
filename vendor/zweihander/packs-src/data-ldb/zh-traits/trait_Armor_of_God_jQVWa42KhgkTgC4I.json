@@ -1,0 +1,37 @@
+{
+  "_id": "jQVWa42KhgkTgC4I",
+  "effects": [],
+  "img": "systems/zweihander/assets/icons/mailed-fist.svg",
+  "name": "Armor of God",
+  "type": "trait",
+  "_stats": {
+    "coreVersion": "13.342",
+    "systemId": "zweihander",
+    "systemVersion": "5.4.1",
+    "createdTime": null,
+    "modifiedTime": 1735911103096,
+    "lastModifiedBy": "rivg6xcMxdlVDM8y",
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "system": {
+    "description": {
+      "@en": "Put on the whole armor of the God-Emperor, that ye may be able to stand against the wiles of chaos."
+    },
+    "notes": "",
+    "rules": {
+      "effect": {
+        "@en": "Armor never prohibits or further penalizes your Difficulty Rating when you cast Magick or Rituals. This also means you can ignore the Heavy Quality for purposes of casting Magick."
+      }
+    },
+    "category": "professional"
+  },
+  "folder": null,
+  "sort": 15600000,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {},
+  "_key": "!items!jQVWa42KhgkTgC4I"
+}

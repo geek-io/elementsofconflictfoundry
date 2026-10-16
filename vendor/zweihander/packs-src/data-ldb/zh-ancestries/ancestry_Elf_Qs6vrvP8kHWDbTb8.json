@@ -1,0 +1,76 @@
+{
+  "_id": "Qs6vrvP8kHWDbTb8",
+  "effects": [],
+  "img": "systems/zweihander/assets/icons/family-tree.svg",
+  "name": "Elf",
+  "type": "ancestry",
+  "_stats": {
+    "coreVersion": "13.342",
+    "systemId": "zweihander",
+    "systemVersion": "5.5.0",
+    "createdTime": 1745709616050,
+    "modifiedTime": 1745709616050,
+    "lastModifiedBy": "rivg6xcMxdlVDM8y",
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "system": {
+    "description": {
+      "@en": ""
+    },
+    "notes": "",
+    "ancestralModifiers": {
+      "value": [
+        {
+          "key": "[AB]",
+          "value": 1
+        },
+        {
+          "key": "[PB]",
+          "value": 1
+        },
+        {
+          "key": "[IB]",
+          "value": 1
+        },
+        {
+          "key": "[BB]",
+          "value": -1
+        },
+        {
+          "key": "[FB]",
+          "value": -1
+        },
+        {
+          "key": "[WB]",
+          "value": -1
+        }
+      ],
+      "positive": [
+        "[AB]",
+        "[PB]",
+        "[IB]"
+      ],
+      "negative": [
+        "[BB]",
+        "[FB]",
+        "[WB]"
+      ]
+    },
+    "ancestralTrait": {
+      "name": "",
+      "linkedId": null,
+      "uuid": "",
+      "effect": "",
+      "label": ""
+    }
+  },
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {},
+  "_key": "!items!Qs6vrvP8kHWDbTb8"
+}

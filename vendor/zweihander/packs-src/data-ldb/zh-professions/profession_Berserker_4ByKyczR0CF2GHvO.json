@@ -1,0 +1,144 @@
+{
+  "_id": "4ByKyczR0CF2GHvO",
+  "effects": [],
+  "img": "systems/zweihander/assets/icons/berserker.svg",
+  "name": "Berserker",
+  "type": "profession",
+  "_stats": {
+    "coreVersion": "13.342",
+    "systemId": "zweihander",
+    "systemVersion": "5.4.1",
+    "createdTime": null,
+    "modifiedTime": 1734990834075,
+    "lastModifiedBy": "rivg6xcMxdlVDM8y",
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "system": {
+    "description": {
+      "@en": "The spark of life kindles the hearts of some and engulfs others. The fury of a Berserker is not something learned, it is an extension of something raging within. These warriors throw themselves at their foes fearlessly – a terrible and wondrous sight to behold. Theirs is an existence of sanguine intensity, of fiery passion and unmitigated rage. Most Berserkers come from the uncivilized wilds, instilled by the spirit of the primal earth. Others consume red cap mushrooms to induce states of bloodlust that darkens their vision and twitches their muscles into life. Even when not engrossed in battle, Berserkers are furious and imposing figures, never hesitating when it comes time to unleash bloodshed."
+    },
+    "notes": "",
+    "expert": {
+      "value": false,
+      "requirements": {
+        "skillRanks": [],
+        "additional": ""
+      }
+    },
+    "archetype": "Warrior",
+    "bonusAdvances": [
+      {
+        "name": "[BB]",
+        "purchased": false
+      },
+      {
+        "name": "[BB]",
+        "purchased": false
+      },
+      {
+        "name": "[CB]",
+        "purchased": false
+      },
+      {
+        "name": "[CB]",
+        "purchased": false
+      },
+      {
+        "name": "[IB]",
+        "purchased": false
+      },
+      {
+        "name": "[WB]",
+        "purchased": false
+      },
+      {
+        "name": "[WB]",
+        "purchased": false
+      }
+    ],
+    "skillRanks": [
+      {
+        "name": "Athletics",
+        "purchased": false
+      },
+      {
+        "name": "Folklore",
+        "purchased": false
+      },
+      {
+        "name": "Guile",
+        "purchased": false
+      },
+      {
+        "name": "Intimidate",
+        "purchased": false
+      },
+      {
+        "name": "Martial Melee",
+        "purchased": false
+      },
+      {
+        "name": "Resolve",
+        "purchased": false
+      },
+      {
+        "name": "Simple Melee",
+        "purchased": false
+      },
+      {
+        "name": "Simple Ranged",
+        "purchased": false
+      },
+      {
+        "name": "Toughness",
+        "purchased": false
+      },
+      {
+        "name": "Warfare",
+        "purchased": false
+      }
+    ],
+    "talents": [
+      {
+        "linkedId": "2BQgCknFDwpvM47Q",
+        "name": "Nerves of Steel",
+        "uuid": "Compendium.zweihander.zh-talents.Item.2BQgCknFDwpvM47Q"
+      },
+      {
+        "linkedId": "xd6CN8oUwGiMHY0Q",
+        "name": "Overwhelming Force",
+        "uuid": "Compendium.zweihander.zh-talents.Item.xd6CN8oUwGiMHY0Q"
+      },
+      {
+        "linkedId": "GIvpgOhlA9mcAcK0",
+        "name": "Run Amok",
+        "uuid": "Compendium.zweihander.zh-talents.Item.GIvpgOhlA9mcAcK0"
+      }
+    ],
+    "professionalTrait": {
+      "name": "Warp Spasm",
+      "uuid": "Compendium.zweihander.zh-traits.Item.iJVJSFK1xg3OX4jS",
+      "linkedId": null
+    },
+    "specialTrait": {
+      "name": "",
+      "uuid": "",
+      "linkedId": null
+    },
+    "drawback": {
+      "name": "",
+      "uuid": "",
+      "linkedId": null
+    },
+    "tier": ""
+  },
+  "folder": null,
+  "sort": 1300000,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {},
+  "_key": "!items!4ByKyczR0CF2GHvO"
+}

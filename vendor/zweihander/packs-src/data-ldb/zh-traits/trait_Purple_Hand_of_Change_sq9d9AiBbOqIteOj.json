@@ -1,0 +1,37 @@
+{
+  "_id": "sq9d9AiBbOqIteOj",
+  "effects": [],
+  "img": "systems/zweihander/assets/icons/vitruvian-man.svg",
+  "name": "Purple Hand of Change",
+  "type": "trait",
+  "_stats": {
+    "coreVersion": "13.342",
+    "systemId": "zweihander",
+    "systemVersion": "5.4.1",
+    "createdTime": null,
+    "modifiedTime": 1735911103111,
+    "lastModifiedBy": "rivg6xcMxdlVDM8y",
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "system": {
+    "description": {
+      "@en": "The Prince of Change has given you a special, damning gift: the power to understand all Magick in its myriad of forms."
+    },
+    "notes": "",
+    "rules": {
+      "effect": {
+        "@en": "You do not need to spend Reward Points to learn Magick spells. Furthermore, triple your [IB] to determine how many Petty Magick, Lesser Magick and Greater Magick spells you may learn."
+      }
+    },
+    "category": "professional"
+  },
+  "folder": null,
+  "sort": 18900000,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {},
+  "_key": "!items!sq9d9AiBbOqIteOj"
+}

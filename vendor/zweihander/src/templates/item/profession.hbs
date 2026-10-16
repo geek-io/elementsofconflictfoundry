@@ -1,0 +1,104 @@
+<fieldset>
+  <legend>
+    {{localize 'ZWEI.actor.items.traitsdrawback'}}
+  </legend>
+  <div class='form-group'>
+    <label>{{localize 'ZWEI.actor.items.professionaltrait'}}</label>
+    {{> ($$ 'partials/detail-item-wrapper') professionalTraitWrapperData editable=editable}}
+  </div>
+
+  <div class='form-group'>
+    <label>{{localize 'ZWEI.actor.items.specialtrait'}}</label>
+    {{> ($$ 'partials/detail-item-wrapper') specialTraitWrapperData editable=editable}}
+  </div>
+
+  <div class='form-group'>
+    <label>{{localize 'ZWEI.actor.items.drawback'}}</label>
+    {{> ($$ 'partials/detail-item-wrapper') drawbackWrapperData editable=editable}}
+  </div>
+</fieldset>
+<fieldset>
+  <legend>
+    {{localize 'ZWEI.actor.items.charadvances'}}
+  </legend>
+  <div class='form-group'>
+    <label>{{localize 'ZWEI.actor.items.skillranks'}}</label>
+    <zweihander-multi-select name='system.skillRanks' data-skill-ranks="{{zhStringifyObject system.skillRanks}}">
+      {{selectOptions skillsMultiSelect valueAttr="key" labelAttr="label" selected=selected}}
+    </zweihander-multi-select>
+  </div>
+
+  <div class="form-group">
+    <label class="formula">{{localize 'ZWEI.actor.items.bonusadvances'}}</label>
+    <zweihander-repeat-multi-select name="system.bonusAdvances" data-bonus-advances="{{zhStringifyObject system.bonusAdvances}}">
+      {{selectOptions bonusAdvancesMultiSelect valueAttr="key" labelAttr="label"}}
+    </zweihander-repeat-multi-select>
+  </div>
+
+  <div class='form-group talents'>
+    <label>{{localize 'ZWEI.actor.items.talents'}}</label>
+    {{> ($$ 'partials/detail-item-wrapper') talentWrapperDataList.[0] editable=editable}}
+  </div>
+
+  <div class='form-group talents'>
+    <label></label>
+    {{> ($$ 'partials/detail-item-wrapper') talentWrapperDataList.[1] editable=editable}}
+  </div>
+
+  <div class='form-group talents'>
+    <label></label>
+    {{> ($$ 'partials/detail-item-wrapper') talentWrapperDataList.[2] editable=editable}}
+  </div>
+
+</fieldset>
+<fieldset>
+  <legend>{{localize 'ZWEI.actor.items.misc'}}</legend>
+  <div class='form-group'>
+    <label>{{localize 'ZWEI.actor.items.expertprofession'}}</label>
+    <input name='system.expert.value' type='checkbox' class='link-checkbox' {{checked system.expert.value}} />
+  </div>
+
+  {{#unless system.expert.value}}
+    <div class='form-group'>
+      <label>{{localize 'ZWEI.actor.items.archetype'}}</label>
+      <select class='archetypes' name='system.archetype'>
+        {{selectOptions choices.archetypes selected='system.archetype'}}
+      </select>
+    </div>
+  {{/unless}}
+
+  {{#if system.expert.value}}
+    <header class='requirements-change requirements-header flexrow'>
+      <div class='key'>{{localize 'TYPES.Item.skill'}}</div>
+      <div class='value'>{{localize 'ZWEI.actor.items.ranksrequired'}}</div>
+      <div class='requirements-controls'>
+        <a class='requirements-control' data-action='addExpertRequirementChange'><i class='far fa-plus-square'></i></a>
+      </div>
+    </header>
+    <ol class='requirements-list'>
+      {{#each system.expert.requirements.skillRanks as |requirement i|}}
+        <li class='requirements-change flexrow' data-index='{{i}}'>
+          <div class='key'>
+            <select name="system.expert.requirements.skillRanks.{{i}}.key">
+              {{selectOptions ../skills valueAttr="normalizedKey" labelAttr="label" selected=requirement.key blank=''}}
+            </select>
+          </div>
+          <div class='value'>
+            <input type='number' name="system.expert.requirements.skillRanks.{{i}}.value" value='{{requirement.value}}' />
+          </div>
+          <div class='requirements-controls'>
+            <a class='requirements-control' data-action='deleteExpertRequirementChange'><i class='fas fa-trash-alt'></i></a>
+          </div>
+        </li>
+      {{/each}}
+    </ol>
+
+    <div class='form-group'>
+      <label class='other-requirements'>{{localize 'ZWEI.actor.items.additionalreq'}}</label>
+      <prose-mirror name="system.expert.requirements.additional" value="{{system.expert.requirements.additional}}" toggled="true">
+        {{{html.expertRequirements}}}
+      </prose-mirror>
+    </div>
+  {{else}}
+  {{/if}}
+</fieldset>

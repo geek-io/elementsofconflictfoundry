@@ -1,0 +1,37 @@
+{
+  "_id": "wuTi4MpDqGRZFAqw",
+  "effects": [],
+  "img": "systems/zweihander/assets/icons/eclipse.svg",
+  "name": "Arcana of Astromancy",
+  "type": "trait",
+  "_stats": {
+    "coreVersion": "13.342",
+    "systemId": "zweihander",
+    "systemVersion": "5.4.1",
+    "createdTime": null,
+    "modifiedTime": 1734974123664,
+    "lastModifiedBy": "rivg6xcMxdlVDM8y",
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "system": {
+    "description": {
+      "@en": "Those who have mastered the art of Astromancy can sense disturbances within the Æthereal Veil. The disruptions can be understood as omens and portents. Through Astromancy, the Soothsayer can manipulate a person’s destiny, including their own."
+    },
+    "notes": "",
+    "rules": {
+      "effect": {
+        "@en": "You can now attempt to learn Magicks from the Arcana of Astromancy. In addition, you automatically learn one Petty and one Lesser Magick spell from the Arcana of Astromancy. You cannot cast Lesser Magick from the Arcana of Astromancy until you have two Skill Ranks in Incantation. You can continue to learn Generalist Magick. Finally, you may only ever use Arcana of Astromancy and cannot adopt any other Profession that gives different Arcane types."
+      }
+    },
+    "category": "special"
+  },
+  "folder": null,
+  "sort": 20300000,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {},
+  "_key": "!items!wuTi4MpDqGRZFAqw"
+}

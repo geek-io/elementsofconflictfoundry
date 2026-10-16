@@ -1,0 +1,149 @@
+{
+  "_id": "BhUkG4kfzyQoTKQL",
+  "effects": [],
+  "img": "systems/zweihander/assets/icons/body-swapping.svg",
+  "name": "Infernal Saboteur",
+  "type": "profession",
+  "_stats": {
+    "coreVersion": "13.342",
+    "systemId": "zweihander",
+    "systemVersion": "5.4.1",
+    "createdTime": null,
+    "modifiedTime": 1735066502149,
+    "lastModifiedBy": "rivg6xcMxdlVDM8y",
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "system": {
+    "description": {
+      "@en": "The Abyssal Princes are forever seeking ways of insinuating their influence into society – high, low and in-between. Their methods range from the brutal to the subtle, but the Prince of Change’s occultists are by far the most insidious. His earthly agents – called Infernal Saboteurs – like to hide in plain sight. Their primary goal is to ensconce themselves into positions of power and influence, and when the time comes to strike at the heart of polite society, they are more than ready. They have infiltrated scholastic circles to disseminate false rhetoric, misdirected knightly orders to strike at targets in their favor, rigged guild elections and tuned many a merchant-lord’s fortunes to ruin. Infernal Saboteurs operate as part of a global conspiracy, greasing the wheels of progress and pushing it into the direction they want… into the ever-shifting and cunning hands of their Daemonic master.\\nIn addition to being powerful manipulators of minds, Infernal Saboteurs possess the strangest, most alien and incalculable of Magicks. The Prince of Change is sometimes called the ‘architect of chaos sorcery’, in that He is able to tear and warp the Æther in unseemly ways. But manipulating Magick energies is very dangerous. Grotesque things lurk within the Æthereal Veil – not just spirits and monsters, but also powers lost to the gods and sorcery unknown to mankind. Working too much with the weft and weave of the Æther can easily ‘rip’ at time and space, rendering unnatural ruin upon Infernal Saboteurs. Stories are whispered of occultists whose haphazard manipulations resulted in their bodies being ripped asunder, exploding from the inside to form a fleshy portal from which monsters spill forth into the Material Realm. As a consequence, Infernal Saboteurs know to be careful and deliberate – one false move, and the schemes and conspiracies they have spent years building can come tumbling down like a house of cards."
+    },
+    "notes": "",
+    "expert": {
+      "value": true,
+      "requirements": {
+        "skillRanks": [
+          {
+            "key": "incantation",
+            "value": 1
+          }
+        ],
+        "additional": "<p>You must have the Special Trait of either Arcane or Divine Magick.</p>"
+      }
+    },
+    "archetype": "Expert Profession",
+    "bonusAdvances": [
+      {
+        "name": "[AB]",
+        "purchased": false
+      },
+      {
+        "name": "[FB]",
+        "purchased": false
+      },
+      {
+        "name": "[FB]",
+        "purchased": false
+      },
+      {
+        "name": "[IB]",
+        "purchased": false
+      },
+      {
+        "name": "[IB]",
+        "purchased": false
+      },
+      {
+        "name": "[PB]",
+        "purchased": false
+      },
+      {
+        "name": "[WB]",
+        "purchased": false
+      }
+    ],
+    "skillRanks": [
+      {
+        "name": "Disguise",
+        "purchased": false
+      },
+      {
+        "name": "Eavesdrop",
+        "purchased": false
+      },
+      {
+        "name": "Education",
+        "purchased": false
+      },
+      {
+        "name": "Folklore",
+        "purchased": false
+      },
+      {
+        "name": "Guile",
+        "purchased": false
+      },
+      {
+        "name": "Incantation",
+        "purchased": false
+      },
+      {
+        "name": "Rumor",
+        "purchased": false
+      },
+      {
+        "name": "Scrutinize",
+        "purchased": false
+      },
+      {
+        "name": "Simple Melee",
+        "purchased": false
+      },
+      {
+        "name": "Stealth",
+        "purchased": false
+      }
+    ],
+    "talents": [
+      {
+        "linkedId": "VTJ2gonJGSCCGwov",
+        "name": "Doppelganger",
+        "uuid": "Compendium.zweihander.zh-talents.Item.VTJ2gonJGSCCGwov"
+      },
+      {
+        "linkedId": "gTfkADOvPRHZK5P4",
+        "name": "Gallows Humor",
+        "uuid": "Compendium.zweihander.zh-talents.Item.gTfkADOvPRHZK5P4"
+      },
+      {
+        "linkedId": "gwZntCros2VmucWm",
+        "name": "Holdout",
+        "uuid": "Compendium.zweihander.zh-talents.Item.gwZntCros2VmucWm"
+      }
+    ],
+    "professionalTrait": {
+      "name": "Purple Hand of Chance",
+      "uuid": "Compendium.zweihander.zh-traits.Item.sq9d9AiBbOqIteOj",
+      "linkedId": null
+    },
+    "specialTrait": {
+      "name": "Covenant Magick",
+      "uuid": "Compendium.zweihander.zh-traits.Item.7xtxO5xA5ouHjMWs",
+      "linkedId": null
+    },
+    "drawback": {
+      "name": "Ruinous Power",
+      "uuid": "Compendium.zweihander.zh-drawbacks.Item.SS6DXx3nZqRCHIkJ",
+      "linkedId": null
+    },
+    "tier": ""
+  },
+  "folder": null,
+  "sort": 4000000,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {},
+  "_key": "!items!BhUkG4kfzyQoTKQL"
+}

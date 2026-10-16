@@ -1,0 +1,37 @@
+{
+  "_id": "tOM71sXImKOMdVNJ",
+  "effects": [],
+  "img": "systems/zweihander/assets/icons/cliff-crossing.svg",
+  "name": "Trailblazer",
+  "type": "trait",
+  "_stats": {
+    "coreVersion": "13.342",
+    "systemId": "zweihander",
+    "systemVersion": "5.4.1",
+    "createdTime": null,
+    "modifiedTime": 1735911103112,
+    "lastModifiedBy": "rivg6xcMxdlVDM8y",
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "system": {
+    "description": {
+      "@en": "Whether across rock, snow or ice, you remain undeterred by the rigors of passing over its hardships."
+    },
+    "notes": "",
+    "rules": {
+      "effect": {
+        "@en": "You may flip the results to succeed at Athletics Tests. When you succeed, it is always considered a Critical Success. In addition, when using the Movement subtype of Climb, you do not have to add the additional 1 AP cost."
+      }
+    },
+    "category": "professional"
+  },
+  "folder": null,
+  "sort": 19100000,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {},
+  "_key": "!items!tOM71sXImKOMdVNJ"
+}

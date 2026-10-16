@@ -1,0 +1,149 @@
+{
+  "_id": "PIUlIzumzwo7vSiy",
+  "effects": [],
+  "img": "systems/zweihander/assets/icons/tusks-flag.svg",
+  "name": "Witch Doktor",
+  "type": "profession",
+  "_stats": {
+    "coreVersion": "13.342",
+    "systemId": "zweihander",
+    "systemVersion": "5.4.1",
+    "createdTime": null,
+    "modifiedTime": 1735066554100,
+    "lastModifiedBy": "rivg6xcMxdlVDM8y",
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "system": {
+    "description": {
+      "@en": "Of all Daemons in the Abyss, the Tusked One’s form of the Slavering Maw is the wildest and most unpredictable of them all. It would only make sense, then, that their Witch Doktor priests would be just as anarchic as the lord they hold so high. The Magick of the Tusked One is truly odd, as it relies on the collective willpower of their believers. If there is no group around a Witch Doktor, their sorcerous potential drops severely. Witch Doktors are rarely seen among ‘civilized’ peoples, but in some societies, they are viewed as representatives of the Slavering Maw Himself and as such, there are many taboos against killing or injuring the Witch Doktor. In addition to their massive psychic energies that allow them to manifest the will of the Slavering Maw, Witch Doktors also have a sort of ancestral memory of the tribe that they serve. As self-professed, if barbaric scholars and historians, Witch Doktors are an extraordinary dichotomy of raw id and pure intellect.\\nA Witch Doktor’s Covenants are truly unhinged, requiring the occultist to abandon much of their common sense in order to properly harness them. Madness amongst the Witch Doktors is a rule rather than an exception, though this often only manifests as eccentricities and odd babbling. A Witch Doktor is not that hard to spot – their erratic behavior, scant method of dress and constant gibbering makes their fate at the hands of any Inquisitor (or individual who does do not suffer the heretic to live) who sees them a foregone conclusion. Yet for the hordes who follow Witch Doktors wholeheartedly, there comes a tipping point – some become so powerful, that they snap entirely. They switch from manic to a placid, sage-like calm, and their power invokes the true fury of the Slavering Maw. It is more terrifying to see a Witch Doktor calmly stroll into battle than to see one leap into the fray with fervor and righteous fury."
+    },
+    "notes": "",
+    "expert": {
+      "value": true,
+      "requirements": {
+        "skillRanks": [
+          {
+            "key": "incantation",
+            "value": 1
+          }
+        ],
+        "additional": "<p>You must have the Special Trait of either Arcane or Divine Magick.</p>"
+      }
+    },
+    "archetype": "Expert Profession",
+    "bonusAdvances": [
+      {
+        "name": "[BB]",
+        "purchased": false
+      },
+      {
+        "name": "[BB]",
+        "purchased": false
+      },
+      {
+        "name": "[CB]",
+        "purchased": false
+      },
+      {
+        "name": "[FB]",
+        "purchased": false
+      },
+      {
+        "name": "[FB]",
+        "purchased": false
+      },
+      {
+        "name": "[WB]",
+        "purchased": false
+      },
+      {
+        "name": "[WB]",
+        "purchased": false
+      }
+    ],
+    "skillRanks": [
+      {
+        "name": "Athletics",
+        "purchased": false
+      },
+      {
+        "name": "Folklore",
+        "purchased": false
+      },
+      {
+        "name": "Handle Animal",
+        "purchased": false
+      },
+      {
+        "name": "Incantation",
+        "purchased": false
+      },
+      {
+        "name": "Leadership",
+        "purchased": false
+      },
+      {
+        "name": "Resolve",
+        "purchased": false
+      },
+      {
+        "name": "Rumor",
+        "purchased": false
+      },
+      {
+        "name": "Simple Melee",
+        "purchased": false
+      },
+      {
+        "name": "Toughness",
+        "purchased": false
+      },
+      {
+        "name": "Warfare",
+        "purchased": false
+      }
+    ],
+    "talents": [
+      {
+        "linkedId": "fe7vdZghpPmVpFPn",
+        "name": "Die Hard",
+        "uuid": "Compendium.zweihander.zh-talents.Item.fe7vdZghpPmVpFPn"
+      },
+      {
+        "linkedId": "cIaEhW4y3xK76XWt",
+        "name": "Indifference",
+        "uuid": "Compendium.zweihander.zh-talents.Item.cIaEhW4y3xK76XWt"
+      },
+      {
+        "linkedId": "sVFqLRKgBdMFvBOh",
+        "name": "Left-handed Path",
+        "uuid": "Compendium.zweihander.zh-talents.Item.sVFqLRKgBdMFvBOh"
+      }
+    ],
+    "professionalTrait": {
+      "name": "OOH-EE-OOH-AH-AH",
+      "uuid": "Compendium.zweihander.zh-traits.Item.ObCsfWFrSLaGtFQ8",
+      "linkedId": null
+    },
+    "specialTrait": {
+      "name": "Covenant Magick",
+      "uuid": "Compendium.zweihander.zh-traits.Item.7xtxO5xA5ouHjMWs",
+      "linkedId": null
+    },
+    "drawback": {
+      "name": "Ruinous Power",
+      "uuid": "Compendium.zweihander.zh-drawbacks.Item.cNhztJFrKtWQDVmA",
+      "linkedId": null
+    },
+    "tier": ""
+  },
+  "folder": null,
+  "sort": 8600000,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {},
+  "_key": "!items!PIUlIzumzwo7vSiy"
+}

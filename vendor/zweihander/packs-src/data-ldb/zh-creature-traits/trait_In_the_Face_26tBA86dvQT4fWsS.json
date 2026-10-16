@@ -1,0 +1,37 @@
+{
+  "_id": "26tBA86dvQT4fWsS",
+  "effects": [],
+  "img": "systems/zweihander/assets/icons/william-tell-skull.svg",
+  "name": "In the Face",
+  "system": {
+    "description": {
+      "@en": ""
+    },
+    "notes": "",
+    "rules": {
+      "effect": {
+        "@en": "These creatures can only be harmed by melee and ranged weapons by using a Called Shot to the head."
+      }
+    },
+    "category": "creature"
+  },
+  "type": "trait",
+  "_stats": {
+    "coreVersion": "13.342",
+    "systemId": "zweihander",
+    "systemVersion": "5.4.1",
+    "createdTime": null,
+    "modifiedTime": 1735915786818,
+    "lastModifiedBy": "rivg6xcMxdlVDM8y",
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {},
+  "_key": "!items!26tBA86dvQT4fWsS"
+}

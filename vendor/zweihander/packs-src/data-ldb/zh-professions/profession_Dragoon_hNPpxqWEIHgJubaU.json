@@ -1,0 +1,144 @@
+{
+  "_id": "hNPpxqWEIHgJubaU",
+  "effects": [],
+  "img": "systems/zweihander/assets/icons/dragoon.svg",
+  "name": "Dragoon",
+  "type": "profession",
+  "_stats": {
+    "coreVersion": "13.342",
+    "systemId": "zweihander",
+    "systemVersion": "5.4.1",
+    "createdTime": null,
+    "modifiedTime": 1734990834135,
+    "lastModifiedBy": "rivg6xcMxdlVDM8y",
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "system": {
+    "description": {
+      "@en": "Despite the last century’s technological advances in warfare, from cannons, war wagons and to self-propelled ‘rumblebutlers’, the majestic horse remains the most reliable means of bringing force to bear. Most of an army’s cavalry consists of Dragoons, armed with lance, rifle and pistol. On horseback, they can cut through ranks of footmen like cheesecloth, but on foot they are also effective skirmishers. Whilst expensive to train and manage, a Dragoon unit can single-handedly turn the tide of a battle with little effort. Each Dragoon is a highly trained and dedicated warrior, capable of maneuvering their mounts like an extension of their own bodies, many claiming they share an almost supernatural bond with their mount. They eat, train and fight together, placing total trust in one another that the Dragoon rarely puts in other folk.\nDespite the last century’s technological advances in warfare, from cannons, war wagons and to self-propelled ‘rumblebutlers’, the majestic horse remains the most reliable means of bringing force to bear. Most of an army’s cavalry consists of Dragoons, armed with lance, rifle and pistol. On horseback, they can cut through ranks of footmen like cheesecloth, but on foot they are also effective skirmishers. Whilst expensive to train and manage, a Dragoon unit can single-handedly turn the tide of a battle with little effort. Each Dragoon is a highly trained and dedicated warrior, capable of maneuvering their mounts like an extension of their own bodies, many claiming they share an almost supernatural bond with their mount. They eat, train and fight together, placing total trust in one another that the Dragoon rarely puts in other folk."
+    },
+    "notes": "",
+    "expert": {
+      "value": false,
+      "requirements": {
+        "skillRanks": [],
+        "additional": ""
+      }
+    },
+    "archetype": "Warrior",
+    "bonusAdvances": [
+      {
+        "name": "[AB]",
+        "purchased": false
+      },
+      {
+        "name": "[AB]",
+        "purchased": false
+      },
+      {
+        "name": "[BB]",
+        "purchased": false
+      },
+      {
+        "name": "[CB]",
+        "purchased": false
+      },
+      {
+        "name": "[CB]",
+        "purchased": false
+      },
+      {
+        "name": "[FB]",
+        "purchased": false
+      },
+      {
+        "name": "[IB]",
+        "purchased": false
+      }
+    ],
+    "skillRanks": [
+      {
+        "name": "Athletics",
+        "purchased": false
+      },
+      {
+        "name": "Coordination",
+        "purchased": false
+      },
+      {
+        "name": "Handle Animal",
+        "purchased": false
+      },
+      {
+        "name": "Martial Melee",
+        "purchased": false
+      },
+      {
+        "name": "Martial Ranged",
+        "purchased": false
+      },
+      {
+        "name": "Ride",
+        "purchased": false
+      },
+      {
+        "name": "Rumor",
+        "purchased": false
+      },
+      {
+        "name": "Simple Melee",
+        "purchased": false
+      },
+      {
+        "name": "Simple Ranged",
+        "purchased": false
+      },
+      {
+        "name": "Warfare",
+        "purchased": false
+      }
+    ],
+    "talents": [
+      {
+        "linkedId": "b2btBHV6e3en2XFy",
+        "name": "Mounted Defense",
+        "uuid": "Compendium.zweihander.zh-talents.Item.b2btBHV6e3en2XFy"
+      },
+      {
+        "linkedId": "GjZkdiVXA2uiJxhL",
+        "name": "Saddle-Born",
+        "uuid": "Compendium.zweihander.zh-talents.Item.GjZkdiVXA2uiJxhL"
+      },
+      {
+        "linkedId": "IaMWxl6os30DSMEz",
+        "name": "Spirited Charge",
+        "uuid": "Compendium.zweihander.zh-talents.Item.IaMWxl6os30DSMEz"
+      }
+    ],
+    "professionalTrait": {
+      "name": "Here Comes the Cavalry",
+      "uuid": "Compendium.zweihander.zh-traits.Item.CLBKzmLXUtlOdKYL",
+      "linkedId": null
+    },
+    "specialTrait": {
+      "name": "",
+      "uuid": "",
+      "linkedId": null
+    },
+    "drawback": {
+      "name": "",
+      "uuid": "",
+      "linkedId": null
+    },
+    "tier": ""
+  },
+  "folder": null,
+  "sort": 12900000,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {},
+  "_key": "!items!hNPpxqWEIHgJubaU"
+}

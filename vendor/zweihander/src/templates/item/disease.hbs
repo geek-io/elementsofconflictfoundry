@@ -1,0 +1,92 @@
+<fieldset>
+  <legend>{{localize "ZWEI.actor.items.incapacity"}}</legend>
+  <div class="form-group stacked">
+    <label>{{localize "ZWEI.actor.items.effect"}}</label>
+    <prose-mirror
+      name="{{zhLocalizePath 'system.rules.effect'}}"
+      value="{{zhLocalize system.rules.effect}}"
+      toggled="true"
+    >
+      {{{html.rules.effect}}}
+    </prose-mirror>
+  </div>
+
+  <div class="form-group">
+    <label>{{localize "ZWEI.actor.items.lastsuntilcured"}}</label>
+    <input
+      name="system.duration.lastsUntilCured"
+      type="checkbox"
+      class="link-checkbox"
+      {{checked system.duration.lastsUntilCured}}
+    />
+  </div>
+
+  {{#unless system.duration.lastsUntilCured}}
+    {{#unless actor}}
+      <div class="form-group">
+        <label class="formula-label">{{localize "ZWEI.actor.items.durationindays"}}</label>
+        <div class="formula-inputs">
+          <div class="form-group label-top">
+            <label>{{localize "ZWEI.actor.items.number"}}</label>
+            <input type="number" name="system.duration.formula.number" value="{{system.duration.formula.number}}" />
+          </div>
+          <div class="form-group label-top">
+            <label>{{localize "ZWEI.actor.items.die"}}</label>
+            <select name="system.duration.formula.die">
+              {{selectOptions dice valueAttr="value" labelAttr="label" selected=selected}}
+            </select>
+          </div>
+          <div class="form-group label-top">
+            <label>{{localize "ZWEI.actor.items.bonus"}}</label>
+            <input type="number" name="system.duration.formula.bonus" value="{{system.duration.formula.bonus}}" />
+          </div>
+        </div>
+      </div>
+    {{/unless}}
+    {{#if actor}}
+      <div class="form-group">
+        <label>{{localize "ZWEI.actor.items.durationindays"}}</label>
+        <input name="system.duration.value" type="number" value="{{system.duration.value}}" />
+      </div>
+    {{/if}}
+  {{/unless}}
+
+  {{#if actor}}
+    <div class="form-group stacked">
+      <label>{{localize "ZWEI.actor.items.ineffect"}}</label>
+      <input name="system.active" type="checkbox" class="link-checkbox" {{checked system.active}} />
+    </div>
+  {{/if}}
+</fieldset>
+
+<fieldset>
+  <legend>{{localize "ZWEI.actor.items.diseasemanagement"}}</legend>
+  <div class="form-group">
+    <label>{{localize "ZWEI.actor.items.resist"}}</label>
+    <div class="roll-container">
+      <select name="system.resist">
+        {{selectOptions difficultyRatings valueAttr="value" labelAttr="label" selected=selected}}
+      </select>
+      {{#if actor}}
+        <button
+          type="button"
+          class="resist-disease icon fa-solid fa-dice-d20"
+          data-action="resistDisease"
+          data-tooltip="Roll Toughness Test"
+          data-tooltip-direction="UP"
+        ></button>
+      {{/if}}
+    </div>
+  </div>
+
+  <div class="form-group stacked">
+    <label>{{localize "ZWEI.actor.items.treatment"}}</label>
+    <prose-mirror
+      name="{{zhLocalizePath 'system.rules.treatment'}}"
+      value="{{zhLocalize system.rules.treatment}}"
+      toggled="true"
+    >
+      {{{html.rules.treatment}}}
+    </prose-mirror>
+  </div>
+</fieldset>

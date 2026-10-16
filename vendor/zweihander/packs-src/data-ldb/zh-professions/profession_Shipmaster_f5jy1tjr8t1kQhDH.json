@@ -1,0 +1,149 @@
+{
+  "_id": "f5jy1tjr8t1kQhDH",
+  "effects": [],
+  "img": "systems/zweihander/assets/icons/ship-wheel.svg",
+  "name": "Shipmaster",
+  "type": "profession",
+  "_stats": {
+    "coreVersion": "13.342",
+    "systemId": "zweihander",
+    "systemVersion": "5.4.1",
+    "createdTime": null,
+    "modifiedTime": 1735052719692,
+    "lastModifiedBy": "rivg6xcMxdlVDM8y",
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "system": {
+    "description": {
+      "@en": "Every country must have a king, and upon the high seas where there is no country, every Shipmaster is a king in their own right. Shipmasters are captains of seafaring vessels, whether they be long boats, merchant clippers or large galleys. Shipmasters not only lead and direct their crews, they also plot courses, negotiate trade deals, order attacks and when tales of their exploits and explorations reach the shore, become legendary figures in their own right. Some Shipmasters are fine spending their days commanding their family’s fishing vessel, while others make a name for themselves as brilliant admirals or dread pirates. Owning a ship is no mere trifle – it serves as transport, housing and livelihood all-in-one for the Shipmaster and the crew. The Shipmaster is a thankless task that requires strong leadership, either with closed fist or open palm – if that does not exist, these ‘kings of the sea’ can easily be dethroned and cast into the deeps.\\nShipmasters go where the wind or their pockets take them, and many hire their services out as both privateers and ferrymen for adventurers looking for new vistas. They know their way around a sword, a wheelhouse and a podium, able to lead and back that leadership up with force into the bargain. Aside from their vessel, Shipmasters rarely have more than a few possessions – their crew substitutes as family, the ocean as their homeland and their ship as home. More than a few Shipmasters’ brains have been ‘cooked’ by the blazing summer sun or their hearts ‘frozen’ by the ice of winter, their ship coming to mean more than the crew which is willingly left to starve and die in order to keep the ship from sailing into port ever again. Rumors abound that ghost ships of the high seas are indeed these cursed Shipmasters, fleeting between corporeal reality and a ghostly demise."
+    },
+    "notes": "",
+    "expert": {
+      "value": true,
+      "requirements": {
+        "skillRanks": [
+          {
+            "key": "pilot",
+            "value": 2
+          }
+        ],
+        "additional": "<p>-</p>"
+      }
+    },
+    "archetype": "Expert Profession",
+    "bonusAdvances": [
+      {
+        "name": "[AB]",
+        "purchased": false
+      },
+      {
+        "name": "[BB]",
+        "purchased": false
+      },
+      {
+        "name": "[CB]",
+        "purchased": false
+      },
+      {
+        "name": "[FB]",
+        "purchased": false
+      },
+      {
+        "name": "[IB]",
+        "purchased": false
+      },
+      {
+        "name": "[IB]",
+        "purchased": false
+      },
+      {
+        "name": "[WB]",
+        "purchased": false
+      }
+    ],
+    "skillRanks": [
+      {
+        "name": "Athletics",
+        "purchased": false
+      },
+      {
+        "name": "Awareness",
+        "purchased": false
+      },
+      {
+        "name": "Folklore",
+        "purchased": false
+      },
+      {
+        "name": "Leadership",
+        "purchased": false
+      },
+      {
+        "name": "Martial Ranged",
+        "purchased": false
+      },
+      {
+        "name": "Navigation",
+        "purchased": false
+      },
+      {
+        "name": "Pilot",
+        "purchased": false
+      },
+      {
+        "name": "Rumor",
+        "purchased": false
+      },
+      {
+        "name": "Simple Melee",
+        "purchased": false
+      },
+      {
+        "name": "Warfare",
+        "purchased": false
+      }
+    ],
+    "talents": [
+      {
+        "linkedId": "tLtCUfaidoxc4bAr",
+        "name": "Azimuth",
+        "uuid": "Compendium.zweihander.zh-talents.Item.tLtCUfaidoxc4bAr"
+      },
+      {
+        "linkedId": "Iiu9G1OsUFo0Tiw6",
+        "name": "Instincts",
+        "uuid": "Compendium.zweihander.zh-talents.Item.Iiu9G1OsUFo0Tiw6"
+      },
+      {
+        "linkedId": "0l5T7zT8MMm0Fhp8",
+        "name": "Light Sleeper",
+        "uuid": "Compendium.zweihander.zh-talents.Item.0l5T7zT8MMm0Fhp8"
+      }
+    ],
+    "professionalTrait": {
+      "name": "Aye Aye Skipper",
+      "uuid": "Compendium.zweihander.zh-traits.Item.UN2ul8jvZLtZu2Al",
+      "linkedId": null
+    },
+    "specialTrait": {
+      "name": "",
+      "uuid": "",
+      "linkedId": null
+    },
+    "drawback": {
+      "name": "Sea Legs",
+      "uuid": "Compendium.zweihander.zh-drawbacks.Item.pjDPQtEHlxLSabWe",
+      "linkedId": null
+    },
+    "tier": ""
+  },
+  "folder": null,
+  "sort": 12500000,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {},
+  "_key": "!items!f5jy1tjr8t1kQhDH"
+}

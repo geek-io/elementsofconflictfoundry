@@ -1,0 +1,36 @@
+{
+  "_id": "2BD9F6Ki8zTVPhXH",
+  "effects": [],
+  "img": "systems/zweihander/assets/icons/horn-internal.svg",
+  "name": "Hard of Hearing",
+  "type": "drawback",
+  "_stats": {
+    "coreVersion": "13.342",
+    "systemId": null,
+    "systemVersion": null,
+    "createdTime": null,
+    "modifiedTime": 1733923835859,
+    "lastModifiedBy": "rivg6xcMxdlVDM8y",
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "system": {
+    "description": {
+      "@en": "The high-pitch sounds of war machines operating and bombastic explosions of gunpowder have left you partially deaf. Or, maybe you are just dense, and care little to listen to others as the power of a god rests in your very hands!"
+    },
+    "notes": "",
+    "rules": {
+      "effect": {
+        "@en": "You cannot add Skill Ranks to Skill Tests that rely on hearing or speaking aloud."
+      }
+    }
+  },
+  "folder": null,
+  "sort": 700000,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {},
+  "_key": "!items!2BD9F6Ki8zTVPhXH"
+}

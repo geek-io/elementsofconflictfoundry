@@ -1,0 +1,36 @@
+{
+  "_id": "615qjkafZPKI4eCX",
+  "effects": [],
+  "img": "systems/zweihander/assets/icons/spiked-halo.svg",
+  "name": "Grey Temperament",
+  "type": "drawback",
+  "_stats": {
+    "coreVersion": "13.342",
+    "systemId": null,
+    "systemVersion": null,
+    "createdTime": null,
+    "modifiedTime": 1733923835859,
+    "lastModifiedBy": "rivg6xcMxdlVDM8y",
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "system": {
+    "description": {
+      "@en": "Property, wealth and largesse is of little use to the Illusionist. To them, they regard the aesthetics of the world around them as their bounty, carrying only what is necessary on them to survive."
+    },
+    "notes": "",
+    "rules": {
+      "effect": {
+        "@en": "You cannot accumulate property, except for what you may be able to carry upon yourself. Violation of this sacred tenet causes your Magick to automatically fail otherwise."
+      }
+    }
+  },
+  "folder": null,
+  "sort": 1400000,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {},
+  "_key": "!items!615qjkafZPKI4eCX"
+}

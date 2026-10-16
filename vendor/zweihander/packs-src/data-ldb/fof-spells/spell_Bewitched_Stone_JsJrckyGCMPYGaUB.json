@@ -1,0 +1,60 @@
+{
+  "_id": "JsJrckyGCMPYGaUB",
+  "effects": [],
+  "img": "systems/zweihander/assets/icons/wizard-staff.svg",
+  "name": "Bewitched Stone",
+  "type": "spell",
+  "_stats": {
+    "coreVersion": "13.342",
+    "systemId": "zweihander",
+    "systemVersion": "5.4.1",
+    "createdTime": 1745429303230,
+    "modifiedTime": 1745429303230,
+    "lastModifiedBy": "rivg6xcMxdlVDM8y",
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "system": {
+    "description": {
+      "@en": "<p>Mankind&rsquo;s spite, cat&rsquo;s meow, death comes to steed and sow!</p>"
+    },
+    "notes": "",
+    "rules": {
+      "effect": {
+        "@en": "<p>After successfully casting, you create a Bewitched Stone. Once buried, any threat that is classified as Humanoid (including player cultures) that comes within an Explosion Template of the stone must Resist with Toughness or else contract an Ailment of your choice. If the stone isn&rsquo;t buried within an hour or is removed from the crossroads, the Spell ends. Once the duration is over, the stone is destroyed.</p>"
+      },
+      "criticalSuccess": {
+        "@en": "As above, but affects those in a mile radius."
+      },
+      "criticalFailure": {
+        "@en": "The stone grows with tendrils, embedding itself into your hand as you suffer the Ailment instead. You must undergo Perform Surgery, suffering the Destroyed Digits Injury if not properly healed."
+      },
+      "reagents": {
+        "@en": "A diseased rag wrapped around a stone (expended), which is buried at a crossroads"
+      }
+    },
+    "tradition": "Witchcraft",
+    "principle": "Advanced Tier",
+    "distance": "By Touch",
+    "duration": {
+      "value": "thirteen days",
+      "label": "Thirteen days",
+      "formula": {
+        "override": false
+      },
+      "base": "[WB]",
+      "bonus": 0,
+      "unit": "days"
+    },
+    "castingTime": "1 Hour",
+    "castingCost": null
+  },
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {},
+  "_key": "!items!JsJrckyGCMPYGaUB"
+}

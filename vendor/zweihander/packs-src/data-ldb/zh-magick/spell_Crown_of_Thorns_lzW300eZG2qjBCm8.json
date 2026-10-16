@@ -1,0 +1,60 @@
+{
+  "_id": "lzW300eZG2qjBCm8",
+  "effects": [],
+  "img": "systems/zweihander/assets/icons/crown-of-thorns.svg",
+  "name": "Crown of Thorns",
+  "type": "spell",
+  "_stats": {
+    "coreVersion": "13.342",
+    "systemId": "zweihander",
+    "systemVersion": "5.4.1",
+    "createdTime": null,
+    "modifiedTime": 1745410540897,
+    "lastModifiedBy": "rivg6xcMxdlVDM8y",
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "system": {
+    "description": {
+      "@en": "A foe is wracked with painful thorns, which grows from their insides-out."
+    },
+    "notes": "",
+    "rules": {
+      "effect": {
+        "@en": "After successfully casting this spell, your foe immediately suffers [[/roll 1D10]]+[WB] in Damage. In addition, they suffer a -10 Base Chance to all Skill Tests for the Duration of the spell. Your foe can successfully Resist with a Resolve Test when this spell is cast or at the beginning of their subsequent Turns."
+      },
+      "criticalSuccess": {
+        "@en": "As above, but the affected suffers a -20 Base Chance instead."
+      },
+      "criticalFailure": {
+        "@en": "Heartless worm, you shall lay prostrated before your enemies! For the spell’s Duration, you are held in-place, rendered Helpless and Prone on the ground by thorny vines."
+      },
+      "reagents": {
+        "@en": "A rose held in-hand (expended)"
+      }
+    },
+    "tradition": "Arcane (Elementalism)",
+    "principle": "Petty",
+    "distance": "Any one person you can see",
+    "duration": {
+      "value": "instantaneous",
+      "label": "[WB] + 3 minutes",
+      "formula": {
+        "override": true
+      },
+      "base": "[WB]",
+      "bonus": 3,
+      "unit": "minutes"
+    },
+    "castingTime": "1 min",
+    "castingCost": 0
+  },
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {},
+  "_key": "!items!lzW300eZG2qjBCm8"
+}

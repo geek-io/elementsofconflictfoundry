@@ -1,0 +1,60 @@
+{
+  "_id": "XQoWuKAA7a550ZnM",
+  "effects": [],
+  "img": "systems/zweihander/assets/icons/spider-face.svg",
+  "name": "Spider's Fang",
+  "type": "spell",
+  "_stats": {
+    "coreVersion": "13.342",
+    "systemId": "zweihander",
+    "systemVersion": "5.4.1",
+    "createdTime": null,
+    "modifiedTime": 1745410540868,
+    "lastModifiedBy": "rivg6xcMxdlVDM8y",
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "system": {
+    "description": {
+      "@en": "You draw both blood and inflict stinging pain as you wound enemies."
+    },
+    "notes": "",
+    "rules": {
+      "effect": {
+        "@en": "After successfully casting this spell, your attacks inject venom whenever they land. If you Injure a foe, they suffer both an Injury and are affected by spider venom, as indicated in Chapter 9: Hazards & Healing."
+      },
+      "criticalSuccess": {
+        "@en": "As above, but the foe cannot Dodge or Parry your attacks."
+      },
+      "criticalFailure": {
+        "@en": "The spider’s head bites your leg, as it dissolves in your pocket. You are affected by spider’s venom, as indicated in Chapter 9: Hazards & Healing."
+      },
+      "reagents": {
+        "@en": "A spider’s head, held in your pocket"
+      }
+    },
+    "tradition": "Divine (Crouching One)",
+    "principle": "Petty",
+    "distance": "Any one person you can see",
+    "duration": {
+      "value": "instantaneous",
+      "label": "[WB] + 3 minutes",
+      "formula": {
+        "override": true
+      },
+      "base": "[WB]",
+      "bonus": 3,
+      "unit": "minutes"
+    },
+    "castingTime": "1 min",
+    "castingCost": 0
+  },
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {},
+  "_key": "!items!XQoWuKAA7a550ZnM"
+}

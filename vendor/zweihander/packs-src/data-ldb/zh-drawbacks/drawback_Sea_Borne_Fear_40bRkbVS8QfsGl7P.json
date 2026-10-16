@@ -1,0 +1,36 @@
+{
+  "_id": "40bRkbVS8QfsGl7P",
+  "effects": [],
+  "img": "systems/zweihander/assets/icons/kraken-tentacle.svg",
+  "name": "Sea-Borne Fear",
+  "type": "drawback",
+  "_stats": {
+    "coreVersion": "13.342",
+    "systemId": null,
+    "systemVersion": null,
+    "createdTime": null,
+    "modifiedTime": 1733923835859,
+    "lastModifiedBy": "rivg6xcMxdlVDM8y",
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "system": {
+    "description": {
+      "@en": "A Reaver does not trust the seas or the ocean, for they nor their horse can drink from it."
+    },
+    "notes": "",
+    "rules": {
+      "effect": {
+        "@en": "Whenever you cross a body of salt water (out of sight of land), you are made victim to Fear."
+      }
+    }
+  },
+  "folder": null,
+  "sort": 1200000,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {},
+  "_key": "!items!40bRkbVS8QfsGl7P"
+}

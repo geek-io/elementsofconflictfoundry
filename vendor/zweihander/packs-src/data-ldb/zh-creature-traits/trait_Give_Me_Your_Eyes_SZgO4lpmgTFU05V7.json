@@ -1,0 +1,37 @@
+{
+  "_id": "SZgO4lpmgTFU05V7",
+  "effects": [],
+  "img": "systems/zweihander/assets/icons/surrounded-eye.svg",
+  "name": "Give Me Your Eyes",
+  "system": {
+    "description": {
+      "@en": ""
+    },
+    "notes": "",
+    "rules": {
+      "effect": {
+        "@en": "When these creatures inflict a Moderate Injury, it is always a Black Eye. When they inflict a Serious Injury, it is always Head Trauma. Finally, when they inflict a Grievous Injury, it is always a Vitreous Hemorrhage."
+      }
+    },
+    "category": "creature"
+  },
+  "type": "trait",
+  "_stats": {
+    "coreVersion": "13.342",
+    "systemId": "zweihander",
+    "systemVersion": "5.4.1",
+    "createdTime": null,
+    "modifiedTime": 1735915786849,
+    "lastModifiedBy": "rivg6xcMxdlVDM8y",
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {},
+  "_key": "!items!SZgO4lpmgTFU05V7"
+}

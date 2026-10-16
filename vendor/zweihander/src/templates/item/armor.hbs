@@ -1,0 +1,47 @@
+{{!-- <div class="form-group">
+  <label>{{localize "ZWEI.actor.items.encumbrance"}}</label>
+  <input  name="system.encumbrance" type="number" value="{{system.encumbrance}}">
+</div>
+
+<div class="form-group">
+  <label>{{localize "ZWEI.actor.items.damagethresholdmodifier"}}</label>
+  <input  name="system.damageThresholdModifier" type="number" value="{{system.damageThresholdModifier}}">
+</div>
+
+<div class="form-group">
+  <label>{{localize "ZWEI.actor.items.qualities"}}</label>
+  <input  name="system.qualities.value" type="text" value="{{system.qualities.value}}">
+</div>
+
+{{zhPriceInputs system.price}}
+
+<div class="form-group stacked">
+  <label>{{localize "ZWEI.actor.items.status"}}</label>
+  <label class="checkbox">
+    <input name="system.equipped" type="checkbox" class="link-checkbox" {{checked system.equipped}} />
+    {{localize "ZWEI.actor.items.equipped"}}
+  </label>
+</div> --}}
+
+<fieldset>
+  <legend>{{localize "ZWEI.actor.items.characteristics"}}</legend>
+
+  <div class="form-group">
+    <label>{{localize "ZWEI.actor.items.damagethresholdmodifier"}}</label>
+    <input name="system.damageThresholdModifier" type="number" value="{{system.damageThresholdModifier}}" />
+  </div>
+
+  <div class="form-group">
+    <label>{{localize "ZWEI.actor.items.qualities"}}</label>
+    <multi-select name="system.qualities">
+      <optgroup label="Compendium Qualities">
+        {{selectOptions qualitiesCompendium valueAttr="value" labelAttr="label" selected=selected}}
+      </optgroup>
+      <optgroup label="World Qualities">
+        {{selectOptions qualitiesWorld valueAttr="value" labelAttr="label" selected=selected}}
+      </optgroup>
+    </multi-select>
+  </div>
+</fieldset>
+
+{{> ($$ 'partials/item-price-weight')}}

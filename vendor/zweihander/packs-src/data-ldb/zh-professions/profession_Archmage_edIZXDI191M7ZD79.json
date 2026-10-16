@@ -1,0 +1,149 @@
+{
+  "_id": "edIZXDI191M7ZD79",
+  "effects": [],
+  "img": "systems/zweihander/assets/icons/archmage.svg",
+  "name": "Archmage",
+  "type": "profession",
+  "_stats": {
+    "coreVersion": "13.342",
+    "systemId": "zweihander",
+    "systemVersion": "5.4.1",
+    "createdTime": null,
+    "modifiedTime": 1735047280735,
+    "lastModifiedBy": "rivg6xcMxdlVDM8y",
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "system": {
+    "description": {
+      "@en": "Magick holds many dangers, but it also grants many boons – warmth, benisons, defense, healing and more. It has become a great tool in a grim & perilous world, but the Magick practiced today is not that practiced in ages past. Secrets of the original arts have been lost to the ages, consumed by war or destroyed by natural disaster. Rumors abound of still ancient mages, living centuries beyond their time in remote locations where they study the origins of Magick. Much like Black Magisters, practitioners of arcane Magick uses the combined Ætheric Winds, but where the Black Magister crushes them into a swirling mass, the Archmage refracts and refines them into a separate, but together form known as Silver Magick. It takes decades to fully master this technique. In doing so, they reach heights unimagined by most other Magick users, yet in comparison to the Archmages of the past, they still remain apprentices in the high arts. The large majority seek knowledge and experience, striving for the real purity beyond the Material Realm and perhaps even the nascent energies that formed reality at its core.\nTraditionally aloof and cloistered behind walls of esoteric know-how, the Archmage’s might remains unrivaled. This explains why national armies attempt to conscript them to serve as dreaded battle wizards on the battlefield. The searing light of the combined Winds can bore a hole into the Archmage’s soul, making them a lightning rod for Ætheric power rather than its commander. Long have the Abyssal Princes worked to sway Archmages to their side, as having a servant with the might of refined Magick on their side could spell ruin for the entire world."
+    },
+    "notes": "",
+    "expert": {
+      "value": true,
+      "requirements": {
+        "skillRanks": [
+          {
+            "key": "incantation",
+            "value": 2
+          }
+        ],
+        "additional": "<p>You must have the Special Trait of Arcane Magick. In addition, you must sacrifice one Fate Point upon entering this Profession.</p>"
+      }
+    },
+    "archetype": "Expert Profession",
+    "bonusAdvances": [
+      {
+        "name": "[AB]",
+        "purchased": false
+      },
+      {
+        "name": "[FB]",
+        "purchased": false
+      },
+      {
+        "name": "[IB]",
+        "purchased": false
+      },
+      {
+        "name": "[IB]",
+        "purchased": false
+      },
+      {
+        "name": "[PB]",
+        "purchased": false
+      },
+      {
+        "name": "[WB]",
+        "purchased": false
+      },
+      {
+        "name": "[WB]",
+        "purchased": false
+      }
+    ],
+    "skillRanks": [
+      {
+        "name": "Alchemy",
+        "purchased": false
+      },
+      {
+        "name": "Awareness",
+        "purchased": false
+      },
+      {
+        "name": "Coordination",
+        "purchased": false
+      },
+      {
+        "name": "Education",
+        "purchased": false
+      },
+      {
+        "name": "Folklore",
+        "purchased": false
+      },
+      {
+        "name": "Incantation",
+        "purchased": false
+      },
+      {
+        "name": "Resolve",
+        "purchased": false
+      },
+      {
+        "name": "Rumor",
+        "purchased": false
+      },
+      {
+        "name": "Scrutinize",
+        "purchased": false
+      },
+      {
+        "name": "Simple Melee",
+        "purchased": false
+      }
+    ],
+    "talents": [
+      {
+        "linkedId": "ApvdCU96TYOe2FEs",
+        "name": "Battle Magick",
+        "uuid": "Compendium.zweihander.zh-talents.Item.ApvdCU96TYOe2FEs"
+      },
+      {
+        "linkedId": "Fe3d2Oyig1kPYHTb",
+        "name": "Higher Mysteries",
+        "uuid": "Compendium.zweihander.zh-talents.Item.Fe3d2Oyig1kPYHTb"
+      },
+      {
+        "linkedId": "9IpcTnvgfB1kVV8A",
+        "name": "Winds of Change",
+        "uuid": "Compendium.zweihander.zh-talents.Item.9IpcTnvgfB1kVV8A"
+      }
+    ],
+    "professionalTrait": {
+      "name": "Mastery of the High Arts",
+      "uuid": "Compendium.zweihander.zh-traits.Item.oMaZl3vctQB6qWo7",
+      "linkedId": null
+    },
+    "specialTrait": {
+      "name": "Arcane Mastery",
+      "uuid": "Compendium.zweihander.zh-traits.Item.XGS6f7jTsiYjf7SQ",
+      "linkedId": null
+    },
+    "drawback": {
+      "name": "Warp Dissonance",
+      "uuid": "Compendium.zweihander.zh-drawbacks.Item.nCENNgYKNL3hTVRS",
+      "linkedId": null
+    },
+    "tier": ""
+  },
+  "folder": null,
+  "sort": 12400000,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {},
+  "_key": "!items!edIZXDI191M7ZD79"
+}

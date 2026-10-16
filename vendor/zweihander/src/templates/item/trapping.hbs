@@ -1,0 +1,29 @@
+<fieldset>
+  <legend>{{localize "ZWEI.actor.items.characteristics"}}</legend>
+
+<div class='form-group stacked'>
+  <label>{{localize 'ZWEI.actor.items.effect'}}</label>
+  <prose-mirror
+      name="{{zhLocalizePath 'system.rules.effect'}}"
+      value="{{zhLocalize system.rules.effect}}"
+      toggled="true"
+    >
+      {{{html.rules.effect}}}
+    </prose-mirror>
+</div>
+</fieldset>
+
+<fieldset>
+  <legend>{{localize "ZWEI.actor.items.misc"}}</legend>
+
+  <div class='form-group'>
+    <label>{{localize "ZWEI.actor.items.category"}}</label>
+    <input
+      name='{{zhLocalizePath "system.details.category"}}'
+      type='text'
+      value='{{zhLocalize system.details.category}}'
+    />
+  </div>
+</fieldset>
+
+{{> ($$ 'partials/item-price-weight')}}

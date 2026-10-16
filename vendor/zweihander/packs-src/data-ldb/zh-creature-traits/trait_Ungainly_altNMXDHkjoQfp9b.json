@@ -1,0 +1,37 @@
+{
+  "_id": "altNMXDHkjoQfp9b",
+  "effects": [],
+  "img": "systems/zweihander/assets/icons/tower-fall.svg",
+  "name": "Ungainly",
+  "system": {
+    "description": {
+      "@en": ""
+    },
+    "notes": "",
+    "rules": {
+      "effect": {
+        "@en": "When these creatures are Slain! all those Engaged with it must succeed at a Coordination Test or be knocked Prone beneath of it, suffering 3D10+3 Damage from falling."
+      }
+    },
+    "category": "creature"
+  },
+  "type": "trait",
+  "_stats": {
+    "coreVersion": "13.342",
+    "systemId": "zweihander",
+    "systemVersion": "5.4.1",
+    "createdTime": null,
+    "modifiedTime": 1735915786861,
+    "lastModifiedBy": "rivg6xcMxdlVDM8y",
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {},
+  "_key": "!items!altNMXDHkjoQfp9b"
+}

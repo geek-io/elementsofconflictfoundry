@@ -1,0 +1,36 @@
+{
+  "_id": "nCENNgYKNL3hTVRS",
+  "effects": [],
+  "img": "systems/zweihander/assets/icons/spiked-halo.svg",
+  "name": "Warp Dissonance",
+  "type": "drawback",
+  "_stats": {
+    "coreVersion": "13.342",
+    "systemId": null,
+    "systemVersion": null,
+    "createdTime": null,
+    "modifiedTime": 1733923835859,
+    "lastModifiedBy": "rivg6xcMxdlVDM8y",
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "system": {
+    "description": {
+      "@en": "The mind reels at the complexities of the Ætheric Winds and how they pass into the Material Realm. The mortal soul is not properly equipped to deal with these confounding majesties and can easily overwhelm even its most learned of practitioners. It takes solemnity and inner grace to properly balance oneself against the buffeting Winds of the Æther, one that must be unburdened by woe."
+    },
+    "notes": "",
+    "rules": {
+      "effect": {
+        "@en": "Whenever you are suffering from 6 or more Corruption, you cannot Channel Power."
+      }
+    }
+  },
+  "folder": null,
+  "sort": 10500000,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {},
+  "_key": "!items!nCENNgYKNL3hTVRS"
+}

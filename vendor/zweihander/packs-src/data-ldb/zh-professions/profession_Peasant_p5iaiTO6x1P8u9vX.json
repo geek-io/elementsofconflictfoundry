@@ -1,0 +1,144 @@
+{
+  "_id": "p5iaiTO6x1P8u9vX",
+  "effects": [],
+  "img": "systems/zweihander/assets/icons/peasant.svg",
+  "name": "Peasant",
+  "type": "profession",
+  "_stats": {
+    "coreVersion": "13.342",
+    "systemId": "zweihander",
+    "systemVersion": "5.4.1",
+    "createdTime": null,
+    "modifiedTime": 1734990834145,
+    "lastModifiedBy": "rivg6xcMxdlVDM8y",
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "system": {
+    "description": {
+      "@en": "Not all heroes come from upstanding knightly orders or students of arcane lore – the real heroes of the realm are the Peasants who work the fields, trying to provide enough food for their families and their lieges. Most Peasants are hardworking and happy with their lot, finding joy in the repetition of plowing, sowing and harvesting their fields, tending and slaughtering their herds, gathering nuts and berries from common land, then selling their wares and repeating the process the next year. This is a simple life, little changed for generations, but not an easy one. Your work determines if your family will live through the winter and though more children means more mouths to feed, it also means more hands to work the fields. Peasants are a common sight in a grim & perilous world.\nSome despise this life and want more than another season of drudgery, perhaps even aspire to become a folk hero of legend. Others flee after suffering spoiled crops from one year to the next and from seeing their families suffer from hunger and disease. This is made worse by seeing others who have more despite not having worked as hard. The heart of the simple Peasant is easily as inflamed by valorous deeds, as it is lured into sin. Armed with sickle and sword, Peasants may rally to strike off the head of the very lord they’d previously served before!"
+    },
+    "notes": "",
+    "expert": {
+      "value": false,
+      "requirements": {
+        "skillRanks": [],
+        "additional": ""
+      }
+    },
+    "archetype": "Commoner",
+    "bonusAdvances": [
+      {
+        "name": "[AB]",
+        "purchased": false
+      },
+      {
+        "name": "[BB]",
+        "purchased": false
+      },
+      {
+        "name": "[BB]",
+        "purchased": false
+      },
+      {
+        "name": "[FB]",
+        "purchased": false
+      },
+      {
+        "name": "[FB]",
+        "purchased": false
+      },
+      {
+        "name": "[PB]",
+        "purchased": false
+      },
+      {
+        "name": "[PB]",
+        "purchased": false
+      }
+    ],
+    "skillRanks": [
+      {
+        "name": "Athletics",
+        "purchased": false
+      },
+      {
+        "name": "Bargain",
+        "purchased": false
+      },
+      {
+        "name": "Drive",
+        "purchased": false
+      },
+      {
+        "name": "Folklore",
+        "purchased": false
+      },
+      {
+        "name": "Handle Animal",
+        "purchased": false
+      },
+      {
+        "name": "Rumor",
+        "purchased": false
+      },
+      {
+        "name": "Simple Melee",
+        "purchased": false
+      },
+      {
+        "name": "Stealth",
+        "purchased": false
+      },
+      {
+        "name": "Survival",
+        "purchased": false
+      },
+      {
+        "name": "Toughness",
+        "purchased": false
+      }
+    ],
+    "talents": [
+      {
+        "linkedId": "m6uevku7yk6Qbyq2",
+        "name": "Rural Sensibility",
+        "uuid": "Compendium.zweihander.zh-talents.Item.m6uevku7yk6Qbyq2"
+      },
+      {
+        "linkedId": "sr0nQ2JrQV4DnTeU",
+        "name": "Secret Signs",
+        "uuid": "Compendium.zweihander.zh-talents.Item.sr0nQ2JrQV4DnTeU"
+      },
+      {
+        "linkedId": "mbtJHdgWqR6fct7f",
+        "name": "Supernatural Paranoia",
+        "uuid": "Compendium.zweihander.zh-talents.Item.mbtJHdgWqR6fct7f"
+      }
+    ],
+    "professionalTrait": {
+      "name": "More Work?",
+      "uuid": "Compendium.zweihander.zh-traits.Item.eM7a0NdiNBY6nM8s",
+      "linkedId": null
+    },
+    "specialTrait": {
+      "name": "",
+      "uuid": "",
+      "linkedId": null
+    },
+    "drawback": {
+      "name": "Salt of the Earth",
+      "uuid": "Compendium.zweihander.zh-drawbacks.Item.KDcjMf2dH4BmMgF0",
+      "linkedId": null
+    },
+    "tier": ""
+  },
+  "folder": null,
+  "sort": 14500000,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {},
+  "_key": "!items!p5iaiTO6x1P8u9vX"
+}

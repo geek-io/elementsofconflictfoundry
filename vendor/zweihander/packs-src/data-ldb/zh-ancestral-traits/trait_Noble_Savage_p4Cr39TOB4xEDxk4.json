@@ -1,0 +1,37 @@
+{
+  "_id": "p4Cr39TOB4xEDxk4",
+  "effects": [],
+  "img": "systems/zweihander/assets/icons/mountain-climbing.svg",
+  "name": "Noble Savage",
+  "type": "trait",
+  "_stats": {
+    "coreVersion": "13.342",
+    "systemId": "zweihander",
+    "systemVersion": "5.4.1",
+    "createdTime": null,
+    "modifiedTime": 1734974463058,
+    "lastModifiedBy": "rivg6xcMxdlVDM8y",
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "system": {
+    "description": {
+      "@en": "Whether through purposeful training or accident, Humans have developed a natural resistance to the elements."
+    },
+    "notes": "",
+    "rules": {
+      "effect": {
+        "@en": "You never suffer physical Peril as a result of failed Toughness Tests."
+      }
+    },
+    "category": "ancestral"
+  },
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {},
+  "_key": "!items!p4Cr39TOB4xEDxk4"
+}

@@ -1,0 +1,37 @@
+{
+  "_id": "miB1KMihuvPXHioU",
+  "effects": [],
+  "img": "systems/zweihander/assets/icons/boot-kick.svg",
+  "name": "Stomp the Yard",
+  "system": {
+    "description": {
+      "@en": ""
+    },
+    "notes": "",
+    "rules": {
+      "effect": {
+        "@en": "When these creatures deal Damage, they can automatically knock their foe Prone. In addition, they ignore the effects of Hard Terrain."
+      }
+    },
+    "category": "creature"
+  },
+  "type": "trait",
+  "_stats": {
+    "coreVersion": "13.342",
+    "systemId": "zweihander",
+    "systemVersion": "5.4.1",
+    "createdTime": null,
+    "modifiedTime": 1735915786890,
+    "lastModifiedBy": "rivg6xcMxdlVDM8y",
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {},
+  "_key": "!items!miB1KMihuvPXHioU"
+}

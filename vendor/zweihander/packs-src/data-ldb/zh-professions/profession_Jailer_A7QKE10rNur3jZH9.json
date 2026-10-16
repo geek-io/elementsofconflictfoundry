@@ -1,0 +1,144 @@
+{
+  "_id": "A7QKE10rNur3jZH9",
+  "effects": [],
+  "img": "systems/zweihander/assets/icons/jailer.svg",
+  "name": "Jailer",
+  "type": "profession",
+  "_stats": {
+    "coreVersion": "13.342",
+    "systemId": "zweihander",
+    "systemVersion": "5.4.1",
+    "createdTime": null,
+    "modifiedTime": 1734990834087,
+    "lastModifiedBy": "rivg6xcMxdlVDM8y",
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "system": {
+    "description": {
+      "@en": "Becoming a Jailer is rarely a career that anyone aspires to. It is a lonely work suitable for the strong-minded, as prisoners’ cries and pleas are their only companion through long nights. This does not mean that Jailers cannot feel compassion or pity for their prisoners, but rather that they have grown to withstand such mental burden. This also makes them suitable custodians for the interred and the mad. Their jobs are dark and thankless, spending ages in dungeons with little contact aside from a potential head jailer and their quarters are rarely more than cells with ratty beds – little better than the prisoners under their charge. It is not uncommon for a lord needing a new Jailer to pardon a prisoner of their crimes, if they are willing to pledge their loyalty and serve in their new employer’s cold, damp dungeons.\nJailers rarely ever venture into the light, but there are those who would employ these intimidating figures when in need of an interrogation, intimidation or beating, yet lack the necessary skills. Others even live for the pain and anguish that Jailors inflict – sometimes the Jailors themselves – and to them, the sounds of bones cracking and minds breaking brings sadistic pleasure. Any Jailor worth their salt needs such skills, but takes a certain kind of person to actually enjoy the process. Sanguine and bloody, these Jailers are oftentimes the most well-paid, but also the maddest, of prison guards."
+    },
+    "notes": "",
+    "expert": {
+      "value": false,
+      "requirements": {
+        "skillRanks": [],
+        "additional": ""
+      }
+    },
+    "archetype": "Commoner",
+    "bonusAdvances": [
+      {
+        "name": "[BB]",
+        "purchased": false
+      },
+      {
+        "name": "[BB]",
+        "purchased": false
+      },
+      {
+        "name": "[FB]",
+        "purchased": false
+      },
+      {
+        "name": "[IB]",
+        "purchased": false
+      },
+      {
+        "name": "[PB]",
+        "purchased": false
+      },
+      {
+        "name": "[WB]",
+        "purchased": false
+      },
+      {
+        "name": "[WB]",
+        "purchased": false
+      }
+    ],
+    "skillRanks": [
+      {
+        "name": "Folklore",
+        "purchased": false
+      },
+      {
+        "name": "Guile",
+        "purchased": false
+      },
+      {
+        "name": "Heal",
+        "purchased": false
+      },
+      {
+        "name": "Interrogation",
+        "purchased": false
+      },
+      {
+        "name": "Intimidate",
+        "purchased": false
+      },
+      {
+        "name": "Resolve",
+        "purchased": false
+      },
+      {
+        "name": "Scrutinize",
+        "purchased": false
+      },
+      {
+        "name": "Simple Melee",
+        "purchased": false
+      },
+      {
+        "name": "Simple Ranged",
+        "purchased": false
+      },
+      {
+        "name": "Toughness",
+        "purchased": false
+      }
+    ],
+    "talents": [
+      {
+        "linkedId": "i9qfMytftadGhnm3",
+        "name": "Appalling Mien",
+        "uuid": "Compendium.zweihander.zh-talents.Item.i9qfMytftadGhnm3"
+      },
+      {
+        "linkedId": "iox3y41c5QOhZn0Y",
+        "name": "Menacing Demeanor",
+        "uuid": "Compendium.zweihander.zh-talents.Item.iox3y41c5QOhZn0Y"
+      },
+      {
+        "linkedId": "lDYbvmW0G7e9EiQY",
+        "name": "No Mercy",
+        "uuid": "Compendium.zweihander.zh-talents.Item.lDYbvmW0G7e9EiQY"
+      }
+    ],
+    "professionalTrait": {
+      "name": "Tortuous Inquisition",
+      "uuid": "Compendium.zweihander.zh-traits.Item.aUVtKZsvrRx3tkKl",
+      "linkedId": null
+    },
+    "specialTrait": {
+      "name": "",
+      "uuid": "",
+      "linkedId": null
+    },
+    "drawback": {
+      "name": "",
+      "uuid": "",
+      "linkedId": null
+    },
+    "tier": ""
+  },
+  "folder": null,
+  "sort": 3500000,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {},
+  "_key": "!items!A7QKE10rNur3jZH9"
+}

@@ -1,0 +1,37 @@
+{
+  "_id": "maVaogtd85j7U8QJ",
+  "effects": [],
+  "img": "systems/zweihander/assets/icons/ace.svg",
+  "name": "Luck of the Draw",
+  "type": "trait",
+  "_stats": {
+    "coreVersion": "13.342",
+    "systemId": "zweihander",
+    "systemVersion": "5.4.1",
+    "createdTime": null,
+    "modifiedTime": 1735911103101,
+    "lastModifiedBy": "rivg6xcMxdlVDM8y",
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "system": {
+    "description": {
+      "@en": "The Gambler feels the ticking of the clock. Being friends with those in the underworld – of many different stripes – does have its benefits. The cards tend to come up aces when needed most."
+    },
+    "notes": "",
+    "rules": {
+      "effect": {
+        "@en": "When you use Fortune Points, you do not need to roll percentile dice to make a Skill Test. Instead, you automatically Critically Succeed at the Skill Test you intended to make."
+      }
+    },
+    "category": "professional"
+  },
+  "folder": null,
+  "sort": 16700000,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {},
+  "_key": "!items!maVaogtd85j7U8QJ"
+}

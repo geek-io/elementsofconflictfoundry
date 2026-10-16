@@ -1,0 +1,37 @@
+{
+  "_id": "tNJU1L8BPtNFsEYg",
+  "effects": [],
+  "img": "systems/zweihander/assets/icons/vitruvian-man.svg",
+  "name": "The Full Monty",
+  "type": "trait",
+  "_stats": {
+    "coreVersion": "13.342",
+    "systemId": "zweihander",
+    "systemVersion": "5.4.1",
+    "createdTime": null,
+    "modifiedTime": 1735911103111,
+    "lastModifiedBy": "rivg6xcMxdlVDM8y",
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "system": {
+    "description": {
+      "@en": "Prostitutes use suggestive body language, risqué acts and innuendo to convince others to do their bidding."
+    },
+    "notes": "",
+    "rules": {
+      "effect": {
+        "@en": "All Skill Ranks you acquire in the Charm Skill modify your Base Chance by +20, instead of +10. In addition, when you perform acts of carnal knowledge with another, you both ‘get lucky’, gaining 1 Fortune Point each to personally use. This benefit cannot be given or gained more than once per day."
+      }
+    },
+    "category": "professional"
+  },
+  "folder": null,
+  "sort": 19000000,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {},
+  "_key": "!items!tNJU1L8BPtNFsEYg"
+}

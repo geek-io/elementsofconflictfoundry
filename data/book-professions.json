@@ -1,0 +1,802 @@
+[
+  {
+    "_id": "99327dbb9a63970f",
+    "name": "Weaponized Allure",
+    "type": "trait",
+    "system": {
+      "audience": "player",
+      "active": true,
+      "description": "Any time you are called to use the Intimidate Skill, you may substitute the Charm Skill in its place. In addition, you may substitute Charm in place of any Skill required to Parry melee attacks.",
+      "source": "EoC Shinobi Playtest v1.0, PDF p.24",
+      "category": "Deceiver"
+    }
+  },
+  {
+    "_id": "fc947c4f8d728d16",
+    "name": "Flick of the Wrist",
+    "type": "talent",
+    "system": {
+      "description": "When a foe successfully Parries your Melee Attack, you may immediately make an Opportunity Attack with a weapon that has the Light property.",
+      "source": "EoC Shinobi Playtest v1.0, PDF p.24",
+      "category": "Deceiver"
+    }
+  },
+  {
+    "_id": "fca87f7ce6fd43c3",
+    "name": "The Masquerade",
+    "type": "talent",
+    "system": {
+      "description": "When masquerading as someone of an Allegiance other than your own, you gain a +20 Base Chance to Disguise Tests.",
+      "source": "EoC Shinobi Playtest v1.0, PDF p.24",
+      "category": "Deceiver"
+    }
+  },
+  {
+    "_id": "f72c7435bb0bc72b",
+    "name": "Know Thy Enemy",
+    "type": "talent",
+    "system": {
+      "description": "Whenever a Coin is spent, automatically cancel its usage. You can call upon this ability once per game session.",
+      "source": "EoC Shinobi Playtest v1.0, PDF p.24",
+      "category": "Deceiver"
+    }
+  },
+  {
+    "_id": "6c202e167492d370",
+    "name": "Deceiver",
+    "type": "profession",
+    "system": {
+      "category": "Genin",
+      "source": "EoC Shinobi Playtest v1.0, PDF p.24",
+      "advances": {
+        "talents": {
+          "0": {
+            "name": "Flick of the Wrist",
+            "uuid": "Compendium.elementsofconflictfoundry.eoc-talents.Item.fc947c4f8d728d16",
+            "completed": false
+          },
+          "1": {
+            "name": "The Masquerade",
+            "uuid": "Compendium.elementsofconflictfoundry.eoc-talents.Item.fca87f7ce6fd43c3",
+            "completed": false
+          },
+          "2": {
+            "name": "Know Thy Enemy",
+            "uuid": "Compendium.elementsofconflictfoundry.eoc-talents.Item.f72c7435bb0bc72b",
+            "completed": false
+          }
+        },
+        "skills": {
+          "0": {
+            "name": "Awareness",
+            "uuid": "",
+            "completed": false
+          },
+          "1": {
+            "name": "Bargain",
+            "uuid": "",
+            "completed": false
+          },
+          "2": {
+            "name": "Chakra Control",
+            "uuid": "",
+            "completed": false
+          },
+          "3": {
+            "name": "Charm",
+            "uuid": "",
+            "completed": false
+          },
+          "4": {
+            "name": "Eavesdrop",
+            "uuid": "",
+            "completed": false
+          },
+          "5": {
+            "name": "Gamble",
+            "uuid": "",
+            "completed": false
+          },
+          "6": {
+            "name": "Genjutsu",
+            "uuid": "",
+            "completed": false
+          },
+          "7": {
+            "name": "Guile",
+            "uuid": "",
+            "completed": false
+          },
+          "8": {
+            "name": "Scrutinize",
+            "uuid": "",
+            "completed": false
+          },
+          "9": {
+            "name": "Taijutsu",
+            "uuid": "",
+            "completed": false
+          }
+        },
+        "bonuses": {
+          "0": {
+            "name": "Agility Bonus",
+            "uuid": "",
+            "completed": false
+          },
+          "1": {
+            "name": "Fellowship Bonus",
+            "uuid": "",
+            "completed": false
+          },
+          "2": {
+            "name": "Fellowship Bonus",
+            "uuid": "",
+            "completed": false
+          },
+          "3": {
+            "name": "Intelligence Bonus",
+            "uuid": "",
+            "completed": false
+          },
+          "4": {
+            "name": "Intelligence Bonus",
+            "uuid": "",
+            "completed": false
+          },
+          "5": {
+            "name": "Perception Bonus",
+            "uuid": "",
+            "completed": false
+          },
+          "6": {
+            "name": "Willpower Bonus",
+            "uuid": "",
+            "completed": false
+          }
+        }
+      },
+      "description": "<h2>Deceiver</h2><p>Allure and Wit are the tools of any good shinobi, and yet there are some to which the Velvet glove comes as second-nature. Deceivers are Shinobi for whom Illusions are painted with every breath and word, with or without the use of Chakra.</p><p>Genin profession.</p><h3>Specialist Trait: Weaponized Allure</h3><p>Any time you are called to use the Intimidate Skill, you may substitute the Charm Skill in its place. In addition, you may substitute Charm in place of any Skill required to Parry melee attacks.</p><p>@UUID[Compendium.elementsofconflictfoundry.eoc-specialist-traits.Item.99327dbb9a63970f]{Weaponized Allure}</p><h3>Talents</h3><p>@UUID[Compendium.elementsofconflictfoundry.eoc-talents.Item.fc947c4f8d728d16]{Flick of the Wrist}</p><p>@UUID[Compendium.elementsofconflictfoundry.eoc-talents.Item.fca87f7ce6fd43c3]{The Masquerade}</p><p>@UUID[Compendium.elementsofconflictfoundry.eoc-talents.Item.f72c7435bb0bc72b]{Know Thy Enemy}</p><h3>Starting Equipment</h3><p>A Brace of 20 Shuriken, 10 Kunai, 1 Set of Elegant Clothing, 1 disguise kit, 1 soldier pill, 2 weapons with the Light or Finesse Quality, and 50,000 両.</p>"
+    }
+  },
+  {
+    "_id": "76416bfc1bc198be",
+    "name": "A Little Razzle Dazzle",
+    "type": "trait",
+    "system": {
+      "audience": "player",
+      "active": true,
+      "description": "When casting Ninjutsu – at your option – you may automatically succeed at the Ninjutsu Test, but move one step down the Peril Condition Track negatively.",
+      "source": "EoC Shinobi Playtest v1.0, PDF p.25",
+      "category": "Demolition"
+    }
+  },
+  {
+    "_id": "64f8d8fc11dad697",
+    "name": "Cat-like Reflexes",
+    "type": "talent",
+    "system": {
+      "description": "In combat, you gain 1 additional Action Point. However, it can only be used to Dodge and Parry. This Action Point refreshes at the beginning of your Turn.",
+      "source": "EoC Shinobi Playtest v1.0, PDF p.25",
+      "category": "Demolition"
+    }
+  },
+  {
+    "_id": "ff76b02fb5a49184",
+    "name": "Built for Booms",
+    "type": "talent",
+    "system": {
+      "description": "Permanently add +6% to your Willpower.",
+      "source": "EoC Shinobi Playtest v1.0, PDF p.25",
+      "category": "Demolition"
+    }
+  },
+  {
+    "_id": "ed22cc1b44953d23",
+    "name": "Always Prepared",
+    "type": "talent",
+    "system": {
+      "description": "So long as there is a period of Downtime between Missions, the player is able to source [Tier*10,000 Ryo] worth of Equipment to replenish tools lost in the field without needing to dip into their own funds.",
+      "source": "EoC Shinobi Playtest v1.0, PDF p.25",
+      "category": "Demolition"
+    }
+  },
+  {
+    "_id": "fea1180a49772a25",
+    "name": "Demolition",
+    "type": "profession",
+    "system": {
+      "category": "Genin",
+      "source": "EoC Shinobi Playtest v1.0, PDF p.25",
+      "advances": {
+        "talents": {
+          "0": {
+            "name": "Cat-like Reflexes",
+            "uuid": "Compendium.elementsofconflictfoundry.eoc-talents.Item.64f8d8fc11dad697",
+            "completed": false
+          },
+          "1": {
+            "name": "Built for Booms",
+            "uuid": "Compendium.elementsofconflictfoundry.eoc-talents.Item.ff76b02fb5a49184",
+            "completed": false
+          },
+          "2": {
+            "name": "Always Prepared",
+            "uuid": "Compendium.elementsofconflictfoundry.eoc-talents.Item.ed22cc1b44953d23",
+            "completed": false
+          }
+        },
+        "skills": {
+          "0": {
+            "name": "Athletics",
+            "uuid": "",
+            "completed": false
+          },
+          "1": {
+            "name": "Coordination",
+            "uuid": "",
+            "completed": false
+          },
+          "2": {
+            "name": "Guile",
+            "uuid": "",
+            "completed": false
+          },
+          "3": {
+            "name": "Intimidate",
+            "uuid": "",
+            "completed": false
+          },
+          "4": {
+            "name": "Leadership",
+            "uuid": "",
+            "completed": false
+          },
+          "5": {
+            "name": "Ninjutsu",
+            "uuid": "",
+            "completed": false
+          },
+          "6": {
+            "name": "Scrutinize",
+            "uuid": "",
+            "completed": false
+          },
+          "7": {
+            "name": "Survival",
+            "uuid": "",
+            "completed": false
+          },
+          "8": {
+            "name": "Taijutsu",
+            "uuid": "",
+            "completed": false
+          },
+          "9": {
+            "name": "Toughness",
+            "uuid": "",
+            "completed": false
+          }
+        },
+        "bonuses": {
+          "0": {
+            "name": "Agility Bonus",
+            "uuid": "",
+            "completed": false
+          },
+          "1": {
+            "name": "Brawn Bonus",
+            "uuid": "",
+            "completed": false
+          },
+          "2": {
+            "name": "Combat Bonus",
+            "uuid": "",
+            "completed": false
+          },
+          "3": {
+            "name": "Perception Bonus",
+            "uuid": "",
+            "completed": false
+          },
+          "4": {
+            "name": "Intelligence Bonus",
+            "uuid": "",
+            "completed": false
+          },
+          "5": {
+            "name": "Willpower Bonus",
+            "uuid": "",
+            "completed": false
+          },
+          "6": {
+            "name": "Willpower Bonus",
+            "uuid": "",
+            "completed": false
+          }
+        }
+      },
+      "description": "<h2>Demolition</h2><p>There are times when subtlety is not an option. Those are the moments when you shine. Quick on your feet, quick to assess the situation, and quick to create an Alternative means of escape when necessary.</p><p>Genin profession.</p><h3>Specialist Trait: A Little Razzle Dazzle</h3><p>When casting Ninjutsu – at your option – you may automatically succeed at the Ninjutsu Test, but move one step down the Peril Condition Track negatively.</p><p>@UUID[Compendium.elementsofconflictfoundry.eoc-specialist-traits.Item.76416bfc1bc198be]{A Little Razzle Dazzle}</p><h3>Talents</h3><p>@UUID[Compendium.elementsofconflictfoundry.eoc-talents.Item.64f8d8fc11dad697]{Cat-like Reflexes}</p><p>@UUID[Compendium.elementsofconflictfoundry.eoc-talents.Item.ff76b02fb5a49184]{Built for Booms}</p><p>@UUID[Compendium.elementsofconflictfoundry.eoc-talents.Item.ed22cc1b44953d23]{Always Prepared}</p><h3>Starting Equipment</h3><p>A Brace of 20 Shuriken, 10 Kunai, 1 Set of Sturdy Clothing, 2 soldier pills, 2 Bloodclotting Pills, 1 weapon without the Slow or Reach Quality, and 50,000 両.</p>"
+    }
+  },
+  {
+    "_id": "e660298b80fc1e69",
+    "name": "Shadow Broker",
+    "type": "trait",
+    "system": {
+      "audience": "player",
+      "active": true,
+      "description": "At any time, you may spend 1 Fortune Coin to gain a critical piece of information from underworld contacts, rumormongers or other sources.",
+      "source": "EoC Shinobi Playtest v1.0, PDF p.26",
+      "category": "Infiltrator"
+    }
+  },
+  {
+    "_id": "92c76020a00e95c5",
+    "name": "Lesson One",
+    "type": "talent",
+    "system": {
+      "description": "When trying to open locks, you gain a +20 Base Chance to Skulduggery Tests.",
+      "source": "EoC Shinobi Playtest v1.0, PDF p.26",
+      "category": "Infiltrator"
+    }
+  },
+  {
+    "_id": "1dbec6c3bd8893dd",
+    "name": "By the Skin of My Teeth",
+    "type": "talent",
+    "system": {
+      "description": "Whenever you would suffer a Moderate Injury, spend one Coin, to ignore it. When suffering a Serious Injury, spend two Coins, or when suffering a Grievous Injury, spend three Coins to ignore it.",
+      "source": "EoC Shinobi Playtest v1.0, PDF p.26",
+      "category": "Infiltrator"
+    }
+  },
+  {
+    "_id": "a85986391076ede5",
+    "name": "Up My Sleeve",
+    "type": "talent",
+    "system": {
+      "description": "You always succeed at Skill Tests to conceal objects no larger than a knife in your clothing.",
+      "source": "EoC Shinobi Playtest v1.0, PDF p.26",
+      "category": "Infiltrator"
+    }
+  },
+  {
+    "_id": "d2fd4947317bcf8b",
+    "name": "Infiltrator",
+    "type": "profession",
+    "system": {
+      "category": "Genin",
+      "source": "EoC Shinobi Playtest v1.0, PDF p.26",
+      "advances": {
+        "talents": {
+          "0": {
+            "name": "Lesson One",
+            "uuid": "Compendium.elementsofconflictfoundry.eoc-talents.Item.92c76020a00e95c5",
+            "completed": false
+          },
+          "1": {
+            "name": "By the Skin of My Teeth",
+            "uuid": "Compendium.elementsofconflictfoundry.eoc-talents.Item.1dbec6c3bd8893dd",
+            "completed": false
+          },
+          "2": {
+            "name": "Up My Sleeve",
+            "uuid": "Compendium.elementsofconflictfoundry.eoc-talents.Item.a85986391076ede5",
+            "completed": false
+          }
+        },
+        "skills": {
+          "0": {
+            "name": "Awareness",
+            "uuid": "",
+            "completed": false
+          },
+          "1": {
+            "name": "Bargain",
+            "uuid": "",
+            "completed": false
+          },
+          "2": {
+            "name": "Chakra Control",
+            "uuid": "",
+            "completed": false
+          },
+          "3": {
+            "name": "Charm",
+            "uuid": "",
+            "completed": false
+          },
+          "4": {
+            "name": "Eavesdrop",
+            "uuid": "",
+            "completed": false
+          },
+          "5": {
+            "name": "Genjutsu",
+            "uuid": "",
+            "completed": false
+          },
+          "6": {
+            "name": "Guile",
+            "uuid": "",
+            "completed": false
+          },
+          "7": {
+            "name": "Scrutinize",
+            "uuid": "",
+            "completed": false
+          },
+          "8": {
+            "name": "Stealth",
+            "uuid": "",
+            "completed": false
+          },
+          "9": {
+            "name": "Taijutsu",
+            "uuid": "",
+            "completed": false
+          }
+        },
+        "bonuses": {
+          "0": {
+            "name": "Agility Bonus",
+            "uuid": "",
+            "completed": false
+          },
+          "1": {
+            "name": "Fellowship Bonus",
+            "uuid": "",
+            "completed": false
+          },
+          "2": {
+            "name": "Fellowship Bonus",
+            "uuid": "",
+            "completed": false
+          },
+          "3": {
+            "name": "Intelligence Bonus",
+            "uuid": "",
+            "completed": false
+          },
+          "4": {
+            "name": "Intelligence Bonus",
+            "uuid": "",
+            "completed": false
+          },
+          "5": {
+            "name": "Perception Bonus",
+            "uuid": "",
+            "completed": false
+          },
+          "6": {
+            "name": "Willpower Bonus",
+            "uuid": "",
+            "completed": false
+          }
+        }
+      },
+      "description": "<h2>Infiltrator</h2><p>There can be no secrets when you are on the hunt. Your web is wide and your preparations are many. You have a thousand faces, some friendly and others foreign, but all are deadly. You are the whisper in the wind, the sign that the desperate look to when at the end of their rope. And you Always provide.</p><p>Genin profession.</p><h3>Specialist Trait: Shadow Broker</h3><p>At any time, you may spend 1 Fortune Coin to gain a critical piece of information from underworld contacts, rumormongers or other sources.</p><p>@UUID[Compendium.elementsofconflictfoundry.eoc-specialist-traits.Item.e660298b80fc1e69]{Shadow Broker}</p><h3>Talents</h3><p>@UUID[Compendium.elementsofconflictfoundry.eoc-talents.Item.92c76020a00e95c5]{Lesson One}</p><p>@UUID[Compendium.elementsofconflictfoundry.eoc-talents.Item.1dbec6c3bd8893dd]{By the Skin of My Teeth}</p><p>@UUID[Compendium.elementsofconflictfoundry.eoc-talents.Item.a85986391076ede5]{Up My Sleeve}</p><h3>Starting Equipment</h3><p>A Brace of 20 Shuriken, 10 Kunai, 1 Set of Dark Clothing, 1 soldier pill, 1 Bloodclotting Pill, 1 weapon with the Light or Finesse Quality, 1 Weapon with the Breaker Quality, and 50,000 両.</p>"
+    }
+  },
+  {
+    "_id": "f03a0b6b324e1008",
+    "name": "Guerilla Warfare",
+    "type": "trait",
+    "system": {
+      "audience": "player",
+      "active": true,
+      "description": "You never provoke Opportunity Attacks with Movement Actions or any other action you take. In addition, any Movement Action a foe takes while Engaged with you immediately provokes an Opportunity Attack from you.",
+      "source": "EoC Shinobi Playtest v1.0, PDF p.27",
+      "category": "Saboteur"
+    }
+  },
+  {
+    "_id": "a9aa843e37ebc250",
+    "name": "Steady Aim",
+    "type": "talent",
+    "system": {
+      "description": "You do not suffer additional hardship when firing ranged weapons at Medium Distance, instead treating it as Short Distance.",
+      "source": "EoC Shinobi Playtest v1.0, PDF p.27",
+      "category": "Saboteur"
+    }
+  },
+  {
+    "_id": "ee13deae82dc009e",
+    "name": "Brave Ser Shinobi",
+    "type": "talent",
+    "system": {
+      "description": "Bargain, Disguise, and Stealth tests made to escape pursuit from bounty hunters, guards, and others empowered to enforce laws gain a bonus of +10% to their Base Chance.",
+      "source": "EoC Shinobi Playtest v1.0, PDF p.27",
+      "category": "Saboteur"
+    }
+  },
+  {
+    "_id": "55ae8f75dcbbcb3e",
+    "name": "Instilled Resilience",
+    "type": "talent",
+    "system": {
+      "description": "You gain a +10% Base Chance to Toughness Tests made to Resist the effects of Ailments and Drugs.",
+      "source": "EoC Shinobi Playtest v1.0, PDF p.27",
+      "category": "Saboteur"
+    }
+  },
+  {
+    "_id": "32d92a517feaaa16",
+    "name": "Saboteur",
+    "type": "profession",
+    "system": {
+      "category": "Genin",
+      "source": "EoC Shinobi Playtest v1.0, PDF p.27",
+      "advances": {
+        "talents": {
+          "0": {
+            "name": "Steady Aim",
+            "uuid": "Compendium.elementsofconflictfoundry.eoc-talents.Item.a9aa843e37ebc250",
+            "completed": false
+          },
+          "1": {
+            "name": "Brave Ser Shinobi",
+            "uuid": "Compendium.elementsofconflictfoundry.eoc-talents.Item.ee13deae82dc009e",
+            "completed": false
+          },
+          "2": {
+            "name": "Instilled Resilience",
+            "uuid": "Compendium.elementsofconflictfoundry.eoc-talents.Item.55ae8f75dcbbcb3e",
+            "completed": false
+          }
+        },
+        "skills": {
+          "0": {
+            "name": "Athletics",
+            "uuid": "",
+            "completed": false
+          },
+          "1": {
+            "name": "Awareness",
+            "uuid": "",
+            "completed": false
+          },
+          "2": {
+            "name": "Bukijutsu",
+            "uuid": "",
+            "completed": false
+          },
+          "3": {
+            "name": "Coordination",
+            "uuid": "",
+            "completed": false
+          },
+          "4": {
+            "name": "Navigation",
+            "uuid": "",
+            "completed": false
+          },
+          "5": {
+            "name": "Ninjutsu",
+            "uuid": "",
+            "completed": false
+          },
+          "6": {
+            "name": "Resolve",
+            "uuid": "",
+            "completed": false
+          },
+          "7": {
+            "name": "Stealth",
+            "uuid": "",
+            "completed": false
+          },
+          "8": {
+            "name": "Toughness",
+            "uuid": "",
+            "completed": false
+          },
+          "9": {
+            "name": "Tradecraft",
+            "uuid": "",
+            "completed": false
+          }
+        },
+        "bonuses": {
+          "0": {
+            "name": "Agility Bonus",
+            "uuid": "",
+            "completed": false
+          },
+          "1": {
+            "name": "Agility Bonus",
+            "uuid": "",
+            "completed": false
+          },
+          "2": {
+            "name": "Brawn Bonus",
+            "uuid": "",
+            "completed": false
+          },
+          "3": {
+            "name": "Combat Bonus",
+            "uuid": "",
+            "completed": false
+          },
+          "4": {
+            "name": "Perception Bonus",
+            "uuid": "",
+            "completed": false
+          },
+          "5": {
+            "name": "Perception Bonus",
+            "uuid": "",
+            "completed": false
+          },
+          "6": {
+            "name": "Willpower Bonus",
+            "uuid": "",
+            "completed": false
+          }
+        }
+      },
+      "description": "<h2>Saboteur</h2><p>Stealth and Power, the two pillars of any Shinobi's Arsenal. You contain them and more, for you are the line that separates Peace and War. When you are called to action it is to secure intel, erase the traces of lesser-nin, redirect the focuses of those more likely to suspect external actors, and more.</p><p>Genin profession.</p><h3>Specialist Trait: Guerilla Warfare</h3><p>You never provoke Opportunity Attacks with Movement Actions or any other action you take. In addition, any Movement Action a foe takes while Engaged with you immediately provokes an Opportunity Attack from you.</p><p>@UUID[Compendium.elementsofconflictfoundry.eoc-specialist-traits.Item.f03a0b6b324e1008]{Guerilla Warfare}</p><h3>Talents</h3><p>@UUID[Compendium.elementsofconflictfoundry.eoc-talents.Item.a9aa843e37ebc250]{Steady Aim}</p><p>@UUID[Compendium.elementsofconflictfoundry.eoc-talents.Item.ee13deae82dc009e]{Brave Ser Shinobi}</p><p>@UUID[Compendium.elementsofconflictfoundry.eoc-talents.Item.55ae8f75dcbbcb3e]{Instilled Resilience}</p><h3>Starting Equipment</h3><p>A Brace of 20 Shuriken, 10 Kunai, 1 Set of Dark Clothing, 1 Survival Kit, 1 soldier pill, 2 Bloodclotting Pills, 1 weapon with the Finesse Quality, 1 Weapon with the Vicious Quality, and 50,000 両.</p>"
+    }
+  },
+  {
+    "_id": "c6eea1578aaa7741",
+    "name": "Bookworm's Gospel",
+    "type": "trait",
+    "system": {
+      "audience": "player",
+      "active": true,
+      "description": "You reduce the time required to use Education Tests by half (examples include research, speed-reading, writing, etc.). In addition, you automatically succeed at all Skill Tests to decipher cryptograms in languages you understand.",
+      "source": "EoC Shinobi Playtest v1.0, PDF p.28",
+      "category": "Support"
+    }
+  },
+  {
+    "_id": "1369f22d3b68b50c",
+    "name": "Polymath",
+    "type": "talent",
+    "system": {
+      "description": "When counting or cheating, you gain a +10 Base Chance to Skill Tests.",
+      "source": "EoC Shinobi Playtest v1.0, PDF p.28",
+      "category": "Support"
+    }
+  },
+  {
+    "_id": "7b41f70da3162209",
+    "name": "Underneath the Underneath",
+    "type": "talent",
+    "system": {
+      "description": "Assuming you are properly attired, not in an incongruous position, or doing something outwardly suspicious; those classified as [Noble] and [Samurai] roll at Disadvantage when attempting Scrutinize tests to discern you from any other servant.",
+      "source": "EoC Shinobi Playtest v1.0, PDF p.28",
+      "category": "Support"
+    }
+  },
+  {
+    "_id": "bd5161554654a90c",
+    "name": "Tourniquet",
+    "type": "talent",
+    "system": {
+      "description": "You may choose to roll any Heal tests made while in Combat at Advantage, however doing so pushes you 1 step down the Peril Track regardless of your success or Failure.",
+      "source": "EoC Shinobi Playtest v1.0, PDF p.28",
+      "category": "Support"
+    }
+  },
+  {
+    "_id": "c0071c1942ea658c",
+    "name": "Support",
+    "type": "profession",
+    "system": {
+      "category": "Genin",
+      "source": "EoC Shinobi Playtest v1.0, PDF p.28",
+      "advances": {
+        "talents": {
+          "0": {
+            "name": "Polymath",
+            "uuid": "Compendium.elementsofconflictfoundry.eoc-talents.Item.1369f22d3b68b50c",
+            "completed": false
+          },
+          "1": {
+            "name": "Underneath the Underneath",
+            "uuid": "Compendium.elementsofconflictfoundry.eoc-talents.Item.7b41f70da3162209",
+            "completed": false
+          },
+          "2": {
+            "name": "Tourniquet",
+            "uuid": "Compendium.elementsofconflictfoundry.eoc-talents.Item.bd5161554654a90c",
+            "completed": false
+          }
+        },
+        "skills": {
+          "0": {
+            "name": "Chakra Control",
+            "uuid": "",
+            "completed": false
+          },
+          "1": {
+            "name": "Charm",
+            "uuid": "",
+            "completed": false
+          },
+          "2": {
+            "name": "Education",
+            "uuid": "",
+            "completed": false
+          },
+          "3": {
+            "name": "Folklore",
+            "uuid": "",
+            "completed": false
+          },
+          "4": {
+            "name": "Genjutsu",
+            "uuid": "",
+            "completed": false
+          },
+          "5": {
+            "name": "Guile",
+            "uuid": "",
+            "completed": false
+          },
+          "6": {
+            "name": "Heal",
+            "uuid": "",
+            "completed": false
+          },
+          "7": {
+            "name": "Ninjutsu",
+            "uuid": "",
+            "completed": false
+          },
+          "8": {
+            "name": "Tradecraft",
+            "uuid": "",
+            "completed": false
+          },
+          "9": {
+            "name": "Warfare",
+            "uuid": "",
+            "completed": false
+          }
+        },
+        "bonuses": {
+          "0": {
+            "name": "Agility Bonus",
+            "uuid": "",
+            "completed": false
+          },
+          "1": {
+            "name": "Brawn Bonus",
+            "uuid": "",
+            "completed": false
+          },
+          "2": {
+            "name": "Fellowship Bonus",
+            "uuid": "",
+            "completed": false
+          },
+          "3": {
+            "name": "Perception Bonus",
+            "uuid": "",
+            "completed": false
+          },
+          "4": {
+            "name": "Intelligence Bonus",
+            "uuid": "",
+            "completed": false
+          },
+          "5": {
+            "name": "Intelligence Bonus",
+            "uuid": "",
+            "completed": false
+          },
+          "6": {
+            "name": "Willpower Bonus",
+            "uuid": "",
+            "completed": false
+          }
+        }
+      },
+      "description": "<h2>Support</h2><p>Man over mission, pen over sword. You exist not solely as a blade in the dark or a shining nova, but more than anything as a scholar, a healer, and an advisor. You may not be the mightiest of warriors, but when others spend their time sharpening their skill for ending lives, you are hard at work saving them. But let it never be forgotten that all roses have thorns and you are just as liable to show your displeasure as any other when things get out of hand.</p><p>Genin profession.</p><h3>Specialist Trait: Bookworm's Gospel</h3><p>You reduce the time required to use Education Tests by half (examples include research, speed-reading, writing, etc.). In addition, you automatically succeed at all Skill Tests to decipher cryptograms in languages you understand.</p><p>@UUID[Compendium.elementsofconflictfoundry.eoc-specialist-traits.Item.c6eea1578aaa7741]{Bookworm's Gospel}</p><h3>Talents</h3><p>@UUID[Compendium.elementsofconflictfoundry.eoc-talents.Item.1369f22d3b68b50c]{Polymath}</p><p>@UUID[Compendium.elementsofconflictfoundry.eoc-talents.Item.7b41f70da3162209]{Underneath the Underneath}</p><p>@UUID[Compendium.elementsofconflictfoundry.eoc-talents.Item.bd5161554654a90c]{Tourniquet}</p><h3>Starting Equipment</h3><p>A Brace of 20 Shuriken, 10 Kunai, 1 Set of Sturdy Clothing, 4 soldier pills, 4 Bloodclotting Pills, 1 weapon with the Light or Finesse Quality, 1 Weapon or Shield with the Protective Quality, and 50,000 両.</p>"
+    }
+  }
+]

@@ -1,0 +1,37 @@
+{
+  "_id": "tjEUVD7yNJjUS31c",
+  "effects": [],
+  "img": "systems/zweihander/assets/icons/vitruvian-man.svg",
+  "name": "Spirit Sight",
+  "type": "trait",
+  "_stats": {
+    "coreVersion": "13.342",
+    "systemId": "zweihander",
+    "systemVersion": "5.4.1",
+    "createdTime": null,
+    "modifiedTime": 1735911103113,
+    "lastModifiedBy": "rivg6xcMxdlVDM8y",
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "system": {
+    "description": {
+      "@en": "You’ve developed an affinity with the Æthereal Veil, as you now exist somewhere between this Magickal membrane and the Material Realm. As such, your sight and Magicks can reach both betwixt the Material Realm and the Veil."
+    },
+    "notes": "",
+    "rules": {
+      "effect": {
+        "@en": "You can always affect Æthereal creatures with your Magicks, regardless of whether they are in Æthereal form or not. In addition, you can attempt to visually sense the presence of Æthereal creatures with a successful Awareness Test."
+      }
+    },
+    "category": "professional"
+  },
+  "folder": null,
+  "sort": 19400000,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {},
+  "_key": "!items!tjEUVD7yNJjUS31c"
+}

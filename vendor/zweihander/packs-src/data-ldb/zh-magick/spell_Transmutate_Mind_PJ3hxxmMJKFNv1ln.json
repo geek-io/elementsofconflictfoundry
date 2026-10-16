@@ -1,0 +1,60 @@
+{
+  "_id": "PJ3hxxmMJKFNv1ln",
+  "effects": [],
+  "img": "systems/zweihander/assets/icons/wizard-staff.svg",
+  "name": "Transmutate Mind",
+  "type": "spell",
+  "_stats": {
+    "coreVersion": "13.342",
+    "systemId": "zweihander",
+    "systemVersion": "5.4.1",
+    "createdTime": null,
+    "modifiedTime": 1745410666686,
+    "lastModifiedBy": "rivg6xcMxdlVDM8y",
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "system": {
+    "description": {
+      "@en": "You are able to transform the mind of a madman into a sane one, much like how a rod of iron is struck into a sword."
+    },
+    "notes": "",
+    "rules": {
+      "effect": {
+        "@en": "After successfully casting this spell, the person you touch permanently reduces their Chaos Ranks equal to your [WB]."
+      },
+      "criticalSuccess": {
+        "@en": "As above, but you also cure a single Disorder (if the person has one)."
+      },
+      "criticalFailure": {
+        "@en": "Your touch warps the mind of the patient, driving them deeper into madness. They immediately gain Corruption equal to your [WB]."
+      },
+      "reagents": {
+        "@en": "A madman’s book, torn to shreds (expended)"
+      }
+    },
+    "tradition": "Arcane (Transmutation)",
+    "principle": "Greater",
+    "distance": "Any one person you can touch",
+    "duration": {
+      "value": "special",
+      "label": "Instantaneous",
+      "formula": {
+        "override": false
+      },
+      "base": "[WB]",
+      "bonus": 0,
+      "unit": "Special"
+    },
+    "castingTime": "1 min",
+    "castingCost": 0
+  },
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {},
+  "_key": "!items!PJ3hxxmMJKFNv1ln"
+}

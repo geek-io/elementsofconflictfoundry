@@ -1,0 +1,144 @@
+{
+  "_id": "PRmFfj0RAZMzoz8A",
+  "effects": [],
+  "img": "systems/zweihander/assets/icons/king-ju-mask.svg",
+  "name": "Vigilante",
+  "system": {
+    "description": {
+      "@en": "Vigilantes can be ‘heroes of the people’, handing out justice when the law fails to, but others are nothing more than paid ruffians, beating up others at the behest of some guild or simply the amusement of some petty noble. Some choose this path to right the wrongs they have encountered in their day-to-day lives, others take it up to be able to deal out violence and get paid for it. Whether professional bully or enforcer of justice, Vigilantes adopt colorful monikers, costumes and flourishes, creating an alter ego to protect their livelihoods and family. A few infamous Vigilantes from history include ‘Guido Fawkes’ and ‘Spring-heeled Jack’.\nWhether driven to right wrongs or mete out beatings and slayings, a few Vigilantes come to crave violence of its own sake, their knack for mayhem and murder transforming them into sadistic madmen or killers. Masked Vigilantes of this caliber include ‘Jack the Ripper’ and ‘Whipping Tom’. When this happens, they may end up becoming a part of a villain’s gallery, opposed by other Vigilantes whose drive for justice will invariably draw them into a fight with these wouldbe antagonists. In the end, there is a dark place within every Vigilante; a hole that cannot be filled by a life of sedentary peace."
+    },
+    "notes": "",
+    "expert": {
+      "value": false,
+      "requirements": {
+        "skillRanks": [],
+        "additional": ""
+      }
+    },
+    "archetype": "Knave",
+    "bonusAdvances": [
+      {
+        "name": "[AB]",
+        "purchased": false
+      },
+      {
+        "name": "[AB]",
+        "purchased": false
+      },
+      {
+        "name": "[BB]",
+        "purchased": false
+      },
+      {
+        "name": "[CB]",
+        "purchased": false
+      },
+      {
+        "name": "[CB]",
+        "purchased": false
+      },
+      {
+        "name": "[PB]",
+        "purchased": false
+      },
+      {
+        "name": "[WB]",
+        "purchased": false
+      }
+    ],
+    "skillRanks": [
+      {
+        "name": "Awareness",
+        "purchased": false
+      },
+      {
+        "name": "Coordination",
+        "purchased": false
+      },
+      {
+        "name": "Disguise",
+        "purchased": false
+      },
+      {
+        "name": "Intimidate",
+        "purchased": false
+      },
+      {
+        "name": "Martial Melee",
+        "purchased": false
+      },
+      {
+        "name": "Resolve",
+        "purchased": false
+      },
+      {
+        "name": "Rumor",
+        "purchased": false
+      },
+      {
+        "name": "Simple Melee",
+        "purchased": false
+      },
+      {
+        "name": "Simple Ranged",
+        "purchased": false
+      },
+      {
+        "name": "Stealth",
+        "purchased": false
+      }
+    ],
+    "talents": [
+      {
+        "linkedId": "cIaEhW4y3xK76XWt",
+        "name": "Indifference",
+        "uuid": "Compendium.zweihander.zh-talents.Item.cIaEhW4y3xK76XWt"
+      },
+      {
+        "linkedId": "KMO3O7P1ueJp0lEr",
+        "name": "Knifework",
+        "uuid": "Compendium.zweihander.zh-talents.Item.KMO3O7P1ueJp0lEr"
+      },
+      {
+        "linkedId": "scPvPU5Hxn57st6O",
+        "name": "Strangler’s Union",
+        "uuid": "Compendium.zweihander.zh-talents.Item.scPvPU5Hxn57st6O"
+      }
+    ],
+    "professionalTrait": {
+      "name": "Mortality Work",
+      "uuid": "Compendium.zweihander.zh-traits.Item.CJBZoGKpRJjOgQHn",
+      "linkedId": null
+    },
+    "specialTrait": {
+      "name": "",
+      "uuid": "",
+      "linkedId": null
+    },
+    "drawback": {
+      "name": "Alter Ego",
+      "uuid": "Compendium.zweihander.zh-drawbacks.Item.0HRVtKE9hJOQI9DG",
+      "linkedId": null
+    },
+    "tier": ""
+  },
+  "type": "profession",
+  "_stats": {
+    "coreVersion": "13.342",
+    "systemId": "zweihander",
+    "systemVersion": "5.4.1",
+    "createdTime": null,
+    "modifiedTime": 1735067622284,
+    "lastModifiedBy": "rivg6xcMxdlVDM8y",
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "folder": null,
+  "sort": 8800000,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {},
+  "_key": "!items!PRmFfj0RAZMzoz8A"
+}

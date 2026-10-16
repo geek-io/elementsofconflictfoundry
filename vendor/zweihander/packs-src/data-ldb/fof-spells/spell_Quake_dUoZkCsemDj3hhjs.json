@@ -1,0 +1,60 @@
+{
+  "_id": "dUoZkCsemDj3hhjs",
+  "effects": [],
+  "img": "systems/zweihander/assets/icons/concentric-crescents.svg",
+  "name": "Quake",
+  "type": "spell",
+  "_stats": {
+    "coreVersion": "13.342",
+    "systemId": "zweihander",
+    "systemVersion": "5.4.1",
+    "createdTime": 1745429303233,
+    "modifiedTime": 1745429303233,
+    "lastModifiedBy": "rivg6xcMxdlVDM8y",
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "system": {
+    "description": {
+      "@en": "<p>Feel the earth tremble beneath your feet!</p>"
+    },
+    "notes": "",
+    "rules": {
+      "effect": {
+        "@en": "<p>After successfully casting (and foes in an Explosion Template cannot or fail to Resist using Athletics), they suffer [[/roll 3D10]]+[WB] Damage. Roll Chaos Dice as you normally would for Injuries, but if any land on face &lsquo;6,&rsquo; they are Slain! instead.</p>"
+      },
+      "criticalSuccess": {
+        "@en": "As above, but add [[/roll 3D6]] Chaos Dice to determine if foes are Slain!"
+      },
+      "criticalFailure": {
+        "@en": "The earth suddenly opens up below your feet, and unless you successfully Resist using Athletics, you are Slain!."
+      },
+      "reagents": {
+        "@en": "Two obsidian rings, worn on the fingers and pointed downwards"
+      }
+    },
+    "tradition": "Black & White",
+    "principle": "Advanced Tier",
+    "distance": "Explosion Template, extending from any place you can clearly see",
+    "duration": {
+      "value": "instantaneous",
+      "label": "Instantaneous",
+      "formula": {
+        "override": false
+      },
+      "base": "[WB]",
+      "bonus": 0,
+      "unit": "Instantaneous"
+    },
+    "castingTime": "1  Minute",
+    "castingCost": 3
+  },
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {},
+  "_key": "!items!dUoZkCsemDj3hhjs"
+}

@@ -1,0 +1,37 @@
+{
+  "_id": "UN2ul8jvZLtZu2Al",
+  "effects": [],
+  "img": "systems/zweihander/assets/icons/pirate-coat.svg",
+  "name": "Aye Aye Skipper",
+  "type": "trait",
+  "_stats": {
+    "coreVersion": "13.342",
+    "systemId": "zweihander",
+    "systemVersion": "5.4.1",
+    "createdTime": null,
+    "modifiedTime": 1735911103067,
+    "lastModifiedBy": "rivg6xcMxdlVDM8y",
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "system": {
+    "description": {
+      "@en": "Both on the sea and by land, you attract both admiration and respect for your position as a captain of the sea."
+    },
+    "notes": "",
+    "rules": {
+      "effect": {
+        "@en": "You may flip the results to succeed at Navigate Tests. When you succeed, it is always considered a Critical Success. In addition, when using the Movement subtype of swim, add your Initiative value to the Distance you swim."
+      }
+    },
+    "category": "professional"
+  },
+  "folder": null,
+  "sort": 9900000,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {},
+  "_key": "!items!UN2ul8jvZLtZu2Al"
+}

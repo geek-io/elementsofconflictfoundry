@@ -1,0 +1,149 @@
+{
+  "_id": "GXlCxN9IbhKlUR2P",
+  "effects": [],
+  "img": "systems/zweihander/assets/icons/conqueror.svg",
+  "name": "War General",
+  "type": "profession",
+  "_stats": {
+    "coreVersion": "13.342",
+    "systemId": "zweihander",
+    "systemVersion": "5.4.1",
+    "createdTime": null,
+    "modifiedTime": 1735052848139,
+    "lastModifiedBy": "rivg6xcMxdlVDM8y",
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "system": {
+    "description": {
+      "@en": "“No bastard ever won a war by dying for his country. You won it by making the other poor dumb bastard die for his country.” This is the common sentiment among War Generals, some of the keenest minds and strategists to ever step onto the field of battle. These soldiers have worked their way up through the ranks by slogging through midden heaps, sleeping in inhospitable territory and slaughtering countless enemies. After all the mud and pain and shit, they now lead armies and stand shoulder-to-shoulder with sultans and emperors alike in war rooms. War Generals rarely engage in combat due to their value and importance, but their charisma, tactical mindset and iron will have made them the lynch- pin in many victories. Their words inspire thousands of warriors and their wins change the strategy of war for years to come. Theirs is a hardened mind who only believes in victory, often at any cost. War Generals are not ones to bend, but when they do, they rarely break underneath the pressure. Even when they are forced to accept defeat, their staunch military minds are ready to regroup the forces under the command and to drive the next battle towards an eventual victory.\\nA sword is only useful if it stays sharp, and War Generals are often teetering on the edge. One slip-up or defeat can ruin their reputation and deem them ‘too old and inflexible’ to hold the fate of empires on their hands. Those who do not remain honorable or are incapable of swallowing their pride may instead turn to drink to wash away their failures on the battlefield. Some may even fall upon their sword. However, they may rally, and the itch of violence returns. Though their voices bellow and their tactics are exceptional, the War General needs the power – needs the control they have grown accustomed to wielding. Some begin to drive their allies harder and harder or instead rally up small armies for blind causes. Finally, a psychotic break happens and they seek to command an army at all costs. If this means leading hordes of grossly mutated marauders, then so be it, these War Generals, desperate to retain their former glory, having exchanged it for their very soul."
+    },
+    "notes": "",
+    "expert": {
+      "value": true,
+      "requirements": {
+        "skillRanks": [
+          {
+            "key": "warfare",
+            "value": 2
+          }
+        ],
+        "additional": "<p>-</p>"
+      }
+    },
+    "archetype": "Expert Profession",
+    "bonusAdvances": [
+      {
+        "name": "[CB]",
+        "purchased": false
+      },
+      {
+        "name": "[FB]",
+        "purchased": false
+      },
+      {
+        "name": "[FB]",
+        "purchased": false
+      },
+      {
+        "name": "[IB]",
+        "purchased": false
+      },
+      {
+        "name": "[IB]",
+        "purchased": false
+      },
+      {
+        "name": "[PB]",
+        "purchased": false
+      },
+      {
+        "name": "[WB]",
+        "purchased": false
+      }
+    ],
+    "skillRanks": [
+      {
+        "name": "Awareness",
+        "purchased": false
+      },
+      {
+        "name": "Education",
+        "purchased": false
+      },
+      {
+        "name": "Folklore",
+        "purchased": false
+      },
+      {
+        "name": "Leadership",
+        "purchased": false
+      },
+      {
+        "name": "Martial Melee",
+        "purchased": false
+      },
+      {
+        "name": "Martial Ranged",
+        "purchased": false
+      },
+      {
+        "name": "Resolve",
+        "purchased": false
+      },
+      {
+        "name": "Simple Melee",
+        "purchased": false
+      },
+      {
+        "name": "Simple Ranged",
+        "purchased": false
+      },
+      {
+        "name": "Warfare",
+        "purchased": false
+      }
+    ],
+    "talents": [
+      {
+        "linkedId": "0l5T7zT8MMm0Fhp8",
+        "name": "Light Sleeper",
+        "uuid": "Compendium.zweihander.zh-talents.Item.0l5T7zT8MMm0Fhp8"
+      },
+      {
+        "linkedId": "xxL0Z55MRpRP3fyP",
+        "name": "Military Formation",
+        "uuid": "Compendium.zweihander.zh-talents.Item.xxL0Z55MRpRP3fyP"
+      },
+      {
+        "linkedId": "2BQgCknFDwpvM47Q",
+        "name": "Nerves of Steel",
+        "uuid": "Compendium.zweihander.zh-talents.Item.2BQgCknFDwpvM47Q"
+      }
+    ],
+    "professionalTrait": {
+      "name": "Art of War",
+      "uuid": "Compendium.zweihander.zh-traits.Item.LOUJyLUkSr2wVA5I",
+      "linkedId": null
+    },
+    "specialTrait": {
+      "name": "",
+      "uuid": "",
+      "linkedId": null
+    },
+    "drawback": {
+      "name": "High-Handed",
+      "uuid": "Compendium.zweihander.zh-drawbacks.Item.MMfE4vXPDsEqthp8",
+      "linkedId": null
+    },
+    "tier": ""
+  },
+  "folder": null,
+  "sort": 5800000,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {},
+  "_key": "!items!GXlCxN9IbhKlUR2P"
+}

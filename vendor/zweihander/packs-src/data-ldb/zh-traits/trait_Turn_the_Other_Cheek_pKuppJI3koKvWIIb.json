@@ -1,0 +1,37 @@
+{
+  "_id": "pKuppJI3koKvWIIb",
+  "effects": [],
+  "img": "systems/zweihander/assets/icons/vitruvian-man.svg",
+  "name": "Turn the Other Cheek",
+  "type": "trait",
+  "_stats": {
+    "coreVersion": "13.342",
+    "systemId": "zweihander",
+    "systemVersion": "5.4.1",
+    "createdTime": null,
+    "modifiedTime": 1735911103105,
+    "lastModifiedBy": "rivg6xcMxdlVDM8y",
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "system": {
+    "description": {
+      "@en": "So as long as an Adherent makes no attempt to harm another, they are above reproach. But those who walk in blood-stained clothes with a sword at their waist may send the wrong message, allowing others to ignore the Adherent’s pacifist ways."
+    },
+    "notes": "",
+    "rules": {
+      "effect": {
+        "@en": "Any creature that is classified as a Humanoid (including player Ancestries) suﬀer a -20 Base Chance to strike you with attacks, until you initiate violence towards them or their allies. In addition, you automatically understand how to use the Ritual of Blessed Sacrament."
+      }
+    },
+    "category": "professional"
+  },
+  "folder": null,
+  "sort": 17600000,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {},
+  "_key": "!items!pKuppJI3koKvWIIb"
+}

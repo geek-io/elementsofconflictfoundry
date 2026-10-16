@@ -1,0 +1,153 @@
+{
+  "_id": "HIyMdMsSvyZgfjWX",
+  "effects": [],
+  "img": "systems/zweihander/assets/icons/helmet-head-shot.svg",
+  "name": "Armiger",
+  "type": "profession",
+  "_stats": {
+    "coreVersion": "13.342",
+    "systemId": "zweihander",
+    "systemVersion": "5.4.1",
+    "createdTime": null,
+    "modifiedTime": 1735057516056,
+    "lastModifiedBy": "rivg6xcMxdlVDM8y",
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "system": {
+    "description": {
+      "@en": "As the world has changed and evolved, so too has the nature of war altered. Rarely do feudal lords field large armies, crashing against each other like waves against a shore. Today’s warfare mostly consists of small skirmishers, where only the members of the fighting elite are able to stand against the tide. As a result, a new breed of soldier has emerged to take their place on the battlefield: the Armiger. These warriors clad themselves in the heaviest of armors and carry the largest and most explosive of weaponries. Whether they wield massive hand cannons, steel-headed hammers or razor-sharp pikes, they stand as a bulwark against their enemies. They are solitary, powerful and worthy of respect, though many refuse to speak of the horrors they have faced or the allies they have lost.\\nAfter the fields have been reaped free of soldiers, many an Armiger then moves onto a more adventurous living somewhere in the gloom and the shadows. Given their specialty, they head into the fetid depths and haunted tunnels of the earth below. These Armigers spend the rest of their brief lives learning to fight in labyrinthine caverns, pressing deeper into the folds of the world. Within the under-tunnels, Armigers know no rest, only the constant struggle to protect the lands above by hunting down the enemy below. When they return, they have countless stories of terror to tell, but few return without some kind of scar – either physical or psychological. An Armiger may appear to be glamorous for all their brawn and fortitude, but an old Armiger is a rarity. A completely sane Armiger is rarer still."
+    },
+    "notes": "",
+    "expert": {
+      "value": true,
+      "requirements": {
+        "skillRanks": [
+          {
+            "key": "martial melee",
+            "value": 1
+          },
+          {
+            "key": "warfare",
+            "value": 1
+          }
+        ],
+        "additional": "<p>-</p>"
+      }
+    },
+    "archetype": "Expert Profession",
+    "bonusAdvances": [
+      {
+        "name": "[AB]",
+        "purchased": false
+      },
+      {
+        "name": "[BB]",
+        "purchased": false
+      },
+      {
+        "name": "[BB]",
+        "purchased": false
+      },
+      {
+        "name": "[CB]",
+        "purchased": false
+      },
+      {
+        "name": "[CB]",
+        "purchased": false
+      },
+      {
+        "name": "[WB]",
+        "purchased": false
+      },
+      {
+        "name": "[WB]",
+        "purchased": false
+      }
+    ],
+    "skillRanks": [
+      {
+        "name": "Athletics",
+        "purchased": false
+      },
+      {
+        "name": "Folklore",
+        "purchased": false
+      },
+      {
+        "name": "Martial Melee",
+        "purchased": false
+      },
+      {
+        "name": "Martial Ranged",
+        "purchased": false
+      },
+      {
+        "name": "Resolve",
+        "purchased": false
+      },
+      {
+        "name": "Simple Melee",
+        "purchased": false
+      },
+      {
+        "name": "Simple Ranged",
+        "purchased": false
+      },
+      {
+        "name": "Stealth",
+        "purchased": false
+      },
+      {
+        "name": "Survival",
+        "purchased": false
+      },
+      {
+        "name": "Toughness",
+        "purchased": false
+      }
+    ],
+    "talents": [
+      {
+        "linkedId": "fe7vdZghpPmVpFPn",
+        "name": "Die Hard",
+        "uuid": "Compendium.zweihander.zh-talents.Item.fe7vdZghpPmVpFPn"
+      },
+      {
+        "linkedId": "XagfAjJDzmkyHGk5",
+        "name": "Hard To Kill",
+        "uuid": "Compendium.zweihander.zh-talents.Item.XagfAjJDzmkyHGk5"
+      },
+      {
+        "linkedId": "0l5T7zT8MMm0Fhp8",
+        "name": "Light Sleeper",
+        "uuid": "Compendium.zweihander.zh-talents.Item.0l5T7zT8MMm0Fhp8"
+      }
+    ],
+    "professionalTrait": {
+      "name": "Iron Citadel",
+      "uuid": "Compendium.zweihander.zh-traits.Item.lW6BbzINlwUhZuCk",
+      "linkedId": null
+    },
+    "specialTrait": {
+      "name": "",
+      "uuid": "",
+      "linkedId": null
+    },
+    "drawback": {
+      "name": "Visor of Poor Visibility",
+      "uuid": "Compendium.zweihander.zh-drawbacks.Item.cc9a3UdCpfhBduwz",
+      "linkedId": null
+    },
+    "tier": ""
+  },
+  "folder": null,
+  "sort": 6000000,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {},
+  "_key": "!items!HIyMdMsSvyZgfjWX"
+}

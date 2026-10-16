@@ -1,0 +1,16 @@
+<label>{{localize "ZWEI.actor.items.damage"}}:</label>
+<span class="inject-data">{{zhDamageFormula damage}}</span><br />
+<label>{{localize "ZWEI.actor.items.associatedskill"}}:</label>
+{{associatedSkill}}<br />
+<label>{{localize "ZWEI.actor.items.type"}}:</label>
+{{weaponType}}<br />
+<label>{{localize "ZWEI.actor.items.qualities"}}: </label>
+{{#if qualities}}
+  {{#each qualities as |qualityUuid idx|}}
+    <a class="js-display-quality" data-item-id="{{qualityUuid}}">{{zhFetchByUuidSync qualityUuid}}</a>{{#unless @last}}<span>, </span>{{/unless}}
+  {{/each}}
+{{else}}
+  <span> - </span>
+{{/if}}
+<br />
+{{zhPrice price}}

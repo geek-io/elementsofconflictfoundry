@@ -1,0 +1,149 @@
+{
+  "_id": "YOZr6xXAdxQMl06r",
+  "effects": [],
+  "img": "systems/zweihander/assets/icons/drowning.svg",
+  "name": "Drowned One",
+  "type": "profession",
+  "_stats": {
+    "coreVersion": "13.342",
+    "systemId": "zweihander",
+    "systemVersion": "5.4.1",
+    "createdTime": null,
+    "modifiedTime": 1735047743845,
+    "lastModifiedBy": "rivg6xcMxdlVDM8y",
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "system": {
+    "description": {
+      "@en": "“We were born from the sea, and to the sea we shall return” is the litany of the Drowned Ones, the dour priests of the enigmatic Leviathan. They claim their church is older than the Old Believer’s, their faith one of penance for all those who have forsaken their lord by taking to the land. Their initiation involves being drowned in the sea with only those revived by the sacred kiss of life being considered worthy of the Leviathan’s blessing. Drowned Ones trust in the mercy of the sea and storms, subsist solely on the bounties of the sea and drape themselves in rough-spun cloth to best allow salt to stick to their flesh. Many who do not worship the Leviathan see Drowned Ones as odd monks who whisper to fishes and waves, but their influence among sailing communities is not to be trifled with.\nFor the most part, Drowned Ones are a placid lot, rolling with events, but they can erupt in bouts of fury much like their beloved ocean. Their rituals involve chanting and communion, holding worship on a beach next to rock-carved idols of obscene aquatic beasts they claim are manifestations of the Leviathan. Drowned Ones prayers are almost a certainty on long ship voyages, but the lord of storms also offers them fell Magicks from the depths that seem almost like the blackest of sorcery. If ever betrayed by their god, Drowned Ones become even more radical, drowning infidels in buckets of saltwater they carry ashore or by offering them to schools of sharks, the Leviathan’s most holy of animals."
+    },
+    "notes": "",
+    "expert": {
+      "value": true,
+      "requirements": {
+        "skillRanks": [
+          {
+            "key": "incantation",
+            "value": 1
+          }
+        ],
+        "additional": "<p>You must have the Special Trait of Divine Magick.</p>"
+      }
+    },
+    "archetype": "Expert Profession",
+    "bonusAdvances": [
+      {
+        "name": "[AB]",
+        "purchased": false
+      },
+      {
+        "name": "[AB]",
+        "purchased": false
+      },
+      {
+        "name": "[BB]",
+        "purchased": false
+      },
+      {
+        "name": "[BB]",
+        "purchased": false
+      },
+      {
+        "name": "[FB]",
+        "purchased": false
+      },
+      {
+        "name": "[IB]",
+        "purchased": false
+      },
+      {
+        "name": "[WB]",
+        "purchased": false
+      }
+    ],
+    "skillRanks": [
+      {
+        "name": "Athletics",
+        "purchased": false
+      },
+      {
+        "name": "Bargain",
+        "purchased": false
+      },
+      {
+        "name": "Coordination",
+        "purchased": false
+      },
+      {
+        "name": "Folklore",
+        "purchased": false
+      },
+      {
+        "name": "Incantation",
+        "purchased": false
+      },
+      {
+        "name": "Navigation",
+        "purchased": false
+      },
+      {
+        "name": "Pilot",
+        "purchased": false
+      },
+      {
+        "name": "Resolve",
+        "purchased": false
+      },
+      {
+        "name": "Rumor",
+        "purchased": false
+      },
+      {
+        "name": "Simple Melee",
+        "purchased": false
+      }
+    ],
+    "talents": [
+      {
+        "linkedId": "tLtCUfaidoxc4bAr",
+        "name": "Azimuth",
+        "uuid": "Compendium.zweihander.zh-talents.Item.tLtCUfaidoxc4bAr"
+      },
+      {
+        "linkedId": "Fe3d2Oyig1kPYHTb",
+        "name": "Higher Mysteries",
+        "uuid": "Compendium.zweihander.zh-talents.Item.Fe3d2Oyig1kPYHTb"
+      },
+      {
+        "linkedId": "lW9HrxmHL79bHl5v",
+        "name": "Mariner",
+        "uuid": "Compendium.zweihander.zh-talents.Item.lW9HrxmHL79bHl5v"
+      }
+    ],
+    "professionalTrait": {
+      "name": "Thrice-drowned",
+      "uuid": "Compendium.zweihander.zh-traits.Item.K4qyZGzqXYdPMZmH",
+      "linkedId": null
+    },
+    "specialTrait": {
+      "name": "Prayers of the Leviathan",
+      "uuid": "Compendium.zweihander.zh-traits.Item.5mxt6r9NuWMh2lu8",
+      "linkedId": null
+    },
+    "drawback": {
+      "name": "The Leviathan’s Commandments",
+      "uuid": "Compendium.zweihander.zh-drawbacks.Item.UVWaCzwXCbUzgP14",
+      "linkedId": null
+    },
+    "tier": ""
+  },
+  "folder": null,
+  "sort": 10500000,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {},
+  "_key": "!items!YOZr6xXAdxQMl06r"
+}

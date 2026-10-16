@@ -1,0 +1,37 @@
+{
+  "_id": "XRZqohblgx1Ua2HU",
+  "effects": [],
+  "img": "systems/zweihander/assets/icons/invisible.svg",
+  "name": "Art of Invisibility",
+  "type": "trait",
+  "_stats": {
+    "coreVersion": "13.342",
+    "systemId": "zweihander",
+    "systemVersion": "5.4.1",
+    "createdTime": null,
+    "modifiedTime": 1735911103072,
+    "lastModifiedBy": "rivg6xcMxdlVDM8y",
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "system": {
+    "description": {
+      "@en": "Using closely-guarded arts of the Assassin, you can disappear before others’ very eyes."
+    },
+    "notes": "",
+    "rules": {
+      "effect": {
+        "@en": "You can attempt to use the Stealth Skill to escape from plain sight, providing you have a distraction. In addition, you automatically succeed at all Skill Tests to blend into crowds, unless you give yourself away by running through them or failing to conceal a drawn weapon."
+      }
+    },
+    "category": "professional"
+  },
+  "folder": null,
+  "sort": 11000000,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {},
+  "_key": "!items!XRZqohblgx1Ua2HU"
+}

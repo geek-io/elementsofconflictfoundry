@@ -1,0 +1,149 @@
+{
+  "_id": "0uNKPAsbVmuGTPOx",
+  "effects": [],
+  "img": "systems/zweihander/assets/icons/truthsayer.svg",
+  "name": "Truthsayer",
+  "type": "profession",
+  "_stats": {
+    "coreVersion": "13.342",
+    "systemId": "zweihander",
+    "systemVersion": "5.4.1",
+    "createdTime": null,
+    "modifiedTime": 1735050463677,
+    "lastModifiedBy": "rivg6xcMxdlVDM8y",
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "system": {
+    "description": {
+      "@en": "Education is expensive and hard to come by in modern times, but those who become blessed with the gift of knowledge have the Learner to thank. As the god of knowledge, wisdom, and truth, His church is led by the serious and immovable Truthsayers. These priests are academics first and foremost, wearing circlets engraved with eyes to show their all-knowing vision. Truthsayers work alongside Scholars of all sorts, and many are the preeminent authorities on religion and apocryphal histories. Truthsayers also serve as judges and arbitrators: townsfolk who cannot afford Barristers seek the counsel of a Truthsayer to resolve any dispute involving money, land or lineage. Many see Truthsayers as the least religious of all priesthoods, for they take an objective, theological approach towards the divine. This is simply untrue, as Truthsayers believe the purpose of divinity is to reveal all knowledge and truth, no matter how frightening it may be. The Learner’s worship also extends to arcanists and craftsmen, as anything that requires knowledge falls under His purview.\nLearner temples are massive libraries, chronicling the histories of both their faith and the known world. Truthsayer worship often revolves around deep meditation, communing with their god and chronicling the past and present. Truthsayers also use their prayers to dispense justice and offer rulings. Those that become too absorbed by their erudite ways use their terrible knowledge and insight to give unfair rulings, altering verdicts and condemning innocents for sheer pleasure. Others seek to upend other faiths, condemning them as they counsel inquisitors to erase these perceived ‘heretical’ religions from the face of the earth. Once destroyed, they’ll re-appropriate those religions’ Magicks for their own benefit, leading them down the path towards dark incantations of prayers unknown to other Truthsayers."
+    },
+    "notes": "",
+    "expert": {
+      "value": true,
+      "requirements": {
+        "skillRanks": [
+          {
+            "key": "incantation",
+            "value": 1
+          }
+        ],
+        "additional": "<p>You must have the Special Trait of Divine Magick.</p>"
+      }
+    },
+    "archetype": "Expert Profession",
+    "bonusAdvances": [
+      {
+        "name": "[FB]",
+        "purchased": false
+      },
+      {
+        "name": "[IB]",
+        "purchased": false
+      },
+      {
+        "name": "[IB]",
+        "purchased": false
+      },
+      {
+        "name": "[PB]",
+        "purchased": false
+      },
+      {
+        "name": "[PB]",
+        "purchased": false
+      },
+      {
+        "name": "[WB]",
+        "purchased": false
+      },
+      {
+        "name": "[WB]",
+        "purchased": false
+      }
+    ],
+    "skillRanks": [
+      {
+        "name": "Awareness",
+        "purchased": false
+      },
+      {
+        "name": "Coordination",
+        "purchased": false
+      },
+      {
+        "name": "Counterfeit",
+        "purchased": false
+      },
+      {
+        "name": "Education",
+        "purchased": false
+      },
+      {
+        "name": "Folklore",
+        "purchased": false
+      },
+      {
+        "name": "Incantation",
+        "purchased": false
+      },
+      {
+        "name": "Resolve",
+        "purchased": false
+      },
+      {
+        "name": "Rumor",
+        "purchased": false
+      },
+      {
+        "name": "Scrutinize",
+        "purchased": false
+      },
+      {
+        "name": "Simple Melee",
+        "purchased": false
+      }
+    ],
+    "talents": [
+      {
+        "linkedId": "xoKzA76ZzPQmOejt",
+        "name": "Æthereal Alignment",
+        "uuid": "Compendium.zweihander.zh-talents.Item.xoKzA76ZzPQmOejt"
+      },
+      {
+        "linkedId": "sD4Et1dOsSjT3fPt",
+        "name": "Incredible Numeration",
+        "uuid": "Compendium.zweihander.zh-talents.Item.sD4Et1dOsSjT3fPt"
+      },
+      {
+        "linkedId": "LLp6kwPTz9wJLpvG",
+        "name": "Meeting of the Minds",
+        "uuid": "Compendium.zweihander.zh-talents.Item.LLp6kwPTz9wJLpvG"
+      }
+    ],
+    "professionalTrait": {
+      "name": "Ogham of Truth",
+      "uuid": "Compendium.zweihander.zh-traits.Item.Hea13JnmQNvyagtK",
+      "linkedId": null
+    },
+    "specialTrait": {
+      "name": "Prayers of the Learner",
+      "uuid": "Compendium.zweihander.zh-traits.Item.npgxNFSipBtTZ78K",
+      "linkedId": null
+    },
+    "drawback": {
+      "name": "The Learner’s Commandments",
+      "uuid": "Compendium.zweihander.zh-drawbacks.Item.B7rtNBBpyAAtmHTU",
+      "linkedId": null
+    },
+    "tier": ""
+  },
+  "folder": null,
+  "sort": 500000,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {},
+  "_key": "!items!0uNKPAsbVmuGTPOx"
+}

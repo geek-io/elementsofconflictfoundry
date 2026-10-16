@@ -1,0 +1,37 @@
+{
+  "_id": "hUWKnLUe7gIcMwHM",
+  "effects": [],
+  "img": "systems/zweihander/assets/icons/dice-twenty-faces-twenty.svg",
+  "name": "Gygaxian Naturalism",
+  "type": "trait",
+  "_stats": {
+    "coreVersion": "13.342",
+    "systemId": "zweihander",
+    "systemVersion": "5.4.1",
+    "createdTime": null,
+    "modifiedTime": 1735911103091,
+    "lastModifiedBy": "rivg6xcMxdlVDM8y",
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "system": {
+    "description": {
+      "@en": "Dungeoneers have spent an inordinate amount of time learning the ins and outs of traps, whether mechanical or human. As a result, they exhibit an uncanny knack for escaping deadly snares and ambushes – invariably by the skin of their teeth."
+    },
+    "notes": "",
+    "rules": {
+      "effect": {
+        "@en": "At any time, you may spend 1 Fortune Point to avoid a trap or other contrivance intended to cause you harm, or cancel the effects of being Surprised following an ambush. Additionally, treat a result of 20% on percentile dice as a Critical Success, no matter whether you would have failed or Critically Failed the Skill Test."
+      }
+    },
+    "category": "professional"
+  },
+  "folder": null,
+  "sort": 14800000,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {},
+  "_key": "!items!hUWKnLUe7gIcMwHM"
+}

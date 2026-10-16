@@ -1,0 +1,144 @@
+{
+  "_id": "tS8w8gSNlw90IlxZ",
+  "effects": [],
+  "img": "systems/zweihander/assets/icons/militiaman.svg",
+  "name": "Militiaman",
+  "type": "profession",
+  "_stats": {
+    "coreVersion": "13.342",
+    "systemId": "zweihander",
+    "systemVersion": "5.4.1",
+    "createdTime": null,
+    "modifiedTime": 1734990834152,
+    "lastModifiedBy": "rivg6xcMxdlVDM8y",
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "system": {
+    "description": {
+      "@en": "With the cost of maintaining standing armies being so high, peasant levies or Militia, are cheap, common alternatives. Comprised of villagers or townsfolk who train little more than once a week, when the call comes, Militiamen leave their livelihoods as bakers, blacksmiths and farmhands behind and march to war. Their training and equipment varies on the city and country; wealthy states may equip their militia with proper arms and armor and provide proper training, while poorer states will send their peasants to war with nothing more than thick clothing, a few rusted pikes and some harvesting scythes. Either way, a Militiaman will fight their hardest to defend home and hearth, but all have a tendency to break when the odds are stacked against them.\nBeing a Militiaman is rarely a permanent profession and there is little to be gained from it, but a few will use their minor combat experience as a spur to search for glory. Unfortunately, they are ill-suited to such a life, the Militiaman longing for the comforts of home, where a Man-At-Arms would yearn for action. A half-submerged temple teeming with half-fish sirens is no place for a potter who barely knows how to swing a sword. The smallest minds break the fastest, and those Militiamen who believed themselves to be brave and strong will oft end up gibbering in a corner of a damned ruin."
+    },
+    "notes": "",
+    "expert": {
+      "value": false,
+      "requirements": {
+        "skillRanks": [],
+        "additional": ""
+      }
+    },
+    "archetype": "Warrior",
+    "bonusAdvances": [
+      {
+        "name": "[AB]",
+        "purchased": false
+      },
+      {
+        "name": "[AB]",
+        "purchased": false
+      },
+      {
+        "name": "[BB]",
+        "purchased": false
+      },
+      {
+        "name": "[CB]",
+        "purchased": false
+      },
+      {
+        "name": "[IB]",
+        "purchased": false
+      },
+      {
+        "name": "[PB]",
+        "purchased": false
+      },
+      {
+        "name": "[WB]",
+        "purchased": false
+      }
+    ],
+    "skillRanks": [
+      {
+        "name": "Athletics",
+        "purchased": false
+      },
+      {
+        "name": "Awareness",
+        "purchased": false
+      },
+      {
+        "name": "Coordination",
+        "purchased": false
+      },
+      {
+        "name": "Rumor",
+        "purchased": false
+      },
+      {
+        "name": "Simple Melee",
+        "purchased": false
+      },
+      {
+        "name": "Simple Ranged",
+        "purchased": false
+      },
+      {
+        "name": "Stealth",
+        "purchased": false
+      },
+      {
+        "name": "Survival",
+        "purchased": false
+      },
+      {
+        "name": "Tradecraft",
+        "purchased": false
+      },
+      {
+        "name": "Warfare",
+        "purchased": false
+      }
+    ],
+    "talents": [
+      {
+        "linkedId": "Iiu9G1OsUFo0Tiw6",
+        "name": "Instincts",
+        "uuid": "Compendium.zweihander.zh-talents.Item.Iiu9G1OsUFo0Tiw6"
+      },
+      {
+        "linkedId": "m6uevku7yk6Qbyq2",
+        "name": "Rural Sensibility",
+        "uuid": "Compendium.zweihander.zh-talents.Item.m6uevku7yk6Qbyq2"
+      },
+      {
+        "linkedId": "bKpzxZZUiQVE0l1j",
+        "name": "Sprint",
+        "uuid": "Compendium.zweihander.zh-talents.Item.bKpzxZZUiQVE0l1j"
+      }
+    ],
+    "professionalTrait": {
+      "name": "Guerilla Warfare",
+      "uuid": "Compendium.zweihander.zh-traits.Item.uOyKz5KqUCa9aMT4",
+      "linkedId": null
+    },
+    "specialTrait": {
+      "name": "",
+      "uuid": "",
+      "linkedId": null
+    },
+    "drawback": {
+      "name": "",
+      "uuid": "",
+      "linkedId": null
+    },
+    "tier": ""
+  },
+  "folder": null,
+  "sort": 15900000,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {},
+  "_key": "!items!tS8w8gSNlw90IlxZ"
+}

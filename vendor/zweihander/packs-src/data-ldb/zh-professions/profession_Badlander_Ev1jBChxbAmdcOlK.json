@@ -1,0 +1,149 @@
+{
+  "_id": "Ev1jBChxbAmdcOlK",
+  "effects": [],
+  "img": "systems/zweihander/assets/icons/badlander.svg",
+  "name": "Badlander",
+  "type": "profession",
+  "_stats": {
+    "coreVersion": "13.342",
+    "systemId": "zweihander",
+    "systemVersion": "5.4.1",
+    "createdTime": null,
+    "modifiedTime": 1735047429323,
+    "lastModifiedBy": "rivg6xcMxdlVDM8y",
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "system": {
+    "description": {
+      "@en": "The wilderness is full of dangers, both mundane and fantastic, and only the Badlander truly knows the best ways to survive under soaring canopies or in frigid valleys. Die-hard survivalists, trackers and hunters, Badlanders are consummate rangers that can follow tracks that are weeks old and navigate by the stars on overcast nights. They are often hired as scouts by mercenary units or armies, their task to forge ahead of the main vanguard, using stealth and observation to watch and report on enemy movements. Badlanders are also hired as caravan guides and navigators. They are expert marksmen, never being seen without their longbow and a full quiver of arrows. Individualists who believe that civilized society only exists to hold them back, when not working, Badlanders live alone, honing their skills in the wilderness they fear and respect. Most haunt a specific wilderness, often working along with Druids and Gamekeepers as its protector.\r\nBadlanders are loners at heart, so it rare that they leave their solitude to become adventurers. Most do so out of a sense of duty to protect people in the wilds and protect the wilds from them. Independently-minded rather than dour, Badlanders are fantastic fighters, able to target an Orx at a thousand paces and nestle an arrow between their eyes with hardly a thought. Their solitude can be their undoing – endless nights stalking enemies, eating spoiled food to survive and the eerie silence they must keep is enough to drive anyone to madness. Those that break become true wildmen – xenophobic outlaws who will attack anyone they see as a threat."
+    },
+    "notes": "",
+    "expert": {
+      "value": true,
+      "requirements": {
+        "skillRanks": [
+          {
+            "key": "survival",
+            "value": 1
+          }
+        ],
+        "additional": "<p>-</p>"
+      }
+    },
+    "archetype": "Expert Profession",
+    "bonusAdvances": [
+      {
+        "name": "[AB]",
+        "purchased": false
+      },
+      {
+        "name": "[AB]",
+        "purchased": false
+      },
+      {
+        "name": "[BB]",
+        "purchased": false
+      },
+      {
+        "name": "[CB]",
+        "purchased": false
+      },
+      {
+        "name": "[IB]",
+        "purchased": false
+      },
+      {
+        "name": "[PB]",
+        "purchased": false
+      },
+      {
+        "name": "[PB]",
+        "purchased": false
+      }
+    ],
+    "skillRanks": [
+      {
+        "name": "Awareness",
+        "purchased": false
+      },
+      {
+        "name": "Folklore",
+        "purchased": false
+      },
+      {
+        "name": "Handle Animal",
+        "purchased": false
+      },
+      {
+        "name": "Martial Ranged",
+        "purchased": false
+      },
+      {
+        "name": "Navigation",
+        "purchased": false
+      },
+      {
+        "name": "Resolve",
+        "purchased": false
+      },
+      {
+        "name": "Ride",
+        "purchased": false
+      },
+      {
+        "name": "Simple Ranged",
+        "purchased": false
+      },
+      {
+        "name": "Stealth",
+        "purchased": false
+      },
+      {
+        "name": "Survival",
+        "purchased": false
+      }
+    ],
+    "talents": [
+      {
+        "linkedId": "0l5T7zT8MMm0Fhp8",
+        "name": "Light Sleeper",
+        "uuid": "Compendium.zweihander.zh-talents.Item.0l5T7zT8MMm0Fhp8"
+      },
+      {
+        "linkedId": "ZMjwQhEkPA9eaMYA",
+        "name": "Long-winded",
+        "uuid": "Compendium.zweihander.zh-talents.Item.ZMjwQhEkPA9eaMYA"
+      },
+      {
+        "linkedId": "2BQgCknFDwpvM47Q",
+        "name": "Nerves of Steel",
+        "uuid": "Compendium.zweihander.zh-talents.Item.2BQgCknFDwpvM47Q"
+      }
+    ],
+    "professionalTrait": {
+      "name": "Leaf on the Wind",
+      "uuid": "Compendium.zweihander.zh-traits.Item.wwDCJKxl9MHlXrct",
+      "linkedId": null
+    },
+    "specialTrait": {
+      "name": "",
+      "uuid": "",
+      "linkedId": null
+    },
+    "drawback": {
+      "name": "Enjoy the Silence",
+      "uuid": "Compendium.zweihander.zh-drawbacks.Item.JQXjT2ZAPXyXvLSn",
+      "linkedId": null
+    },
+    "tier": ""
+  },
+  "folder": null,
+  "sort": 4800000,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {},
+  "_key": "!items!Ev1jBChxbAmdcOlK"
+}

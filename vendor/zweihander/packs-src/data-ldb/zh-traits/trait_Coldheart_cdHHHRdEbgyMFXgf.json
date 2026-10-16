@@ -1,0 +1,37 @@
+{
+  "_id": "cdHHHRdEbgyMFXgf",
+  "effects": [],
+  "img": "systems/zweihander/assets/icons/cold-heart.svg",
+  "name": "Coldheart",
+  "type": "trait",
+  "_stats": {
+    "coreVersion": "13.342",
+    "systemId": "zweihander",
+    "systemVersion": "5.4.1",
+    "createdTime": null,
+    "modifiedTime": 1735911103081,
+    "lastModifiedBy": "rivg6xcMxdlVDM8y",
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "system": {
+    "description": {
+      "@en": "Within every Rime Maiden’s breast beats a heart of ice and fire, a gift from their Daemonic mistress."
+    },
+    "notes": "",
+    "rules": {
+      "effect": {
+        "@en": "You always succeed at Skill Tests to Resist Damage and Peril from cold weather. In addition, you take no additional penalties to movement in winter from inclement weather or icy surfaces."
+      }
+    },
+    "category": "professional"
+  },
+  "folder": null,
+  "sort": 13100000,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {},
+  "_key": "!items!cdHHHRdEbgyMFXgf"
+}

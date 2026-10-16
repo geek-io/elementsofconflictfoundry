@@ -1,0 +1,124 @@
+{
+  "_id": "UEpX1Kggk7gWEKP6",
+  "effects": [],
+  "img": "systems/zweihander/assets/icons/abstract-082.svg",
+  "name": "Weaver",
+  "type": "profession",
+  "_stats": {
+    "coreVersion": "13.342",
+    "systemId": "zweihander",
+    "systemVersion": "5.4.1",
+    "createdTime": null,
+    "modifiedTime": 1734972168211,
+    "lastModifiedBy": "rivg6xcMxdlVDM8y",
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "system": {
+    "description": {
+      "@en": "<p>I have heard the learned say that one of the first skills people developed was weaving, and I hold that fact close to my heart. We can trace weaving&rsquo;s roots back thousands of years, carrying on my forebears&rsquo; traditions and patterns. Baskets, blankets, cedar mats, nets and other wares require a skilled eye, a patient mind and an artistic soul. People can thank me for giving them storage or keeping them warm at night, and my creations get passed down throughout the generations. That also means that I will live on through my work, persisting throughout time after my mortal days come to an end.</p>\n<p>My weaving is not just art of fibers and knots&mdash; through my craft, I have obtained supernatural insight into the world. Whether it be a cord of hemp or a strand of fate, every thread is connected with another to form a complete tapestry. A single thread may seem insignificant on its own, but the whole picture&rsquo;s majesty is glorious when they are assembled. As I can predict the future through my weaving, the picture is frighteningly becoming darker and harder to see.</p>"
+    },
+    "notes": "",
+    "expert": {
+      "value": false,
+      "requirements": ""
+    },
+    "archetype": "Commoner Profession",
+    "bonusAdvances": [
+      {
+        "name": "[AB]"
+      },
+      {
+        "name": "[FB]"
+      },
+      {
+        "name": "[IB]"
+      },
+      {
+        "name": "[PB]"
+      },
+      {
+        "name": "[PB]"
+      },
+      {
+        "name": "[WB]"
+      },
+      {
+        "name": "[WB]"
+      }
+    ],
+    "skillRanks": [
+      {
+        "name": "Awareness"
+      },
+      {
+        "name": "Bargain"
+      },
+      {
+        "name": "Coordination"
+      },
+      {
+        "name": "Folklore"
+      },
+      {
+        "name": "Guile"
+      },
+      {
+        "name": "Resolve"
+      },
+      {
+        "name": "Rumor"
+      },
+      {
+        "name": "Scrutinize"
+      },
+      {
+        "name": "Simple Ranged"
+      },
+      {
+        "name": "Tradecraft"
+      }
+    ],
+    "talents": [
+      {
+        "linkedId": null,
+        "name": "Ebb & Flow",
+        "uuid": "Compendium.zweihander.fof-talents.Item.4Q0iZPpqRes98cF2"
+      },
+      {
+        "linkedId": null,
+        "name": "Tenacity",
+        "uuid": "Compendium.zweihander.fof-talents.Item.bWhNR0JyXfNyEcRy"
+      },
+      {
+        "linkedId": null,
+        "name": "Weaving",
+        "uuid": "Compendium.zweihander.fof-talents.Item.IbBti86zxYeN6tNI"
+      }
+    ],
+    "professionalTrait": {
+      "name": "Threads of Fate",
+      "uuid": "Compendium.zweihander.fof-professional-traits.Item.GpJzxTeCGm5tBTtw",
+      "linkedId": null
+    },
+    "specialTrait": {
+      "name": "",
+      "uuid": "",
+      "linkedId": null
+    },
+    "drawback": {
+      "name": "A Tangled Web",
+      "uuid": "Compendium.zweihander.fof-quirks.Item.SnYmT0c9yXCNPkBA",
+      "linkedId": null
+    },
+    "tier": ""
+  },
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {},
+  "_key": "!items!UEpX1Kggk7gWEKP6"
+}

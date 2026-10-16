@@ -1,0 +1,37 @@
+{
+  "_id": "uOyKz5KqUCa9aMT4",
+  "effects": [],
+  "img": "systems/zweihander/assets/icons/vines.svg",
+  "name": "Guerilla Warfare",
+  "type": "trait",
+  "_stats": {
+    "coreVersion": "13.342",
+    "systemId": "zweihander",
+    "systemVersion": "5.4.1",
+    "createdTime": null,
+    "modifiedTime": 1735911103116,
+    "lastModifiedBy": "rivg6xcMxdlVDM8y",
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "system": {
+    "description": {
+      "@en": "Not disciplined enough to withstand a straight engagement, the Militiaman is constantly on the move, using hit-and-run tactics to influence the outcome of any battle. They are able to move across the battlefield without sacrificing their defenses, strengthening themselves against the oncoming onslaught."
+    },
+    "notes": "",
+    "rules": {
+      "effect": {
+        "@en": "You never provoke Opportunity Attacks with Movement Actions or any other action you take. In addition, any Movement Action a foe takes while Engaged with you immediately provokes an Opportunity Attack from you."
+      }
+    },
+    "category": "professional"
+  },
+  "folder": null,
+  "sort": 19700000,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {},
+  "_key": "!items!uOyKz5KqUCa9aMT4"
+}

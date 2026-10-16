@@ -1,0 +1,60 @@
+{
+  "_id": "zlbW8CCnNVNGIazu",
+  "effects": [],
+  "img": "systems/zweihander/assets/icons/concentric-crescents.svg",
+  "name": "Infirmity",
+  "type": "spell",
+  "_stats": {
+    "coreVersion": "13.342",
+    "systemId": "zweihander",
+    "systemVersion": "5.4.1",
+    "createdTime": 1745429303238,
+    "modifiedTime": 1745429303238,
+    "lastModifiedBy": "rivg6xcMxdlVDM8y",
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "system": {
+    "description": {
+      "@en": "<p>Once, twice, thrice, quince for pain!</p>"
+    },
+    "notes": "",
+    "rules": {
+      "effect": {
+        "@en": "<p>After successfully casting (and one foe cannot or fails to Resist using Toughness), they temporarily reduce their Movement by a cumulative -1 by every minute. They may attempt to Resist every minute, until the duration is up.</p>"
+      },
+      "criticalSuccess": {
+        "@en": "They cannot Resist the first three minutes of duration."
+      },
+      "criticalFailure": {
+        "@en": "Your legs turn to jelly, as you are knocked Prone and unable to move for the duration."
+      },
+      "reagents": {
+        "@en": "A leg bone, which you break in hand"
+      }
+    },
+    "tradition": "Black & White",
+    "principle": "Basic Tier",
+    "distance": "Any one person you can clearly see",
+    "duration": {
+      "value": "instantaneous",
+      "label": "3+[WB] minutes",
+      "formula": {
+        "override": true
+      },
+      "base": "[WB]",
+      "bonus": 3,
+      "unit": "minutes"
+    },
+    "castingTime": "1 Minute",
+    "castingCost": 1
+  },
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {},
+  "_key": "!items!zlbW8CCnNVNGIazu"
+}

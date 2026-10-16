@@ -1,0 +1,50 @@
+{
+  "_id": "1v5Y4eh86cFT4F37",
+  "effects": [],
+  "img": "systems/zweihander/assets/icons/vial.svg",
+  "name": "Arsenic or Mercury",
+  "type": "disease",
+  "_stats": {
+    "coreVersion": "13.342",
+    "systemId": "zweihander",
+    "systemVersion": "5.4.1",
+    "createdTime": null,
+    "modifiedTime": 1745428356905,
+    "lastModifiedBy": "rivg6xcMxdlVDM8y",
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "system": {
+    "description": {
+      "@en": "<p>This poison will cause heart palpitations if ingested . . . perfect for doing away with a lover whose money you wish to abscond with, or a political enemy you need out of the way.</p>"
+    },
+    "notes": "",
+    "rules": {
+      "effect": {
+        "@en": "<p><strong>Effect:</strong> You temporarily suffer a -6 to all Primary Attribute Bonuses (to a minimum of 1) and 2D10+2 Peril. You must also attempt to Resist again every twenty-four hours, or else suffer the effects again. If you are Incapacitated! due to Arsenic or Mercury, you&rsquo;re Slain!. Your Primary Attribute Bonuses recover +1 a day until fully restored.</p>\n<p><strong>Critical Success:</strong> You are now permanently immune to Arsenic or Mercury.</p>\n<p><strong>Critical Failure:</strong> You are Slain!.</p>\n<p><strong>Other Considerations:</strong> Arsenic and Mercury cannot be discovered when placed in food or drink. Use of an Antidote allows you to immediately recover all Primary Attribute Bonuses.</p>"
+      },
+      "treatment": {
+        "@en": ""
+      }
+    },
+    "resist": "(Hard -20%) Toughness",
+    "duration": {
+      "value": 0,
+      "formula": {
+        "number": 1,
+        "die": "d10",
+        "bonus": 1
+      },
+      "lastsUntilCured": false
+    },
+    "active": false
+  },
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {},
+  "_key": "!items!1v5Y4eh86cFT4F37"
+}

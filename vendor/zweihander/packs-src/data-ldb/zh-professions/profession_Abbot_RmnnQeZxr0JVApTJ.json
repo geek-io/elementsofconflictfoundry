@@ -1,0 +1,153 @@
+{
+  "_id": "RmnnQeZxr0JVApTJ",
+  "effects": [],
+  "img": "systems/zweihander/assets/icons/wisdom.svg",
+  "name": "Abbot",
+  "type": "profession",
+  "_stats": {
+    "coreVersion": "13.342",
+    "systemId": "zweihander",
+    "systemVersion": "5.4.1",
+    "createdTime": null,
+    "modifiedTime": 1735050639876,
+    "lastModifiedBy": "rivg6xcMxdlVDM8y",
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "system": {
+    "description": {
+      "@en": "Many who are chosen by the gods revel in their power and authority, their divine might and Magickal power marking them as chosen above others. This is not so for the Abbot (or Abbess for women), an ordained religious leader who has not been touched by the divine spark in a traditional sense, but nevertheless speaks with the authority of the heavens. An Abbot is always canonized by a monastery’s chapter by secret ballot and rare are the few who reach such a position outside of the ecclesia. Upon election to this holy office, they remain so until the end of their lives (or until frailty demands another to be elected to their position). Many head monasteries, meditative branches of church or even more secular faiths. Abbots also serve as trusted advisors to kings and emperors, while also reporting on the civil needs of the faith to the board of church elders. Abbots are generally more cloistered and calm than a traditional firebrand, many studying the histories and myths of their religious order to obtain a better understanding of how the church has changed and what policies will change over time.\\nWithout a doubt, an Abbot is humbler than their Friar brethren, but their deferential and subdued attitudes make them particularly susceptible to infirmity of the mind. While they certainly respect and follow the traditions of the church, Abbots are oft so lost in self-reflection that they begin to lose sense of the world around them. They may absentmindedly forget their sermons, losing hold of what ties them to their fellow clergy. Some may develop strange habits, navel-gazing and imbibing all manner of drugs to find ‘true oneness’ with their god. Moments of lucidity become less frequent, as the Abbot slips towards total impairment, until they simply wither away and another Abbot is canonized. Thus, the eternal cycle continues as a new Abbot is put into their place."
+    },
+    "notes": "",
+    "expert": {
+      "value": true,
+      "requirements": {
+        "skillRanks": [
+          {
+            "key": "education",
+            "value": 2
+          },
+          {
+            "key": "heal",
+            "value": 2
+          }
+        ],
+        "additional": "<p>-</p>"
+      }
+    },
+    "archetype": "Expert Profession",
+    "bonusAdvances": [
+      {
+        "name": "[BB]",
+        "purchased": false
+      },
+      {
+        "name": "[FB]",
+        "purchased": false
+      },
+      {
+        "name": "[IB]",
+        "purchased": false
+      },
+      {
+        "name": "[IB]",
+        "purchased": false
+      },
+      {
+        "name": "[PB]",
+        "purchased": false
+      },
+      {
+        "name": "[WB]",
+        "purchased": false
+      },
+      {
+        "name": "[WB]",
+        "purchased": false
+      }
+    ],
+    "skillRanks": [
+      {
+        "name": "Education",
+        "purchased": false
+      },
+      {
+        "name": "Folklore",
+        "purchased": false
+      },
+      {
+        "name": "Heal",
+        "purchased": false
+      },
+      {
+        "name": "Interrogation",
+        "purchased": false
+      },
+      {
+        "name": "Leadership",
+        "purchased": false
+      },
+      {
+        "name": "Resolve",
+        "purchased": false
+      },
+      {
+        "name": "Rumor",
+        "purchased": false
+      },
+      {
+        "name": "Scrutinize",
+        "purchased": false
+      },
+      {
+        "name": "Simple Melee",
+        "purchased": false
+      },
+      {
+        "name": "Toughness",
+        "purchased": false
+      }
+    ],
+    "talents": [
+      {
+        "linkedId": "WsD0GRMRKX8Ov0mT",
+        "name": "Impervious Mind",
+        "uuid": "Compendium.zweihander.zh-talents.Item.WsD0GRMRKX8Ov0mT"
+      },
+      {
+        "linkedId": "LLp6kwPTz9wJLpvG",
+        "name": "Meeting of the Minds",
+        "uuid": "Compendium.zweihander.zh-talents.Item.LLp6kwPTz9wJLpvG"
+      },
+      {
+        "linkedId": "5TzEbf1VOmPfpolL",
+        "name": "Multilingual",
+        "uuid": "Compendium.zweihander.zh-talents.Item.5TzEbf1VOmPfpolL"
+      }
+    ],
+    "professionalTrait": {
+      "name": "Absolve Sin",
+      "uuid": "Compendium.zweihander.zh-traits.Item.K5swN6oIGe5rj1FI",
+      "linkedId": null
+    },
+    "specialTrait": {
+      "name": "",
+      "uuid": "",
+      "linkedId": null
+    },
+    "drawback": {
+      "name": "Feeble-Mindedness",
+      "uuid": "Compendium.zweihander.zh-drawbacks.Item.g1YJTe6G1qdV8DGs",
+      "linkedId": null
+    },
+    "tier": ""
+  },
+  "folder": null,
+  "sort": 9300000,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {},
+  "_key": "!items!RmnnQeZxr0JVApTJ"
+}

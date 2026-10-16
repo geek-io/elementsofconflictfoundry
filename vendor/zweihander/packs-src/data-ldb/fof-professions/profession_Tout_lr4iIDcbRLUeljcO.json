@@ -1,0 +1,124 @@
+{
+  "_id": "lr4iIDcbRLUeljcO",
+  "effects": [],
+  "img": "systems/zweihander/assets/icons/abstract-082.svg",
+  "name": "Tout",
+  "type": "profession",
+  "_stats": {
+    "coreVersion": "13.342",
+    "systemId": "zweihander",
+    "systemVersion": "5.4.1",
+    "createdTime": null,
+    "modifiedTime": 1734972168222,
+    "lastModifiedBy": "rivg6xcMxdlVDM8y",
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "system": {
+    "description": {
+      "@en": "<p>Hear ye, hear ye! I read the same screed day in and day out by the honorable governors&rsquo; orders, informing my fellow citizens of all the latest news. Ahem,&ldquo; . . . a proclamation in the Loyalists&rsquo; name, commanding all persons in the city to be of peaceable and civil behavior when the Royal Tax Collectors travel the streets and rows while performing their charged duties. Anyone objecting to this decree will be sentenced to fourteen days in the stockades and a 10 shilling fine.&rdquo; Thus ends my official mandate. Meh.</p>\n<p>I walk the streets daily, ringing my bell while reading advertisements, news and official proclamations, even as people pelt me with stones and rotten eggs if the information is bad&mdash;they still need to hear it! The reports have become worse as of late, as I&rsquo;ve announced more dire events and stringent laws. I do not know what I&rsquo;ll do if tensions boil over, but maybe then my job will become even more vital as I inform people of the war effort. We will have to wait and see, for the conflict is only a matter of time now.</p>"
+    },
+    "notes": "",
+    "expert": {
+      "value": false,
+      "requirements": ""
+    },
+    "archetype": "Lawbreaker Profession",
+    "bonusAdvances": [
+      {
+        "name": "[AB]"
+      },
+      {
+        "name": "[BB]"
+      },
+      {
+        "name": "[BB]"
+      },
+      {
+        "name": "[CB]"
+      },
+      {
+        "name": "[FB]"
+      },
+      {
+        "name": "[FB]"
+      },
+      {
+        "name": "[WB]"
+      }
+    ],
+    "skillRanks": [
+      {
+        "name": "Athletics"
+      },
+      {
+        "name": "Coordination"
+      },
+      {
+        "name": "Drive"
+      },
+      {
+        "name": "Folklore"
+      },
+      {
+        "name": "Guile"
+      },
+      {
+        "name": "Martial Ranged"
+      },
+      {
+        "name": "Resolve"
+      },
+      {
+        "name": "Rumor"
+      },
+      {
+        "name": "Simple Melee"
+      },
+      {
+        "name": "Simple Ranged"
+      }
+    ],
+    "talents": [
+      {
+        "linkedId": null,
+        "name": "Close Shave",
+        "uuid": "Compendium.zweihander.fof-talents.Item.0UCjtIts2bDRleqb"
+      },
+      {
+        "linkedId": null,
+        "name": "Danger Sense",
+        "uuid": "Compendium.zweihander.fof-talents.Item.wzYsocgqFK7kkyae"
+      },
+      {
+        "linkedId": null,
+        "name": "Whip Jacket",
+        "uuid": "Compendium.zweihander.fof-talents.Item.HSYCpfapdajs1l74"
+      }
+    ],
+    "professionalTrait": {
+      "name": "Don't Shoot the Messenger",
+      "uuid": "Compendium.zweihander.fof-professional-traits.Item.cNs6MdBbCsPjdmmC",
+      "linkedId": null
+    },
+    "specialTrait": {
+      "name": "",
+      "uuid": "",
+      "linkedId": null
+    },
+    "drawback": {
+      "name": "Personal Hang-Up",
+      "uuid": "Compendium.zweihander.fof-quirks.Item.aawcFeYxig2W3YBR",
+      "linkedId": null
+    },
+    "tier": ""
+  },
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {},
+  "_key": "!items!lr4iIDcbRLUeljcO"
+}

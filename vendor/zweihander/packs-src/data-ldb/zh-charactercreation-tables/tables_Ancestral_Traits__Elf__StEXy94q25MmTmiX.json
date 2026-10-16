@@ -1,0 +1,353 @@
+{
+  "_id": "StEXy94q25MmTmiX",
+  "description": "",
+  "displayRoll": true,
+  "formula": "1d12",
+  "img": "systems/zweihander/assets/icons/woman-elf-face.svg",
+  "name": "Ancestral Traits (Elf)",
+  "replacement": true,
+  "results": [
+    {
+      "_id": "5jah8asnH2PC410b",
+      "drawn": false,
+      "flags": {},
+      "img": "systems/zweihander/assets/icons/eyelashes.svg",
+      "range": [
+        1,
+        1
+      ],
+      "type": "document",
+      "weight": 1,
+      "_stats": {
+        "coreVersion": "13.342",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "name": "Bewitching",
+      "documentUuid": "Compendium.zweihander.zh-ancestral-traits.Item.0CIP849T88rXnDbZ",
+      "description": "",
+      "_key": "!tables.results!StEXy94q25MmTmiX.5jah8asnH2PC410b"
+    },
+    {
+      "_id": "yjHUTikFNt7XsmCE",
+      "drawn": false,
+      "flags": {},
+      "img": "systems/zweihander/assets/icons/magic-swirl.svg",
+      "range": [
+        2,
+        2
+      ],
+      "type": "document",
+      "weight": 1,
+      "_stats": {
+        "coreVersion": "13.342",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "name": "Beyond the Veil",
+      "documentUuid": "Compendium.zweihander.zh-ancestral-traits.Item.cJrwZtE8YlVHd1dk",
+      "description": "",
+      "_key": "!tables.results!StEXy94q25MmTmiX.yjHUTikFNt7XsmCE"
+    },
+    {
+      "_id": "QdI6M0Vzds4Jn3Bb",
+      "drawn": false,
+      "flags": {},
+      "img": "systems/zweihander/assets/icons/william-tell-skull.svg",
+      "range": [
+        3,
+        3
+      ],
+      "type": "document",
+      "weight": 1,
+      "_stats": {
+        "coreVersion": "13.342",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "name": "Deadly Aim",
+      "documentUuid": "Compendium.zweihander.zh-ancestral-traits.Item.nCTBoXIMGf4gXbNo",
+      "description": "",
+      "_key": "!tables.results!StEXy94q25MmTmiX.QdI6M0Vzds4Jn3Bb"
+    },
+    {
+      "_id": "Gn528Rwt8fCCH6Mn",
+      "drawn": false,
+      "flags": {},
+      "img": "systems/zweihander/assets/icons/seedling.svg",
+      "range": [
+        4,
+        4
+      ],
+      "type": "document",
+      "weight": 1,
+      "_stats": {
+        "coreVersion": "13.342",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "name": "Enduring Mortality",
+      "documentUuid": "Compendium.zweihander.zh-ancestral-traits.Item.MsnTB2doGNMa60EO",
+      "description": "",
+      "_key": "!tables.results!StEXy94q25MmTmiX.Gn528Rwt8fCCH6Mn"
+    },
+    {
+      "_id": "jLKL5lxjWRaWOkbj",
+      "drawn": false,
+      "flags": {},
+      "img": "systems/zweihander/assets/icons/hooded-figure.svg",
+      "range": [
+        5,
+        5
+      ],
+      "type": "document",
+      "weight": 1,
+      "_stats": {
+        "coreVersion": "13.342",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "name": "Fey Treachery",
+      "documentUuid": "Compendium.zweihander.zh-ancestral-traits.Item.210jlG9DZFayC1Vv",
+      "description": "",
+      "_key": "!tables.results!StEXy94q25MmTmiX.jLKL5lxjWRaWOkbj"
+    },
+    {
+      "_id": "QOiTWy8Vu7LTvVzb",
+      "drawn": false,
+      "flags": {},
+      "img": "systems/zweihander/assets/icons/plant-seed.svg",
+      "range": [
+        6,
+        6
+      ],
+      "type": "document",
+      "weight": 1,
+      "_stats": {
+        "coreVersion": "13.342",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "name": "Firstborn",
+      "documentUuid": "Compendium.zweihander.zh-ancestral-traits.Item.rioEihjIQseUyMn6",
+      "description": "",
+      "_key": "!tables.results!StEXy94q25MmTmiX.QOiTWy8Vu7LTvVzb"
+    },
+    {
+      "_id": "OyHWKK4LmbQJCVh0",
+      "drawn": false,
+      "flags": {},
+      "img": "systems/zweihander/assets/icons/minions.svg",
+      "range": [
+        7,
+        7
+      ],
+      "type": "document",
+      "weight": 1,
+      "_stats": {
+        "coreVersion": "13.342",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "name": "Kindred Warband",
+      "documentUuid": "Compendium.zweihander.zh-ancestral-traits.Item.EmYPnqdUebH51muq",
+      "description": "",
+      "_key": "!tables.results!StEXy94q25MmTmiX.OyHWKK4LmbQJCVh0"
+    },
+    {
+      "_id": "dERZGN5aNeMfVRNm",
+      "drawn": false,
+      "flags": {},
+      "img": "systems/zweihander/assets/icons/broken-heart.svg",
+      "range": [
+        8,
+        8
+      ],
+      "type": "document",
+      "weight": 1,
+      "_stats": {
+        "coreVersion": "13.342",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "name": "Lament of the Ages",
+      "documentUuid": "Compendium.zweihander.zh-ancestral-traits.Item.hZmYp1iqCnF3uUdL",
+      "description": "",
+      "_key": "!tables.results!StEXy94q25MmTmiX.dERZGN5aNeMfVRNm"
+    },
+    {
+      "_id": "hj2FxinC9aaC0FvH",
+      "drawn": false,
+      "flags": {},
+      "img": "systems/zweihander/assets/icons/healing.svg",
+      "range": [
+        9,
+        9
+      ],
+      "type": "document",
+      "weight": 1,
+      "_stats": {
+        "coreVersion": "13.342",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "name": "Meditative Healing",
+      "documentUuid": "Compendium.zweihander.zh-ancestral-traits.Item.1LOd0EqeGSDVNcod",
+      "description": "",
+      "_key": "!tables.results!StEXy94q25MmTmiX.hj2FxinC9aaC0FvH"
+    },
+    {
+      "_id": "TJo9aTphwUq6ImK0",
+      "drawn": false,
+      "flags": {},
+      "img": "systems/zweihander/assets/icons/abstract-002.svg",
+      "range": [
+        10,
+        10
+      ],
+      "type": "document",
+      "weight": 1,
+      "_stats": {
+        "coreVersion": "13.342",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "name": "Warrior's Tattoo",
+      "documentUuid": "Compendium.zweihander.zh-ancestral-traits.Item.NYI3fwr53OUrQLaA",
+      "description": "",
+      "_key": "!tables.results!StEXy94q25MmTmiX.TJo9aTphwUq6ImK0"
+    },
+    {
+      "_id": "c7iz3mMLnGAQADBy",
+      "drawn": false,
+      "flags": {},
+      "img": "systems/zweihander/assets/icons/forest-entrance.svg",
+      "range": [
+        11,
+        11
+      ],
+      "type": "document",
+      "weight": 1,
+      "_stats": {
+        "coreVersion": "13.342",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "name": "Nature's Own",
+      "documentUuid": "Compendium.zweihander.zh-ancestral-traits.Item.MVIM9wR0gnUv3Vt6",
+      "description": "",
+      "_key": "!tables.results!StEXy94q25MmTmiX.c7iz3mMLnGAQADBy"
+    },
+    {
+      "_id": "qzqvl5OW6CfJWCZi",
+      "drawn": false,
+      "flags": {},
+      "img": "systems/zweihander/assets/icons/night-sky.svg",
+      "range": [
+        12,
+        12
+      ],
+      "type": "document",
+      "weight": 1,
+      "_stats": {
+        "coreVersion": "13.342",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "name": "Nighteyes",
+      "documentUuid": "Compendium.zweihander.zh-ancestral-traits.Item.jKX2AohkGjhHzAup",
+      "description": "",
+      "_key": "!tables.results!StEXy94q25MmTmiX.qzqvl5OW6CfJWCZi"
+    }
+  ],
+  "_stats": {
+    "coreVersion": "13.342",
+    "systemId": null,
+    "systemVersion": null,
+    "createdTime": null,
+    "modifiedTime": 1735228587208,
+    "lastModifiedBy": "rivg6xcMxdlVDM8y",
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {},
+  "_key": "!tables!StEXy94q25MmTmiX"
+}

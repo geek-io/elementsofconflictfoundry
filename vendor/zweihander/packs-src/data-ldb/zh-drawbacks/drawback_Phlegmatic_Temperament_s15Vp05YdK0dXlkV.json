@@ -1,0 +1,36 @@
+{
+  "_id": "s15Vp05YdK0dXlkV",
+  "effects": [],
+  "img": "systems/zweihander/assets/icons/breaking-chain.svg",
+  "name": "Phlegmatic Temperament",
+  "type": "drawback",
+  "_stats": {
+    "coreVersion": "13.342",
+    "systemId": null,
+    "systemVersion": null,
+    "createdTime": null,
+    "modifiedTime": 1733923835859,
+    "lastModifiedBy": "rivg6xcMxdlVDM8y",
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "system": {
+    "description": {
+      "@en": "In a nutshell, you have a tendency to withdraw from the world when things get tough. And, when subjected to horrific situations, you become indecisive and meek."
+    },
+    "notes": "",
+    "rules": {
+      "effect": {
+        "@en": "Whenever you are suffering from Stress, Fear or Terror, your Fury Dice do not explode (as covered in Chapter 2: How To Play). This lasts until you get a good night's rest."
+      }
+    }
+  },
+  "folder": null,
+  "sort": 11800000,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {},
+  "_key": "!items!s15Vp05YdK0dXlkV"
+}

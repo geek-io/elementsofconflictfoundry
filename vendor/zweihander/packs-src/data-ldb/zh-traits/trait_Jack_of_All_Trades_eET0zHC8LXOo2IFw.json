@@ -1,0 +1,37 @@
+{
+  "_id": "eET0zHC8LXOo2IFw",
+  "effects": [],
+  "img": "systems/zweihander/assets/icons/artificial-intelligence.svg",
+  "name": "Jack of All Trades",
+  "type": "trait",
+  "_stats": {
+    "coreVersion": "13.342",
+    "systemId": "zweihander",
+    "systemVersion": "5.4.1",
+    "createdTime": null,
+    "modifiedTime": 1735911103084,
+    "lastModifiedBy": "rivg6xcMxdlVDM8y",
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "system": {
+    "description": {
+      "@en": "The Raconteur can apply the fundamentals of most abilities, even without formal training. They are true factotums, dedicating themselves as a jack of all trades but a master of none."
+    },
+    "notes": "",
+    "rules": {
+      "effect": {
+        "@en": "You gain a +5 Base Chance to all Skill Tests you do not possess Skill Ranks in."
+      }
+    },
+    "category": "professional"
+  },
+  "folder": null,
+  "sort": 13500000,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {},
+  "_key": "!items!eET0zHC8LXOo2IFw"
+}

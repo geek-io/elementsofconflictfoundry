@@ -1,0 +1,153 @@
+{
+  "_id": "Uc9DAGN1OS8dIlDh",
+  "effects": [],
+  "img": "systems/zweihander/assets/icons/barrister.svg",
+  "name": "Barrister",
+  "type": "profession",
+  "_stats": {
+    "coreVersion": "13.342",
+    "systemId": "zweihander",
+    "systemVersion": "5.4.1",
+    "createdTime": null,
+    "modifiedTime": 1735047458082,
+    "lastModifiedBy": "rivg6xcMxdlVDM8y",
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "system": {
+    "description": {
+      "@en": "The Law is a fickle mistress; at times draconian and labyrinthine, at others, suddenly revised by one emperor or ignored by the next. The Legal system never tires though, people are tried, acquitted, jailed or even executed, worked and driven by the much maligned Barrister. Barristers are lawyers, litigants and mediators, spending their lives studying the law in order to convince the often waif court of their pledge’s innocence. Theirs is a thankless job – they go through years of training and study, only to be spat upon if they lose a case despite the impossibilities stacked against them. Most work for those who can afford their often extortionate fees, but some Barristers specialize in legal interpretation, criminal prosecution or become the official representatives of the nobility or even royalty. The rewards for serving as such legal representatives is high – elevation to minor nobility and with it, lands, titles and income. When such legal representatives fail to successfully represent their masters in court, the punishment is very rarely death. Usually they suffer the sentence that their masters would have, had they been found guilty instead. Unless the Barrister can prove their innocence, this usually marks the end of their legal careers.\nBarristers would appear to be ill-equipped for a life of exile, but they know how to protect themselves, both verbally and physically, having learned to defend themselves against their more unhinged clientele. Those that do not go into exile, stay and play a role as society’s inside man – easily researching legal loopholes, forgiving debts or even bending the ear of a noble or royalty. When they do work, most Barristers have their clients’ best interests in mind, but the power to ruin lives, to gouge clients for unpaid fees and seeing the innocent unjustly sent to their deaths, begins to grind most Barristers down. Eventually, they grow uncaring of their clients’ fates, interested in the bribes they can take and place, the power they can wield and so they become susceptible to the honeyed words of the foul."
+    },
+    "notes": "",
+    "expert": {
+      "value": true,
+      "requirements": {
+        "skillRanks": [
+          {
+            "key": "bargain",
+            "value": 1
+          },
+          {
+            "key": "guile",
+            "value": 1
+          }
+        ],
+        "additional": "<p>-</p>"
+      }
+    },
+    "archetype": "Expert Profession",
+    "bonusAdvances": [
+      {
+        "name": "[FB]",
+        "purchased": false
+      },
+      {
+        "name": "[FB]",
+        "purchased": false
+      },
+      {
+        "name": "[IB]",
+        "purchased": false
+      },
+      {
+        "name": "[IB]",
+        "purchased": false
+      },
+      {
+        "name": "[PB]",
+        "purchased": false
+      },
+      {
+        "name": "[WB]",
+        "purchased": false
+      },
+      {
+        "name": "[WB]",
+        "purchased": false
+      }
+    ],
+    "skillRanks": [
+      {
+        "name": "Bargain",
+        "purchased": false
+      },
+      {
+        "name": "Education",
+        "purchased": false
+      },
+      {
+        "name": "Folklore",
+        "purchased": false
+      },
+      {
+        "name": "Guile",
+        "purchased": false
+      },
+      {
+        "name": "Interrogation",
+        "purchased": false
+      },
+      {
+        "name": "Intimidate",
+        "purchased": false
+      },
+      {
+        "name": "Resolve",
+        "purchased": false
+      },
+      {
+        "name": "Rumor",
+        "purchased": false
+      },
+      {
+        "name": "Scrutinize",
+        "purchased": false
+      },
+      {
+        "name": "Simple Melee",
+        "purchased": false
+      }
+    ],
+    "talents": [
+      {
+        "linkedId": "UMcOubezruAYIWze",
+        "name": "Determination",
+        "uuid": "Compendium.zweihander.zh-talents.Item.UMcOubezruAYIWze"
+      },
+      {
+        "linkedId": "AHui6a3KaaMWrKp1",
+        "name": "Forked Tongue",
+        "uuid": "Compendium.zweihander.zh-talents.Item.AHui6a3KaaMWrKp1"
+      },
+      {
+        "linkedId": "iox3y41c5QOhZn0Y",
+        "name": "Menacing Demeanor",
+        "uuid": "Compendium.zweihander.zh-talents.Item.iox3y41c5QOhZn0Y"
+      }
+    ],
+    "professionalTrait": {
+      "name": "Pound of Flesh",
+      "uuid": "Compendium.zweihander.zh-traits.Item.G3Wc6d51qB5wFVkJ",
+      "linkedId": null
+    },
+    "specialTrait": {
+      "name": "",
+      "uuid": "",
+      "linkedId": null
+    },
+    "drawback": {
+      "name": "Untrustworthy",
+      "uuid": "Compendium.zweihander.zh-drawbacks.Item.jKj5BYRICIQmkFF8",
+      "linkedId": null
+    },
+    "tier": ""
+  },
+  "folder": null,
+  "sort": 9800000,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {},
+  "_key": "!items!Uc9DAGN1OS8dIlDh"
+}

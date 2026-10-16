@@ -1,0 +1,144 @@
+{
+  "_id": "MG30LDirARXgBT41",
+  "effects": [],
+  "img": "systems/zweihander/assets/icons/old-believer.svg",
+  "name": "Old Believer",
+  "type": "profession",
+  "_stats": {
+    "coreVersion": "13.342",
+    "systemId": "zweihander",
+    "systemVersion": "5.4.1",
+    "createdTime": null,
+    "modifiedTime": 1734990834107,
+    "lastModifiedBy": "rivg6xcMxdlVDM8y",
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "system": {
+    "description": {
+      "@en": "The Old Believer is a medicine man or woman, sometimes a shaman, who creates folk remedies – poultices and infusions – from the plants and small life in the wilds to aid others. Typically living in rural villages that still believe in the ‘old ways’, besides making remedies, an Old Believer can serve as midwife, advisor and sometime fortuneteller. Some of their remedies are nothing more than placebos, love potions, potency supplements, stomach virus cures and the like, but every once in a while, an Old Believer will tap into some of the world’s ambient Magick and produce a tincture or ointment that is purely supernatural. Many of those who do become Hedgewise, and eventually turn towards the Druid’s path.\nAs new empires annex the wilderness, ancient villages are subject to indoctrination of new faiths and so many Old Believers find themselves no longer welcome in their homes at risk of imprisonment. Some give up, but others leave in search of herbs and new places to practice their faith. Their base skills in medicine, natural healing, and survival are a boon to any party in the wilderness, but the Old Believers have a dire secret, one that they are not even aware of. If you look hard enough, you can find indisputable links between the old ways and proto-worship of old Abyssal gods. Many Old Believers have taken their own eyes upon discovering the links between their Magicks and pure chaos."
+    },
+    "notes": "",
+    "expert": {
+      "value": false,
+      "requirements": {
+        "skillRanks": [],
+        "additional": ""
+      }
+    },
+    "archetype": "Ranger",
+    "bonusAdvances": [
+      {
+        "name": "[FB]",
+        "purchased": false
+      },
+      {
+        "name": "[FB]",
+        "purchased": false
+      },
+      {
+        "name": "[IB]",
+        "purchased": false
+      },
+      {
+        "name": "[IB]",
+        "purchased": false
+      },
+      {
+        "name": "[PB]",
+        "purchased": false
+      },
+      {
+        "name": "[WB]",
+        "purchased": false
+      },
+      {
+        "name": "[WB]",
+        "purchased": false
+      }
+    ],
+    "skillRanks": [
+      {
+        "name": "Alchemy",
+        "purchased": false
+      },
+      {
+        "name": "Folklore",
+        "purchased": false
+      },
+      {
+        "name": "Handle Animal",
+        "purchased": false
+      },
+      {
+        "name": "Heal",
+        "purchased": false
+      },
+      {
+        "name": "Resolve",
+        "purchased": false
+      },
+      {
+        "name": "Rumor",
+        "purchased": false
+      },
+      {
+        "name": "Simple Melee",
+        "purchased": false
+      },
+      {
+        "name": "Survival",
+        "purchased": false
+      },
+      {
+        "name": "Toughness",
+        "purchased": false
+      },
+      {
+        "name": "Tradecraft",
+        "purchased": false
+      }
+    ],
+    "talents": [
+      {
+        "linkedId": "UMcOubezruAYIWze",
+        "name": "Determination",
+        "uuid": "Compendium.zweihander.zh-talents.Item.UMcOubezruAYIWze"
+      },
+      {
+        "linkedId": "cIaEhW4y3xK76XWt",
+        "name": "Indifference",
+        "uuid": "Compendium.zweihander.zh-talents.Item.cIaEhW4y3xK76XWt"
+      },
+      {
+        "linkedId": "sr0nQ2JrQV4DnTeU",
+        "name": "Secret Signs",
+        "uuid": "Compendium.zweihander.zh-talents.Item.sr0nQ2JrQV4DnTeU"
+      }
+    ],
+    "professionalTrait": {
+      "name": "White Witchery",
+      "uuid": "Compendium.zweihander.zh-traits.Item.sedrsLg19nZI966D",
+      "linkedId": null
+    },
+    "specialTrait": {
+      "name": "",
+      "uuid": "",
+      "linkedId": null
+    },
+    "drawback": {
+      "name": "Abstain From Violence",
+      "uuid": "Compendium.zweihander.zh-drawbacks.Item.GSSurkTUOwpZzzrG",
+      "linkedId": null
+    },
+    "tier": ""
+  },
+  "folder": null,
+  "sort": 7400000,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {},
+  "_key": "!items!MG30LDirARXgBT41"
+}

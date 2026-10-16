@@ -1,0 +1,37 @@
+{
+  "_id": "DVsFVT5A6enX8pL9",
+  "effects": [],
+  "img": "systems/zweihander/assets/icons/sing.svg",
+  "name": "Captivating Cry",
+  "system": {
+    "description": {
+      "@en": ""
+    },
+    "notes": "",
+    "rules": {
+      "effect": {
+        "@en": "When foes can hear this creature, they must Resist with a successful Resolve Test or be drawn towards the sound. Should they enter a dangerous area to find the sound, they can attempt another Resolve Test. Once they are able to visually see the creature, the Captivating Cry’s effects end."
+      }
+    },
+    "category": "creature"
+  },
+  "type": "trait",
+  "_stats": {
+    "coreVersion": "13.342",
+    "systemId": "zweihander",
+    "systemVersion": "5.4.1",
+    "createdTime": null,
+    "modifiedTime": 1735915786831,
+    "lastModifiedBy": "rivg6xcMxdlVDM8y",
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {},
+  "_key": "!items!DVsFVT5A6enX8pL9"
+}

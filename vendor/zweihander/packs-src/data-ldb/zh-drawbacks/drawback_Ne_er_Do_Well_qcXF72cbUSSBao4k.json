@@ -1,0 +1,36 @@
+{
+  "_id": "qcXF72cbUSSBao4k",
+  "effects": [],
+  "img": "systems/zweihander/assets/icons/spiked-halo.svg",
+  "name": "Ne'er Do Well",
+  "type": "drawback",
+  "_stats": {
+    "coreVersion": "13.342",
+    "systemId": null,
+    "systemVersion": null,
+    "createdTime": null,
+    "modifiedTime": 1733923835859,
+    "lastModifiedBy": "rivg6xcMxdlVDM8y",
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "system": {
+    "description": {
+      "@en": "You are feckless, irresponsible and prone to idleness. It doesn’t mean that you are completely useless, however, you are unreliable when the chips are down."
+    },
+    "notes": "",
+    "rules": {
+      "effect": {
+        "@en": "You cannot Assist others’ Skill Tests."
+      }
+    }
+  },
+  "folder": null,
+  "sort": 11500000,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {},
+  "_key": "!items!qcXF72cbUSSBao4k"
+}

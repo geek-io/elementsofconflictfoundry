@@ -1,0 +1,679 @@
+{
+  "_id": "mVVJZ0ohET2UTaEN",
+  "displayRoll": true,
+  "formula": "1d100",
+  "img": "icons/svg/d20-grey.svg",
+  "name": "G&P Characters: Alignment",
+  "replacement": true,
+  "results": [
+    {
+      "_id": "iqCPMdn7Q9q9EHO7",
+      "drawn": false,
+      "flags": {},
+      "img": "icons/svg/d20-black.svg",
+      "range": [
+        1,
+        4
+      ],
+      "type": "text",
+      "weight": 1,
+      "_stats": {
+        "coreVersion": "13.342",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Adaptation | Mayhem",
+      "name": "",
+      "_key": "!tables.results!mVVJZ0ohET2UTaEN.iqCPMdn7Q9q9EHO7"
+    },
+    {
+      "_id": "esg6CIH3NOO4tDGY",
+      "drawn": false,
+      "flags": {},
+      "img": "icons/svg/d20-black.svg",
+      "range": [
+        5,
+        8
+      ],
+      "type": "text",
+      "weight": 1,
+      "_stats": {
+        "coreVersion": "13.342",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Ambition | Tyranny",
+      "name": "",
+      "_key": "!tables.results!mVVJZ0ohET2UTaEN.esg6CIH3NOO4tDGY"
+    },
+    {
+      "_id": "rNfPwyKacLkYXnH3",
+      "drawn": false,
+      "flags": {},
+      "img": "icons/svg/d20-black.svg",
+      "range": [
+        9,
+        12
+      ],
+      "type": "text",
+      "weight": 1,
+      "_stats": {
+        "coreVersion": "13.342",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Candor | Cruelty",
+      "name": "",
+      "_key": "!tables.results!mVVJZ0ohET2UTaEN.rNfPwyKacLkYXnH3"
+    },
+    {
+      "_id": "LBpHJ8JT7y786X0E",
+      "drawn": false,
+      "flags": {},
+      "img": "icons/svg/d20-black.svg",
+      "range": [
+        13,
+        16
+      ],
+      "type": "text",
+      "weight": 1,
+      "_stats": {
+        "coreVersion": "13.342",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Charity | Pity",
+      "name": "",
+      "_key": "!tables.results!mVVJZ0ohET2UTaEN.LBpHJ8JT7y786X0E"
+    },
+    {
+      "_id": "HPuLPzEvQjPrMgJ5",
+      "drawn": false,
+      "flags": {},
+      "img": "icons/svg/d20-black.svg",
+      "range": [
+        17,
+        20
+      ],
+      "type": "text",
+      "weight": 1,
+      "_stats": {
+        "coreVersion": "13.342",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Compassion | Melancholy",
+      "name": "",
+      "_key": "!tables.results!mVVJZ0ohET2UTaEN.HPuLPzEvQjPrMgJ5"
+    },
+    {
+      "_id": "S4eVBgdGPPqHOtMA",
+      "drawn": false,
+      "flags": {},
+      "img": "icons/svg/d20-black.svg",
+      "range": [
+        21,
+        24
+      ],
+      "type": "text",
+      "weight": 1,
+      "_stats": {
+        "coreVersion": "13.342",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Cunning | Deceit",
+      "name": "",
+      "_key": "!tables.results!mVVJZ0ohET2UTaEN.S4eVBgdGPPqHOtMA"
+    },
+    {
+      "_id": "UAmBc9mX8SxR9gO7",
+      "drawn": false,
+      "flags": {},
+      "img": "icons/svg/d20-black.svg",
+      "range": [
+        25,
+        28
+      ],
+      "type": "text",
+      "weight": 1,
+      "_stats": {
+        "coreVersion": "13.342",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Dignity | Vehemence",
+      "name": "",
+      "_key": "!tables.results!mVVJZ0ohET2UTaEN.UAmBc9mX8SxR9gO7"
+    },
+    {
+      "_id": "95efkj2rqZDwovvD",
+      "drawn": false,
+      "flags": {},
+      "img": "icons/svg/d20-black.svg",
+      "range": [
+        29,
+        32
+      ],
+      "type": "text",
+      "weight": 1,
+      "_stats": {
+        "coreVersion": "13.342",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Diplomacy | Hypocrisy",
+      "name": "",
+      "_key": "!tables.results!mVVJZ0ohET2UTaEN.95efkj2rqZDwovvD"
+    },
+    {
+      "_id": "amL9LFrzZLdOPlMj",
+      "drawn": false,
+      "flags": {},
+      "img": "icons/svg/d20-black.svg",
+      "range": [
+        33,
+        36
+      ],
+      "type": "text",
+      "weight": 1,
+      "_stats": {
+        "coreVersion": "13.342",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Duty | Fatalism",
+      "name": "",
+      "_key": "!tables.results!mVVJZ0ohET2UTaEN.amL9LFrzZLdOPlMj"
+    },
+    {
+      "_id": "S1T6ofeXmfV3slS2",
+      "drawn": false,
+      "flags": {},
+      "img": "icons/svg/d20-black.svg",
+      "range": [
+        37,
+        40
+      ],
+      "type": "text",
+      "weight": 1,
+      "_stats": {
+        "coreVersion": "13.342",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Enlightenment | Detachment",
+      "name": "",
+      "_key": "!tables.results!mVVJZ0ohET2UTaEN.S1T6ofeXmfV3slS2"
+    },
+    {
+      "_id": "vZBGsPh9oHQMWfzz",
+      "drawn": false,
+      "flags": {},
+      "img": "icons/svg/d20-black.svg",
+      "range": [
+        41,
+        44
+      ],
+      "type": "text",
+      "weight": 1,
+      "_stats": {
+        "coreVersion": "13.342",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Ferocity | Hatred",
+      "name": "",
+      "_key": "!tables.results!mVVJZ0ohET2UTaEN.vZBGsPh9oHQMWfzz"
+    },
+    {
+      "_id": "tjAeuJ0Qqp6uNUFz",
+      "drawn": false,
+      "flags": {},
+      "img": "icons/svg/d20-black.svg",
+      "range": [
+        45,
+        48
+      ],
+      "type": "text",
+      "weight": 1,
+      "_stats": {
+        "coreVersion": "13.342",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Gentility | Cowardice",
+      "name": "",
+      "_key": "!tables.results!mVVJZ0ohET2UTaEN.tjAeuJ0Qqp6uNUFz"
+    },
+    {
+      "_id": "opxzmSmfXy6gqh9I",
+      "drawn": false,
+      "flags": {},
+      "img": "icons/svg/d20-black.svg",
+      "range": [
+        49,
+        52
+      ],
+      "type": "text",
+      "weight": 1,
+      "_stats": {
+        "coreVersion": "13.342",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Gravitas | Vanity",
+      "name": "",
+      "_key": "!tables.results!mVVJZ0ohET2UTaEN.opxzmSmfXy6gqh9I"
+    },
+    {
+      "_id": "Ts2o5vXbTmUsbwOK",
+      "drawn": false,
+      "flags": {},
+      "img": "icons/svg/d20-black.svg",
+      "range": [
+        53,
+        56
+      ],
+      "type": "text",
+      "weight": 1,
+      "_stats": {
+        "coreVersion": "13.342",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Heroism | Martyrdom",
+      "name": "",
+      "_key": "!tables.results!mVVJZ0ohET2UTaEN.Ts2o5vXbTmUsbwOK"
+    },
+    {
+      "_id": "UWgg1z8Cso1iMYLr",
+      "drawn": false,
+      "flags": {},
+      "img": "icons/svg/d20-black.svg",
+      "range": [
+        57,
+        60
+      ],
+      "type": "text",
+      "weight": 1,
+      "_stats": {
+        "coreVersion": "13.342",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Humility | Incompetence",
+      "name": "",
+      "_key": "!tables.results!mVVJZ0ohET2UTaEN.UWgg1z8Cso1iMYLr"
+    },
+    {
+      "_id": "T5kaUD02FOlp3fhZ",
+      "drawn": false,
+      "flags": {},
+      "img": "icons/svg/d20-black.svg",
+      "range": [
+        61,
+        64
+      ],
+      "type": "text",
+      "weight": 1,
+      "_stats": {
+        "coreVersion": "13.342",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Impiety | Heresy",
+      "name": "",
+      "_key": "!tables.results!mVVJZ0ohET2UTaEN.T5kaUD02FOlp3fhZ"
+    },
+    {
+      "_id": "kPebiiGyTY0gC7Vq",
+      "drawn": false,
+      "flags": {},
+      "img": "icons/svg/d20-black.svg",
+      "range": [
+        65,
+        68
+      ],
+      "type": "text",
+      "weight": 1,
+      "_stats": {
+        "coreVersion": "13.342",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Independence | Rebellion",
+      "name": "",
+      "_key": "!tables.results!mVVJZ0ohET2UTaEN.kPebiiGyTY0gC7Vq"
+    },
+    {
+      "_id": "rJ8gzgHVaoBMptcO",
+      "drawn": false,
+      "flags": {},
+      "img": "icons/svg/d20-black.svg",
+      "range": [
+        69,
+        72
+      ],
+      "type": "text",
+      "weight": 1,
+      "_stats": {
+        "coreVersion": "13.342",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Mystery | Exclusion",
+      "name": "",
+      "_key": "!tables.results!mVVJZ0ohET2UTaEN.rJ8gzgHVaoBMptcO"
+    },
+    {
+      "_id": "XCLYY20E4VQm0aqu",
+      "drawn": false,
+      "flags": {},
+      "img": "icons/svg/d20-black.svg",
+      "range": [
+        73,
+        76
+      ],
+      "type": "text",
+      "weight": 1,
+      "_stats": {
+        "coreVersion": "13.342",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Pride | Arrogance",
+      "name": "",
+      "_key": "!tables.results!mVVJZ0ohET2UTaEN.XCLYY20E4VQm0aqu"
+    },
+    {
+      "_id": "cwGIFMwseL9m5efx",
+      "drawn": false,
+      "flags": {},
+      "img": "icons/svg/d20-black.svg",
+      "range": [
+        77,
+        80
+      ],
+      "type": "text",
+      "weight": 1,
+      "_stats": {
+        "coreVersion": "13.342",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Romanticism | Lechery",
+      "name": "",
+      "_key": "!tables.results!mVVJZ0ohET2UTaEN.cwGIFMwseL9m5efx"
+    },
+    {
+      "_id": "indnbLQ5J1YskRLN",
+      "drawn": false,
+      "flags": {},
+      "img": "icons/svg/d20-black.svg",
+      "range": [
+        81,
+        84
+      ],
+      "type": "text",
+      "weight": 1,
+      "_stats": {
+        "coreVersion": "13.342",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Skepticism | Cynicism",
+      "name": "",
+      "_key": "!tables.results!mVVJZ0ohET2UTaEN.indnbLQ5J1YskRLN"
+    },
+    {
+      "_id": "a3g3LQaDpyh4Nf1M",
+      "drawn": false,
+      "flags": {},
+      "img": "icons/svg/d20-black.svg",
+      "range": [
+        85,
+        88
+      ],
+      "type": "text",
+      "weight": 1,
+      "_stats": {
+        "coreVersion": "13.342",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Sophistication | Indulgence",
+      "name": "",
+      "_key": "!tables.results!mVVJZ0ohET2UTaEN.a3g3LQaDpyh4Nf1M"
+    },
+    {
+      "_id": "6qz4HDJDNrgMiHxz",
+      "drawn": false,
+      "flags": {},
+      "img": "icons/svg/d20-black.svg",
+      "range": [
+        89,
+        92
+      ],
+      "type": "text",
+      "weight": 1,
+      "_stats": {
+        "coreVersion": "13.342",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Wisdom | Rancor",
+      "name": "",
+      "_key": "!tables.results!mVVJZ0ohET2UTaEN.6qz4HDJDNrgMiHxz"
+    },
+    {
+      "_id": "SO3QleMunWC110vU",
+      "drawn": false,
+      "flags": {},
+      "img": "icons/svg/d20-black.svg",
+      "range": [
+        93,
+        96
+      ],
+      "type": "text",
+      "weight": 1,
+      "_stats": {
+        "coreVersion": "13.342",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Wit | Scorn",
+      "name": "",
+      "_key": "!tables.results!mVVJZ0ohET2UTaEN.SO3QleMunWC110vU"
+    },
+    {
+      "_id": "S7K08i6vROqvGzLd",
+      "drawn": false,
+      "flags": {},
+      "img": "icons/svg/d20-black.svg",
+      "range": [
+        97,
+        100
+      ],
+      "type": "text",
+      "weight": 1,
+      "_stats": {
+        "coreVersion": "13.342",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Zeal | Fanaticism",
+      "name": "",
+      "_key": "!tables.results!mVVJZ0ohET2UTaEN.S7K08i6vROqvGzLd"
+    }
+  ],
+  "_stats": {
+    "coreVersion": "13.342",
+    "systemId": null,
+    "systemVersion": null,
+    "createdTime": null,
+    "modifiedTime": null,
+    "lastModifiedBy": null,
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "description": "",
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {},
+  "_key": "!tables!mVVJZ0ohET2UTaEN"
+}

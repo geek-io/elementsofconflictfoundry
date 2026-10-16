@@ -1,0 +1,434 @@
+{
+  "_id": "ledGbehTFqu1JYJr",
+  "description": "",
+  "displayRoll": true,
+  "formula": "1d100",
+  "img": "icons/svg/d20-grey.svg",
+  "name": "G&P Professions: Academic",
+  "replacement": true,
+  "results": [
+    {
+      "_id": "T66vBt8w60tvGUCs",
+      "drawn": false,
+      "flags": {},
+      "img": "systems/zweihander/assets/icons/adherent.svg",
+      "range": [
+        1,
+        6
+      ],
+      "type": "document",
+      "weight": 1,
+      "_stats": {
+        "coreVersion": "13.342",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "name": "Adherent",
+      "documentUuid": "Compendium.zweihander.zh-professions.Item.dPmhU1YMHkXMG2Wu",
+      "description": "",
+      "_key": "!tables.results!ledGbehTFqu1JYJr.T66vBt8w60tvGUCs"
+    },
+    {
+      "_id": "ZPGiHdtPwxx7VqbE",
+      "drawn": false,
+      "flags": {},
+      "img": "systems/zweihander/assets/icons/anchorite.svg",
+      "range": [
+        7,
+        13
+      ],
+      "type": "document",
+      "weight": 1,
+      "_stats": {
+        "coreVersion": "13.342",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "name": "Anchorite",
+      "documentUuid": "Compendium.zweihander.zh-professions.Item.t6uRo8fjVkuOpYgL",
+      "description": "",
+      "_key": "!tables.results!ledGbehTFqu1JYJr.ZPGiHdtPwxx7VqbE"
+    },
+    {
+      "_id": "ctqXEqmeRFB3XHBP",
+      "drawn": false,
+      "flags": {},
+      "img": "systems/zweihander/assets/icons/antiquarian.svg",
+      "range": [
+        14,
+        20
+      ],
+      "type": "document",
+      "weight": 1,
+      "_stats": {
+        "coreVersion": "13.342",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "name": "Antiquarian",
+      "documentUuid": "Compendium.zweihander.zh-professions.Item.mMjlBmM8pWAnlxak",
+      "description": "",
+      "_key": "!tables.results!ledGbehTFqu1JYJr.ctqXEqmeRFB3XHBP"
+    },
+    {
+      "_id": "p6op28THNsTgEpXf",
+      "drawn": false,
+      "flags": {},
+      "img": "systems/zweihander/assets/icons/apothecary.svg",
+      "range": [
+        21,
+        27
+      ],
+      "type": "document",
+      "weight": 1,
+      "_stats": {
+        "coreVersion": "13.342",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "name": "Apothecary",
+      "documentUuid": "Compendium.zweihander.zh-professions.Item.rNNmXhciyYskIbrJ",
+      "description": "",
+      "_key": "!tables.results!ledGbehTFqu1JYJr.p6op28THNsTgEpXf"
+    },
+    {
+      "_id": "utQhaaE9wkJoNRlR",
+      "drawn": false,
+      "flags": {},
+      "img": "systems/zweihander/assets/icons/astrologer.svg",
+      "range": [
+        28,
+        34
+      ],
+      "type": "document",
+      "weight": 1,
+      "_stats": {
+        "coreVersion": "13.342",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "name": "Astrologer",
+      "documentUuid": "Compendium.zweihander.zh-professions.Item.d2j4pbRTuyDZnaVF",
+      "description": "",
+      "_key": "!tables.results!ledGbehTFqu1JYJr.utQhaaE9wkJoNRlR"
+    },
+    {
+      "_id": "t4eSWxlLbZT2mS47",
+      "drawn": false,
+      "flags": {},
+      "img": "systems/zweihander/assets/icons/diabolist.svg",
+      "range": [
+        35,
+        41
+      ],
+      "type": "document",
+      "weight": 1,
+      "_stats": {
+        "coreVersion": "13.342",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "name": "Diabolist",
+      "documentUuid": "Compendium.zweihander.zh-professions.Item.42UvXIlRmNaUqxJ1",
+      "description": "",
+      "_key": "!tables.results!ledGbehTFqu1JYJr.t4eSWxlLbZT2mS47"
+    },
+    {
+      "_id": "cfBIpLMbZ7zzzPeo",
+      "drawn": false,
+      "flags": {},
+      "img": "systems/zweihander/assets/icons/engineer.svg",
+      "range": [
+        42,
+        47
+      ],
+      "type": "document",
+      "weight": 1,
+      "_stats": {
+        "coreVersion": "13.342",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "name": "Engineer",
+      "documentUuid": "Compendium.zweihander.zh-professions.Item.4bDFfrWAV5YDLcGG",
+      "description": "",
+      "_key": "!tables.results!ledGbehTFqu1JYJr.cfBIpLMbZ7zzzPeo"
+    },
+    {
+      "_id": "FiVTi8Q8oXwRARr3",
+      "drawn": false,
+      "flags": {},
+      "img": "systems/zweihander/assets/icons/full-folder.svg",
+      "range": [
+        48,
+        54
+      ],
+      "type": "document",
+      "weight": 1,
+      "_stats": {
+        "coreVersion": "13.342",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "name": "Forger",
+      "documentUuid": "Compendium.zweihander.zh-professions.Item.zpiadJQ82qOpcwhU",
+      "description": "",
+      "_key": "!tables.results!ledGbehTFqu1JYJr.FiVTi8Q8oXwRARr3"
+    },
+    {
+      "_id": "kxuSU4cco4vkoQyP",
+      "drawn": false,
+      "flags": {},
+      "img": "systems/zweihander/assets/icons/informer.svg",
+      "range": [
+        55,
+        61
+      ],
+      "type": "document",
+      "weight": 1,
+      "_stats": {
+        "coreVersion": "13.342",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "name": "Informer",
+      "documentUuid": "Compendium.zweihander.zh-professions.Item.QIHRzRD0AuE47I6d",
+      "description": "",
+      "_key": "!tables.results!ledGbehTFqu1JYJr.kxuSU4cco4vkoQyP"
+    },
+    {
+      "_id": "Go0nfYHcaqB2h0gR",
+      "drawn": false,
+      "flags": {},
+      "img": "systems/zweihander/assets/icons/investigator.svg",
+      "range": [
+        62,
+        68
+      ],
+      "type": "document",
+      "weight": 1,
+      "_stats": {
+        "coreVersion": "13.342",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "name": "Investigator",
+      "documentUuid": "Compendium.zweihander.zh-professions.Item.F86QXGM3NI6fyUTg",
+      "description": "",
+      "_key": "!tables.results!ledGbehTFqu1JYJr.Go0nfYHcaqB2h0gR"
+    },
+    {
+      "_id": "AdmRh6zt4E88M5qd",
+      "drawn": false,
+      "flags": {},
+      "img": "systems/zweihander/assets/icons/monk.svg",
+      "range": [
+        69,
+        75
+      ],
+      "type": "document",
+      "weight": 1,
+      "_stats": {
+        "coreVersion": "13.342",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "name": "Monk",
+      "documentUuid": "Compendium.zweihander.zh-professions.Item.G5XtOImPJ6WTsdjU",
+      "description": "",
+      "_key": "!tables.results!ledGbehTFqu1JYJr.AdmRh6zt4E88M5qd"
+    },
+    {
+      "_id": "AVuVk3n3kGM0ZlMC",
+      "drawn": false,
+      "flags": {},
+      "img": "systems/zweihander/assets/icons/newspaper.svg",
+      "range": [
+        76,
+        82
+      ],
+      "type": "document",
+      "weight": 1,
+      "_stats": {
+        "coreVersion": "13.342",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "name": "Pamphleteer",
+      "documentUuid": "Compendium.zweihander.zh-professions.Item.7yJQZLcSLsxPtmKA",
+      "description": "",
+      "_key": "!tables.results!ledGbehTFqu1JYJr.AVuVk3n3kGM0ZlMC"
+    },
+    {
+      "_id": "xIlaU7w3USuS5ud3",
+      "drawn": false,
+      "flags": {},
+      "img": "systems/zweihander/assets/icons/preacher.svg",
+      "range": [
+        83,
+        89
+      ],
+      "type": "document",
+      "weight": 1,
+      "_stats": {
+        "coreVersion": "13.342",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "name": "Preacher",
+      "documentUuid": "Compendium.zweihander.zh-professions.Item.7SIcvv9DFMDllGj1",
+      "description": "",
+      "_key": "!tables.results!ledGbehTFqu1JYJr.xIlaU7w3USuS5ud3"
+    },
+    {
+      "_id": "AHkGrCggcPBnv94b",
+      "drawn": false,
+      "flags": {},
+      "img": "systems/zweihander/assets/icons/barrel.svg",
+      "range": [
+        90,
+        95
+      ],
+      "type": "document",
+      "weight": 1,
+      "_stats": {
+        "coreVersion": "13.342",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "name": "Quartermaster",
+      "documentUuid": "Compendium.zweihander.zh-professions.Item.drp0LRnRNLvcsE12",
+      "description": "",
+      "_key": "!tables.results!ledGbehTFqu1JYJr.AHkGrCggcPBnv94b"
+    },
+    {
+      "_id": "nRtqnUy7CU7OwsMg",
+      "drawn": false,
+      "flags": {},
+      "img": "systems/zweihander/assets/icons/scribe.svg",
+      "range": [
+        96,
+        100
+      ],
+      "type": "document",
+      "weight": 1,
+      "_stats": {
+        "coreVersion": "13.342",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "name": "Scribe",
+      "documentUuid": "Compendium.zweihander.zh-professions.Item.l2UeXRBOYthOu61d",
+      "description": "",
+      "_key": "!tables.results!ledGbehTFqu1JYJr.nRtqnUy7CU7OwsMg"
+    }
+  ],
+  "_stats": {
+    "coreVersion": "13.342",
+    "systemId": null,
+    "systemVersion": null,
+    "createdTime": null,
+    "modifiedTime": null,
+    "lastModifiedBy": null,
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {},
+  "_key": "!tables!ledGbehTFqu1JYJr"
+}

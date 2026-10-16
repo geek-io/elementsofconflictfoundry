@@ -1,0 +1,37 @@
+{
+  "_id": "ZzxKSjYqVcQh5UsR",
+  "effects": [],
+  "img": "systems/zweihander/assets/icons/vitruvian-man.svg",
+  "name": "Machiavellian Intrigue",
+  "type": "trait",
+  "_stats": {
+    "coreVersion": "13.342",
+    "systemId": "zweihander",
+    "systemVersion": "5.4.1",
+    "createdTime": null,
+    "modifiedTime": 1735911103076,
+    "lastModifiedBy": "rivg6xcMxdlVDM8y",
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "system": {
+    "description": {
+      "@en": "Political jockeying and subtle manipulation within the higher social circles come second nature to the Courtier. Thus, they have learned to pick up on subtle tells and affectations which gives away true intentions."
+    },
+    "notes": "",
+    "rules": {
+      "effect": {
+        "@en": "Whenever you fail an Eavesdrop or Scrutinize Test, you may re-roll to generate a better result, but must accept the outcome."
+      }
+    },
+    "category": "professional"
+  },
+  "folder": null,
+  "sort": 11800000,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {},
+  "_key": "!items!ZzxKSjYqVcQh5UsR"
+}

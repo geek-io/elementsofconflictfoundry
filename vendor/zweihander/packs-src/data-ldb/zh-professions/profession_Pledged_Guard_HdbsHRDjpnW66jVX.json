@@ -1,0 +1,153 @@
+{
+  "_id": "HdbsHRDjpnW66jVX",
+  "effects": [],
+  "img": "systems/zweihander/assets/icons/attached-shield.svg",
+  "name": "Pledged Guard",
+  "type": "profession",
+  "_stats": {
+    "coreVersion": "13.342",
+    "systemId": "zweihander",
+    "systemVersion": "5.4.1",
+    "createdTime": null,
+    "modifiedTime": 1735050026906,
+    "lastModifiedBy": "rivg6xcMxdlVDM8y",
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "system": {
+    "description": {
+      "@en": "Professional bodyguards and enforcers, Pledged Guards have trained for years to provide protection nobles, guildsmen, priests, scholars and even criminals. They do not incite violence, but move to prevent it – many find a glower and a snarl is enough to send most assaulters or annoyances packing. When their charge’s life is in danger though, the Pledged Guard will lay their life on the line, perhaps holding back a mob, taking an assassin’s bullet or serving as their champion in a trial by combat. Pledged Guards are invariably imposing physically and personally, and no matter who they are hired to protect, there is no one more important to them.\nPledged Guards sometimes join an adventuring group as an actual bodyguard, while others are on the road looking for some charismatic figure to serve. Pledged Guards specialize in single combat, able to combat and strike down a single opponent with aplomb and a finality that few others can manage. They are direct and menacing, never wasting an action in combat and capable of clearing a rowdy tavern with their presence. The Pledged Guard is easily swayed by coin, however, readily switching alliances for better pay, no matter how foul their ward is. Even if this means the most brutal of warlords or the vilest cultist. This ambivalence leaves them vulnerable, first to coin, then belief – and that may be belief in the darkest of powers."
+    },
+    "notes": "",
+    "expert": {
+      "value": true,
+      "requirements": {
+        "skillRanks": [
+          {
+            "key": "athletics",
+            "value": 1
+          },
+          {
+            "key": "toughness",
+            "value": 1
+          }
+        ],
+        "additional": "<p>-</p>"
+      }
+    },
+    "archetype": "Expert Profession",
+    "bonusAdvances": [
+      {
+        "name": "[AB]",
+        "purchased": false
+      },
+      {
+        "name": "[BB]",
+        "purchased": false
+      },
+      {
+        "name": "[BB]",
+        "purchased": false
+      },
+      {
+        "name": "[CB]",
+        "purchased": false
+      },
+      {
+        "name": "[PB]",
+        "purchased": false
+      },
+      {
+        "name": "[WB]",
+        "purchased": false
+      },
+      {
+        "name": "[WB]",
+        "purchased": false
+      }
+    ],
+    "skillRanks": [
+      {
+        "name": "Athletics",
+        "purchased": false
+      },
+      {
+        "name": "Coordination",
+        "purchased": false
+      },
+      {
+        "name": "Eavesdrop",
+        "purchased": false
+      },
+      {
+        "name": "Folklore",
+        "purchased": false
+      },
+      {
+        "name": "Intimidate",
+        "purchased": false
+      },
+      {
+        "name": "Martial Melee",
+        "purchased": false
+      },
+      {
+        "name": "Resolve",
+        "purchased": false
+      },
+      {
+        "name": "Rumor",
+        "purchased": false
+      },
+      {
+        "name": "Simple Melee",
+        "purchased": false
+      },
+      {
+        "name": "Toughness",
+        "purchased": false
+      }
+    ],
+    "talents": [
+      {
+        "linkedId": "i9qfMytftadGhnm3",
+        "name": "Appalling Mien",
+        "uuid": "Compendium.zweihander.zh-talents.Item.i9qfMytftadGhnm3"
+      },
+      {
+        "linkedId": "GIvpgOhlA9mcAcK0",
+        "name": "Run Amok",
+        "uuid": "Compendium.zweihander.zh-talents.Item.GIvpgOhlA9mcAcK0"
+      },
+      {
+        "linkedId": "m2dcnYIEtxqzPeqW",
+        "name": "Second Skin",
+        "uuid": "Compendium.zweihander.zh-talents.Item.m2dcnYIEtxqzPeqW"
+      }
+    ],
+    "professionalTrait": {
+      "name": "The Enforcer",
+      "uuid": "Compendium.zweihander.zh-traits.Item.zyLoHaHWQR5G62zR",
+      "linkedId": null
+    },
+    "specialTrait": {
+      "name": "",
+      "uuid": "",
+      "linkedId": null
+    },
+    "drawback": {
+      "name": "Ever-faithful",
+      "uuid": "Compendium.zweihander.zh-drawbacks.Item.Um3sf0cs7igypQlN",
+      "linkedId": null
+    },
+    "tier": ""
+  },
+  "folder": null,
+  "sort": 6200000,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {},
+  "_key": "!items!HdbsHRDjpnW66jVX"
+}

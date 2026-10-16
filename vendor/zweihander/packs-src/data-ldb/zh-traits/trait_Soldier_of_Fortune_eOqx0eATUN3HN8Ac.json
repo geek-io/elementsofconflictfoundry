@@ -1,0 +1,37 @@
+{
+  "_id": "eOqx0eATUN3HN8Ac",
+  "effects": [],
+  "img": "systems/zweihander/assets/icons/vitruvian-man.svg",
+  "name": "Soldier of Fortune",
+  "type": "trait",
+  "_stats": {
+    "coreVersion": "13.342",
+    "systemId": "zweihander",
+    "systemVersion": "5.4.1",
+    "createdTime": null,
+    "modifiedTime": 1735911103085,
+    "lastModifiedBy": "rivg6xcMxdlVDM8y",
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "system": {
+    "description": {
+      "@en": "Your unpredictable fighting style originates from your mercenary attitude and the many victories you’ve gained in lands both native and foreign."
+    },
+    "notes": "",
+    "rules": {
+      "effect": {
+        "@en": "Whenever you make an Attack Action or Perilous Stunt using a melee weapon, foes must flip the results to fail to Dodge, Parry or Resist it."
+      }
+    },
+    "category": "professional"
+  },
+  "folder": null,
+  "sort": 13800000,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {},
+  "_key": "!items!eOqx0eATUN3HN8Ac"
+}

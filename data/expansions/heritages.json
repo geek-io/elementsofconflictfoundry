@@ -1,0 +1,1343 @@
+[
+  {
+    "name": "Child of the Pure Lands (No Heritage)",
+    "type": "heritage",
+    "system": {
+      "description": "<p>Found far and wide across the Elemental Nations and beyond, the most common heritage is no Heritage at all. Children of the Pure Lands are the true inheritors of the Sage’s ambition. With no set future, they are able to strive into any direction their own desires take them. <br><br>This Heritage describes not only the untold thousands of civilian-born and clanless shinobi, but may also be applied to those from a Clan background who did not inherit their ancestor’s blessing and must instead forge their own.<br><br>* +1 to three Primary Attribute Bonuses <br>* -1 to three Primary Attribute Bonuses <br>* Boons: Blood &amp; Fire<br>   * Genin Tier -  When using a Skill you do not possess Skill Ranks in, add a +5 Base Chance.<br>   * Chunin Tier - Immediately after you suffer Damage from a melee or ranged weapon, spend a Fortune Point to ignore it entirely, therefore negating both Damage and any Injuries you may have suffered. You may even use this after failing to Dodge or Parry.<br>   * Jonin Tier - Once per Scene, you can spend a Fortune Coin to instantly cast a Jutsu you know that matches your Chakra Nature, waiving the Chakra Cost.<br><br><br>* Banes: Fire &amp; Ash<br>   * Genin Tier - Whenever you take an innocent life unprovoked, you automatically gain 1 permanent War Stain on your Nindo.<br>   * Chunin Tier - Once per Story, when you would be incapacitated on the Peril Track, gain a Drawback.<br>   * Jonin Tier - N/A</p>",
+      "source": "EoC Core Heritage Expansion",
+      "category": "Core",
+      "modifiers": [],
+      "boons": [
+        {
+          "name": "Blood & Fire",
+          "tier": 1,
+          "description": "When using a Skill you do not possess Skill Ranks in, add a +5 Base Chance."
+        },
+        {
+          "name": "Blood & Fire",
+          "tier": 2,
+          "description": "Immediately after you suffer Damage from a melee or ranged weapon, spend a Fortune Point to ignore it entirely, therefore negating both Damage and any Injuries you may have suffered. You may even use this after failing to Dodge or Parry."
+        },
+        {
+          "name": "Blood & Fire",
+          "tier": 3,
+          "description": "Once per Scene, you can spend a Fortune Coin to instantly cast a Jutsu you know that matches your Chakra Nature, waiving the Chakra Cost."
+        }
+      ],
+      "banes": [
+        {
+          "name": "Fire & Ash",
+          "tier": 1,
+          "description": "Whenever you take an innocent life unprovoked, you automatically gain 1 permanent War Stain on your Nindo."
+        },
+        {
+          "name": "Fire & Ash",
+          "tier": 2,
+          "description": "Once per Story, when you would be incapacitated on the Peril Track, gain a Drawback."
+        },
+        {
+          "name": "Fire & Ash",
+          "tier": 3,
+          "description": "N/A"
+        }
+      ],
+      "contentStatus": "ready",
+      "heritageEnabled": true
+    }
+  },
+  {
+    "name": "Iburi - Descendant of Wisps & Smoke",
+    "type": "heritage",
+    "system": {
+      "description": "<p>Few know the true origin of this clan, if they even know them to exist at all, to hear their boasts, one would imagine their gift was a blessing from the Sage himself, a reward for their compassion, cunning, or decisiveness (the story seems to change as often as it’s told). The truth, known only to the clan’s most dedicated scholars, is surprisingly close. <br><br>Supposedly, in the previous era of unending warfare, a young man of no import worked as part of a company of gravetenders. The company, alongside a partnered group of monks (of which Order the records are conflicted), would comb over battlefields and offer rites for the deceased before burying them. It was filthy, backbreaking labor and all too often workers would find themselves falling ill with no means of paying for medicine, as had happened to the boy’s father.<br><br><br>The boy, desperate to earn enough to cure his ailing father, worked extra shifts, pushing his mind and body to their limit day in and out. One day, while sorting through the bodies of a particularly vicious battle, the boy discovered a beautiful necklace on the body of a deceased female warrior. Without hesitation, he pocketed it hoping to sell it to afford his father’s medicine, not knowing that the necklace was a gift from Furikagami, a capricious Kami of Winds that stir battlefields.<br><br><br>Seeing the boy’s theft, the god was enraged and immediately petitioned his superior, Enma, Judge of the deceased, for permission to smite the boy for his insolence. Enma, read the boy’s fate, discerning both his past and future in an instant, before making his decision. <br><br>With one hand raised Enma blessed the boy, wisps of coiling smoke from his father’s own funeral pyre infused the boy granting him an affinity with their like. <br><br>Then Enma spoke, words heard only by the boy and Furikagami, “Flee yon filial child, as far and fast as you may. For you have angered the Kami, and Furikagami has the right to his revenge. In any place where death clings to battlefields, know that his eyes be upon you and his talon shall seek your blood. Yet know your earnest heart hast also been recognized and rewarded, for you shall be untouchable by blade and arrow and all but impossible to contain.”<br><br><br>* +1 [AB], [FB], [WB] <br>* -1 [BB], [IB], [PB]<br>* Boons: Rebel God’s Smoke<br>   * Genin Tier -  You gain the Chakra Nature Affinity for Smoke (you do not roll for Affinity) and you have access to Smoke-Release techniques at Character Creation.<br>   * Chunin Tier - When an Enemy declares a Bukijutsu or Taijutsu attack on you, you may spend a Fortune Coin to inflict Disadvantage on the attack. <br>   * Jonin Tier - You may add your [WB] to determine your Damage Threshold (this is mutually exclusive with armor).<br><br><br>* Banes: Wind God’s Loathing<br>   * Genin Tier - You are incapable of learning techniques of the Wind Chakra Nature.<br>   * Chunin Tier - You suffer an additional 1d10 Affinity damage from Wind-Nature techniques. <br>   * Jonin Tier - Mundane Healing attempts from anyone not a [Descendant of Wisps and Smoke] suffer a -10% Base Chance modifier</p>",
+      "source": "EoC Core Heritage Expansion",
+      "category": "Core",
+      "modifiers": [
+        {
+          "attribute": "agility",
+          "value": 1
+        },
+        {
+          "attribute": "fellowship",
+          "value": 1
+        },
+        {
+          "attribute": "willpower",
+          "value": 1
+        },
+        {
+          "attribute": "brawn",
+          "value": -1
+        },
+        {
+          "attribute": "intelligence",
+          "value": -1
+        },
+        {
+          "attribute": "perception",
+          "value": -1
+        }
+      ],
+      "boons": [
+        {
+          "name": "Rebel God’s Smoke",
+          "tier": 1,
+          "description": "You gain the Chakra Nature Affinity for Smoke (you do not roll for Affinity) and you have access to Smoke-Release techniques at Character Creation."
+        },
+        {
+          "name": "Rebel God’s Smoke",
+          "tier": 2,
+          "description": "When an Enemy declares a Bukijutsu or Taijutsu attack on you, you may spend a Fortune Coin to inflict Disadvantage on the attack."
+        },
+        {
+          "name": "Rebel God’s Smoke",
+          "tier": 3,
+          "description": "You may add your [WB] to determine your Damage Threshold (this is mutually exclusive with armor)."
+        }
+      ],
+      "banes": [
+        {
+          "name": "Wind God’s Loathing",
+          "tier": 1,
+          "description": "You are incapable of learning techniques of the Wind Chakra Nature."
+        },
+        {
+          "name": "Wind God’s Loathing",
+          "tier": 2,
+          "description": "You suffer an additional 1d10 Affinity damage from Wind-Nature techniques."
+        },
+        {
+          "name": "Wind God’s Loathing",
+          "tier": 3,
+          "description": "Mundane Healing attempts from anyone not a [Descendant of Wisps and Smoke] suffer a -10% Base Chance modifier"
+        }
+      ],
+      "contentStatus": "ready",
+      "heritageEnabled": true
+    }
+  },
+  {
+    "name": "Cursed Blood: Kitsune (Scion of the Devil-Fox)",
+    "type": "heritage",
+    "system": {
+      "description": "<p>Mysterious and Beautiful. Haunting and Seductive. Legends of many-faced tricksters dot the legends and histories of the Elemental Nations and beyond, but few are more revered and reviled than the Kitsune, God-Tricksters of the heavens and earth.<br>* +1 [FB], [PB], [WB] <br>* -1 [AB], [CB], [IB]<br>* Boons: Kami-Defying Mischief<br>   * Genin Tier - You may learn Kitsune-Legacy jutsu and gain access to the special weapon, Foxfire. It is a ranged weapon calculating its distance as [3 + PB] and has the Adaptable, Empowered (Fire, Yin), and Silent Qualities. Additionally, it attacks using the Chakra Control skill, and deals damage using [FB].<br>   * Chunin Tier - When making a Charm roll against a target with a Positive disposition towards you, you may spend a Fortune Coin to roll with Advantage. You may Dodge and Parry using Charm.<br>   * Jonin Tier - You may spend a Fortune Coin to waive the Chakra cost of any Jutsu that alters your shape or appearance, wrapping yourself in a nigh-infallible illusion. Enemies attempting to Break the Illusion by any means roll at Disadvantage.<br><br><br>* Banes: Anathemic Censure<br>   * Genin Tier - Your body mutates, taking on a bestial trait (Fox-like Ears, Sharpened Canines, A Bushy Tail, etc.). Civilians, Nobles, and Monks  who see this trait for the first time immediately fall 2 steps in Disposition (to a Maximum of -40%).<br>   * Chunin Tier - Roll an additional 1d10 Corruption die at the end of a session where you leaned into your War alignment in order to advance a personal goal. You gain a Rank on your War alignment if either of the dice are equal to or greater than your Stains.<br>   * Jonin Tier - You gain a Special Trait, Vulnerability (Sacred), any time you are struck with a Yang or Yin-Yang jutsu made by someone with a Negative Disposition toward you, roll Terror (3d10+3 against Peril Threshold)</p>",
+      "source": "EoC Core Heritage Expansion",
+      "category": "Core",
+      "modifiers": [
+        {
+          "attribute": "fellowship",
+          "value": 1
+        },
+        {
+          "attribute": "perception",
+          "value": 1
+        },
+        {
+          "attribute": "willpower",
+          "value": 1
+        },
+        {
+          "attribute": "agility",
+          "value": -1
+        },
+        {
+          "attribute": "combat",
+          "value": -1
+        },
+        {
+          "attribute": "intelligence",
+          "value": -1
+        }
+      ],
+      "boons": [
+        {
+          "name": "Kami-Defying Mischief",
+          "tier": 1,
+          "description": "You may learn Kitsune-Legacy jutsu and gain access to the special weapon, Foxfire. It is a ranged weapon calculating its distance as [3 + PB] and has the Adaptable, Empowered (Fire, Yin), and Silent Qualities. Additionally, it attacks using the Chakra Control skill, and deals damage using [FB]."
+        },
+        {
+          "name": "Kami-Defying Mischief",
+          "tier": 2,
+          "description": "When making a Charm roll against a target with a Positive disposition towards you, you may spend a Fortune Coin to roll with Advantage. You may Dodge and Parry using Charm."
+        },
+        {
+          "name": "Kami-Defying Mischief",
+          "tier": 3,
+          "description": "You may spend a Fortune Coin to waive the Chakra cost of any Jutsu that alters your shape or appearance, wrapping yourself in a nigh-infallible illusion. Enemies attempting to Break the Illusion by any means roll at Disadvantage."
+        }
+      ],
+      "banes": [
+        {
+          "name": "Anathemic Censure",
+          "tier": 1,
+          "description": "Your body mutates, taking on a bestial trait (Fox-like Ears, Sharpened Canines, A Bushy Tail, etc.). Civilians, Nobles, and Monks  who see this trait for the first time immediately fall 2 steps in Disposition (to a Maximum of -40%)."
+        },
+        {
+          "name": "Anathemic Censure",
+          "tier": 2,
+          "description": "Roll an additional 1d10 Corruption die at the end of a session where you leaned into your War alignment in order to advance a personal goal. You gain a Rank on your War alignment if either of the dice are equal to or greater than your Stains."
+        },
+        {
+          "name": "Anathemic Censure",
+          "tier": 3,
+          "description": "You gain a Special Trait, Vulnerability (Sacred), any time you are struck with a Yang or Yin-Yang jutsu made by someone with a Negative Disposition toward you, roll Terror (3d10+3 against Peril Threshold)"
+        }
+      ],
+      "contentStatus": "ready",
+      "heritageEnabled": true
+    }
+  },
+  {
+    "name": "Cursed Blood: Oni (Sage’s Tarnished Blessing)",
+    "type": "heritage",
+    "system": {
+      "description": "<p>* +1 [BB], [CB], [WB] <br>* -1 [AB], [FB], [PB]<br>* Boons: Might Unrivaled<br>   * Genin Tier -   You may learn Oni-Legacy jutsu and may treat any Melee weapon as if it had the Powerful and Pummelling qualities.<br>   * Chunin Tier - You may add your [CB] to determine your Damage Threshold (this is mutually exclusive with armor).<br>   * Jonin Tier - Once per scene, when consuming Alcohol, you may spend a Fortune Coin to instead treat it as if you’d consumed a Soldier Pill, gaining the Chakra ignoring Chakra Exhaustion even if it would bring you over your Chakra Pool maximum.<br><br><br>* Banes: Anathemic Censure<br>   * Genin Tier - Your body mutates, taking on an inhuman shade (Bone-White, Blood-Red, Poisonous Green, etc.). Civilians, Nobles, and Monks who see this trait for the first time immediately fall 2 steps in Disposition (to a Maximum of -40%).<br>   * Chunin Tier - Roll an additional 1d10 Corruption die at the end of a session where you leaned into your War alignment in a way that resulted in further violence or hedonistic excess. You gain a Rank on your War alignment if either of the dice are equal to or greater than your Stains.<br>   * Jonin Tier - You gain a Special Trait, Vulnerability (Sacred), any time you are struck with a Yin or Yin-Yang jutsu made by someone with a Negative Disposition toward you, roll Terror (3d10+3 against Peril Threshold).</p>",
+      "source": "EoC Core Heritage Expansion",
+      "category": "Core",
+      "modifiers": [
+        {
+          "attribute": "brawn",
+          "value": 1
+        },
+        {
+          "attribute": "combat",
+          "value": 1
+        },
+        {
+          "attribute": "willpower",
+          "value": 1
+        },
+        {
+          "attribute": "agility",
+          "value": -1
+        },
+        {
+          "attribute": "fellowship",
+          "value": -1
+        },
+        {
+          "attribute": "perception",
+          "value": -1
+        }
+      ],
+      "boons": [
+        {
+          "name": "Might Unrivaled",
+          "tier": 1,
+          "description": "You may learn Oni-Legacy jutsu and may treat any Melee weapon as if it had the Powerful and Pummelling qualities."
+        },
+        {
+          "name": "Might Unrivaled",
+          "tier": 2,
+          "description": "You may add your [CB] to determine your Damage Threshold (this is mutually exclusive with armor)."
+        },
+        {
+          "name": "Might Unrivaled",
+          "tier": 3,
+          "description": "Once per scene, when consuming Alcohol, you may spend a Fortune Coin to instead treat it as if you’d consumed a Soldier Pill, gaining the Chakra ignoring Chakra Exhaustion even if it would bring you over your Chakra Pool maximum."
+        }
+      ],
+      "banes": [
+        {
+          "name": "Anathemic Censure",
+          "tier": 1,
+          "description": "Your body mutates, taking on an inhuman shade (Bone-White, Blood-Red, Poisonous Green, etc.). Civilians, Nobles, and Monks who see this trait for the first time immediately fall 2 steps in Disposition (to a Maximum of -40%)."
+        },
+        {
+          "name": "Anathemic Censure",
+          "tier": 2,
+          "description": "Roll an additional 1d10 Corruption die at the end of a session where you leaned into your War alignment in a way that resulted in further violence or hedonistic excess. You gain a Rank on your War alignment if either of the dice are equal to or greater than your Stains."
+        },
+        {
+          "name": "Anathemic Censure",
+          "tier": 3,
+          "description": "You gain a Special Trait, Vulnerability (Sacred), any time you are struck with a Yin or Yin-Yang jutsu made by someone with a Negative Disposition toward you, roll Terror (3d10+3 against Peril Threshold)."
+        }
+      ],
+      "contentStatus": "ready",
+      "heritageEnabled": true
+    }
+  },
+  {
+    "name": "Aburame - Hive of One",
+    "type": "heritage",
+    "system": {
+      "description": "<p>* +1 [PB], [CB], [WB]<br>* -1 [BB], [FB], [AB]<br>* Boons: Heart of the Swarm <br>   * Genin Tier -  Access to Aburame-Clan Jutsu &amp; Hiden at Character Creation. Learning Aburame-clan Hiden always comes at a discount even if your chakra Nature is different from that of the technique in question. You automatically learn the [Swarm of Self] Hiden, it does not count against your Technique limit.<br>   * Chunin Tier - When dealing damage with an Aburame Hiden you may spend a Fortune Coin to drain 1d4 chakra from the enemy.<br>   * Jonin Tier - Your communion with your swarm is sublime, you ignore all penalties to Stealth tests and any enemy attempting to search or track you treat their non-skill rank bonuses as penalties (even if using Chakra Sensing).<br><br><br>* Banes: Tithe to the Hive<br>   * Genin Tier - Your speech and mannerisms are odd and stilted. All non-Allied characters who do not have a positive disposition towards you are treated as if they have a Negative disposition. If they already have one, it is treated as if it were 1 Step more severe (to a max of -30%).<br>   * Chunin Tier - Impressive as they are, your swarm is vulnerable to exposure, just like other insects. When suffering damage from Fire-jutsu, increase the Damage Dice to d10, if they are already d10s, then add an additional one. Additionally, when inflicted with Damage from a Smoke-jutsu roll a Toughness Test, on a failure you are Stunned until the end of your next turn (this activates only once per round.)<br>   * Jonin Tier - Your Swarm may be vast, but this merely increases the number of targets for skilled foes. When you are successfully damaged by a ninjutsu with any of the Burst, Cone, or Explosion templates, you lose 1d4 chakra as your swarm is consumed in the assault.</p>",
+      "source": "EoC Core Heritage Expansion",
+      "category": "Hidden Leaf",
+      "modifiers": [
+        {
+          "attribute": "perception",
+          "value": 1
+        },
+        {
+          "attribute": "combat",
+          "value": 1
+        },
+        {
+          "attribute": "willpower",
+          "value": 1
+        },
+        {
+          "attribute": "brawn",
+          "value": -1
+        },
+        {
+          "attribute": "fellowship",
+          "value": -1
+        },
+        {
+          "attribute": "agility",
+          "value": -1
+        }
+      ],
+      "boons": [
+        {
+          "name": "Heart of the Swarm",
+          "tier": 1,
+          "description": "Access to Aburame-Clan Jutsu & Hiden at Character Creation. Learning Aburame-clan Hiden always comes at a discount even if your chakra Nature is different from that of the technique in question. You automatically learn the [Swarm of Self] Hiden, it does not count against your Technique limit."
+        },
+        {
+          "name": "Heart of the Swarm",
+          "tier": 2,
+          "description": "When dealing damage with an Aburame Hiden you may spend a Fortune Coin to drain 1d4 chakra from the enemy."
+        },
+        {
+          "name": "Heart of the Swarm",
+          "tier": 3,
+          "description": "Your communion with your swarm is sublime, you ignore all penalties to Stealth tests and any enemy attempting to search or track you treat their non-skill rank bonuses as penalties (even if using Chakra Sensing)."
+        }
+      ],
+      "banes": [
+        {
+          "name": "Tithe to the Hive",
+          "tier": 1,
+          "description": "Your speech and mannerisms are odd and stilted. All non-Allied characters who do not have a positive disposition towards you are treated as if they have a Negative disposition. If they already have one, it is treated as if it were 1 Step more severe (to a max of -30%)."
+        },
+        {
+          "name": "Tithe to the Hive",
+          "tier": 2,
+          "description": "Impressive as they are, your swarm is vulnerable to exposure, just like other insects. When suffering damage from Fire-jutsu, increase the Damage Dice to d10, if they are already d10s, then add an additional one. Additionally, when inflicted with Damage from a Smoke-jutsu roll a Toughness Test, on a failure you are Stunned until the end of your next turn (this activates only once per round.)"
+        },
+        {
+          "name": "Tithe to the Hive",
+          "tier": 3,
+          "description": "Your Swarm may be vast, but this merely increases the number of targets for skilled foes. When you are successfully damaged by a ninjutsu with any of the Burst, Cone, or Explosion templates, you lose 1d4 chakra as your swarm is consumed in the assault."
+        }
+      ],
+      "contentStatus": "ready",
+      "heritageEnabled": true
+    }
+  },
+  {
+    "name": "Akimichi - Thousand-Ton Terrors",
+    "type": "heritage",
+    "system": {
+      "description": "<p>* +1 [BB], [IB], [CB] <br>* -1 [AB], [PB], [WB]<br>* Boons: Weight of Legacy<br>   * Genin Tier -  Access to Akimichi-Clan Jutsu &amp; Hiden at Character Creation. Learning Akimichi-clan Hiden always comes at a discount even if your chakra Nature is different from that of the technique in question (this does not stack with having the same Chakra Nature).<br>   * Chunin Tier -  You can reduce your “Build” by one step, converting the excess fat in your body to Chakra at a rate of 10 Chakra per step (This excess Chakra does not Vessel Overload). This loss in build is permanent and requires significant Player action to increase it once more.<br>   * Jonin Tier - Once per Story, upon taking a Lethal Wound, Injury, and/or earning a new Scar, you may choose to spend a Fortune Coin and reduce your &quot;Build&quot; by one step to immediately raise 3 steps positively on the Damage Tracker.<br><br><br>* Banes: Pride of the Gourmand<br>   * Genin Tier - You gain the Addictive Personality (Food) Drawback.<br>   * Chunin Tier - You have a penalty to your Initiative value equal to your current “Build”.<br>   * Jonin Tier - Your Size is your greatest Strength and Weakness. When attempting to Dodge ranged Techniques you suffer a (-10%) Penalty for each step your &quot;Build&quot; is raised above Average.</p>",
+      "source": "EoC Core Heritage Expansion",
+      "category": "Hidden Leaf",
+      "modifiers": [
+        {
+          "attribute": "brawn",
+          "value": 1
+        },
+        {
+          "attribute": "intelligence",
+          "value": 1
+        },
+        {
+          "attribute": "combat",
+          "value": 1
+        },
+        {
+          "attribute": "agility",
+          "value": -1
+        },
+        {
+          "attribute": "perception",
+          "value": -1
+        },
+        {
+          "attribute": "willpower",
+          "value": -1
+        }
+      ],
+      "boons": [
+        {
+          "name": "Weight of Legacy",
+          "tier": 1,
+          "description": "Access to Akimichi-Clan Jutsu & Hiden at Character Creation. Learning Akimichi-clan Hiden always comes at a discount even if your chakra Nature is different from that of the technique in question (this does not stack with having the same Chakra Nature)."
+        },
+        {
+          "name": "Weight of Legacy",
+          "tier": 2,
+          "description": "You can reduce your “Build” by one step, converting the excess fat in your body to Chakra at a rate of 10 Chakra per step (This excess Chakra does not Vessel Overload). This loss in build is permanent and requires significant Player action to increase it once more."
+        },
+        {
+          "name": "Weight of Legacy",
+          "tier": 3,
+          "description": "Once per Story, upon taking a Lethal Wound, Injury, and/or earning a new Scar, you may choose to spend a Fortune Coin and reduce your \"Build\" by one step to immediately raise 3 steps positively on the Damage Tracker."
+        }
+      ],
+      "banes": [
+        {
+          "name": "Pride of the Gourmand",
+          "tier": 1,
+          "description": "You gain the Addictive Personality (Food) Drawback."
+        },
+        {
+          "name": "Pride of the Gourmand",
+          "tier": 2,
+          "description": "You have a penalty to your Initiative value equal to your current “Build”."
+        },
+        {
+          "name": "Pride of the Gourmand",
+          "tier": 3,
+          "description": "Your Size is your greatest Strength and Weakness. When attempting to Dodge ranged Techniques you suffer a (-10%) Penalty for each step your \"Build\" is raised above Average."
+        }
+      ],
+      "contentStatus": "ready",
+      "heritageEnabled": true
+    }
+  },
+  {
+    "name": "Hatake",
+    "type": "heritage",
+    "system": {
+      "description": "<p>* +1 [FB], [CB], [PB] <br>* -1 [IB], [AB], [WB]<br>* Boons: White Light of Progress<br>   * Genin Tier -  ???<br>   * Chunin Tier - ???<br>   * Jonin Tier - ???<br><br><br>* Banes: Envy of All<br>   * Genin Tier - ???<br>   * Chunin Tier - ???<br>   * Jonin Tier - ???</p>",
+      "source": "EoC Core Heritage Expansion",
+      "category": "Hidden Leaf",
+      "modifiers": [
+        {
+          "attribute": "fellowship",
+          "value": 1
+        },
+        {
+          "attribute": "combat",
+          "value": 1
+        },
+        {
+          "attribute": "perception",
+          "value": 1
+        },
+        {
+          "attribute": "intelligence",
+          "value": -1
+        },
+        {
+          "attribute": "agility",
+          "value": -1
+        },
+        {
+          "attribute": "willpower",
+          "value": -1
+        }
+      ],
+      "boons": [
+        {
+          "name": "White Light of Progress",
+          "tier": 1,
+          "description": "???"
+        },
+        {
+          "name": "White Light of Progress",
+          "tier": 2,
+          "description": "???"
+        },
+        {
+          "name": "White Light of Progress",
+          "tier": 3,
+          "description": "???"
+        }
+      ],
+      "banes": [
+        {
+          "name": "Envy of All",
+          "tier": 1,
+          "description": "???"
+        },
+        {
+          "name": "Envy of All",
+          "tier": 2,
+          "description": "???"
+        },
+        {
+          "name": "Envy of All",
+          "tier": 3,
+          "description": "???"
+        }
+      ],
+      "contentStatus": "draft",
+      "heritageEnabled": true
+    }
+  },
+  {
+    "name": "Hyuuga - Warden of Logos",
+    "type": "heritage",
+    "system": {
+      "description": "<p>* +1 [CB], [PB], [AB] <br>* -1 [BB], [FB], [IB]<br>* Boons: Scion of the Ceaseless Void<br>   * Genin Tier -  You gain access to the [Byakugan] Trait and gain access to the [Activate Doujutsu] Action for the Eyes of the Ceaseless Void. Additionally, gain access to Hyuuga-Clan Jutsu &amp; Hiden at Character Creation.<br>   * Chunin Tier - Your Doujutsu advance in Potency, Choose one of the following:<br>      * Detail: You see what others cannot. Your eyes are easily able to recognize the nature and intensity of chakra in people and techniques you can perceive, allowing you to easily gauge their rank and tier, additionally you may see through up to a foot of stone, metal, or other similarly thick materials. You add +15% Base Chance when attempting to see through Disguises and Genjutsu.<br>      * Distance: Your gaze extends as far as the Hawk flies. Your visual range increases to [PB]/2 kilometers. You add +15% Base Chance when attempting to locate specific people, places, and objects you have seen in the past.<br>   * Jonin Tier - Your control over your Chakra is unsurpassed. When dealing or resisting damage, you may pay a Fortune Coin to add [PB] damage or reduce damage by [PB].<br><br><br>* Banes: Bondage of Fate<br>   * Genin Tier - You generate 1 less Fortune Coin at the start of each session.<br>   * Chunin Tier - Enemies who take the Flanking combat action and attack from behind may spend 2 Misfortune to make an attack that can&#x27;t be Dodged or Parried.<br>   * Jonin Tier - Your pride is immeasurable and intense. Non-Nobles and other Doujutsu users treat their disposition as 2 steps lower. This penalty is waived for fellow player characters.</p>",
+      "source": "EoC Core Heritage Expansion",
+      "category": "Hidden Leaf",
+      "modifiers": [
+        {
+          "attribute": "combat",
+          "value": 1
+        },
+        {
+          "attribute": "perception",
+          "value": 1
+        },
+        {
+          "attribute": "agility",
+          "value": 1
+        },
+        {
+          "attribute": "brawn",
+          "value": -1
+        },
+        {
+          "attribute": "fellowship",
+          "value": -1
+        },
+        {
+          "attribute": "intelligence",
+          "value": -1
+        }
+      ],
+      "boons": [
+        {
+          "name": "Scion of the Ceaseless Void",
+          "tier": 1,
+          "description": "You gain access to the [Byakugan] Trait and gain access to the [Activate Doujutsu] Action for the Eyes of the Ceaseless Void. Additionally, gain access to Hyuuga-Clan Jutsu & Hiden at Character Creation."
+        },
+        {
+          "name": "Scion of the Ceaseless Void",
+          "tier": 2,
+          "description": "Your Doujutsu advance in Potency, Choose one of the following:\n      * Detail: You see what others cannot. Your eyes are easily able to recognize the nature and intensity of chakra in people and techniques you can perceive, allowing you to easily gauge their rank and tier, additionally you may see through up to a foot of stone, metal, or other similarly thick materials. You add +15% Base Chance when attempting to see through Disguises and Genjutsu.\n      * Distance: Your gaze extends as far as the Hawk flies. Your visual range increases to [PB]/2 kilometers. You add +15% Base Chance when attempting to locate specific people, places, and objects you have seen in the past."
+        },
+        {
+          "name": "Scion of the Ceaseless Void",
+          "tier": 3,
+          "description": "Your control over your Chakra is unsurpassed. When dealing or resisting damage, you may pay a Fortune Coin to add [PB] damage or reduce damage by [PB]."
+        }
+      ],
+      "banes": [
+        {
+          "name": "Bondage of Fate",
+          "tier": 1,
+          "description": "You generate 1 less Fortune Coin at the start of each session."
+        },
+        {
+          "name": "Bondage of Fate",
+          "tier": 2,
+          "description": "Enemies who take the Flanking combat action and attack from behind may spend 2 Misfortune to make an attack that can't be Dodged or Parried."
+        },
+        {
+          "name": "Bondage of Fate",
+          "tier": 3,
+          "description": "Your pride is immeasurable and intense. Non-Nobles and other Doujutsu users treat their disposition as 2 steps lower. This penalty is waived for fellow player characters."
+        }
+      ],
+      "contentStatus": "ready",
+      "heritageEnabled": true
+    }
+  },
+  {
+    "name": "Inuzuka",
+    "type": "heritage",
+    "system": {
+      "description": "<p>* +1 [CB], [PB], [AB] <br>* -1 [FB], [IB], [WB]<br>* Boons: Hound’s Truth<br>   * Genin Tier -  You gain a Ninken. It uses the [Ninja Pup] creature sheet. You also gain access to Inuzuka Hiden at Character Creation.<br>   * Chunin Tier - Whenever you or your Ninken move one or more steps down the Peril Threshold Track negatively, the one suffering from Peril may choose to ignore it and instead the other may suffer it in their stead.<br>   * Jonin Tier - Any creature that is classified as an Animal or a Beast suffers a -20% penalty to hit you with attacks, until you initiate violence towards them or their allies.<br><br><br>* Banes: Instincts of the Beast<br>   * Genin Tier - ???<br>   * Chunin Tier - ???<br>   * Jonin Tier - ???</p>",
+      "source": "EoC Core Heritage Expansion",
+      "category": "Hidden Leaf",
+      "modifiers": [
+        {
+          "attribute": "combat",
+          "value": 1
+        },
+        {
+          "attribute": "perception",
+          "value": 1
+        },
+        {
+          "attribute": "agility",
+          "value": 1
+        },
+        {
+          "attribute": "fellowship",
+          "value": -1
+        },
+        {
+          "attribute": "intelligence",
+          "value": -1
+        },
+        {
+          "attribute": "willpower",
+          "value": -1
+        }
+      ],
+      "boons": [
+        {
+          "name": "Hound’s Truth",
+          "tier": 1,
+          "description": "You gain a Ninken. It uses the [Ninja Pup] creature sheet. You also gain access to Inuzuka Hiden at Character Creation."
+        },
+        {
+          "name": "Hound’s Truth",
+          "tier": 2,
+          "description": "Whenever you or your Ninken move one or more steps down the Peril Threshold Track negatively, the one suffering from Peril may choose to ignore it and instead the other may suffer it in their stead."
+        },
+        {
+          "name": "Hound’s Truth",
+          "tier": 3,
+          "description": "Any creature that is classified as an Animal or a Beast suffers a -20% penalty to hit you with attacks, until you initiate violence towards them or their allies."
+        }
+      ],
+      "banes": [
+        {
+          "name": "Instincts of the Beast",
+          "tier": 1,
+          "description": "???"
+        },
+        {
+          "name": "Instincts of the Beast",
+          "tier": 2,
+          "description": "???"
+        },
+        {
+          "name": "Instincts of the Beast",
+          "tier": 3,
+          "description": "???"
+        }
+      ],
+      "contentStatus": "draft",
+      "heritageEnabled": true
+    }
+  },
+  {
+    "name": "Kurama",
+    "type": "heritage",
+    "system": {
+      "description": "<p>* +1 [FB], [FB], [IB] <br>* -1 [BB], [CB], [PB]<br>* Boons: Ego and Ido<br>   * Genin Tier -  ???<br>   * Chunin Tier - ???<br>   * Jonin Tier - ???<br><br><br>* Banes: Exposed Psyche<br>   * Genin Tier - ???<br>   * Chunin Tier - ???<br>   * Jonin Tier - ???</p>",
+      "source": "EoC Core Heritage Expansion",
+      "category": "Hidden Leaf",
+      "modifiers": [
+        {
+          "attribute": "fellowship",
+          "value": 1
+        },
+        {
+          "attribute": "fellowship",
+          "value": 1
+        },
+        {
+          "attribute": "intelligence",
+          "value": 1
+        },
+        {
+          "attribute": "brawn",
+          "value": -1
+        },
+        {
+          "attribute": "combat",
+          "value": -1
+        },
+        {
+          "attribute": "perception",
+          "value": -1
+        }
+      ],
+      "boons": [
+        {
+          "name": "Ego and Ido",
+          "tier": 1,
+          "description": "???"
+        },
+        {
+          "name": "Ego and Ido",
+          "tier": 2,
+          "description": "???"
+        },
+        {
+          "name": "Ego and Ido",
+          "tier": 3,
+          "description": "???"
+        }
+      ],
+      "banes": [
+        {
+          "name": "Exposed Psyche",
+          "tier": 1,
+          "description": "???"
+        },
+        {
+          "name": "Exposed Psyche",
+          "tier": 2,
+          "description": "???"
+        },
+        {
+          "name": "Exposed Psyche",
+          "tier": 3,
+          "description": "???"
+        }
+      ],
+      "contentStatus": "draft",
+      "heritageEnabled": true
+    }
+  },
+  {
+    "name": "Nara - Grandmasters of Dusk",
+    "type": "heritage",
+    "system": {
+      "description": "<p>* +1 [IB], [FB], [PB] <br>* -1 [WB], [CB], [AB]<br>* Boons: Stratego of Shadows<br>   * Genin Tier -  Access to Nara-Clan Jutsu &amp; Hiden at Character Creation. Learning Nara-clan Hiden always comes at a discount even if your chakra Nature is different than that of the technique in question (this does not stack with having the same Chakra Nature).<br>   * Chunin Tier - At the start of a session, select one Talent you&#x27;ve learned. All PCs can take advantage of it as if they had the Talent themselves.<br>   * Jonin Tier - Once per session, you can spend a Fortune Coin to automatically succeed on a Skill Test involving cunning or strategy (usually Leadership, Warfare, or Skulduggery).<br><br><br>* Banes: Fetters of Sloth<br>   * Genin Tier -  You have a penalty to your Initiative value equal to half your IB.<br>   * Chunin Tier - The Get Up action always costs a minimum of 2 AP for you and cannot be reduced below that in any way.<br>   * Jonin Tier - Your accumulated knowledge and strategic prowess make you overconfident. When you fail a Skill Test involving cunning or strategy (usually Leadership, Warfare, or Skulduggery), you suffer from the Stunned condition until the end of your next turn, as your focus is disrupted by your unexpected failure.</p>",
+      "source": "EoC Core Heritage Expansion",
+      "category": "Hidden Leaf",
+      "modifiers": [
+        {
+          "attribute": "intelligence",
+          "value": 1
+        },
+        {
+          "attribute": "fellowship",
+          "value": 1
+        },
+        {
+          "attribute": "perception",
+          "value": 1
+        },
+        {
+          "attribute": "willpower",
+          "value": -1
+        },
+        {
+          "attribute": "combat",
+          "value": -1
+        },
+        {
+          "attribute": "agility",
+          "value": -1
+        }
+      ],
+      "boons": [
+        {
+          "name": "Stratego of Shadows",
+          "tier": 1,
+          "description": "Access to Nara-Clan Jutsu & Hiden at Character Creation. Learning Nara-clan Hiden always comes at a discount even if your chakra Nature is different than that of the technique in question (this does not stack with having the same Chakra Nature)."
+        },
+        {
+          "name": "Stratego of Shadows",
+          "tier": 2,
+          "description": "At the start of a session, select one Talent you've learned. All PCs can take advantage of it as if they had the Talent themselves."
+        },
+        {
+          "name": "Stratego of Shadows",
+          "tier": 3,
+          "description": "Once per session, you can spend a Fortune Coin to automatically succeed on a Skill Test involving cunning or strategy (usually Leadership, Warfare, or Skulduggery)."
+        }
+      ],
+      "banes": [
+        {
+          "name": "Fetters of Sloth",
+          "tier": 1,
+          "description": "You have a penalty to your Initiative value equal to half your IB."
+        },
+        {
+          "name": "Fetters of Sloth",
+          "tier": 2,
+          "description": "The Get Up action always costs a minimum of 2 AP for you and cannot be reduced below that in any way."
+        },
+        {
+          "name": "Fetters of Sloth",
+          "tier": 3,
+          "description": "Your accumulated knowledge and strategic prowess make you overconfident. When you fail a Skill Test involving cunning or strategy (usually Leadership, Warfare, or Skulduggery), you suffer from the Stunned condition until the end of your next turn, as your focus is disrupted by your unexpected failure."
+        }
+      ],
+      "contentStatus": "ready",
+      "heritageEnabled": true
+    }
+  },
+  {
+    "name": "Senju - Thousand-Skilled Warrior",
+    "type": "heritage",
+    "system": {
+      "description": "<p>* +1 [FB], [IB], [WB] <br>* -1 [AB], [BB], [PB]<br>* Boons: Glorious Paragon<br>   * Genin Tier - Anytime you generate a Critical Failure after rolling 1d100, automatically add one Fortune Coin into the Fortune Pool.<br>   * Chunin Tier - Whenever the time calls for you to suffer a debilitating Injury or face death, you may alternatively suffer 9 Stains (instead of spending a Fate Point) to ignore it entirely        <br>   * Jonin Tier - Choose a Ninja Art (Bukijutsu, Genjutsu, Fuinjutsu, Ninjutsu, or Taijutsu), you may treat all techniques of that art (ignoring Bloodline techniques and Hiden) as if you had the appropriate Chakra Nature discount. <br><br><br>* Banes: Arrogant Inheritor<br>   * Genin Tier - ???<br>   * Chunin Tier - ???<br>   * Jonin Tier - ???</p>",
+      "source": "EoC Core Heritage Expansion",
+      "category": "Hidden Leaf",
+      "modifiers": [
+        {
+          "attribute": "fellowship",
+          "value": 1
+        },
+        {
+          "attribute": "intelligence",
+          "value": 1
+        },
+        {
+          "attribute": "willpower",
+          "value": 1
+        },
+        {
+          "attribute": "agility",
+          "value": -1
+        },
+        {
+          "attribute": "brawn",
+          "value": -1
+        },
+        {
+          "attribute": "perception",
+          "value": -1
+        }
+      ],
+      "boons": [
+        {
+          "name": "Glorious Paragon",
+          "tier": 1,
+          "description": "Anytime you generate a Critical Failure after rolling 1d100, automatically add one Fortune Coin into the Fortune Pool."
+        },
+        {
+          "name": "Glorious Paragon",
+          "tier": 2,
+          "description": "Whenever the time calls for you to suffer a debilitating Injury or face death, you may alternatively suffer 9 Stains (instead of spending a Fate Point) to ignore it entirely"
+        },
+        {
+          "name": "Glorious Paragon",
+          "tier": 3,
+          "description": "Choose a Ninja Art (Bukijutsu, Genjutsu, Fuinjutsu, Ninjutsu, or Taijutsu), you may treat all techniques of that art (ignoring Bloodline techniques and Hiden) as if you had the appropriate Chakra Nature discount."
+        }
+      ],
+      "banes": [
+        {
+          "name": "Arrogant Inheritor",
+          "tier": 1,
+          "description": "???"
+        },
+        {
+          "name": "Arrogant Inheritor",
+          "tier": 2,
+          "description": "???"
+        },
+        {
+          "name": "Arrogant Inheritor",
+          "tier": 3,
+          "description": "???"
+        }
+      ],
+      "contentStatus": "draft",
+      "heritageEnabled": true
+    }
+  },
+  {
+    "name": "Uchiha - Scion of Pathos",
+    "type": "heritage",
+    "system": {
+      "description": "<p>* +1 [PB], [CB], [WB] <br>* -1 [FB], [IB], [AB]<br>* Boons: Scion of the Empath’s Flame<br>   * Genin Tier -  You gain access to the [Activate Doujutsu] action for the Eyes of Empathy’s Flame.<br>   * Chunin Tier - While your Doujutsu is Active, you may cast any Genjutsu you have Trained without needing to have any hands free. If you do so, you may spend a Fortune Coin on any successful casting of a Genjutsu to upgrade it to a Critical Success.<br>   * Jonin Tier - Your Doujutsu mutates into greater form. Pick Two options from the Greater Doujutsu power list. Additionally, you gain access to Uchiha secret techniques.<br><br><br>* Banes: The Weakest Link in the Heart<br>   * Genin Tier - You generate 1 less Fortune Coin at the start of each session.<br>   * Chunin Tier -  At the end of each session, roll an additional 1d10 Corruption die. If either of the die are less than or equal to the number of stains earned in the session, then the PC gains a War Rank on their Nindo Tracker.<br>   * Jonin Tier - If a character you have a positive disposition toward is Incapacitated or Slain in combat, you become Stunned for [FB - Disposition Level] Rounds (fellow player characters are assumed to have a Friendly Disposition (+2) unless stated otherwise).</p>",
+      "source": "EoC Core Heritage Expansion",
+      "category": "Hidden Leaf",
+      "modifiers": [
+        {
+          "attribute": "perception",
+          "value": 1
+        },
+        {
+          "attribute": "combat",
+          "value": 1
+        },
+        {
+          "attribute": "willpower",
+          "value": 1
+        },
+        {
+          "attribute": "fellowship",
+          "value": -1
+        },
+        {
+          "attribute": "intelligence",
+          "value": -1
+        },
+        {
+          "attribute": "agility",
+          "value": -1
+        }
+      ],
+      "boons": [
+        {
+          "name": "Scion of the Empath’s Flame",
+          "tier": 1,
+          "description": "You gain access to the [Activate Doujutsu] action for the Eyes of Empathy’s Flame."
+        },
+        {
+          "name": "Scion of the Empath’s Flame",
+          "tier": 2,
+          "description": "While your Doujutsu is Active, you may cast any Genjutsu you have Trained without needing to have any hands free. If you do so, you may spend a Fortune Coin on any successful casting of a Genjutsu to upgrade it to a Critical Success."
+        },
+        {
+          "name": "Scion of the Empath’s Flame",
+          "tier": 3,
+          "description": "Your Doujutsu mutates into greater form. Pick Two options from the Greater Doujutsu power list. Additionally, you gain access to Uchiha secret techniques."
+        }
+      ],
+      "banes": [
+        {
+          "name": "The Weakest Link in the Heart",
+          "tier": 1,
+          "description": "You generate 1 less Fortune Coin at the start of each session."
+        },
+        {
+          "name": "The Weakest Link in the Heart",
+          "tier": 2,
+          "description": "At the end of each session, roll an additional 1d10 Corruption die. If either of the die are less than or equal to the number of stains earned in the session, then the PC gains a War Rank on their Nindo Tracker."
+        },
+        {
+          "name": "The Weakest Link in the Heart",
+          "tier": 3,
+          "description": "If a character you have a positive disposition toward is Incapacitated or Slain in combat, you become Stunned for [FB - Disposition Level] Rounds (fellow player characters are assumed to have a Friendly Disposition (+2) unless stated otherwise)."
+        }
+      ],
+      "contentStatus": "ready",
+      "heritageEnabled": true
+    }
+  },
+  {
+    "name": "Uzumaki - Herald of Whirlpools",
+    "type": "heritage",
+    "system": {
+      "description": "<p>* +1 [BB], [IB], [WB] <br>* -1 [AB], [FB], [PB]<br>* Boons: Tyrannical Prince of Waves<br>   * Genin Tier -  You calculate your Chakra Pool as [Tier*(BB+WB)+IB]  <br>   * Chunin Tier - Your blood and chakra are potent medical elixirs. As an action, you may choose to drop one level on either the Peril or Damage Tracker to Assist another character within 2 Strides of you. That Character rolls with Advantage on all Heal rolls to recover from Diseases, Injuries, and Wounds as well as Chakra Control rolls to break out of Genjutsu.  <br>   * Jonin Tier - Once per scene, you may spend Fortune Coins when making a Fuinjutsu roll to automatically complete the seal (1 for Basic Seals; 2 for Journeyman seals; 3 for Master seals; 4 for Grandmaster Seals, this effect cannot be used for Jinchuriki seals).<br><br><br>* Banes: Beacon of Passion<br>   * Genin Tier - Enemies attempting to track you via Chakra gain +10 Base Chance.<br>   * Chunin Tier - Roll an additional 1d10 Corruption die at the end of a session where you leaned into your War alignment in order to uncover secrets, outwit an enemy, or utterly dominate one or more enemies. You gain a Rank on your War alignment if either of the dice are equal to or greater than your Stains.  <br>   * Jonin Tier - Though mighty of body and robust of spirit, the subtler Ninja Arts escape your mastery. When attempting to resist Genjutsu, you suffer a (-5% * Jutsu Rank) penalty. <br>      * E-Rank = 1, S-Rank =6</p>",
+      "source": "EoC Core Heritage Expansion",
+      "category": "Hidden Leaf",
+      "modifiers": [
+        {
+          "attribute": "brawn",
+          "value": 1
+        },
+        {
+          "attribute": "intelligence",
+          "value": 1
+        },
+        {
+          "attribute": "willpower",
+          "value": 1
+        },
+        {
+          "attribute": "agility",
+          "value": -1
+        },
+        {
+          "attribute": "fellowship",
+          "value": -1
+        },
+        {
+          "attribute": "perception",
+          "value": -1
+        }
+      ],
+      "boons": [
+        {
+          "name": "Tyrannical Prince of Waves",
+          "tier": 1,
+          "description": "You calculate your Chakra Pool as [Tier*(BB+WB)+IB]"
+        },
+        {
+          "name": "Tyrannical Prince of Waves",
+          "tier": 2,
+          "description": "Your blood and chakra are potent medical elixirs. As an action, you may choose to drop one level on either the Peril or Damage Tracker to Assist another character within 2 Strides of you. That Character rolls with Advantage on all Heal rolls to recover from Diseases, Injuries, and Wounds as well as Chakra Control rolls to break out of Genjutsu."
+        },
+        {
+          "name": "Tyrannical Prince of Waves",
+          "tier": 3,
+          "description": "Once per scene, you may spend Fortune Coins when making a Fuinjutsu roll to automatically complete the seal (1 for Basic Seals; 2 for Journeyman seals; 3 for Master seals; 4 for Grandmaster Seals, this effect cannot be used for Jinchuriki seals)."
+        }
+      ],
+      "banes": [
+        {
+          "name": "Beacon of Passion",
+          "tier": 1,
+          "description": "Enemies attempting to track you via Chakra gain +10 Base Chance."
+        },
+        {
+          "name": "Beacon of Passion",
+          "tier": 2,
+          "description": "Roll an additional 1d10 Corruption die at the end of a session where you leaned into your War alignment in order to uncover secrets, outwit an enemy, or utterly dominate one or more enemies. You gain a Rank on your War alignment if either of the dice are equal to or greater than your Stains."
+        },
+        {
+          "name": "Beacon of Passion",
+          "tier": 3,
+          "description": "Though mighty of body and robust of spirit, the subtler Ninja Arts escape your mastery. When attempting to resist Genjutsu, you suffer a (-5% * Jutsu Rank) penalty. \n      * E-Rank = 1, S-Rank =6"
+        }
+      ],
+      "contentStatus": "ready",
+      "heritageEnabled": true
+    }
+  },
+  {
+    "name": "Yamanaka",
+    "type": "heritage",
+    "system": {
+      "description": "<p>* +1 [FB], [IB], [PB] <br>* -1 [CB], [BB], [AB]<br>* Boons: Blooming Flower of Adversity<br>   * Genin Tier -  Access to Yamanaka-Clan Jutsu &amp; Hiden at Character Creation. Learning Yamanaka-clan Hiden always comes at a discount even if your chakra Nature is different than that of the technique in question (this does not stack with having the same Chakra Nature).<br>   * Chunin Tier - Gain the Chakra Sensor Trait.<br>   * Jonin Tier - When Helping an ally, performing an Assist action in combat, or using Talk no Jutsu treat the next success as a Critical Success and Critical Success into a Sublime Success.<br><br><br>* Banes: ???<br>   * Genin Tier - ???<br>   * Chunin Tier - ???<br>   * Jonin Tier - ???</p>",
+      "source": "EoC Core Heritage Expansion",
+      "category": "Hidden Leaf",
+      "modifiers": [
+        {
+          "attribute": "fellowship",
+          "value": 1
+        },
+        {
+          "attribute": "intelligence",
+          "value": 1
+        },
+        {
+          "attribute": "perception",
+          "value": 1
+        },
+        {
+          "attribute": "combat",
+          "value": -1
+        },
+        {
+          "attribute": "brawn",
+          "value": -1
+        },
+        {
+          "attribute": "agility",
+          "value": -1
+        }
+      ],
+      "boons": [
+        {
+          "name": "Blooming Flower of Adversity",
+          "tier": 1,
+          "description": "Access to Yamanaka-Clan Jutsu & Hiden at Character Creation. Learning Yamanaka-clan Hiden always comes at a discount even if your chakra Nature is different than that of the technique in question (this does not stack with having the same Chakra Nature)."
+        },
+        {
+          "name": "Blooming Flower of Adversity",
+          "tier": 2,
+          "description": "Gain the Chakra Sensor Trait."
+        },
+        {
+          "name": "Blooming Flower of Adversity",
+          "tier": 3,
+          "description": "When Helping an ally, performing an Assist action in combat, or using Talk no Jutsu treat the next success as a Critical Success and Critical Success into a Sublime Success."
+        }
+      ],
+      "banes": [
+        {
+          "name": "???",
+          "tier": 1,
+          "description": "???"
+        },
+        {
+          "name": "???",
+          "tier": 2,
+          "description": "???"
+        },
+        {
+          "name": "???",
+          "tier": 3,
+          "description": "???"
+        }
+      ],
+      "contentStatus": "draft",
+      "heritageEnabled": true
+    }
+  },
+  {
+    "name": "Hozuki - Scion of the God of Bloody Water",
+    "type": "heritage",
+    "system": {
+      "description": "<p>* +1 [?B], [?B], [?B] <br>* -1 [?B], [?B], [?B]<br>* Boons: Name<br>   * Genin Tier -  ???<br>   * Chunin Tier - ???<br>   * Jonin Tier - ???<br>   * * Banes: Name<br>   * Genin Tier - ???<br>   * Chunin Tier - ???<br>   * Jonin Tier - ???</p>",
+      "source": "EoC Core Heritage Expansion",
+      "category": "Other Heritages",
+      "modifiers": [],
+      "boons": [
+        {
+          "name": "Name",
+          "tier": 1,
+          "description": "???"
+        },
+        {
+          "name": "Name",
+          "tier": 2,
+          "description": "???"
+        },
+        {
+          "name": "Name",
+          "tier": 3,
+          "description": "???"
+        }
+      ],
+      "banes": [
+        {
+          "name": "Name",
+          "tier": 1,
+          "description": "???"
+        },
+        {
+          "name": "Name",
+          "tier": 2,
+          "description": "???"
+        },
+        {
+          "name": "Name",
+          "tier": 3,
+          "description": "???"
+        }
+      ],
+      "contentStatus": "draft",
+      "heritageEnabled": true
+    }
+  },
+  {
+    "name": "Terumi",
+    "type": "heritage",
+    "system": {
+      "description": "<p>* +1 [?B], [?B], [?B] <br>* -1 [?B], [?B], [?B]<br>* Boons: Name<br>   * Genin Tier -  ???<br>   * Chunin Tier - ???<br>   * Jonin Tier - ???<br>   * * Banes: Name<br>   * Genin Tier - ???<br>   * Chunin Tier - ???<br>   * Jonin Tier - ???</p>",
+      "source": "EoC Core Heritage Expansion",
+      "category": "Other Heritages",
+      "modifiers": [],
+      "boons": [
+        {
+          "name": "Name",
+          "tier": 1,
+          "description": "???"
+        },
+        {
+          "name": "Name",
+          "tier": 2,
+          "description": "???"
+        },
+        {
+          "name": "Name",
+          "tier": 3,
+          "description": "???"
+        }
+      ],
+      "banes": [
+        {
+          "name": "Name",
+          "tier": 1,
+          "description": "???"
+        },
+        {
+          "name": "Name",
+          "tier": 2,
+          "description": "???"
+        },
+        {
+          "name": "Name",
+          "tier": 3,
+          "description": "???"
+        }
+      ],
+      "contentStatus": "draft",
+      "heritageEnabled": true
+    }
+  },
+  {
+    "name": "Yuki - Descendants of Frigid Gloom",
+    "type": "heritage",
+    "system": {
+      "description": "<p>The origin of the Descendants of Frigid Gloom is one known by practically all whose lives border harsh mountains and frigid tundras, though most believe them to be mere folktales. Stories of herbalists, mountaineers, or even escaped slaves getting lost within the chilly peaks  before a snowstorm blows in, trapping them in a blizzard.<br><br><br>Much detail is given to the tragedy of it all, the description of heat draining from the victim’s body, of their limbs becoming like lead, and the last vestiges of stubborn defiance being dispassionately smothered by the snow. A morbid tale often heard in such climes. A warning as much as a lesson.<br><br><br>Rarely, such stories have another ending. To hear it from the mouths of the survivors, just as their despair had reached its climax, when their last efforts and vitality had been worn away, and when no hope was left for them save for the soon to be comforting embrace of the Pure Lands, they beheld a woman. Though no two accounts agree completely on appearance, all such stories corroborate certain details. Skin as pale as moonlight, a figure delicate as a snowflake, and a voice so chillingly beautiful it was as if the shinigami pressed a blade upon their spine.<br><br><br>They knew her by no other name than Yuki-Onna, and she always arrived with a deal. <br><br><br>“A Life for a Life.”<br><br><br>Those who accept are said to be nursed back to health by the Yokai, kept in a hidden cave until the storm breaks and they are healthy enough to return home on their own, often dazed and confused, for they had been given no target to take the life of, merely let go to resume their own.<br><br><br>Inevitably, the day comes. Sometimes weeks or months in the future, and in the rarest case years, that the bargain must be fulfilled. They feel it again, the chill of the shingami’s breath on their spine, rousing them from sleep amidst an untimely strong blizzard. But rather than buffeting winds, instead they hear the pealing cry of a newborn. A child with skin as pale as moonlight and delicate of figure, howling into the snowy night no parent to be found.<br><br>With them is a message, scrawled cryptically in the snow. “A Life for a Life.” <br><br><br>And woe to those dull enough to try and slay the child rather than raise it. <br><br><br>* +1 [AB], [FB], [PB] <br>* -1 [BB], [CB], [IB]<br>* Boons: Scion of Arctic Gales<br>   * Genin Tier -  You gain the Chakra Nature Affinity for Ice (you do not roll for Affinity) and you have access to Ice-Release techniques at Character Creation.<br>   * Chunin Tier - You ignore all penalties on Perception-Based rolls from cold-based hazardous weather.<br>   * Jonin Tier - Upon making a successful attack with an Ice-Release technique that surpasses the target&#x27;s Peril Threshold, you may choose to spend 1 Fortune Coin to inflict a -1 AB penalty on them for [CB] Rounds. <br><br><br>* Banes: Winter Child&#x27;s Lament<br>   * Genin Tier - You are incapable of learning techniques of the Fire Chakra Nature.<br>   * Chunin Tier - You suffer an additional 1d10 Affinity damage from Fire-Nature techniques. <br>   * Jonin Tier - ???</p>",
+      "source": "EoC Core Heritage Expansion",
+      "category": "Other Heritages",
+      "modifiers": [
+        {
+          "attribute": "agility",
+          "value": 1
+        },
+        {
+          "attribute": "fellowship",
+          "value": 1
+        },
+        {
+          "attribute": "perception",
+          "value": 1
+        },
+        {
+          "attribute": "brawn",
+          "value": -1
+        },
+        {
+          "attribute": "combat",
+          "value": -1
+        },
+        {
+          "attribute": "intelligence",
+          "value": -1
+        }
+      ],
+      "boons": [
+        {
+          "name": "Scion of Arctic Gales",
+          "tier": 1,
+          "description": "You gain the Chakra Nature Affinity for Ice (you do not roll for Affinity) and you have access to Ice-Release techniques at Character Creation."
+        },
+        {
+          "name": "Scion of Arctic Gales",
+          "tier": 2,
+          "description": "You ignore all penalties on Perception-Based rolls from cold-based hazardous weather."
+        },
+        {
+          "name": "Scion of Arctic Gales",
+          "tier": 3,
+          "description": "Upon making a successful attack with an Ice-Release technique that surpasses the target's Peril Threshold, you may choose to spend 1 Fortune Coin to inflict a -1 AB penalty on them for [CB] Rounds."
+        }
+      ],
+      "banes": [
+        {
+          "name": "Winter Child's Lament",
+          "tier": 1,
+          "description": "You are incapable of learning techniques of the Fire Chakra Nature."
+        },
+        {
+          "name": "Winter Child's Lament",
+          "tier": 2,
+          "description": "You suffer an additional 1d10 Affinity damage from Fire-Nature techniques."
+        },
+        {
+          "name": "Winter Child's Lament",
+          "tier": 3,
+          "description": "???"
+        }
+      ],
+      "contentStatus": "draft",
+      "heritageEnabled": true
+    }
+  },
+  {
+    "name": "Konjiki - Steel-Spined Juggernauts",
+    "type": "heritage",
+    "system": {
+      "description": "<p>* +1 [?B], [?B], [?B] <br>* -1 [?B], [?B], [?B]<br>* Boons: Name<br>   * Genin Tier -  ???<br>   * Chunin Tier - ???<br>   * Jonin Tier - ???<br><br><br>* Banes: Name<br>   * Genin Tier - ???<br>   * Chunin Tier - ???<br>   * Jonin Tier - ???</p>",
+      "source": "EoC Core Heritage Expansion",
+      "category": "Other Heritages",
+      "modifiers": [],
+      "boons": [
+        {
+          "name": "Name",
+          "tier": 1,
+          "description": "???"
+        },
+        {
+          "name": "Name",
+          "tier": 2,
+          "description": "???"
+        },
+        {
+          "name": "Name",
+          "tier": 3,
+          "description": "???"
+        }
+      ],
+      "banes": [
+        {
+          "name": "Name",
+          "tier": 1,
+          "description": "???"
+        },
+        {
+          "name": "Name",
+          "tier": 2,
+          "description": "???"
+        },
+        {
+          "name": "Name",
+          "tier": 3,
+          "description": "???"
+        }
+      ],
+      "contentStatus": "draft",
+      "heritageEnabled": true
+    }
+  },
+  {
+    "name": "Kouma - Architects of Detonation",
+    "type": "heritage",
+    "system": {
+      "description": "<p>* +1 [?B], [?B], [?B] <br>* -1 [?B], [?B], [?B]<br>* Boons: Name<br>   * Genin Tier -  ???<br>   * Chunin Tier - ???<br>   * Jonin Tier - ???<br><br><br>* Banes: Name<br>   * Genin Tier - ???<br>   * Chunin Tier - ???<br>   * Jonin Tier - ???</p>",
+      "source": "EoC Core Heritage Expansion",
+      "category": "Other Heritages",
+      "modifiers": [],
+      "boons": [
+        {
+          "name": "Name",
+          "tier": 1,
+          "description": "???"
+        },
+        {
+          "name": "Name",
+          "tier": 2,
+          "description": "???"
+        },
+        {
+          "name": "Name",
+          "tier": 3,
+          "description": "???"
+        }
+      ],
+      "banes": [
+        {
+          "name": "Name",
+          "tier": 1,
+          "description": "???"
+        },
+        {
+          "name": "Name",
+          "tier": 2,
+          "description": "???"
+        },
+        {
+          "name": "Name",
+          "tier": 3,
+          "description": "???"
+        }
+      ],
+      "contentStatus": "draft",
+      "heritageEnabled": true
+    }
+  },
+  {
+    "name": "Kamizuru",
+    "type": "heritage",
+    "system": {
+      "description": "<p>* +1 [?B], [?B], [?B] <br>* -1 [?B], [?B], [?B]<br>* Boons: Name<br>   * Genin Tier -  ???<br>   * Chunin Tier - ???<br>   * Jonin Tier - ???<br><br><br>* Banes: Name<br>   * Genin Tier - ???<br>   * Chunin Tier - ???<br>   * Jonin Tier - ???<br><br><br><br><br>________________</p>",
+      "source": "EoC Core Heritage Expansion",
+      "category": "Other Heritages",
+      "modifiers": [],
+      "boons": [
+        {
+          "name": "Name",
+          "tier": 1,
+          "description": "???"
+        },
+        {
+          "name": "Name",
+          "tier": 2,
+          "description": "???"
+        },
+        {
+          "name": "Name",
+          "tier": 3,
+          "description": "???"
+        }
+      ],
+      "banes": [
+        {
+          "name": "Name",
+          "tier": 1,
+          "description": "???"
+        },
+        {
+          "name": "Name",
+          "tier": 2,
+          "description": "???"
+        },
+        {
+          "name": "Name",
+          "tier": 3,
+          "description": "???\n\n\n\n\n________________"
+        }
+      ],
+      "contentStatus": "draft",
+      "heritageEnabled": true
+    }
+  }
+]

@@ -1,0 +1,37 @@
+{
+  "_id": "miXAZIF560buWv05",
+  "effects": [],
+  "img": "systems/zweihander/assets/icons/imp-laugh.svg",
+  "name": "Infernal Contract",
+  "type": "trait",
+  "_stats": {
+    "coreVersion": "13.342",
+    "systemId": "zweihander",
+    "systemVersion": "5.4.1",
+    "createdTime": null,
+    "modifiedTime": 1735911103101,
+    "lastModifiedBy": "rivg6xcMxdlVDM8y",
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "system": {
+    "description": {
+      "@en": "While some arcanists may have difficulties beseeching the powers of the Abyss, the Warlock has long-signed away their soul to those creatures. Their master will lend them aid in times of need by sending a servitor demon as an ally."
+    },
+    "notes": "",
+    "rules": {
+      "effect": {
+        "@en": "Anytime you summon Abyssal creatures using a Ritual, you may flip the results to succeed Bargain Test to negotiate for the desired service. In addition, you immediately learn the True Name of one Lesser Demon for purposes of summoning. You also understand how to use the Ritual of Call Demonic Servant."
+      }
+    },
+    "category": "professional"
+  },
+  "folder": null,
+  "sort": 16800000,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {},
+  "_key": "!items!miXAZIF560buWv05"
+}

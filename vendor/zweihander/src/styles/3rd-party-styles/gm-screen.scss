@@ -1,0 +1,40 @@
+// GM Screen
+.gm-screen-app {
+  .gm-screen-actions {
+    button,
+    .meta-actions button {
+      border: none;
+      background: var(--zh-clr-bg1);
+      &:hover {
+        text-shadow: none;
+        cursor: pointer;
+        color: var(--zh-clr-yellow);
+      }
+      &.item:not(.active) {
+        background: var(--zh-clr-bg0);
+      }
+    }
+  }
+  .gm-screen-container {
+    border-radius: 10px 10px 0 0;
+    background: var(--zh-clr-bg1);
+  }
+  .gm-screen-grid-cell,
+  .gm-screen-grid-cell-content-wrapper {
+    box-shadow: none;
+    background-color: var(--zh-clr-bg0);
+
+    .gm-screen-grid-cell-content > form > header.window-header {
+      display: none;
+    }
+  }
+  .gm-screen-grid-cell-content-wrapper {
+    overflow-x: auto;
+    &::-webkit-scrollbar-track {
+      background-color: var(--zh-clr-bg0) !important;
+    }
+    &::-webkit-scrollbar-thumb {
+      background: var(--zh-clr-bg2);
+    }
+  }
+}

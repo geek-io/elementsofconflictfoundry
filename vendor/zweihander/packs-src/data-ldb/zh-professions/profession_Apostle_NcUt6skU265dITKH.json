@@ -1,0 +1,144 @@
+{
+  "_id": "NcUt6skU265dITKH",
+  "effects": [],
+  "img": "systems/zweihander/assets/icons/shepherds-crook.svg",
+  "name": "Apostle",
+  "type": "profession",
+  "_stats": {
+    "coreVersion": "13.342",
+    "systemId": "zweihander",
+    "systemVersion": "5.4.1",
+    "createdTime": null,
+    "modifiedTime": 1734990834109,
+    "lastModifiedBy": "rivg6xcMxdlVDM8y",
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "system": {
+    "description": {
+      "@en": "The divine blessings of the gods are a powerful force, seemingly the only thing keeping people from doubting their existence in a grim & perilous world. However, not every priest has the capacity or desire to channel holy might. Enter the Apostle. These novitiates have just started working for the faith, and come from all walks of life – child or adult, starved or sated, pauper or prince. They are laymen who have recently joined the church and have yet to earn the full raiment that friarhood has to offer. Many Apostles are given charge of the menial tasks necessary to the church’s operation, whether it is leading small prayers, handing out sacraments or attending to the church’s Abbot. An Apostle spends most of their day involved in studying liturgical works, in prayer and often severe boredom. While their numbers may be many, few ever finish their training and go on to become a Friar. Many Apostles lapse in their official duties and turn to other means to convert the faithless.\\nIf one thing eats at the back of the Apostle’s mind, it is their desperate itch to prove themselves – not only to the faith, but also to the wider world without. In the church, they are often seen as little more than part-time workers or children, which obviously rubs them the wrong way. Many are willing to do basically anything in order to move up the ecclesiastical ranks – steal from other churches, or even serve as enforcer goons for anyone who denigrates the faith. Many pick up the implements of ‘peaceful enforcement’ to beat their religion into others, often with an iron shod stick. The forces of Corruption love nothing more than a cleric abusing their divine mandate, and if they can manage to influence an Apostle, their movement up the ranks could result in thousands of the church’s flocks to become sway to these fell powers of darkness."
+    },
+    "notes": "",
+    "expert": {
+      "value": false,
+      "requirements": {
+        "skillRanks": [],
+        "additional": ""
+      }
+    },
+    "archetype": "Socialite",
+    "bonusAdvances": [
+      {
+        "name": "[AB]",
+        "purchased": false
+      },
+      {
+        "name": "[CB]",
+        "purchased": false
+      },
+      {
+        "name": "[CB]",
+        "purchased": false
+      },
+      {
+        "name": "[FB]",
+        "purchased": false
+      },
+      {
+        "name": "[IB]",
+        "purchased": false
+      },
+      {
+        "name": "[PB]",
+        "purchased": false
+      },
+      {
+        "name": "[WB]",
+        "purchased": false
+      }
+    ],
+    "skillRanks": [
+      {
+        "name": "Coordination",
+        "purchased": false
+      },
+      {
+        "name": "Education",
+        "purchased": false
+      },
+      {
+        "name": "Folklore",
+        "purchased": false
+      },
+      {
+        "name": "Heal",
+        "purchased": false
+      },
+      {
+        "name": "Intimidate",
+        "purchased": false
+      },
+      {
+        "name": "Resolve",
+        "purchased": false
+      },
+      {
+        "name": "Rumor",
+        "purchased": false
+      },
+      {
+        "name": "Scrutinize",
+        "purchased": false
+      },
+      {
+        "name": "Simple Melee",
+        "purchased": false
+      },
+      {
+        "name": "Toughness",
+        "purchased": false
+      }
+    ],
+    "talents": [
+      {
+        "linkedId": "EjJR2J7U8esJvLbc",
+        "name": "Beatdown",
+        "uuid": "Compendium.zweihander.zh-talents.Item.EjJR2J7U8esJvLbc"
+      },
+      {
+        "linkedId": "v6tIVgfHMuYK0Smy",
+        "name": "Carousing",
+        "uuid": "Compendium.zweihander.zh-talents.Item.v6tIVgfHMuYK0Smy"
+      },
+      {
+        "linkedId": "m6uevku7yk6Qbyq2",
+        "name": "Rural Sensibility",
+        "uuid": "Compendium.zweihander.zh-talents.Item.m6uevku7yk6Qbyq2"
+      }
+    ],
+    "professionalTrait": {
+      "name": "By Crook Or By Hook",
+      "uuid": "Compendium.zweihander.zh-traits.Item.AZJ2L1HG1j5WA38m",
+      "linkedId": null
+    },
+    "specialTrait": {
+      "name": "",
+      "uuid": "",
+      "linkedId": null
+    },
+    "drawback": {
+      "name": "Vow of 'Nonviolence'",
+      "uuid": "Compendium.zweihander.zh-drawbacks.Item.Y3LeEbkpzUuO0Oun",
+      "linkedId": null
+    },
+    "tier": ""
+  },
+  "folder": null,
+  "sort": 7800000,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {},
+  "_key": "!items!NcUt6skU265dITKH"
+}

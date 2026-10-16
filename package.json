@@ -1,0 +1,19 @@
+{
+  "name": "elementsofconflictfoundry",
+  "version": "0.3.15",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "check": "node tools/check.mjs",
+    "package": "node tools/package.mjs",
+    "build:packs": "node tools/build-packs.mjs",
+    "test": "node --test tests/*.test.mjs"
+  },
+  "engines": {
+    "node": ">=22"
+  },
+  "devDependencies": {
+    "@foundryvtt/foundryvtt-cli": "^3.0.4",
+    "handlebars": "^4.7.9"
+  }
+}

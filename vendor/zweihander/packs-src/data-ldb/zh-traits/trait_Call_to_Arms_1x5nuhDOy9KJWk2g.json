@@ -1,0 +1,37 @@
+{
+  "_id": "1x5nuhDOy9KJWk2g",
+  "effects": [],
+  "img": "systems/zweihander/assets/icons/sword-brandish.svg",
+  "name": "Call to Arms",
+  "type": "trait",
+  "_stats": {
+    "coreVersion": "13.342",
+    "systemId": "zweihander",
+    "systemVersion": "5.4.1",
+    "createdTime": null,
+    "modifiedTime": 1735911103021,
+    "lastModifiedBy": "rivg6xcMxdlVDM8y",
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "system": {
+    "description": {
+      "@en": "Carrying forward their victories (and defeats) in battle, a Quartermaster brings puissance to any party they serve."
+    },
+    "notes": "",
+    "rules": {
+      "effect": {
+        "@en": "Whenever you fail a Navigation or Warfare Test, you can re-roll to generate a better result, but must accept the outcome."
+      }
+    },
+    "category": "professional"
+  },
+  "folder": null,
+  "sort": 200000,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {},
+  "_key": "!items!1x5nuhDOy9KJWk2g"
+}

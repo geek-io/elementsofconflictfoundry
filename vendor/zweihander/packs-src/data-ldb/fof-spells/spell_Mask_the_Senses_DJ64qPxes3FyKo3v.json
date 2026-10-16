@@ -1,0 +1,60 @@
+{
+  "_id": "DJ64qPxes3FyKo3v",
+  "effects": [],
+  "img": "systems/zweihander/assets/icons/concentric-crescents.svg",
+  "name": "Mask the Senses",
+  "type": "spell",
+  "_stats": {
+    "coreVersion": "13.342",
+    "systemId": "zweihander",
+    "systemVersion": "5.4.1",
+    "createdTime": 1745429303230,
+    "modifiedTime": 1745429303230,
+    "lastModifiedBy": "rivg6xcMxdlVDM8y",
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "system": {
+    "description": {
+      "@en": "<p>I leave thee in anguish, stricken insensible.</p>"
+    },
+    "notes": "",
+    "rules": {
+      "effect": {
+        "@en": "<p>After successfully casting (and one foe cannot or fails to Resist using Awareness), they are unable to see for 6+[WB] days. Once the duration is up, they are unable to hear for 3+[WB] days. You begin to Bleed, no matter whether you succeeded or failed at using this Spell.</p>"
+      },
+      "criticalSuccess": {
+        "@en": "Triple the duration."
+      },
+      "criticalFailure": {
+        "@en": "You are awestruck by a presence other than your own, as you are unable to see for 18+[WB] days and unable to hear for 9+[WB] days after that."
+      },
+      "reagents": {
+        "@en": "Your own blood, squeezed into your palm"
+      }
+    },
+    "tradition": "Black & White",
+    "principle": "Intermediate Tier",
+    "distance": "Any one person you can clearly see",
+    "duration": {
+      "value": "special",
+      "label": "Special",
+      "formula": {
+        "override": false
+      },
+      "base": "[WB]",
+      "bonus": 0,
+      "unit": "Special"
+    },
+    "castingTime": "1 Minute",
+    "castingCost": 2
+  },
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {},
+  "_key": "!items!DJ64qPxes3FyKo3v"
+}

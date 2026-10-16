@@ -1,0 +1,60 @@
+{
+  "_id": "iQu2cYH6w3cXB5q8",
+  "effects": [],
+  "img": "systems/zweihander/assets/icons/spell-book.svg",
+  "name": "Evergreen",
+  "type": "spell",
+  "_stats": {
+    "coreVersion": "13.342",
+    "systemId": "zweihander",
+    "systemVersion": "5.4.1",
+    "createdTime": 1745429303234,
+    "modifiedTime": 1745429303234,
+    "lastModifiedBy": "rivg6xcMxdlVDM8y",
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "system": {
+    "description": {
+      "@en": "<p>The earth laughs in flowers . . .</p>"
+    },
+    "notes": "",
+    "rules": {
+      "effect": {
+        "@en": "<p>After successfully casting, a number of plants equal to 6+[WB] cannot wither or die through normal means, remaining perfectly preserved.</p>"
+      },
+      "criticalSuccess": {
+        "@en": "You can cast Evergreen on 9+[WB] plants instead."
+      },
+      "criticalFailure": {
+        "@en": "The plants immediately die, and the earth where they grew is salted forever, as nothing can grow there ever again."
+      },
+      "reagents": {
+        "@en": "Any plant you touch and a pinprick of your own blood"
+      }
+    },
+    "tradition": "Common",
+    "principle": "Intermediate Tier",
+    "distance": "By Touch",
+    "duration": {
+      "value": "instantaneous",
+      "label": "6+[WB] days",
+      "formula": {
+        "override": true
+      },
+      "base": "[WB]",
+      "bonus": 6,
+      "unit": "days"
+    },
+    "castingTime": "1 Minute",
+    "castingCost": 2
+  },
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {},
+  "_key": "!items!iQu2cYH6w3cXB5q8"
+}

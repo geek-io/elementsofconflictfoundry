@@ -1,0 +1,37 @@
+{
+  "_id": "wdspCh4V6qpHetMs",
+  "effects": [],
+  "img": "systems/zweihander/assets/icons/fire-silhouette.svg",
+  "name": "Grim Resolve",
+  "type": "trait",
+  "_stats": {
+    "coreVersion": "13.342",
+    "systemId": "zweihander",
+    "systemVersion": "5.4.1",
+    "createdTime": null,
+    "modifiedTime": 1734974463061,
+    "lastModifiedBy": "rivg6xcMxdlVDM8y",
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "system": {
+    "description": {
+      "@en": "Humans are extremely durable and their force of will unparalleled. When the chips are down, they manage to pull themselves up by the bootstraps."
+    },
+    "notes": "",
+    "rules": {
+      "effect": {
+        "@en": "<p>Immediately after you suffer Damage from a melee or ranged weapon, spend a Fortune Point to ignore it entirely, therefore negating both Damage and any Injuries you may have suffered. You may even use this after failing to Dodge or Parry.</p>"
+      }
+    },
+    "category": "ancestral"
+  },
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {},
+  "_key": "!items!wdspCh4V6qpHetMs"
+}

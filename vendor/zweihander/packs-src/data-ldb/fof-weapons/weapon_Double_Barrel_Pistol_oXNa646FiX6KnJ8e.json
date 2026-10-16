@@ -1,0 +1,63 @@
+{
+  "_id": "oXNa646FiX6KnJ8e",
+  "effects": [],
+  "img": "systems/zweihander/assets/icons/gunshot.svg",
+  "name": "Double-Barrel Pistol",
+  "type": "weapon",
+  "_stats": {
+    "coreVersion": "13.342",
+    "systemId": "zweihander",
+    "systemVersion": "5.4.1",
+    "createdTime": 1745429307094,
+    "modifiedTime": 1745429307094,
+    "lastModifiedBy": "rivg6xcMxdlVDM8y",
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "system": {
+    "description": {
+      "@en": "<p>Designed for naval boarding, this pistol is deadly in close fighting but loses its punch at farther distances.</p>"
+    },
+    "notes": "",
+    "price": {
+      "bp": "0",
+      "gc": "2",
+      "ss": "0"
+    },
+    "encumbrance": 1,
+    "carried": true,
+    "weaponType": "Ranged",
+    "equipped": false,
+    "associatedSkill": "Simple Ranged",
+    "ranged": {
+      "load": 0,
+      "value": false
+    },
+    "handling": "One-handed",
+    "qualities": {
+      "value": "Blackpowder, Pistol, Repeating (2), Weak",
+      "arrayOfValues": []
+    },
+    "distance": "1 + [PB] yards",
+    "damage": {
+      "formula": "[CB] + (1+[#])d6x1,6",
+      "attributeBonus": "[CB]",
+      "number": 1,
+      "die": "d6",
+      "bonus": 0,
+      "fury": {
+        "value": false,
+        "explodesOn": []
+      }
+    },
+    "load": 2
+  },
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {},
+  "_key": "!items!oXNa646FiX6KnJ8e"
+}

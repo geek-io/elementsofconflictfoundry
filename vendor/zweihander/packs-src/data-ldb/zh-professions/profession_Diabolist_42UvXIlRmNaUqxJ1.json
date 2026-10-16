@@ -1,0 +1,144 @@
+{
+  "_id": "42UvXIlRmNaUqxJ1",
+  "effects": [],
+  "img": "systems/zweihander/assets/icons/diabolist.svg",
+  "name": "Diabolist",
+  "type": "profession",
+  "_stats": {
+    "coreVersion": "13.342",
+    "systemId": "zweihander",
+    "systemVersion": "5.4.1",
+    "createdTime": null,
+    "modifiedTime": 1734990834075,
+    "lastModifiedBy": "rivg6xcMxdlVDM8y",
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "system": {
+    "description": {
+      "@en": "Although Magick permeates the world, most see its wielders as dangerous and evil, and as heretics to be strung up or burned at the stake. To hide from the superstition rampant in a grim & perilous world, its practitioners are forced to society’s periphery where they can study in secret. Here such Diabolists become open conduits between the Material Realm and the Æther, as they attempt to reshape the raw stuff of chaos into orderly, mathematical conclusions. Whether it is the transmutation of lead into gold, bringing down lightning from the sky, or conjuring forth grand illusions, the Diabolist seeks to understand, classify and practice the art of Magick. These erudite autodidacts guard their studies well, and whilst some remain loners, many band together in ‘colleges’. Overtime they grow into schools of Magick where this grand tradition is shared with other arcanists.\nHowever, as Diabolists draw forth from the Æther, catastrophe is never far away. Simply intoning the wrong consonant or reading aloud the words in the wrong order (such as in the case of the infamous invocation of klaatu barada nikto… or was it necktie?), will allow the Æther to seep forth into the Material Realm, corrupting the Diabolist first and then the world around them. Raw chaos can corrupt even the most steely-minded arcanist, driving them towards madness and mutation. However, these terrifying moments of unbridled power are what ultimately make would-be arcanists’ desire greater understanding – even if it costs them their very soul."
+    },
+    "notes": "",
+    "expert": {
+      "value": false,
+      "requirements": {
+        "skillRanks": [],
+        "additional": ""
+      }
+    },
+    "archetype": "Academic",
+    "bonusAdvances": [
+      {
+        "name": "[AB]",
+        "purchased": false
+      },
+      {
+        "name": "[FB]",
+        "purchased": false
+      },
+      {
+        "name": "[IB]",
+        "purchased": false
+      },
+      {
+        "name": "[IB]",
+        "purchased": false
+      },
+      {
+        "name": "[PB]",
+        "purchased": false
+      },
+      {
+        "name": "[WB]",
+        "purchased": false
+      },
+      {
+        "name": "[WB]",
+        "purchased": false
+      }
+    ],
+    "skillRanks": [
+      {
+        "name": "Alchemy",
+        "purchased": false
+      },
+      {
+        "name": "Bargain",
+        "purchased": false
+      },
+      {
+        "name": "Coordination",
+        "purchased": false
+      },
+      {
+        "name": "Education",
+        "purchased": false
+      },
+      {
+        "name": "Folklore",
+        "purchased": false
+      },
+      {
+        "name": "Incantation",
+        "purchased": false
+      },
+      {
+        "name": "Intimidate",
+        "purchased": false
+      },
+      {
+        "name": "Resolve",
+        "purchased": false
+      },
+      {
+        "name": "Rumor",
+        "purchased": false
+      },
+      {
+        "name": "Simple Melee",
+        "purchased": false
+      }
+    ],
+    "talents": [
+      {
+        "linkedId": "xoKzA76ZzPQmOejt",
+        "name": "Æthereal Alignment",
+        "uuid": "Compendium.zweihander.zh-talents.Item.xoKzA76ZzPQmOejt"
+      },
+      {
+        "linkedId": "iox3y41c5QOhZn0Y",
+        "name": "Menacing Demeanor",
+        "uuid": "Compendium.zweihander.zh-talents.Item.iox3y41c5QOhZn0Y"
+      },
+      {
+        "linkedId": "sr0nQ2JrQV4DnTeU",
+        "name": "Secret Signs",
+        "uuid": "Compendium.zweihander.zh-talents.Item.sr0nQ2JrQV4DnTeU"
+      }
+    ],
+    "professionalTrait": {
+      "name": "Winds of Change",
+      "uuid": "Compendium.zweihander.zh-traits.Item.G7T8UiS5zKDBvnXC",
+      "linkedId": null
+    },
+    "specialTrait": {
+      "name": "Arcane Magick",
+      "uuid": "Compendium.zweihander.zh-traits.Item.23yolAn8Q2AkbXQi",
+      "linkedId": null
+    },
+    "drawback": {
+      "name": "Lure of Power",
+      "uuid": "Compendium.zweihander.zh-drawbacks.Item.AG7fCX4RXKvOoajE",
+      "linkedId": null
+    },
+    "tier": ""
+  },
+  "folder": null,
+  "sort": 1200000,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {},
+  "_key": "!items!42UvXIlRmNaUqxJ1"
+}

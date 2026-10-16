@@ -1,0 +1,37 @@
+{
+  "_id": "S2OLCaNFx0zHJRaI",
+  "effects": [],
+  "img": "systems/zweihander/assets/icons/vitruvian-man.svg",
+  "name": "Hue & Cry",
+  "type": "trait",
+  "_stats": {
+    "coreVersion": "13.342",
+    "systemId": "zweihander",
+    "systemVersion": "5.4.1",
+    "createdTime": null,
+    "modifiedTime": 1735911103063,
+    "lastModifiedBy": "rivg6xcMxdlVDM8y",
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "system": {
+    "description": {
+      "@en": "A Watchman relies on preternatural instincts to sniff out danger. They are quick to rally in the face of lawlessness, vigilant and alert."
+    },
+    "notes": "",
+    "rules": {
+      "effect": {
+        "@en": "When combat begins, roll 2D10, instead of 1D10, to determine your place in the Initiative Order."
+      }
+    },
+    "category": "professional"
+  },
+  "folder": null,
+  "sort": 8700000,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {},
+  "_key": "!items!S2OLCaNFx0zHJRaI"
+}

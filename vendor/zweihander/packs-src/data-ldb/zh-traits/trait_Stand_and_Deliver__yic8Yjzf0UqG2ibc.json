@@ -1,0 +1,37 @@
+{
+  "_id": "yic8Yjzf0UqG2ibc",
+  "effects": [],
+  "img": "systems/zweihander/assets/icons/vitruvian-man.svg",
+  "name": "Stand and Deliver!",
+  "type": "trait",
+  "_stats": {
+    "coreVersion": "13.342",
+    "systemId": "zweihander",
+    "systemVersion": "5.4.1",
+    "createdTime": null,
+    "modifiedTime": 1735911103120,
+    "lastModifiedBy": "rivg6xcMxdlVDM8y",
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "system": {
+    "description": {
+      "@en": "Whether robbing from the rich to exact for the poor, or simply robbing for their own gain, Highwaymen always find purchase for their quips where they can be bought or afforded when defending themselves."
+    },
+    "notes": "",
+    "rules": {
+      "effect": {
+        "@en": "At your option, you may substitute the Charm Skill in place of Intimidate. In addition, you may substitute Charm in place of any Skill required to Parry melee weapons."
+      }
+    },
+    "category": "professional"
+  },
+  "folder": null,
+  "sort": 20900000,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {},
+  "_key": "!items!yic8Yjzf0UqG2ibc"
+}

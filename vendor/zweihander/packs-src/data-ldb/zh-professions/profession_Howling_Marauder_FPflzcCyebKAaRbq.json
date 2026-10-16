@@ -1,0 +1,149 @@
+{
+  "_id": "FPflzcCyebKAaRbq",
+  "effects": [],
+  "img": "systems/zweihander/assets/icons/battered-axe.svg",
+  "name": "Howling Marauder",
+  "type": "profession",
+  "_stats": {
+    "coreVersion": "13.342",
+    "systemId": "zweihander",
+    "systemVersion": "5.4.1",
+    "createdTime": null,
+    "modifiedTime": 1735052088808,
+    "lastModifiedBy": "rivg6xcMxdlVDM8y",
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "system": {
+    "description": {
+      "@en": "Living far to the north of civilization, where both the Abyss and the frozen gales bite at the soul, the Howling Marauders make their savage homes. Born on horseback, Marauders are barbarians: women and men who grew up in their frost-rimmed villages taught to hold the Abyssal Princes above all other gods. They are a hardy and powerful people, towering over most other men and being nearly twice as strong. Composed of countless tribes with individual traditions, their one consistency is their devotion to the Corruption made manifest. They often raid defenseless northern villages, storming walls in hallucinogenic-fueled rages with only a weapon and their armor to defend them against the bite of both cold and steel. They return to their homes with riches and slaves, both to be sacrificed to a myriad of Abyssal abominations. This is all in the hope that their peers will look favorably upon them and grow to be a Fell Knight. It is the only thing they desire more than glory on the battlefield.\\nAt first sight, Howling  Marauders seem to have no culture aside from outright barbarism, but that is not the case. Each tribe has its own nuanced traditions and Daemon its members pay tribute to which together sets it apart from the tribe in the valley on the other side of the mountain. Infighting is extremely common among the tribes, so much so that brother often runs brother through in the heat of battle. Howling Marauders do not hate those who have not tasted Corruption; they are not enemies, but rather mewling babes who have yet to taste the sweet nectar of life. No matter their Ancestry, creed or faith, if someone can storm into a Marauder camp, drink their weight in mead, devour a whole boar and bed the first person they see, the raiders will take you in as one of their own without a second word."
+    },
+    "notes": "",
+    "expert": {
+      "value": true,
+      "requirements": {
+        "skillRanks": [
+          {
+            "key": "martial melee",
+            "value": 1
+          }
+        ],
+        "additional": "<p>-</p>"
+      }
+    },
+    "archetype": "Expert Profession",
+    "bonusAdvances": [
+      {
+        "name": "[AB]",
+        "purchased": false
+      },
+      {
+        "name": "[BB]",
+        "purchased": false
+      },
+      {
+        "name": "[BB]",
+        "purchased": false
+      },
+      {
+        "name": "[CB]",
+        "purchased": false
+      },
+      {
+        "name": "[FB]",
+        "purchased": false
+      },
+      {
+        "name": "[WB]",
+        "purchased": false
+      },
+      {
+        "name": "[WB]",
+        "purchased": false
+      }
+    ],
+    "skillRanks": [
+      {
+        "name": "Athletics",
+        "purchased": false
+      },
+      {
+        "name": "Folklore",
+        "purchased": false
+      },
+      {
+        "name": "Martial Melee",
+        "purchased": false
+      },
+      {
+        "name": "Resolve",
+        "purchased": false
+      },
+      {
+        "name": "Ride",
+        "purchased": false
+      },
+      {
+        "name": "Simple Melee",
+        "purchased": false
+      },
+      {
+        "name": "Simple Ranged",
+        "purchased": false
+      },
+      {
+        "name": "Survival",
+        "purchased": false
+      },
+      {
+        "name": "Toughness",
+        "purchased": false
+      },
+      {
+        "name": "Warfare",
+        "purchased": false
+      }
+    ],
+    "talents": [
+      {
+        "linkedId": "4qKWmTyHCbx4LM1i",
+        "name": "Gatecrasher",
+        "uuid": "Compendium.zweihander.zh-talents.Item.4qKWmTyHCbx4LM1i"
+      },
+      {
+        "linkedId": "Iiu9G1OsUFo0Tiw6",
+        "name": "Instincts",
+        "uuid": "Compendium.zweihander.zh-talents.Item.Iiu9G1OsUFo0Tiw6"
+      },
+      {
+        "linkedId": "lDYbvmW0G7e9EiQY",
+        "name": "No Mercy",
+        "uuid": "Compendium.zweihander.zh-talents.Item.lDYbvmW0G7e9EiQY"
+      }
+    ],
+    "professionalTrait": {
+      "name": "Disciple to Chaos",
+      "uuid": "Compendium.zweihander.zh-traits.Item.uLcoXnM2IDTuMgUY",
+      "linkedId": null
+    },
+    "specialTrait": {
+      "name": "",
+      "uuid": "",
+      "linkedId": null
+    },
+    "drawback": {
+      "name": "Ruinous Power",
+      "uuid": "Compendium.zweihander.zh-drawbacks.Item.000ebdYiQnk7rwbt",
+      "linkedId": null
+    },
+    "tier": ""
+  },
+  "folder": null,
+  "sort": 5100000,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {},
+  "_key": "!items!FPflzcCyebKAaRbq"
+}

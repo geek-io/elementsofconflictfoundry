@@ -1,0 +1,37 @@
+{
+  "_id": "SKgBhorMitIilSgH",
+  "effects": [],
+  "img": "systems/zweihander/assets/icons/dwarf-helmet.svg",
+  "name": "Ironclad",
+  "type": "trait",
+  "_stats": {
+    "coreVersion": "13.342",
+    "systemId": "zweihander",
+    "systemVersion": "5.4.1",
+    "createdTime": null,
+    "modifiedTime": 1734974463045,
+    "lastModifiedBy": "rivg6xcMxdlVDM8y",
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "system": {
+    "description": {
+      "@en": "Dwarves have an incredibly stalwart physique, sleeping and eating daily in their armor."
+    },
+    "notes": "",
+    "rules": {
+      "effect": {
+        "@en": "When wearing a suit of armor, ignore its Encumbrance Value."
+      }
+    },
+    "category": "ancestral"
+  },
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {},
+  "_key": "!items!SKgBhorMitIilSgH"
+}

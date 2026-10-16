@@ -1,0 +1,37 @@
+{
+  "_id": "8yOZkICa1v72voAK",
+  "effects": [],
+  "img": "systems/zweihander/assets/icons/vitruvian-man.svg",
+  "name": "The Fiery Heart",
+  "type": "trait",
+  "_stats": {
+    "coreVersion": "13.342",
+    "systemId": "zweihander",
+    "systemVersion": "5.4.1",
+    "createdTime": null,
+    "modifiedTime": 1735911103035,
+    "lastModifiedBy": "rivg6xcMxdlVDM8y",
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "system": {
+    "description": {
+      "@en": "The Winds of the Æthereal Veil burn bright within your heart, invigorating your passion."
+    },
+    "notes": "",
+    "rules": {
+      "effect": {
+        "@en": "You and any non-living possessions carried cannot be harmed by non-Magickal fire."
+      }
+    },
+    "category": "professional"
+  },
+  "folder": null,
+  "sort": 2900000,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {},
+  "_key": "!items!8yOZkICa1v72voAK"
+}

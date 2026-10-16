@@ -1,0 +1,37 @@
+{
+  "_id": "o51TRjB9qFANUaH6",
+  "effects": [],
+  "img": "systems/zweihander/assets/icons/boar.svg",
+  "name": "Warden of the Wild",
+  "type": "trait",
+  "_stats": {
+    "coreVersion": "13.342",
+    "systemId": "zweihander",
+    "systemVersion": "5.4.1",
+    "createdTime": null,
+    "modifiedTime": 1735911103103,
+    "lastModifiedBy": "rivg6xcMxdlVDM8y",
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "system": {
+    "description": {
+      "@en": "You much prefer the solitude of nature and creatures of the wilds than the cries and clamor of the big city. As a consequence, you’ve developed an aptitude to not only spot wild animals on the loose, but also to calm angry beasts when they act out of sorts."
+    },
+    "notes": "",
+    "rules": {
+      "effect": {
+        "@en": "When you fail an Awareness or Handle Animal Test, you may re-roll to generate a better result, but must accept the outcome."
+      }
+    },
+    "category": "professional"
+  },
+  "folder": null,
+  "sort": 17200000,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {},
+  "_key": "!items!o51TRjB9qFANUaH6"
+}

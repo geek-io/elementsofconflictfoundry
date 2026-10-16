@@ -1,0 +1,46 @@
+<section class="eoc-content eoc-import-content">
+ <div class="eoc-section-title"><h2>NPC &amp; Item Importer</h2><span class="eoc-badge">Create new documents</span></div>
+ <div class="eoc-grid"><label>Import<select data-import-kind {{#if busy}}disabled{{/if}}><option value="npc" {{#if npc}}selected{{/if}} {{#unless canNPC}}disabled{{/unless}}>NPCs</option><option value="item" {{#unless npc}}selected{{/unless}} {{#unless canItem}}disabled{{/unless}}>Items</option></select></label><label>Destination Folder<select data-import-folder {{#if busy}}disabled{{/if}}><option value="">No folder</option>{{selectOptions folders selected=folder valueAttr="id" labelAttr="label"}}</select></label></div>
+ <nav class="eoc-import-tabs"><button type="button" data-action="mode" data-mode="fields" class="{{#if fieldMode}}selected{{/if}}" {{#if busy}}disabled{{/if}}>Fields</button><button type="button" data-action="mode" data-mode="text" class="{{#unless fieldMode}}selected{{/unless}}" {{#if busy}}disabled{{/if}}>Paste Text</button></nav>
+ <fieldset {{#if busy}}disabled{{/if}} class="eoc-import-inputs">
+ {{#if fieldMode}}
+  <label>Name<input data-import-field="name" value="{{fields.name}}" placeholder="{{#if npc}}NPC name{{else}}Item name{{/if}}"></label>
+  {{#unless npc}}<label>Item Type<select data-import-field="type">{{selectOptions itemTypes selected=fields.type}}</select></label>{{/unless}}
+  <label>Description<textarea data-import-field="description" rows="3">{{fields.description}}</textarea></label>
+  {{#if npc}}<h3>Attributes</h3><p>Enter the value and optional printed bonus, for example <code>45 [5]</code>.</p><div class="eoc-import-attributes">{{#each attributes}}<label>{{label}}<input data-import-field="{{key}}" value="{{value}}" placeholder="45 [5]"></label>{{/each}}</div>
+   <h3>Secondary Attributes</h3><p>Optional. Leave blank to calculate from attributes.</p><div class="eoc-grid">{{#each stats}}<label>{{label}}<input data-import-field="{{key}}" value="{{value}}"></label>{{/each}}</div>
+   {{#each sections}}<label>{{label}}<textarea data-import-field="{{key}}" rows="4" placeholder="{{placeholder}}">{{value}}</textarea></label>{{/each}}
+  {{else}}<div class="eoc-grid">{{#each itemFields}}<label>{{label}}<input data-import-field="{{key}}" value="{{value}}"></label>{{/each}}</div>
+   {{#if heritage}}<div class="eoc-card"><h3>Heritage Bonus Modifiers</h3><div class="eoc-grid">{{#each heritageModifiers}}<label>{{label}}<input type="number" data-import-field="{{key}}" value="{{value}}" min="-100" max="100" step="1"></label>{{/each}}</div></div>{{#each heritageGroups}}<div class="eoc-card"><h3>{{label}}</h3>{{#each rows}}<h4>{{tierLabel}}</h4><label>{{name.label}}<input data-import-field="{{name.key}}" value="{{name.value}}"></label><label>{{description.label}}<textarea data-import-field="{{description.key}}" rows="3">{{description.value}}</textarea></label>{{/each}}</div>{{/each}}{{/if}}
+   {{#if trait}}<label>Action Type<select data-import-field="actiontype">{{selectOptions traitActions selected=fields.actiontype}}</select></label>{{/if}}
+   {{#if technique}}{{#each outcomes}}<label>{{label}}<textarea data-import-field="{{key}}" rows="2">{{value}}</textarea></label>{{/each}}{{/if}}
+   {{#if profession}}<div class="eoc-import-profession">{{#each professionGroups}}<h3>{{label}}</h3><div class="eoc-grid">{{#each slots}}<label>{{label}}{{#if ../skill}}<select data-import-field="{{key}}"><option value="">Choose Skill</option>{{selectOptions ../../skillChoices selected=value}}</select>{{else}}{{#if ../bonus}}<select data-import-field="{{key}}"><option value="">Choose Bonus</option>{{selectOptions ../../bonusChoices selected=value}}</select>{{else}}<input data-import-field="{{key}}" value="{{value}}" list="eoc-import-talents">{{/if}}{{/if}}</label>{{/each}}</div>{{/each}}<datalist id="eoc-import-talents">{{#each talentChoices}}<option value="{{name}}">{{/each}}</datalist></div>{{/if}}
+  {{/if}}
+ {{else}}
+  {{#if npc}}<p>Paste one or more NPC blocks from the Elements of Conflict NPC Guide, including the name, attribute table, secondary table, Skill Ranks, Attacks, Techniques, and Traits. Labelled fields such as <code>Combat: 45 [5]</code> also work.</p>{{else}}<p>Paste labelled Item fields or an Item JSON export. Separate multiple labelled Items with a line containing <code>---</code>.</p><details data-sync="import-example"><summary>Item text example</summary><pre>Name: Iron Kunai
+Type: weapon
+Quantity: 1
+Encumbrance: 0.25
+Skill: Bukijutsu
+Damage: 1d6+4
+Range: 8 paces
+Qualities: Finesse, Light, Silent
+Description: A balanced throwing blade.</pre><p>For Heritages, use <code>Type: heritage</code> and these sections:</p><pre>Modifiers:
+Brawn: +1
+Intelligence: -1
+Boons:
+Blood &amp; Fire
+Genin Tier - First-tier boon description.
+Chunin Tier - Second-tier boon description.
+Jonin Tier - Third-tier boon description.
+Banes:
+Fire &amp; Ash
+Genin Tier - First-tier bane description.</pre></details>{{/if}}
+  <label>Source Text<textarea data-import-text rows="20" placeholder="Paste text here…">{{text}}</textarea></label>
+ {{/if}}
+ </fieldset>
+ <div class="eoc-import-actions"><button type="button" data-action="preview" {{#if busy}}disabled{{/if}}>{{#if busy}}Working…{{else}}Preview{{/if}}</button><button type="button" data-action="create" {{#unless canCreate}}disabled{{/unless}}>Import {{#if npc}}NPCs{{else}}Items{{/if}}</button></div>
+ {{#if error}}<p class="eoc-import-error" role="alert">{{error}}</p>{{/if}}
+ {{#each preview}}<article class="eoc-card eoc-import-preview"><h3>{{name}} <small>{{type}}</small></h3>{{#if attributes}}<p>{{attributes}}</p>{{/if}}{{#if items}}<p>Owned Items: {{items}}</p>{{/if}}{{#each warnings}}<p class="eoc-import-warning">{{this}}</p>{{/each}}<details data-sync="preview-{{@index}}"><summary>Review all imported fields</summary><pre>{{details}}</pre></details></article>{{/each}}
+ {{#each created}}<button type="button" data-action="openCreated" data-index="{{index}}">Open {{name}}</button>{{/each}}
+</section>

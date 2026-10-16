@@ -1,0 +1,60 @@
+{
+  "_id": "qsoXOnttCvMWrHAx",
+  "effects": [],
+  "img": "systems/zweihander/assets/icons/wizard-staff.svg",
+  "name": "Stinging Blows",
+  "type": "spell",
+  "_stats": {
+    "coreVersion": "13.342",
+    "systemId": "zweihander",
+    "systemVersion": "5.4.1",
+    "createdTime": null,
+    "modifiedTime": 1745410540903,
+    "lastModifiedBy": "rivg6xcMxdlVDM8y",
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "system": {
+    "description": {
+      "@en": "Your attacks inflict excruciating pain as they strike."
+    },
+    "notes": "",
+    "rules": {
+      "effect": {
+        "@en": "After successfully casting this spell, your attacks sting whenever they land. When you deal Damage with a melee weapon, your foe must Resist with a Toughness Test or suffer a -10 Base Chance to all Skill Tests for the Duration of the spell."
+      },
+      "criticalSuccess": {
+        "@en": "As above, but the foe cannot Resist this Magick."
+      },
+      "criticalFailure": {
+        "@en": "You’re struck dumb by the gods for this transgression. Your head reels from dizziness and you must flip the results to fail all Combat-based Skill Tests for the Duration of the spell."
+      },
+      "reagents": {
+        "@en": "A blackjack, held in your off-hand"
+      }
+    },
+    "tradition": "Divine (Crouching One)",
+    "principle": "Petty",
+    "distance": "Any one person you can see",
+    "duration": {
+      "value": "instantaneous",
+      "label": "[WB] + 3 minutes",
+      "formula": {
+        "override": true
+      },
+      "base": "[WB]",
+      "bonus": 3,
+      "unit": "minutes"
+    },
+    "castingTime": "1 min",
+    "castingCost": 0
+  },
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {},
+  "_key": "!items!qsoXOnttCvMWrHAx"
+}

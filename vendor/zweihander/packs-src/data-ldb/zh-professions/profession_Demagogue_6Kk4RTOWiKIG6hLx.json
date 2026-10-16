@@ -1,0 +1,149 @@
+{
+  "_id": "6Kk4RTOWiKIG6hLx",
+  "effects": [],
+  "img": "systems/zweihander/assets/icons/demagogue.svg",
+  "name": "Demagogue",
+  "type": "profession",
+  "_stats": {
+    "coreVersion": "13.342",
+    "systemId": "zweihander",
+    "systemVersion": "5.4.1",
+    "createdTime": null,
+    "modifiedTime": 1735047709898,
+    "lastModifiedBy": "rivg6xcMxdlVDM8y",
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "system": {
+    "description": {
+      "@en": "Demagogues are politicians and bureaucrats, holding positions of power, but not nobility – though they aspire to title and more in return for their service – in the feudal and imperial governments of a grim & perilous world. Some are honorable and want to serve their communities, helping them guide their futures. Others are corrupt, accepting bribes and passing draconian laws that benefit themselves, their masters or both. Most are appointed to their position, while a rare few are elected. Either way, Demagogues require both charisma and flattery to hold their offices, to wield power and to find favor with their master and the nobility and smallfolk. Of course, should they displease their masters, they will quickly find themselves out of a job.\nMost wandering Demagogues are out of a job, often campaigning or petitioning for a new position. In office or out, honest or not, Demagogues are extremely influential and well versed in the darker political arts – extortion, bribery, promises and lies – as well as in making impassioned speeches. In the eyes of chaos, however, all Demagogues lie, cheat and steal, some openly, some in secret. This makes them ripe for corruption, the Abyss plucking at their mortal minds driving them from being benevolent leaders into becoming murderous despots."
+    },
+    "notes": "",
+    "expert": {
+      "value": true,
+      "requirements": {
+        "skillRanks": [
+          {
+            "key": "leadership",
+            "value": 1
+          }
+        ],
+        "additional": "<p>-</p>"
+      }
+    },
+    "archetype": "Expert Profession",
+    "bonusAdvances": [
+      {
+        "name": "[FB]",
+        "purchased": false
+      },
+      {
+        "name": "[FB]",
+        "purchased": false
+      },
+      {
+        "name": "[IB]",
+        "purchased": false
+      },
+      {
+        "name": "[IB]",
+        "purchased": false
+      },
+      {
+        "name": "[PB]",
+        "purchased": false
+      },
+      {
+        "name": "[PB]",
+        "purchased": false
+      },
+      {
+        "name": "[WB]",
+        "purchased": false
+      }
+    ],
+    "skillRanks": [
+      {
+        "name": "Eavesdrop",
+        "purchased": false
+      },
+      {
+        "name": "Education",
+        "purchased": false
+      },
+      {
+        "name": "Folklore",
+        "purchased": false
+      },
+      {
+        "name": "Guile",
+        "purchased": false
+      },
+      {
+        "name": "Interrogation",
+        "purchased": false
+      },
+      {
+        "name": "Leadership",
+        "purchased": false
+      },
+      {
+        "name": "Resolve",
+        "purchased": false
+      },
+      {
+        "name": "Rumor",
+        "purchased": false
+      },
+      {
+        "name": "Scrutinize",
+        "purchased": false
+      },
+      {
+        "name": "Simple Melee",
+        "purchased": false
+      }
+    ],
+    "talents": [
+      {
+        "linkedId": "LLp6kwPTz9wJLpvG",
+        "name": "Meeting of the Minds",
+        "uuid": "Compendium.zweihander.zh-talents.Item.LLp6kwPTz9wJLpvG"
+      },
+      {
+        "linkedId": "5TzEbf1VOmPfpolL",
+        "name": "Multilingual",
+        "uuid": "Compendium.zweihander.zh-talents.Item.5TzEbf1VOmPfpolL"
+      },
+      {
+        "linkedId": "pIAw2DKMeOlG7EyT",
+        "name": "Worldly",
+        "uuid": "Compendium.zweihander.zh-talents.Item.pIAw2DKMeOlG7EyT"
+      }
+    ],
+    "professionalTrait": {
+      "name": "Distinguished Speaker",
+      "uuid": "Compendium.zweihander.zh-traits.Item.4easSel4qOJovhsY",
+      "linkedId": null
+    },
+    "specialTrait": {
+      "name": "",
+      "uuid": "",
+      "linkedId": null
+    },
+    "drawback": {
+      "name": "Political Rivalry",
+      "uuid": "Compendium.zweihander.zh-drawbacks.Item.I0eE6lCigDiLcJIV",
+      "linkedId": null
+    },
+    "tier": ""
+  },
+  "folder": null,
+  "sort": 2700000,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {},
+  "_key": "!items!6Kk4RTOWiKIG6hLx"
+}

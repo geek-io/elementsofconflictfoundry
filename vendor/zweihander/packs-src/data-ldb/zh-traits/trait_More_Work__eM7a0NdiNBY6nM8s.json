@@ -1,0 +1,37 @@
+{
+  "_id": "eM7a0NdiNBY6nM8s",
+  "effects": [],
+  "img": "systems/zweihander/assets/icons/vitruvian-man.svg",
+  "name": "More Work?",
+  "type": "trait",
+  "_stats": {
+    "coreVersion": "13.342",
+    "systemId": "zweihander",
+    "systemVersion": "5.4.1",
+    "createdTime": null,
+    "modifiedTime": 1735911103084,
+    "lastModifiedBy": "rivg6xcMxdlVDM8y",
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "system": {
+    "description": {
+      "@en": "The long, arduous days a Peasant faces never seem to end. Rustic in your ways, you’re well-acquainted with the hardships of labor and have developed a specific tolerance towards backbreaking drudgery. And when you rest, you sleep soundly and always awaken refreshed."
+    },
+    "notes": "",
+    "rules": {
+      "effect": {
+        "@en": "Adjust your Peril Threshold by +3. In addition, you always recover your Peril Condition Track to Unhindered after resting."
+      }
+    },
+    "category": "professional"
+  },
+  "folder": null,
+  "sort": 13600000,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {},
+  "_key": "!items!eM7a0NdiNBY6nM8s"
+}

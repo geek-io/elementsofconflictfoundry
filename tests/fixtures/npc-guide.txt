@@ -1,0 +1,1508 @@
+﻿Elements of Conflict NPC Guide
+
+
+
+
+
+
+
+
+
+
+
+
+Animals
+
+
+
+
+
+
+Beasts
+
+
+
+
+
+
+Constructs
+
+
+
+
+Monks
+
+
+
+
+
+
+NPC Template
+
+
+Name
+
+
+
+
+
+
+Combat
+	Brawn
+	Agility
+	Perception
+	Intelligence
+	Willpower
+	Fellowship
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	Parry
+	Damage Threshold
+	Movement
+	Dodge
+	Initiative
+	Size
+	Peril Threshold
+	Threat Rating
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+
+
+Skill Ranks
+
+
+
+
+Attacks
+* Techniques
+* Traits
+* 
+
+
+
+Bear
+These large and powerful omnivores are generally not dangerous unless they are extremely hungry, they have been disturbed by encroaching civilization, their young are threatened, or they have been driven away from their natural territory or habitat—all occurrences that have become far more common with the ongoing wars and supernatural transformations that currently plague many places in the world.
+
+
+
+
+Combat
+	Brawn
+	Agility
+	Perception
+	Intelligence
+	Willpower
+	Fellowship
+	45 [5]
+	50 [6]
+	40 [5]
+	40 [4]
+	40 [4]
+	45 [4]
+	35 [3]
+	Parry
+	Damage Threshold
+	Movement
+	Dodge
+	Initiative
+	Size
+	Peril Threshold
+	Threat Rating
+	55%
+	10 (16/22/28)
+	8
+	50%
+	7
+	Large
+	7 (13/19/25)
+	Genin: Medium
+	
+
+
+
+Skill Ranks
+* Athletics +10
+* Awareness +10
+* Coordination +10
+* Intimidate +10
+* Survival +10
+* Taijutsu +10
+* Toughness +10
+
+
+Attacks
+* Bite: 55% - Distance (Melee Engaged) - Damage (2d6+5) - Punishing, Vicious
+* Claw:  55% - Distance (Melee Engaged) - Damage (2d6+5) - Punishing, Sweeping
+Techniques
+* N/A
+Traits
+* Honed Smell: This creature's sense of smell is heightened, making smell-related Awareness tests easier (+20%).
+* Thick Hide (4): This creature treats its Damage Threshold as (4) higher. This number is already factored into its traits.
+* Maul (3 Misfortune, 3 AP, Combat Action): This creature makes the same attack up to three times without suffering Multiple Attack Penalties.
+
+
+
+
+Name
+
+
+
+
+
+
+Combat
+	Brawn
+	Agility
+	Perception
+	Intelligence
+	Willpower
+	Fellowship
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	Parry
+	Damage Threshold
+	Movement
+	Dodge
+	Initiative
+	Size
+	Peril Threshold
+	Threat Rating
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+
+
+Skill Ranks
+
+
+
+
+Attacks
+* Techniques
+* Traits
+* 
+
+
+
+Name
+
+
+
+
+
+
+Combat
+	Brawn
+	Agility
+	Perception
+	Intelligence
+	Willpower
+	Fellowship
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	Parry
+	Damage Threshold
+	Movement
+	Dodge
+	Initiative
+	Size
+	Peril Threshold
+	Threat Rating
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+
+
+Skill Ranks
+
+
+
+
+Attacks
+* Techniques
+* Traits
+* 
+
+
+
+Name
+
+
+
+
+
+
+Combat
+	Brawn
+	Agility
+	Perception
+	Intelligence
+	Willpower
+	Fellowship
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	Parry
+	Damage Threshold
+	Movement
+	Dodge
+	Initiative
+	Size
+	Peril Threshold
+	Threat Rating
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+
+
+Skill Ranks
+
+
+
+
+Attacks
+* Techniques
+* Traits
+* 
+
+
+
+Name
+
+
+
+
+
+
+Combat
+	Brawn
+	Agility
+	Perception
+	Intelligence
+	Willpower
+	Fellowship
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	Parry
+	Damage Threshold
+	Movement
+	Dodge
+	Initiative
+	Size
+	Peril Threshold
+	Threat Rating
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+
+
+Skill Ranks
+
+
+
+
+Attacks
+* Techniques
+* Traits
+* 
+
+
+
+
+
+Name
+
+
+
+
+
+
+Combat
+	Brawn
+	Agility
+	Perception
+	Intelligence
+	Willpower
+	Fellowship
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	Parry
+	Damage Threshold
+	Movement
+	Dodge
+	Initiative
+	Size
+	Peril Threshold
+	Threat Rating
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+
+
+Skill Ranks
+
+
+
+
+Attacks
+* Techniques
+* Traits
+* 
+
+
+
+
+
+Name
+
+
+
+
+
+
+Combat
+	Brawn
+	Agility
+	Perception
+	Intelligence
+	Willpower
+	Fellowship
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	Parry
+	Damage Threshold
+	Movement
+	Dodge
+	Initiative
+	Size
+	Peril Threshold
+	Threat Rating
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+
+
+Skill Ranks
+
+
+
+
+Attacks
+* Techniques
+* Traits
+* 
+
+
+
+
+
+Name
+
+
+
+
+
+
+Combat
+	Brawn
+	Agility
+	Perception
+	Intelligence
+	Willpower
+	Fellowship
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	Parry
+	Damage Threshold
+	Movement
+	Dodge
+	Initiative
+	Size
+	Peril Threshold
+	Threat Rating
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+
+
+Skill Ranks
+
+
+
+
+Attacks
+* Techniques
+* Traits
+* 
+
+
+
+
+
+Name
+
+
+
+
+
+
+Combat
+	Brawn
+	Agility
+	Perception
+	Intelligence
+	Willpower
+	Fellowship
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	Parry
+	Damage Threshold
+	Movement
+	Dodge
+	Initiative
+	Size
+	Peril Threshold
+	Threat Rating
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+
+
+Skill Ranks
+
+
+
+
+Attacks
+* Techniques
+* Traits
+* 
+
+
+
+
+
+Name
+
+
+
+
+
+
+Combat
+	Brawn
+	Agility
+	Perception
+	Intelligence
+	Willpower
+	Fellowship
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	Parry
+	Damage Threshold
+	Movement
+	Dodge
+	Initiative
+	Size
+	Peril Threshold
+	Threat Rating
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+
+
+Skill Ranks
+
+
+
+
+Attacks
+* Techniques
+* Traits
+* 
+
+
+
+
+
+Shinobi
+
+
+
+
+Genin (Rime)
+Barely out of the academy but eager to prove themselves, the Genin of the Village Hidden in the Rime are a hardy folk who specialize in Close Quarters Combat.
+
+
+
+
+Combat
+	Brawn
+	Agility
+	Perception
+	Intelligence
+	Willpower
+	Fellowship
+	45% [5]
+	50% [6]
+	40% [4]
+	40% [4]
+	35% [3]
+	45% [4]
+	40% [4]
+	Parry
+	Damage Threshold
+	Movement
+	Dodge
+	Initiative
+	Size
+	Peril Threshold
+	Chakra Pool
+	Threat Rating
+	55%
+	6
+	7
+	50%
+	7
+	Small (+0d6 damage) or Normal (+1d6 dmg)
+	7
+	10
+	Genin: Low
+	
+
+
+
+Skill Ranks
+* Bukijutsu +10
+* Coordination +10
+* Ninjutsu/Genjutsu +10
+* Stealth +10
+
+
+Attacks
+* Kunai: 55% - Distance (Ranged 8 paces) - Load (1AP) - Damage (1d6+4) - Finesse, Light, Silent
+* Shuriken: 55% - Distance (Ranged 9 paces) - Load (1AP) - Damage (1d6+4) - Fast, Finesse, Inaccurate
+* Unarmed:  45% - Distance (Melee Engaged) - Damage (1d6+6) - Pummelling, Slow
+
+
+Techniques
+* Secret Stance -  Wild Bear (1 AP): 45% - 1 Chakra (Maintained: 1 Chakra/Round)
+   * You move slow but steady, emulating the thrashing attacks of a wild bear. You take a -2 penalty to your Damage Threshold, but gain a +2 bonus Taijutsu attack damage. All Taijutsu and Bukijutsu attacks gain the Pummeling Quality (if they didn’t already have it).
+* Blade Rush (1 AP): 55% - 2 Chakra
+   * Make a single attack with your held weapon. If the attack hits, you deal normal damage and the target is pushed back [BB] Paces if they fail a Challenging (-10%) Coordination test. If the target is pushed back, you may follow after them for free as part of this technique.
+* Wind Scythe (3 AP): 55% - 4 Chakra - Ray
+   * You fire a curved blade of wind, dealing 1d6 Power Die of damage to any creature in the area who fails a Coordination test to Avoid it
+
+
+
+
+Traits
+* Ambush Tactics: These creatures roll 2D10 to determine Initiative.
+* Desperate Assault (2 Misfortune, 1 AP, Combat Action): This creature can use this Trait only when they have suffered at least 3 levels of Damage. They gain +20 to all Combat-based Skill tests and add an extra Damage die to all Attacks for the remainder of this Combat Scene.
+
+
+
+
+Name
+
+
+
+
+
+
+Combat
+	Brawn
+	Agility
+	Perception
+	Intelligence
+	Willpower
+	Fellowship
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	Parry
+	Damage Threshold
+	Movement
+	Dodge
+	Initiative
+	Size
+	Peril Threshold
+	Threat Rating
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+
+
+Skill Ranks
+
+
+
+
+Attacks
+
+
+
+
+Traits
+
+
+
+
+
+
+Name
+
+
+
+
+
+
+Combat
+	Brawn
+	Agility
+	Perception
+	Intelligence
+	Willpower
+	Fellowship
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	Parry
+	Damage Threshold
+	Movement
+	Dodge
+	Initiative
+	Size
+	Peril Threshold
+	Threat Rating
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+
+
+Skill Ranks
+
+
+
+
+Attacks
+
+
+
+
+Traits
+
+
+
+
+
+
+Name
+
+
+
+
+
+
+Combat
+	Brawn
+	Agility
+	Perception
+	Intelligence
+	Willpower
+	Fellowship
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	Parry
+	Damage Threshold
+	Movement
+	Dodge
+	Initiative
+	Size
+	Peril Threshold
+	Threat Rating
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+
+
+Skill Ranks
+
+
+
+
+Attacks
+
+
+
+
+Traits
+
+
+
+
+
+
+Name
+
+
+
+
+
+
+Combat
+	Brawn
+	Agility
+	Perception
+	Intelligence
+	Willpower
+	Fellowship
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	Parry
+	Damage Threshold
+	Movement
+	Dodge
+	Initiative
+	Size
+	Peril Threshold
+	Threat Rating
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+
+
+Skill Ranks
+
+
+
+
+Attacks
+
+
+
+
+Traits
+
+
+
+
+
+
+
+
+Name
+
+
+
+
+
+
+Combat
+	Brawn
+	Agility
+	Perception
+	Intelligence
+	Willpower
+	Fellowship
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	Parry
+	Damage Threshold
+	Movement
+	Dodge
+	Initiative
+	Size
+	Peril Threshold
+	Threat Rating
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+
+
+Skill Ranks
+
+
+
+
+Attacks
+* Techniques
+* Traits
+* 
+
+
+
+
+
+Name
+
+
+
+
+
+
+Combat
+	Brawn
+	Agility
+	Perception
+	Intelligence
+	Willpower
+	Fellowship
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	Parry
+	Damage Threshold
+	Movement
+	Dodge
+	Initiative
+	Size
+	Peril Threshold
+	Threat Rating
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+
+
+Skill Ranks
+
+
+
+
+Attacks
+* Techniques
+* Traits
+* 
+
+
+
+Name
+
+
+
+
+
+
+Combat
+	Brawn
+	Agility
+	Perception
+	Intelligence
+	Willpower
+	Fellowship
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	Parry
+	Damage Threshold
+	Movement
+	Dodge
+	Initiative
+	Size
+	Peril Threshold
+	Threat Rating
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+
+
+Skill Ranks
+
+
+
+
+Attacks
+* Techniques
+* Traits
+* 
+
+
+
+Name
+
+
+
+
+
+
+Combat
+	Brawn
+	Agility
+	Perception
+	Intelligence
+	Willpower
+	Fellowship
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	Parry
+	Damage Threshold
+	Movement
+	Dodge
+	Initiative
+	Size
+	Peril Threshold
+	Threat Rating
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+
+
+Skill Ranks
+
+
+
+
+Attacks
+* Techniques
+* Traits
+* 
+
+
+
+Name
+
+
+
+
+
+
+Combat
+	Brawn
+	Agility
+	Perception
+	Intelligence
+	Willpower
+	Fellowship
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	Parry
+	Damage Threshold
+	Movement
+	Dodge
+	Initiative
+	Size
+	Peril Threshold
+	Threat Rating
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+
+
+Skill Ranks
+
+
+
+
+Attacks
+* Techniques
+* Traits
+*

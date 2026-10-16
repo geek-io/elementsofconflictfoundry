@@ -1,0 +1,149 @@
+{
+  "_id": "OAaqYy26cPJx1v7Z",
+  "effects": [],
+  "img": "systems/zweihander/assets/icons/brutal-helm.svg",
+  "name": "Sanguine Legionnaire",
+  "type": "profession",
+  "_stats": {
+    "coreVersion": "13.342",
+    "systemId": "zweihander",
+    "systemVersion": "5.4.1",
+    "createdTime": null,
+    "modifiedTime": 1735066527385,
+    "lastModifiedBy": "rivg6xcMxdlVDM8y",
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "system": {
+    "description": {
+      "@en": "Though all Daemons field a number of fearsome warriors, none are more unnerving than the battle-hungry Sanguine Legionnaires. Forming the bulk of the Prince of Violence’s hordes, these bellicose soldiers see the battlefield as their church and the blood of their enemies as sacrament to their unyielding god of bloodshed and war. Knowing their nature, the recruitment of Sanguine Legionnaires is rather insidious, for the Prince of Violence knows that being too visible will result in the elimination of His occultists. Thus, Sanguine Legionnaires usually carry themselves off as military consultants, infiltrating aristocratic families, mercenary bands and other fraternities in order to teach the martial disciplines. Slowly but surely, the Legionnaires sways their students into becoming barbaric killers, changing from simple drills to ritualized gladiatorial combat and hardened discipline to blood-addled sacrifices.\\nThe Sanguine Legionnaire does not suffer the wizard, seeing no value in anything but flesh and metal. Therein lies their greatest weakness: they are often so caught up in battle lust that they fail to plan, strategize or even watch their own steps. Some never retreat out of their self-inflicted rages, caring little for the consequences. The Prince of Violence cares just as little, for even an occultist’s death fertilizes the Material Realm with blood and bone."
+    },
+    "notes": "",
+    "expert": {
+      "value": true,
+      "requirements": {
+        "skillRanks": [
+          {
+            "key": "martial melee",
+            "value": 1
+          }
+        ],
+        "additional": "<p>-</p>"
+      }
+    },
+    "archetype": "Expert Profession",
+    "bonusAdvances": [
+      {
+        "name": "[BB]",
+        "purchased": false
+      },
+      {
+        "name": "[BB]",
+        "purchased": false
+      },
+      {
+        "name": "[CB]",
+        "purchased": false
+      },
+      {
+        "name": "[CB]",
+        "purchased": false
+      },
+      {
+        "name": "[FB]",
+        "purchased": false
+      },
+      {
+        "name": "[WB]",
+        "purchased": false
+      },
+      {
+        "name": "[WB]",
+        "purchased": false
+      }
+    ],
+    "skillRanks": [
+      {
+        "name": "Athletics",
+        "purchased": false
+      },
+      {
+        "name": "Folklore",
+        "purchased": false
+      },
+      {
+        "name": "Leadership",
+        "purchased": false
+      },
+      {
+        "name": "Martial Melee",
+        "purchased": false
+      },
+      {
+        "name": "Resolve",
+        "purchased": false
+      },
+      {
+        "name": "Rumor",
+        "purchased": false
+      },
+      {
+        "name": "Simple Melee",
+        "purchased": false
+      },
+      {
+        "name": "Simple Ranged",
+        "purchased": false
+      },
+      {
+        "name": "Toughness",
+        "purchased": false
+      },
+      {
+        "name": "Warfare",
+        "purchased": false
+      }
+    ],
+    "talents": [
+      {
+        "linkedId": "cIaEhW4y3xK76XWt",
+        "name": "Indifference",
+        "uuid": "Compendium.zweihander.zh-talents.Item.cIaEhW4y3xK76XWt"
+      },
+      {
+        "linkedId": "xxL0Z55MRpRP3fyP",
+        "name": "Military Formation",
+        "uuid": "Compendium.zweihander.zh-talents.Item.xxL0Z55MRpRP3fyP"
+      },
+      {
+        "linkedId": "m3t1x4fYjo44sORv",
+        "name": "There Will Be Blood",
+        "uuid": "Compendium.zweihander.zh-talents.Item.m3t1x4fYjo44sORv"
+      }
+    ],
+    "professionalTrait": {
+      "name": "Anointed by Chaos",
+      "uuid": "Compendium.zweihander.zh-traits.Item.Gg91rlrrm4Uww4nT",
+      "linkedId": null
+    },
+    "specialTrait": {
+      "name": "",
+      "uuid": "",
+      "linkedId": null
+    },
+    "drawback": {
+      "name": "Ruinous Power",
+      "uuid": "Compendium.zweihander.zh-drawbacks.Item.rCWSXkUtUw9iZn6G",
+      "linkedId": null
+    },
+    "tier": ""
+  },
+  "folder": null,
+  "sort": 8000000,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {},
+  "_key": "!items!OAaqYy26cPJx1v7Z"
+}

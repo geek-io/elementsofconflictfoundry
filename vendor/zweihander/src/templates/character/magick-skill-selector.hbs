@@ -1,0 +1,8 @@
+<div class="magick-skill-selector flexrow">
+  <label>{{localize "ZWEI.settings.othersettings.governingmagickskill"}}:</label>
+  <select name="system.stats.secondaryAttributes.magick.associatedSkill">
+    {{#each choices.magickSkills}}
+      <option value="{{value}}" {{selected}}>{{label}}</option>
+    {{/each}}
+  </select>
+</div>

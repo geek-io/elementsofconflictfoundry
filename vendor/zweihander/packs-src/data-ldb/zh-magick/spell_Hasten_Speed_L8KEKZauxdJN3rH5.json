@@ -1,0 +1,60 @@
+{
+  "_id": "L8KEKZauxdJN3rH5",
+  "effects": [],
+  "img": "systems/zweihander/assets/icons/hasten-speed.svg",
+  "name": "Hasten Speed",
+  "type": "spell",
+  "_stats": {
+    "coreVersion": "13.342",
+    "systemId": "zweihander",
+    "systemVersion": "5.4.1",
+    "createdTime": null,
+    "modifiedTime": 1745410540847,
+    "lastModifiedBy": "rivg6xcMxdlVDM8y",
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "system": {
+    "description": {
+      "@en": "With a ‘snap’ of your fingers, you usher others to move much faster."
+    },
+    "notes": "",
+    "rules": {
+      "effect": {
+        "@en": "After successfully casting this spell, the person you touch increases their Combat Movement and Initiative by 3."
+      },
+      "criticalSuccess": {
+        "@en": "As above, but they also gain 1 additional AP per Turn in combat."
+      },
+      "criticalFailure": {
+        "@en": "Time begins to ebb strangely around you. The person you intended to hasten immediately ages three years."
+      },
+      "reagents": {
+        "@en": "The boot of a weary traveler, worn on your feet"
+      }
+    },
+    "tradition": "Generalist",
+    "principle": "Generalist",
+    "distance": "Any one person you can touch",
+    "duration": {
+      "value": "instantaneous",
+      "label": "[WB] + 3 minutes",
+      "formula": {
+        "override": true
+      },
+      "base": "[WB]",
+      "bonus": 3,
+      "unit": "minutes"
+    },
+    "castingTime": "1 min",
+    "castingCost": 0
+  },
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {},
+  "_key": "!items!L8KEKZauxdJN3rH5"
+}

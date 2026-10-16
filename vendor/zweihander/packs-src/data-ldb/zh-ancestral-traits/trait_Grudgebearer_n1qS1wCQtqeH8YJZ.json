@@ -1,0 +1,37 @@
+{
+  "_id": "n1qS1wCQtqeH8YJZ",
+  "effects": [],
+  "img": "systems/zweihander/assets/icons/bookmarklet.svg",
+  "name": "Grudgebearer",
+  "type": "trait",
+  "_stats": {
+    "coreVersion": "13.342",
+    "systemId": "zweihander",
+    "systemVersion": "5.4.1",
+    "createdTime": null,
+    "modifiedTime": 1734974463056,
+    "lastModifiedBy": "rivg6xcMxdlVDM8y",
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "system": {
+    "description": {
+      "@en": "Dwarves harbor ancestral hatred, bringing violence upon hated enemies. Perceived grievances – both real and imagined – and general bigotry fuel this rage."
+    },
+    "notes": "",
+    "rules": {
+      "effect": {
+        "@en": "Whenever you use Fury Dice to determine weapon Damage, they explode on face ‘5-6’. You can learn more about how Fury Dice affects Damage in Chapter 8: Combat."
+      }
+    },
+    "category": "ancestral"
+  },
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {},
+  "_key": "!items!n1qS1wCQtqeH8YJZ"
+}

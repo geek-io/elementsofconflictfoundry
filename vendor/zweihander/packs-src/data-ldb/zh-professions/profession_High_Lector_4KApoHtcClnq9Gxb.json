@@ -1,0 +1,149 @@
+{
+  "_id": "4KApoHtcClnq9Gxb",
+  "effects": [],
+  "img": "systems/zweihander/assets/icons/high_lector.svg",
+  "name": "High Lector",
+  "type": "profession",
+  "_stats": {
+    "coreVersion": "13.342",
+    "systemId": "zweihander",
+    "systemVersion": "5.4.1",
+    "createdTime": null,
+    "modifiedTime": 1735049626318,
+    "lastModifiedBy": "rivg6xcMxdlVDM8y",
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "system": {
+    "description": {
+      "@en": "Each church is headed by a High Lector, the most holy and trusted of any faith who has communed directly with the heavens and now serves as a holy vessel. To hear the word of the High Lector is to hear the word of god, be it of the Nightfather to a Grey Guilder, the Martyr to a Revered Mother or the God-Emperor to a Godsworn, they all supplicate before their High Lector’s divine guidance. Accession to the position of High Lector almost always involves a vibrant vision and guidance from the gods. They are told to shepherd their people towards a higher order, to be a leader in both spirit, body and mind. They often take on attributes of their beloved deity, such as the God-Emperor’s golden locks or the Nightfather’s cloaked visage. The laity often treat High Lectors as both powerful priests and living avatars – true earthly embodiments of their god, as close to divinity as they are likely to get.\nSome High Lectors revel in the power and ego of their position, but most are humble, mere servants, chosen for a lifetime of pain and glory. They are advisers and leaders, lending their prayers to the smallest of churches and the highest of temples, yet few ever journey beyond their apartments or the halls of power. A rare few take to the road, observing the grim & perilous world through their own eyes to better understand how they can serve a higher purpose. Often this is because their faith has wavered, they have fallen from grace or their prayers have fallen on empty, god-forsaken temples. As close to divinity as they are, High Lectors remain at the whimsy of their gods and those who become too enthralled in their gods tend to disappear forever. Whether this disappearance is an exaltation into the hallowed halls of the heavens or a corruptive descent into the Abyss is yet to be understood."
+    },
+    "notes": "",
+    "expert": {
+      "value": true,
+      "requirements": {
+        "skillRanks": [
+          {
+            "key": "incantation",
+            "value": 2
+          }
+        ],
+        "additional": "<p>You must have the Special Trait of Divine Magick. In addition, you must sacrifice one Fate Point upon entering this Profession.</p>"
+      }
+    },
+    "archetype": "Expert Profession",
+    "bonusAdvances": [
+      {
+        "name": "[FB]",
+        "purchased": false
+      },
+      {
+        "name": "[FB]",
+        "purchased": false
+      },
+      {
+        "name": "[IB]",
+        "purchased": false
+      },
+      {
+        "name": "[IB]",
+        "purchased": false
+      },
+      {
+        "name": "[PB]",
+        "purchased": false
+      },
+      {
+        "name": "[WB]",
+        "purchased": false
+      },
+      {
+        "name": "[WB]",
+        "purchased": false
+      }
+    ],
+    "skillRanks": [
+      {
+        "name": "Bargain",
+        "purchased": false
+      },
+      {
+        "name": "Education",
+        "purchased": false
+      },
+      {
+        "name": "Folklore",
+        "purchased": false
+      },
+      {
+        "name": "Heal",
+        "purchased": false
+      },
+      {
+        "name": "Incantation",
+        "purchased": false
+      },
+      {
+        "name": "Leadership",
+        "purchased": false
+      },
+      {
+        "name": "Resolve",
+        "purchased": false
+      },
+      {
+        "name": "Rumor",
+        "purchased": false
+      },
+      {
+        "name": "Scrutinize",
+        "purchased": false
+      },
+      {
+        "name": "Simple Melee",
+        "purchased": false
+      }
+    ],
+    "talents": [
+      {
+        "linkedId": "0l5T7zT8MMm0Fhp8",
+        "name": "Light Sleeper",
+        "uuid": "Compendium.zweihander.zh-talents.Item.0l5T7zT8MMm0Fhp8"
+      },
+      {
+        "linkedId": "5TzEbf1VOmPfpolL",
+        "name": "Multilingual",
+        "uuid": "Compendium.zweihander.zh-talents.Item.5TzEbf1VOmPfpolL"
+      },
+      {
+        "linkedId": "sr0nQ2JrQV4DnTeU",
+        "name": "Secret Signs",
+        "uuid": "Compendium.zweihander.zh-talents.Item.sr0nQ2JrQV4DnTeU"
+      }
+    ],
+    "professionalTrait": {
+      "name": "Living Avatar",
+      "uuid": "Compendium.zweihander.zh-traits.Item.X5vZmKqBBbv3TT3T",
+      "linkedId": null
+    },
+    "specialTrait": {
+      "name": "Divine Mastery",
+      "uuid": "Compendium.zweihander.zh-traits.Item.INbi9aCxIOLOZulT",
+      "linkedId": null
+    },
+    "drawback": {
+      "name": "Not Long for This World",
+      "uuid": "Compendium.zweihander.zh-drawbacks.Item.eLcR64F7lWbc695D",
+      "linkedId": null
+    },
+    "tier": ""
+  },
+  "folder": null,
+  "sort": 1500000,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {},
+  "_key": "!items!4KApoHtcClnq9Gxb"
+}

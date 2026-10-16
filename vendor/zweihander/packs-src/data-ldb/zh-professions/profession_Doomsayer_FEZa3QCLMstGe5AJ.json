@@ -1,0 +1,144 @@
+{
+  "_id": "FEZa3QCLMstGe5AJ",
+  "effects": [],
+  "img": "systems/zweihander/assets/icons/doomsayer.svg",
+  "name": "Doomsayer",
+  "type": "profession",
+  "_stats": {
+    "coreVersion": "13.342",
+    "systemId": "zweihander",
+    "systemVersion": "5.4.1",
+    "createdTime": null,
+    "modifiedTime": 1734990834095,
+    "lastModifiedBy": "rivg6xcMxdlVDM8y",
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "system": {
+    "description": {
+      "@en": "The religious devotion of the Doomsayer borders on the fanatical. They believe that they were born into sin and the only way to absolve themselves of it is through ‘physical purification’, otherwise known as flagellation. They punish themselves with ritual floggings, often with a cat-o-nine-tails, but other punishments involve starvation, ritual burning, marking of the flesh and even mutilation. Proud of their scars and pain, Doomsayers see this as physical proof of their devotion and love for their god. Their bodies are temples, solemn places of suffering and fear that do not deserve their Lord’s grace. While this may seem grim, they find nothing better in life than devoting themselves body and soul to the holy spirits.\nDoomsayers often go adventuring to spread the word of their faith and show how to cleanse with pain. This makes them resistant to hardship, their own – and that of others, their devotion driving them to acts of well-intentioned sadism! Worse, many a Doomsayer has gone into a frenzy after seeing something man was not meant to see, stripping their back to the bone or scorching their hands black, full of agony. Only afterwards do they attempt to repent for what they have seen, just to die slowly, blinding pain. Other adventurers wary of the maddened Doomsayer, for filled with righteous wrath, they are too ready to inflict the punishments their god has demanded be meted out to sinners!"
+    },
+    "notes": "",
+    "expert": {
+      "value": false,
+      "requirements": {
+        "skillRanks": [],
+        "additional": ""
+      }
+    },
+    "archetype": "Commoner",
+    "bonusAdvances": [
+      {
+        "name": "[BB]",
+        "purchased": false
+      },
+      {
+        "name": "[BB]",
+        "purchased": false
+      },
+      {
+        "name": "[IB]",
+        "purchased": false
+      },
+      {
+        "name": "[IB]",
+        "purchased": false
+      },
+      {
+        "name": "[PB]",
+        "purchased": false
+      },
+      {
+        "name": "[WB]",
+        "purchased": false
+      },
+      {
+        "name": "[WB]",
+        "purchased": false
+      }
+    ],
+    "skillRanks": [
+      {
+        "name": "Folklore",
+        "purchased": false
+      },
+      {
+        "name": "Heal",
+        "purchased": false
+      },
+      {
+        "name": "Interrogation",
+        "purchased": false
+      },
+      {
+        "name": "Leadership",
+        "purchased": false
+      },
+      {
+        "name": "Navigation",
+        "purchased": false
+      },
+      {
+        "name": "Resolve",
+        "purchased": false
+      },
+      {
+        "name": "Simple Melee",
+        "purchased": false
+      },
+      {
+        "name": "Simple Ranged",
+        "purchased": false
+      },
+      {
+        "name": "Survival",
+        "purchased": false
+      },
+      {
+        "name": "Toughness",
+        "purchased": false
+      }
+    ],
+    "talents": [
+      {
+        "linkedId": "XagfAjJDzmkyHGk5",
+        "name": "Hard to Kill",
+        "uuid": "Compendium.zweihander.zh-talents.Item.XagfAjJDzmkyHGk5"
+      },
+      {
+        "linkedId": "WsD0GRMRKX8Ov0mT",
+        "name": "Impervious Mind",
+        "uuid": "Compendium.zweihander.zh-talents.Item.WsD0GRMRKX8Ov0mT"
+      },
+      {
+        "linkedId": "GIvpgOhlA9mcAcK0",
+        "name": "Run Amok",
+        "uuid": "Compendium.zweihander.zh-talents.Item.GIvpgOhlA9mcAcK0"
+      }
+    ],
+    "professionalTrait": {
+      "name": "Holy Roller",
+      "uuid": "Compendium.zweihander.zh-traits.Item.N8IsIgtjxKodYdr7",
+      "linkedId": null
+    },
+    "specialTrait": {
+      "name": "",
+      "uuid": "",
+      "linkedId": null
+    },
+    "drawback": {
+      "name": "The End is Nigh",
+      "uuid": "Compendium.zweihander.zh-drawbacks.Item.pyPi0Qo3V5CmE5uZ",
+      "linkedId": null
+    },
+    "tier": ""
+  },
+  "folder": null,
+  "sort": 5000000,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {},
+  "_key": "!items!FEZa3QCLMstGe5AJ"
+}

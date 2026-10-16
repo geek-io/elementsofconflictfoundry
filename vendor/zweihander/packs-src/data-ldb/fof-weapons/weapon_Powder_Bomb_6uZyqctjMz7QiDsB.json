@@ -1,0 +1,73 @@
+{
+  "_id": "6uZyqctjMz7QiDsB",
+  "effects": [],
+  "img": "systems/zweihander/assets/icons/fire-bottle.svg",
+  "name": "Powder Bomb",
+  "type": "weapon",
+  "_stats": {
+    "coreVersion": "13.342",
+    "systemId": "zweihander",
+    "systemVersion": "5.4.1",
+    "createdTime": 1745429307087,
+    "modifiedTime": 1745429307087,
+    "lastModifiedBy": "rivg6xcMxdlVDM8y",
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "system": {
+    "description": {
+      "@en": "<p>This bomb is not deadly; instead, it produces a cloud of smoke that obscures vision.</p>"
+    },
+    "notes": "",
+    "price": {
+      "bp": "0",
+      "gc": "1",
+      "ss": ""
+    },
+    "encumbrance": 1,
+    "carried": true,
+    "weaponType": "Ranged",
+    "equipped": false,
+    "associatedSkill": "Simple Ranged",
+    "ranged": {
+      "load": 1,
+      "value": true
+    },
+    "handling": "One-handed",
+    "qualities": [
+      "Compendium.zweihander.fof-qualities.Item.F2Cn8pXIU3dIQlds",
+      "Compendium.zweihander.fof-qualities.Item.R9RtDnDfaTbK4Rqw",
+      "Compendium.zweihander.zh-qualities.Item.KXgL0c3gldCPJLzv"
+    ],
+    "distance": {
+      "value": "1 + [PB] ",
+      "base": "[PB]",
+      "bonus": 1
+    },
+    "damage": {
+      "formula": {
+        "override": false,
+        "value": "0"
+      },
+      "attributeBonus": "[CB]",
+      "number": 1,
+      "die": "d6",
+      "bonus": 0,
+      "fury": {
+        "value": true,
+        "explodesOn": [
+          "6"
+        ]
+      }
+    },
+    "load": 1
+  },
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {},
+  "_key": "!items!6uZyqctjMz7QiDsB"
+}

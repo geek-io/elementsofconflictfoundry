@@ -1,0 +1,37 @@
+{
+  "_id": "N8IsIgtjxKodYdr7",
+  "effects": [],
+  "img": "systems/zweihander/assets/icons/vitruvian-man.svg",
+  "name": "Holy Roller",
+  "type": "trait",
+  "_stats": {
+    "coreVersion": "13.342",
+    "systemId": "zweihander",
+    "systemVersion": "5.4.1",
+    "createdTime": null,
+    "modifiedTime": 1735911103056,
+    "lastModifiedBy": "rivg6xcMxdlVDM8y",
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "system": {
+    "description": {
+      "@en": "Doomsayers ritually flog themselves, forging their faith in the crucible of suffering and hardship. Their back may bear many scars, but a Doomsayer knows that the pain they’ve endured guarantees them a place in the afterlife at their god’s side."
+    },
+    "notes": "",
+    "rules": {
+      "effect": {
+        "@en": "Adjust your Damage Threshold by +3, but only when you aren’t wearing armor."
+      }
+    },
+    "category": "professional"
+  },
+  "folder": null,
+  "sort": 7200000,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {},
+  "_key": "!items!N8IsIgtjxKodYdr7"
+}

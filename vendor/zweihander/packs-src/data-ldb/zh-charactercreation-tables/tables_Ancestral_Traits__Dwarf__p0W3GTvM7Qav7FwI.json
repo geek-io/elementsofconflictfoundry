@@ -1,0 +1,353 @@
+{
+  "_id": "p0W3GTvM7Qav7FwI",
+  "displayRoll": true,
+  "formula": "1d12",
+  "img": "systems/zweihander/assets/icons/dwarf-face.svg",
+  "name": "Ancestral Traits (Dwarf)",
+  "replacement": true,
+  "results": [
+    {
+      "_id": "4WwihiQmqOVQeqX2",
+      "drawn": false,
+      "flags": {},
+      "img": "systems/zweihander/assets/icons/night-vision.svg",
+      "range": [
+        1,
+        1
+      ],
+      "type": "document",
+      "weight": 1,
+      "_stats": {
+        "coreVersion": "13.342",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "name": "Cavesight",
+      "documentUuid": "Compendium.zweihander.zh-ancestral-traits.Item.S1qw4pdur1rtjfCX",
+      "description": "",
+      "_key": "!tables.results!p0W3GTvM7Qav7FwI.4WwihiQmqOVQeqX2"
+    },
+    {
+      "_id": "xzsfqzEoCz46DKbZ",
+      "drawn": false,
+      "flags": {},
+      "img": "systems/zweihander/assets/icons/muscle-fat.svg",
+      "range": [
+        2,
+        2
+      ],
+      "type": "document",
+      "weight": 1,
+      "_stats": {
+        "coreVersion": "13.342",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "name": "Children of the Earth",
+      "documentUuid": "Compendium.zweihander.zh-ancestral-traits.Item.Q02sPEGGlo57GuKV",
+      "description": "",
+      "_key": "!tables.results!p0W3GTvM7Qav7FwI.xzsfqzEoCz46DKbZ"
+    },
+    {
+      "_id": "xkZCs2e4HCVSUcBC",
+      "drawn": false,
+      "flags": {},
+      "img": "systems/zweihander/assets/icons/beer-stein.svg",
+      "range": [
+        3,
+        3
+      ],
+      "type": "document",
+      "weight": 1,
+      "_stats": {
+        "coreVersion": "13.342",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "name": "Consume Alcohol",
+      "documentUuid": "Compendium.zweihander.zh-ancestral-traits.Item.8qZlO7kTfJPid9Cc",
+      "description": "",
+      "_key": "!tables.results!p0W3GTvM7Qav7FwI.xkZCs2e4HCVSUcBC"
+    },
+    {
+      "_id": "GRQLuE4eVzKgEuQk",
+      "drawn": false,
+      "flags": {},
+      "img": "systems/zweihander/assets/icons/warhammer.svg",
+      "range": [
+        4,
+        4
+      ],
+      "type": "document",
+      "weight": 1,
+      "_stats": {
+        "coreVersion": "13.342",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "name": "Dwarven Warfare",
+      "documentUuid": "Compendium.zweihander.zh-ancestral-traits.Item.B9AyG3geLeubk3k4",
+      "description": "",
+      "_key": "!tables.results!p0W3GTvM7Qav7FwI.GRQLuE4eVzKgEuQk"
+    },
+    {
+      "_id": "oUNie6OTBPATnvmF",
+      "drawn": false,
+      "flags": {},
+      "img": "systems/zweihander/assets/icons/bookmarklet.svg",
+      "range": [
+        5,
+        5
+      ],
+      "type": "document",
+      "weight": 1,
+      "_stats": {
+        "coreVersion": "13.342",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "name": "Grudgebearer",
+      "documentUuid": "Compendium.zweihander.zh-ancestral-traits.Item.n1qS1wCQtqeH8YJZ",
+      "description": "",
+      "_key": "!tables.results!p0W3GTvM7Qav7FwI.oUNie6OTBPATnvmF"
+    },
+    {
+      "_id": "XjfUaE8mREgywwQV",
+      "drawn": false,
+      "flags": {},
+      "img": "systems/zweihander/assets/icons/abdominal-armor.svg",
+      "range": [
+        6,
+        6
+      ],
+      "type": "document",
+      "weight": 1,
+      "_stats": {
+        "coreVersion": "13.342",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "name": "Ironclad",
+      "documentUuid": "Compendium.zweihander.zh-ancestral-traits.Item.SKgBhorMitIilSgH",
+      "description": "",
+      "_key": "!tables.results!p0W3GTvM7Qav7FwI.XjfUaE8mREgywwQV"
+    },
+    {
+      "_id": "8p1KpKuavSeob3Id",
+      "drawn": false,
+      "flags": {},
+      "img": "systems/zweihander/assets/icons/griffin-shield.svg",
+      "range": [
+        7,
+        7
+      ],
+      "type": "document",
+      "weight": 1,
+      "_stats": {
+        "coreVersion": "13.342",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "name": "Oathkeeper",
+      "documentUuid": "Compendium.zweihander.zh-ancestral-traits.Item.0JkzZxLRiqJS8o2U",
+      "description": "",
+      "_key": "!tables.results!p0W3GTvM7Qav7FwI.8p1KpKuavSeob3Id"
+    },
+    {
+      "_id": "YnOHYvoiS6WzjfdW",
+      "drawn": false,
+      "flags": {},
+      "img": "systems/zweihander/assets/icons/atlas.svg",
+      "range": [
+        8,
+        8
+      ],
+      "type": "document",
+      "weight": 1,
+      "_stats": {
+        "coreVersion": "13.342",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "name": "Physical Prowess",
+      "documentUuid": "Compendium.zweihander.zh-ancestral-traits.Item.KyzmfbTsxSkqYOYw",
+      "description": "",
+      "_key": "!tables.results!p0W3GTvM7Qav7FwI.YnOHYvoiS6WzjfdW"
+    },
+    {
+      "_id": "G3V3Fpv20OByJ7G0",
+      "drawn": false,
+      "flags": {},
+      "img": "systems/zweihander/assets/icons/rune-stone.svg",
+      "range": [
+        9,
+        9
+      ],
+      "type": "document",
+      "weight": 1,
+      "_stats": {
+        "coreVersion": "13.342",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "name": "Rune-Marked Glory",
+      "documentUuid": "Compendium.zweihander.zh-ancestral-traits.Item.0NHgCHsPVQM0kw1D",
+      "description": "",
+      "_key": "!tables.results!p0W3GTvM7Qav7FwI.G3V3Fpv20OByJ7G0"
+    },
+    {
+      "_id": "d7Ij3kb5NOGZMx4t",
+      "drawn": false,
+      "flags": {},
+      "img": "systems/zweihander/assets/icons/carillon.svg",
+      "range": [
+        10,
+        10
+      ],
+      "type": "document",
+      "weight": 1,
+      "_stats": {
+        "coreVersion": "13.342",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "name": "Stentorian Voice",
+      "documentUuid": "Compendium.zweihander.zh-ancestral-traits.Item.bd7FNtCmzHk7hxUh",
+      "description": "",
+      "_key": "!tables.results!p0W3GTvM7Qav7FwI.d7Ij3kb5NOGZMx4t"
+    },
+    {
+      "_id": "mURZ0zdo2ehIJxFs",
+      "drawn": false,
+      "flags": {},
+      "img": "systems/zweihander/assets/icons/rock.svg",
+      "range": [
+        11,
+        11
+      ],
+      "type": "document",
+      "weight": 1,
+      "_stats": {
+        "coreVersion": "13.342",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "name": "Stoneheaded",
+      "documentUuid": "Compendium.zweihander.zh-ancestral-traits.Item.DxuldbgeIYbMkp9G",
+      "description": "",
+      "_key": "!tables.results!p0W3GTvM7Qav7FwI.mURZ0zdo2ehIJxFs"
+    },
+    {
+      "_id": "9gv8fQCRpSqPuPdU",
+      "drawn": false,
+      "flags": {},
+      "img": "systems/zweihander/assets/icons/mountains.svg",
+      "range": [
+        12,
+        12
+      ],
+      "type": "document",
+      "weight": 1,
+      "_stats": {
+        "coreVersion": "13.342",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "name": "Strength of the Mountain",
+      "documentUuid": "Compendium.zweihander.zh-ancestral-traits.Item.J7YctuoNZ9Rn5kk6",
+      "description": "",
+      "_key": "!tables.results!p0W3GTvM7Qav7FwI.9gv8fQCRpSqPuPdU"
+    }
+  ],
+  "_stats": {
+    "coreVersion": "13.342",
+    "systemId": null,
+    "systemVersion": null,
+    "createdTime": null,
+    "modifiedTime": 1735228578567,
+    "lastModifiedBy": "rivg6xcMxdlVDM8y",
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "description": "",
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {},
+  "_key": "!tables!p0W3GTvM7Qav7FwI"
+}

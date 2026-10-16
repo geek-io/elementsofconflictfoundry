@@ -1,0 +1,153 @@
+{
+  "_id": "lnt6QBeokgQxOc80",
+  "effects": [],
+  "img": "systems/zweihander/assets/icons/magic-axe.svg",
+  "name": "Rune Jarl",
+  "type": "profession",
+  "_stats": {
+    "coreVersion": "13.342",
+    "systemId": "zweihander",
+    "systemVersion": "5.4.1",
+    "createdTime": null,
+    "modifiedTime": 1735052621378,
+    "lastModifiedBy": "rivg6xcMxdlVDM8y",
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "system": {
+    "description": {
+      "@en": "Rune Thanes may have devoted their life to the art of the Elder Futhark and all it entails, but the Rune Jarl has forged a new form of rune Magick, colloquially called Younger Futhark. Rune Jarls are undoubtedly the leaders of runic study and some are said to have been the very first to research the symbols. While a mere Rune Thane may take hours to bind a singular rune to an item, a Rune Jarl can do the same process in a matter of minutes. Their power also blossoms – they can construct runes that affect things such as war machines, buildings and sometimes even entire cities. Rune Jarls are considered near-royalty who have as much say as the greatest artisans and warriors. In others, Rune Jarls are actually considered level-headed and proper fighters, rather than simply scribes of an ancient language.\\nLevel-headed thinking can escape the Rune Jarl – not out of spite, but by taking on too much responsibility. People begin to see the gregarious and quick-acting Rune Jarl as an easy solution, coming to them with all their problems while expecting a missive with some ‘magic words’ upon them. Many Rune Jarls see through this ploy and offer their services at a premium – this usually casts them out of favor of the smallfolk, but it keeps them stable. Those who don’t can easily buckle from it all, usually from making sloppy runes that backfire or don’t work. One tale tells of a Rune Jarl who was so exhausted from their requests for runes of protection that the Rune Jarl inscribed one upon the land of a whole dukedom. When it was finally activated, the rune backfired and destroyed the duchy – a deadly result of Magick done under too much stress!"
+    },
+    "notes": "",
+    "expert": {
+      "value": true,
+      "requirements": {
+        "skillRanks": [
+          {
+            "key": "resolve",
+            "value": 2
+          },
+          {
+            "key": "tradecraft",
+            "value": 2
+          }
+        ],
+        "additional": "<p>-</p>"
+      }
+    },
+    "archetype": "Expert Profession",
+    "bonusAdvances": [
+      {
+        "name": "[AB]",
+        "purchased": false
+      },
+      {
+        "name": "[BB]",
+        "purchased": false
+      },
+      {
+        "name": "[BB]",
+        "purchased": false
+      },
+      {
+        "name": "[CB]",
+        "purchased": false
+      },
+      {
+        "name": "[IB]",
+        "purchased": false
+      },
+      {
+        "name": "[IB]",
+        "purchased": false
+      },
+      {
+        "name": "[WB]",
+        "purchased": false
+      }
+    ],
+    "skillRanks": [
+      {
+        "name": "Alchemy",
+        "purchased": false
+      },
+      {
+        "name": "Coordination",
+        "purchased": false
+      },
+      {
+        "name": "Education",
+        "purchased": false
+      },
+      {
+        "name": "Folklore",
+        "purchased": false
+      },
+      {
+        "name": "Martial Melee",
+        "purchased": false
+      },
+      {
+        "name": "Resolve",
+        "purchased": false
+      },
+      {
+        "name": "Rumor",
+        "purchased": false
+      },
+      {
+        "name": "Simple Melee",
+        "purchased": false
+      },
+      {
+        "name": "Simple Ranged",
+        "purchased": false
+      },
+      {
+        "name": "Tradecraft",
+        "purchased": false
+      }
+    ],
+    "talents": [
+      {
+        "linkedId": "m2dcnYIEtxqzPeqW",
+        "name": "Second Skin",
+        "uuid": "Compendium.zweihander.zh-talents.Item.m2dcnYIEtxqzPeqW"
+      },
+      {
+        "linkedId": "sr0nQ2JrQV4DnTeU",
+        "name": "Secret Signs",
+        "uuid": "Compendium.zweihander.zh-talents.Item.sr0nQ2JrQV4DnTeU"
+      },
+      {
+        "linkedId": "qMjvGbik0SBdY852",
+        "name": "True Grit",
+        "uuid": "Compendium.zweihander.zh-talents.Item.qMjvGbik0SBdY852"
+      }
+    ],
+    "professionalTrait": {
+      "name": "Younger Futhark",
+      "uuid": "Compendium.zweihander.zh-traits.Item.IUWkURAO95yECnyh",
+      "linkedId": null
+    },
+    "specialTrait": {
+      "name": "",
+      "uuid": "",
+      "linkedId": null
+    },
+    "drawback": {
+      "name": "Runic Instability",
+      "uuid": "Compendium.zweihander.zh-drawbacks.Item.ITdiaGklrk5epo54",
+      "linkedId": null
+    },
+    "tier": ""
+  },
+  "folder": null,
+  "sort": 13900000,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {},
+  "_key": "!items!lnt6QBeokgQxOc80"
+}

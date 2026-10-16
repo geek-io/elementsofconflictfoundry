@@ -1,0 +1,149 @@
+{
+  "_id": "sLwHAVHlGBuOSIfb",
+  "effects": [],
+  "img": "systems/zweihander/assets/icons/dark-disciple.svg",
+  "name": "Dark Disciple",
+  "type": "profession",
+  "_stats": {
+    "coreVersion": "13.342",
+    "systemId": "zweihander",
+    "systemVersion": "5.4.1",
+    "createdTime": null,
+    "modifiedTime": 1735047667652,
+    "lastModifiedBy": "rivg6xcMxdlVDM8y",
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "system": {
+    "description": {
+      "@en": "In a grim & perilous world, the gods have grown distant, only answering the prayers of their most faithful rather than appearing in the material realm as they did long ago. Many of the priests who question why this is, come to hear not their gods, but the ‘worms of ruin’ that whisper a terrible truth – the gods do not exist. Manifestations of the terrible Abyssal Princes of the endless pit, these worms convince such priests that their life-long faith has been a lie, their true devotion to a clever ruse created by the forces of chaos and they are the only true deities. With this realization, the faith that these priests had in the gods grows loathsome and twisted and they become Dark Disciples. Some wander from town to town as crazed scaremongers, preaching the end of reality as we know it; some reject the gods entirely, coming to see themselves as the focus of earthly god-like might; others simply supplicate themselves before the newly-revealed Abyssal powers.\nDark Disciples must hide their change in faith, as even the hint of their worshipping Abyssal powers is reason enough for them to be burned at the stake. Yet when their Abyssal masters actively respond to them in ways their former gods no longer do, Dark Disciples have little choice but to look over the edge of ruin, staring into the ever-roiling maw of the Abyss and questioning not whether, but when, to jump. Only the strongest and most insane resist the call while still trying to make sense of its whispering. Most though, will eventually plunge head first into the sickening, torturous and bloodsoaked orgy that is the realm of the Abyss, fully wrapped in its dark embrace."
+    },
+    "notes": "",
+    "expert": {
+      "value": true,
+      "requirements": {
+        "skillRanks": [
+          {
+            "key": "incantation",
+            "value": 2
+          }
+        ],
+        "additional": "<p>You must have the Special Trait of Divine Magick.</p>"
+      }
+    },
+    "archetype": "Expert Profession",
+    "bonusAdvances": [
+      {
+        "name": "[AB]",
+        "purchased": false
+      },
+      {
+        "name": "[FB]",
+        "purchased": false
+      },
+      {
+        "name": "[FB]",
+        "purchased": false
+      },
+      {
+        "name": "[IB]",
+        "purchased": false
+      },
+      {
+        "name": "[IB]",
+        "purchased": false
+      },
+      {
+        "name": "[PB]",
+        "purchased": false
+      },
+      {
+        "name": "[WB]",
+        "purchased": false
+      }
+    ],
+    "skillRanks": [
+      {
+        "name": "Disguise",
+        "purchased": false
+      },
+      {
+        "name": "Education",
+        "purchased": false
+      },
+      {
+        "name": "Folklore",
+        "purchased": false
+      },
+      {
+        "name": "Heal",
+        "purchased": false
+      },
+      {
+        "name": "Incantation",
+        "purchased": false
+      },
+      {
+        "name": "Leadership",
+        "purchased": false
+      },
+      {
+        "name": "Rumor",
+        "purchased": false
+      },
+      {
+        "name": "Scrutinize",
+        "purchased": false
+      },
+      {
+        "name": "Simple Melee",
+        "purchased": false
+      },
+      {
+        "name": "Stealth",
+        "purchased": false
+      }
+    ],
+    "talents": [
+      {
+        "linkedId": "VTJ2gonJGSCCGwov",
+        "name": "Doppelganger",
+        "uuid": "Compendium.zweihander.zh-talents.Item.VTJ2gonJGSCCGwov"
+      },
+      {
+        "linkedId": "cIaEhW4y3xK76XWt",
+        "name": "Indifference",
+        "uuid": "Compendium.zweihander.zh-talents.Item.cIaEhW4y3xK76XWt"
+      },
+      {
+        "linkedId": "sVFqLRKgBdMFvBOh",
+        "name": "Left-handed Path",
+        "uuid": "Compendium.zweihander.zh-talents.Item.sVFqLRKgBdMFvBOh"
+      }
+    ],
+    "professionalTrait": {
+      "name": "Faustian Bargain",
+      "uuid": "Compendium.zweihander.zh-traits.Item.P9TuynBi5GU5UNNP",
+      "linkedId": null
+    },
+    "specialTrait": {
+      "name": "Divine Mastery",
+      "uuid": "Compendium.zweihander.zh-traits.Item.INbi9aCxIOLOZulT",
+      "linkedId": null
+    },
+    "drawback": {
+      "name": "Diabolical Mark",
+      "uuid": "Compendium.zweihander.zh-drawbacks.Item.800XO1nklFvzWAja",
+      "linkedId": null
+    },
+    "tier": ""
+  },
+  "folder": null,
+  "sort": 15600000,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {},
+  "_key": "!items!sLwHAVHlGBuOSIfb"
+}

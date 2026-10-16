@@ -1,0 +1,37 @@
+{
+  "_id": "SMW7egig7QDi05S8",
+  "effects": [],
+  "img": "systems/zweihander/assets/icons/sword-brandish.svg",
+  "name": "Dauntless",
+  "type": "trait",
+  "_stats": {
+    "coreVersion": "13.342",
+    "systemId": "zweihander",
+    "systemVersion": "5.4.1",
+    "createdTime": null,
+    "modifiedTime": 1735911103064,
+    "lastModifiedBy": "rivg6xcMxdlVDM8y",
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "system": {
+    "description": {
+      "@en": ""
+    },
+    "notes": "",
+    "rules": {
+      "effect": {
+        "@en": "You are immune to the effects of the Intimidate Skill and cannot be Stunned or Knocked Out!"
+      }
+    },
+    "category": "professional"
+  },
+  "folder": null,
+  "sort": 8900000,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {},
+  "_key": "!items!SMW7egig7QDi05S8"
+}

@@ -1,0 +1,149 @@
+{
+  "_id": "H80WN2v6Fb4tXhuk",
+  "effects": [],
+  "img": "systems/zweihander/assets/icons/guildmaster.svg",
+  "name": "Guildmaster",
+  "type": "profession",
+  "_stats": {
+    "coreVersion": "13.342",
+    "systemId": "zweihander",
+    "systemVersion": "5.4.1",
+    "createdTime": null,
+    "modifiedTime": 1735048105217,
+    "lastModifiedBy": "rivg6xcMxdlVDM8y",
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "system": {
+    "description": {
+      "@en": "Although there exists many an independent craftsman or scholar, control of manufacturing, craftsmanship, academic subjects and so on rests with the guilds. These fraternal, sometimes maternal, organizations monopolize specific trades or fields of study, from glassblowing and masonry to astronomy and medicine. Each guild inducts apprentices who spend years, even decades, studying their trade or subject until eventually they learn ‘the mysteries’ known only to each guild. Leading each guild in each town and city is a Guildmaster, perhaps a trusted librarian, a reputable merchant or a master craftsman, but all renowned for their knowledge and expertise. Together they control who engages in their trade or field of study, often denying guild membership or the right to trade to independent scholars and craftsmen They set prices too, brooking no competition, but they also present a united front against those who exploit them. Nevertheless, many have become wealthy and in the process, members of the newly burgeoning middle classes – the bourgeois burghers.\nA Guildmaster’s skills will vary according to the trades they represent, but all have leadership skills and know the ins and outs of their craft, trade or field of study. In a grim & perilous world, guilds have even arisen to control banking and mercenary bands, their leaders exercising great influence at court and on the battlefield. All Guildmasters work to protect their guild’s monopoly, but some take their ambitions beyond this, seeking power for the sake of it. This can lead to disaster, as trade shortages leave people hungry and angry, sometimes causing violence to erupt in the marketplace."
+    },
+    "notes": "",
+    "expert": {
+      "value": true,
+      "requirements": {
+        "skillRanks": [
+          {
+            "key": "tradecraft",
+            "value": 2
+          }
+        ],
+        "additional": "<p>-</p>"
+      }
+    },
+    "archetype": "Expert Profession",
+    "bonusAdvances": [
+      {
+        "name": "[AB]",
+        "purchased": false
+      },
+      {
+        "name": "[BB]",
+        "purchased": false
+      },
+      {
+        "name": "[FB]",
+        "purchased": false
+      },
+      {
+        "name": "[FB]",
+        "purchased": false
+      },
+      {
+        "name": "[IB]",
+        "purchased": false
+      },
+      {
+        "name": "[IB]",
+        "purchased": false
+      },
+      {
+        "name": "[WB]",
+        "purchased": false
+      }
+    ],
+    "skillRanks": [
+      {
+        "name": "Bargain",
+        "purchased": false
+      },
+      {
+        "name": "Coordination",
+        "purchased": false
+      },
+      {
+        "name": "Education",
+        "purchased": false
+      },
+      {
+        "name": "Folklore",
+        "purchased": false
+      },
+      {
+        "name": "Intimidate",
+        "purchased": false
+      },
+      {
+        "name": "Leadership",
+        "purchased": false
+      },
+      {
+        "name": "Resolve",
+        "purchased": false
+      },
+      {
+        "name": "Rumor",
+        "purchased": false
+      },
+      {
+        "name": "Simple Melee",
+        "purchased": false
+      },
+      {
+        "name": "Tradecraft",
+        "purchased": false
+      }
+    ],
+    "talents": [
+      {
+        "linkedId": "UMcOubezruAYIWze",
+        "name": "Determination",
+        "uuid": "Compendium.zweihander.zh-talents.Item.UMcOubezruAYIWze"
+      },
+      {
+        "linkedId": "sD4Et1dOsSjT3fPt",
+        "name": "Incredible Numeration",
+        "uuid": "Compendium.zweihander.zh-talents.Item.sD4Et1dOsSjT3fPt"
+      },
+      {
+        "linkedId": "LLp6kwPTz9wJLpvG",
+        "name": "Meeting of the Minds",
+        "uuid": "Compendium.zweihander.zh-talents.Item.LLp6kwPTz9wJLpvG"
+      }
+    ],
+    "professionalTrait": {
+      "name": "Maker’s Mark",
+      "uuid": "Compendium.zweihander.zh-traits.Item.sYoPWq7jkd9BR60K",
+      "linkedId": null
+    },
+    "specialTrait": {
+      "name": "",
+      "uuid": "",
+      "linkedId": null
+    },
+    "drawback": {
+      "name": "Guild Responsibilities",
+      "uuid": "Compendium.zweihander.zh-drawbacks.Item.ekxLtng24qW4r6Q5",
+      "linkedId": null
+    },
+    "tier": ""
+  },
+  "folder": null,
+  "sort": 5900000,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {},
+  "_key": "!items!H80WN2v6Fb4tXhuk"
+}

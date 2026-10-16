@@ -1,0 +1,149 @@
+{
+  "_id": "2D1nzc9xf49xWE5e",
+  "effects": [],
+  "img": "systems/zweihander/assets/icons/pickelhaube.svg",
+  "name": "Grognard",
+  "type": "profession",
+  "_stats": {
+    "coreVersion": "13.342",
+    "systemId": "zweihander",
+    "systemVersion": "5.4.1",
+    "createdTime": null,
+    "modifiedTime": 1735051535292,
+    "lastModifiedBy": "rivg6xcMxdlVDM8y",
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "system": {
+    "description": {
+      "@en": "Although veterans of all stripes share the same mirthless disposition, Grognards are a breed apart. Due to their flagging physical abilities, they are oftentimes retired from service but notable for their compendious knowledge of simulation and war. Not only visibly hard-bitten and battle-scarred, they articulate these rough qualities with their legendary complaining. While most veterans sulk and let their bitterness turn to self-interest, Grognards vent their frustration loudly, moaning about lamentable conditions they find themselves in. Strangely, instead of being punished, leaders can’t help but find the stubborn candor of the Grognard endearing. Armed with charts, tables, miniature soldiers and unit statistics, the Grognard simply can’t help but to be one step ahead of an opponent – a trait even the foremost soldiers of war find useful.\\nEventually, the obstinate nature of the Grognard can turn even their most ardent defenders against them. Forward- thinkers find the Grognard’s unwillingness to grasp new concepts – or change their routine – somewhat pathetic. The stories of past battles becomes repetitive, and pearls of wisdom devolve into long-winded lectures. These ancient militants become engrossed in bitter feuding with younger warriors. Leaders quickly consign Grognards and their ilk to the back of the camp, as to not bring down the morale of the troops. Fortunately for others, Grognards tend to align with other Grognards, complaining together in veterans’ halls and other echo chambers where obsequious hanger-ons virtually worship every word the Grognard espouses. The constant grumbling about the ‘swine’ of the new school, Gygaxian musings over the many pole weapons of garrisons from yesteryear and grousing over the value of the old school and newly-found military stratagems quickly whittles down even the Grognard’s ability to learn new things. A Grognard simply can’t help it. They see this sort of progressiveness as surrender, and Grognards will always choose death over capitulation."
+    },
+    "notes": "",
+    "expert": {
+      "value": true,
+      "requirements": {
+        "skillRanks": [
+          {
+            "key": "warfare",
+            "value": 2
+          }
+        ],
+        "additional": "<p>You must be in the Adult, Middle Aged, or Elderly age group.</p>"
+      }
+    },
+    "archetype": "Expert Profession",
+    "bonusAdvances": [
+      {
+        "name": "[CB]",
+        "purchased": false
+      },
+      {
+        "name": "[FB]",
+        "purchased": false
+      },
+      {
+        "name": "[FB]",
+        "purchased": false
+      },
+      {
+        "name": "[IB]",
+        "purchased": false
+      },
+      {
+        "name": "[IB]",
+        "purchased": false
+      },
+      {
+        "name": "[WB]",
+        "purchased": false
+      },
+      {
+        "name": "[WB]",
+        "purchased": false
+      }
+    ],
+    "skillRanks": [
+      {
+        "name": "Bargain",
+        "purchased": false
+      },
+      {
+        "name": "Folklore",
+        "purchased": false
+      },
+      {
+        "name": "Gamble",
+        "purchased": false
+      },
+      {
+        "name": "Interrogation",
+        "purchased": false
+      },
+      {
+        "name": "Leadership",
+        "purchased": false
+      },
+      {
+        "name": "Martial Melee",
+        "purchased": false
+      },
+      {
+        "name": "Martial Ranged",
+        "purchased": false
+      },
+      {
+        "name": "Resolve",
+        "purchased": false
+      },
+      {
+        "name": "Rumor",
+        "purchased": false
+      },
+      {
+        "name": "Warfare",
+        "purchased": false
+      }
+    ],
+    "talents": [
+      {
+        "linkedId": "sD4Et1dOsSjT3fPt",
+        "name": "Incredible Numeration",
+        "uuid": "Compendium.zweihander.zh-talents.Item.sD4Et1dOsSjT3fPt"
+      },
+      {
+        "linkedId": "ZMjwQhEkPA9eaMYA",
+        "name": "Long-winded",
+        "uuid": "Compendium.zweihander.zh-talents.Item.ZMjwQhEkPA9eaMYA"
+      },
+      {
+        "linkedId": "xxL0Z55MRpRP3fyP",
+        "name": "Military Formation",
+        "uuid": "Compendium.zweihander.zh-talents.Item.xxL0Z55MRpRP3fyP"
+      }
+    ],
+    "professionalTrait": {
+      "name": "Hex-And-Counter",
+      "uuid": "Compendium.zweihander.zh-traits.Item.j6Ut710ZibhLgxSc",
+      "linkedId": null
+    },
+    "specialTrait": {
+      "name": "",
+      "uuid": "",
+      "linkedId": null
+    },
+    "drawback": {
+      "name": "Grumbler",
+      "uuid": "Compendium.zweihander.zh-drawbacks.Item.FzSxi7O7D64G82j1",
+      "linkedId": null
+    },
+    "tier": ""
+  },
+  "folder": null,
+  "sort": 800000,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {},
+  "_key": "!items!2D1nzc9xf49xWE5e"
+}

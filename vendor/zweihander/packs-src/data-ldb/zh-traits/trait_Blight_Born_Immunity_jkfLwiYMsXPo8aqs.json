@@ -1,0 +1,37 @@
+{
+  "_id": "jkfLwiYMsXPo8aqs",
+  "effects": [],
+  "img": "systems/zweihander/assets/icons/aura.svg",
+  "name": "Blight-Born Immunity",
+  "type": "trait",
+  "_stats": {
+    "coreVersion": "13.342",
+    "systemId": "zweihander",
+    "systemVersion": "5.4.1",
+    "createdTime": null,
+    "modifiedTime": 1735911103097,
+    "lastModifiedBy": "rivg6xcMxdlVDM8y",
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "system": {
+    "description": {
+      "@en": "Long has the Plague Doktor wandered among the sick and infirm. Both a life-giver and death-dealer, a Plague Doktor is both an omen of death and a portent to life."
+    },
+    "notes": "",
+    "rules": {
+      "effect": {
+        "@en": "You always succeed in Skill Tests to Treat Disease. In addition, any time you Critically Succeed a Skill Test to withstand Disease, you are forever immune to it in the future."
+      }
+    },
+    "category": "professional"
+  },
+  "folder": null,
+  "sort": 16000000,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {},
+  "_key": "!items!jkfLwiYMsXPo8aqs"
+}

@@ -1,0 +1,37 @@
+{
+  "_id": "cgiurP18Bh0WeKII",
+  "effects": [],
+  "img": "systems/zweihander/assets/icons/paper-lantern.svg",
+  "name": "Light Sensitive",
+  "system": {
+    "description": {
+      "@en": ""
+    },
+    "notes": "",
+    "rules": {
+      "effect": {
+        "@en": "When a foe uses Take Aim for 2 APs to shine a source of light upon this creature before making their attack, reduce its Damage Threshold by a -6 penalty (to a minimum of 1)."
+      }
+    },
+    "category": "creature"
+  },
+  "type": "trait",
+  "_stats": {
+    "coreVersion": "13.342",
+    "systemId": "zweihander",
+    "systemVersion": "5.4.1",
+    "createdTime": null,
+    "modifiedTime": 1735915786867,
+    "lastModifiedBy": "rivg6xcMxdlVDM8y",
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {},
+  "_key": "!items!cgiurP18Bh0WeKII"
+}

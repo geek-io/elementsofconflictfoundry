@@ -1,0 +1,45 @@
+{
+  "_id": "kd3NbBBGJ8EMWRsi",
+  "effects": [],
+  "img": "systems/zweihander/assets/icons/cloak.svg",
+  "name": "Mantle",
+  "type": "armor",
+  "_stats": {
+    "coreVersion": "13.342",
+    "systemId": "zweihander",
+    "systemVersion": "5.4.1",
+    "createdTime": null,
+    "modifiedTime": 1745250059732,
+    "lastModifiedBy": "rivg6xcMxdlVDM8y",
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "system": {
+    "description": {
+      "@en": "While not technically a shield, this fancy cloak with tassels is worn by duelists and nobles alike. When grasped in one hand, it can be used to temporarily blind a foe by whipping them in the face, or flat-out embarrass yourself by acting the fool."
+    },
+    "notes": "One-handed",
+    "price": {
+      "bp": 0,
+      "gc": 3,
+      "ss": 0,
+      "ad": null
+    },
+    "encumbrance": 1,
+    "carried": true,
+    "equipped": false,
+    "qualities": [
+      "Compendium.zweihander.zh-qualities.Item.3DGCaUossFziUOch",
+      "Compendium.zweihander.zh-qualities.Item.RihtCN1KtuSrnTxW"
+    ],
+    "damageThresholdModifier": 0
+  },
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {},
+  "_key": "!items!kd3NbBBGJ8EMWRsi"
+}

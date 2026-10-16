@@ -1,0 +1,79 @@
+{
+  "_id": "OibFhslX2LjbvCxC",
+  "effects": [],
+  "img": "systems/zweihander/assets/icons/mailed-fist.svg",
+  "name": "Cestus",
+  "type": "weapon",
+  "_stats": {
+    "coreVersion": "13.342",
+    "systemId": "zweihander",
+    "systemVersion": "5.4.1",
+    "createdTime": null,
+    "modifiedTime": 1745255324198,
+    "lastModifiedBy": "rivg6xcMxdlVDM8y",
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "system": {
+    "description": {
+      "@en": "<p>A battle glove with hardened iron around the knuckles, a cestus is perfect for beating others to a bloody pulp. Usually, they are seen as &lsquo;against the rules&rsquo; in street brawls.</p>"
+    },
+    "notes": null,
+    "price": {
+      "bp": 8,
+      "gc": 0,
+      "ss": 0,
+      "ad": null
+    },
+    "encumbrance": 1,
+    "carried": true,
+    "weaponType": "Brawling",
+    "equipped": false,
+    "associatedSkill": "Simple Melee",
+    "ranged": {
+      "load": 0,
+      "value": false
+    },
+    "handling": "One-handed",
+    "qualities": [
+      "Compendium.zweihander.zh-qualities.Item.vOutwhK95uttj9j8",
+      "Compendium.zweihander.zh-qualities.Item.XX3z9Md3skZ2CqTh"
+    ],
+    "distance": {
+      "value": "Engaged",
+      "base": "[PB]",
+      "bonus": 0
+    },
+    "damage": {
+      "formula": {
+        "override": false,
+        "value": "[BB] + (1+[#])d6x6"
+      },
+      "attributeBonus": "[BB]",
+      "number": 1,
+      "die": "d6",
+      "bonus": 0,
+      "fury": {
+        "value": true,
+        "explodesOn": [
+          "6"
+        ]
+      },
+      "associatedPrimaryAttribute": "Brawn"
+    },
+    "load": 0,
+    "details": {
+      "category": {
+        "@en": ""
+      }
+    }
+  },
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {},
+  "_key": "!items!OibFhslX2LjbvCxC"
+}

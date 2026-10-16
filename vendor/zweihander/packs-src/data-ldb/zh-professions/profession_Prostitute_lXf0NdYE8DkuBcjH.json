@@ -1,0 +1,144 @@
+{
+  "_id": "lXf0NdYE8DkuBcjH",
+  "effects": [],
+  "img": "systems/zweihander/assets/icons/corset.svg",
+  "name": "Prostitute",
+  "type": "profession",
+  "_stats": {
+    "coreVersion": "13.342",
+    "systemId": "zweihander",
+    "systemVersion": "5.4.1",
+    "createdTime": null,
+    "modifiedTime": 1745437043199,
+    "lastModifiedBy": "rivg6xcMxdlVDM8y",
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "system": {
+    "description": {
+      "@en": "As the world’s oldest profession, Prostitutes hold an uncertain position within society. Most are employed in brothels, making little coin once their services have paid for room and board. These brothels range in quality from roadside stop overs to a concubine’s lavish chambers. Some Prostitutes serve in temples where their service to the faith carries no social stigma. The more ambitious Prostitutes may be pimps, retire to become madams or service violent ‘pleasures’, but some rise to become courtesans with official positions at court. Prostitutes may offer more than sexual comforts; many are an understanding ear to their client’s problems, a few have learned the exotic massage arts of the east and a minority even entertain without using their bodies.\nThe life of a Prostitute is hardscrabble. Some run away from abusive madams or pimps, taking to following roving armies to ply their trade or even become adventurers in search of independence and wealth. Here they can pick up martial skills uncommon to the underclass. Unfortunately, Prostitutes make prime targets for corruption by the Abyssal servants of pain and pleasure. There are even rumors that corrupted Prostitutes spread their damnation through sexual congress, carrying deadlier plagues than mere venereal disease. Even if untrue, a Prostitute’s honeyed words have seduced more than one victim into the seething corruption that waits in the darkest of shadows."
+    },
+    "notes": "",
+    "expert": {
+      "value": false,
+      "requirements": {
+        "skillRanks": [],
+        "additional": ""
+      }
+    },
+    "archetype": "Knave",
+    "bonusAdvances": [
+      {
+        "name": "[AB]",
+        "purchased": false
+      },
+      {
+        "name": "[AB]",
+        "purchased": false
+      },
+      {
+        "name": "[FB]",
+        "purchased": false
+      },
+      {
+        "name": "[FB]",
+        "purchased": false
+      },
+      {
+        "name": "[IB]",
+        "purchased": false
+      },
+      {
+        "name": "[PB]",
+        "purchased": false
+      },
+      {
+        "name": "[PB]",
+        "purchased": false
+      }
+    ],
+    "skillRanks": [
+      {
+        "name": "Bargain",
+        "purchased": false
+      },
+      {
+        "name": "Charm",
+        "purchased": false
+      },
+      {
+        "name": "Coordination",
+        "purchased": false
+      },
+      {
+        "name": "Eavesdrop",
+        "purchased": false
+      },
+      {
+        "name": "Folklore",
+        "purchased": false
+      },
+      {
+        "name": "Gamble",
+        "purchased": false
+      },
+      {
+        "name": "Martial Melee",
+        "purchased": false
+      },
+      {
+        "name": "Rumor",
+        "purchased": false
+      },
+      {
+        "name": "Scrutinize",
+        "purchased": false
+      },
+      {
+        "name": "Simple Melee",
+        "purchased": false
+      }
+    ],
+    "talents": [
+      {
+        "linkedId": "XmrQY5We9Dj3m5Yn",
+        "name": "Ambidexterity",
+        "uuid": "Compendium.zweihander.zh-talents.Item.XmrQY5We9Dj3m5Yn"
+      },
+      {
+        "linkedId": "gwZntCros2VmucWm",
+        "name": "Holdout",
+        "uuid": "Compendium.zweihander.zh-talents.Item.gwZntCros2VmucWm"
+      },
+      {
+        "linkedId": "wRTdadnNJpHE32RU",
+        "name": "Larceny",
+        "uuid": "Compendium.zweihander.zh-talents.Item.wRTdadnNJpHE32RU"
+      }
+    ],
+    "professionalTrait": {
+      "name": "The Full Monty",
+      "uuid": "Compendium.zweihander.zh-traits.Item.tNJU1L8BPtNFsEYg",
+      "linkedId": null
+    },
+    "specialTrait": {
+      "name": "",
+      "uuid": "",
+      "linkedId": null
+    },
+    "drawback": {
+      "name": "",
+      "uuid": "",
+      "linkedId": null
+    },
+    "tier": ""
+  },
+  "folder": null,
+  "sort": 13800000,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {},
+  "_key": "!items!lXf0NdYE8DkuBcjH"
+}

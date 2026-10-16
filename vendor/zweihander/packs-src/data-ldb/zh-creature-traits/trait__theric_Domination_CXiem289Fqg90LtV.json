@@ -1,0 +1,37 @@
+{
+  "_id": "CXiem289Fqg90LtV",
+  "effects": [],
+  "img": "systems/zweihander/assets/icons/barbed-star.svg",
+  "name": "Ætheric Domination",
+  "system": {
+    "description": {
+      "@en": ""
+    },
+    "notes": "",
+    "rules": {
+      "effect": {
+        "@en": "When these creatures would potentially invoke a Chaos Manifestation, they must have two or more face ‘6’ on Chaos Dice to invoke it."
+      }
+    },
+    "category": "creature"
+  },
+  "type": "trait",
+  "_stats": {
+    "coreVersion": "13.342",
+    "systemId": "zweihander",
+    "systemVersion": "5.4.1",
+    "createdTime": null,
+    "modifiedTime": 1735915786829,
+    "lastModifiedBy": "rivg6xcMxdlVDM8y",
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {},
+  "_key": "!items!CXiem289Fqg90LtV"
+}

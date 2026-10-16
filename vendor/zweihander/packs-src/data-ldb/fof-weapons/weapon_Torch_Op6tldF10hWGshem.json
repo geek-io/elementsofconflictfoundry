@@ -1,0 +1,74 @@
+{
+  "_id": "Op6tldF10hWGshem",
+  "effects": [],
+  "img": "systems/zweihander/assets/icons/torch.svg",
+  "name": "Torch",
+  "type": "weapon",
+  "_stats": {
+    "coreVersion": "13.342",
+    "systemId": "zweihander",
+    "systemVersion": "5.4.1",
+    "createdTime": 1745429307091,
+    "modifiedTime": 1745429307091,
+    "lastModifiedBy": "rivg6xcMxdlVDM8y",
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "system": {
+    "description": {
+      "@en": "<p>Swabbed in oil and cloth, torches are used to light the path and sometimes repurposed as cruel weapons against the wronged.</p>"
+    },
+    "notes": "",
+    "price": {
+      "bp": "1",
+      "gc": "0",
+      "ss": "0"
+    },
+    "encumbrance": 1,
+    "carried": true,
+    "weaponType": "Melee",
+    "equipped": false,
+    "associatedSkill": "Simple Melee",
+    "ranged": {
+      "load": 1,
+      "value": true
+    },
+    "handling": "One-handed",
+    "qualities": [
+      "Compendium.zweihander.fof-qualities.Item.R9RtDnDfaTbK4Rqw",
+      "Compendium.zweihander.zh-qualities.Item.gVxlMZCRSj3bx6jb",
+      "Compendium.zweihander.zh-qualities.Item.XX3z9Md3skZ2CqTh"
+    ],
+    "distance": {
+      "value": "Engaged",
+      "base": "[PB]",
+      "bonus": 0
+    },
+    "damage": {
+      "formula": {
+        "override": false,
+        "value": "[BB] + (1+[#])d6x6"
+      },
+      "attributeBonus": "[BB]",
+      "number": 1,
+      "die": "d6",
+      "bonus": 0,
+      "fury": {
+        "value": true,
+        "explodesOn": [
+          "6"
+        ]
+      },
+      "associatedPrimaryAttribute": "Agility"
+    },
+    "load": 1
+  },
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {},
+  "_key": "!items!Op6tldF10hWGshem"
+}

@@ -1,0 +1,74 @@
+{
+  "_id": "KnRlsvjPt51hsM5e",
+  "effects": [],
+  "img": "systems/zweihander/assets/icons/crossbow.svg",
+  "name": "Light Crossbow",
+  "type": "weapon",
+  "_stats": {
+    "coreVersion": "13.342",
+    "systemId": "zweihander",
+    "systemVersion": "5.4.1",
+    "createdTime": null,
+    "modifiedTime": 1745261714563,
+    "lastModifiedBy": "rivg6xcMxdlVDM8y",
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "system": {
+    "description": {
+      "@en": "These are lighter versions of the arbalest, their strings hand-drawn by a crank. They’re typically used as weaponry for peasant militias, or as playthings for lordly children too nearsighted or clumsy to draw a bowstring."
+    },
+    "notes": "",
+    "price": {
+      "bp": 0,
+      "gc": 3,
+      "ss": 0,
+      "ad": null
+    },
+    "encumbrance": 3,
+    "carried": true,
+    "weaponType": "Missile",
+    "equipped": false,
+    "associatedSkill": "Simple Ranged",
+    "ranged": {
+      "load": 1,
+      "value": true
+    },
+    "handling": "Two-handed",
+    "qualities": [
+      "Compendium.zweihander.zh-qualities.Item.vu1fnMVplISEga8I",
+      "Compendium.zweihander.zh-qualities.Item.a0KJwwHCoJIwG1ck",
+      "Compendium.zweihander.zh-qualities.Item.FvNQGHmIZpHF4pay"
+    ],
+    "distance": {
+      "value": "6 + [PB] ",
+      "base": "[PB]",
+      "bonus": 6
+    },
+    "damage": {
+      "formula": {
+        "override": false,
+        "value": "[CB] + 1 + (1+[#])d6x6"
+      },
+      "attributeBonus": "[CB]",
+      "number": 1,
+      "die": "d6",
+      "bonus": 1,
+      "fury": {
+        "value": true,
+        "explodesOn": [
+          "6"
+        ]
+      }
+    },
+    "load": 1
+  },
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {},
+  "_key": "!items!KnRlsvjPt51hsM5e"
+}

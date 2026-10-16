@@ -1,0 +1,8 @@
+{{#if isModified}}
+  <div class='modded-value'>
+    <div class='modded-value-indicator {{extraClass}} {{#unless isPositive}}negative{{/unless}}' data-tooltip-html="{{zhModifierTooltip mods baseValue value}}" data-tooltip-direction="LEFT" data-tooltip-class="fancy-tooltip">
+      <i class='fa-solid {{#if isPositive}}fa-up{{else}}fa-down{{/if}}'></i>
+    </div>
+  </div>
+{{else}}
+{{/if}}

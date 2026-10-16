@@ -1,0 +1,149 @@
+{
+  "_id": "u9s6SNyMkoALOG5G",
+  "effects": [],
+  "img": "systems/zweihander/assets/icons/grey-guilder.svg",
+  "name": "Grey Guilder",
+  "type": "profession",
+  "_stats": {
+    "coreVersion": "13.342",
+    "systemId": "zweihander",
+    "systemVersion": "5.4.1",
+    "createdTime": null,
+    "modifiedTime": 1735048084066,
+    "lastModifiedBy": "rivg6xcMxdlVDM8y",
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "system": {
+    "description": {
+      "@en": "Money underpins civilization and society. Gold and shillings make the wheels of commerce, the hands of power and the machinery of war turn. Money speaks to power and when it does, it is with distrust and betrayal, for there are two sides to every coin. To the Grey Guilders, priests of the trickster god the Nightfather, these two sides are commerce and trickery. They believe heavily in chance, luck, deception and the almighty crown, exalting in mischief and mayhem, with many Grey Guilders having been bards, jesters or thieves reformed and turned over a new coin or leaf. Or rather they have found faith, for ‘new leaf ’ does not mean that they have given up their old tricks. Now those are tricks dedicated to the Nightfather. Indeed, some see the Grey Guilders as nothing more than a religiously-organized thieves’ guild. Grey Guilders can only be identified by the crow’s eye carved from onyx worn around their necks. While their worship is not outlawed and every traveler says a prayer to the Nightfather for good luck, the priesthood is rarely trusted due to their furtive and unscrupulous nature.\nGrey Guilders operate and worship in independent cells, communicating with each other in their cant of slang and secret signs. They worship in secret behind the storefronts of ‘honest’ merchants, ceremonies being subtle and rare, little more than a tithe paid and a quick invocation for luck. Their prayers either confuse and misdirect or meddle directly in the flow of commerce, but whatever money is made a tithe is always paid. Grey Guilders who fall from grace embrace fully chance, decisions being made by flips of a marked coin, either to steal from you or kill you. These two-faced criminal priests are reviled and should be feared."
+    },
+    "notes": "",
+    "expert": {
+      "value": true,
+      "requirements": {
+        "skillRanks": [
+          {
+            "key": "incantation",
+            "value": 1
+          }
+        ],
+        "additional": "<p>You must have the Special Trait of Divine Magick.</p>"
+      }
+    },
+    "archetype": "Expert Profession",
+    "bonusAdvances": [
+      {
+        "name": "[IB]",
+        "purchased": false
+      },
+      {
+        "name": "[FB]",
+        "purchased": false
+      },
+      {
+        "name": "[FB]",
+        "purchased": false
+      },
+      {
+        "name": "[PB]",
+        "purchased": false
+      },
+      {
+        "name": "[PB]",
+        "purchased": false
+      },
+      {
+        "name": "[WB]",
+        "purchased": false
+      },
+      {
+        "name": "[WB]",
+        "purchased": false
+      }
+    ],
+    "skillRanks": [
+      {
+        "name": "Bargain",
+        "purchased": false
+      },
+      {
+        "name": "Counterfeit",
+        "purchased": false
+      },
+      {
+        "name": "Eavesdrop",
+        "purchased": false
+      },
+      {
+        "name": "Gamble",
+        "purchased": false
+      },
+      {
+        "name": "Guile",
+        "purchased": false
+      },
+      {
+        "name": "Incantation",
+        "purchased": false
+      },
+      {
+        "name": "Rumor",
+        "purchased": false
+      },
+      {
+        "name": "Scrutinize",
+        "purchased": false
+      },
+      {
+        "name": "Simple Melee",
+        "purchased": false
+      },
+      {
+        "name": "Stealth",
+        "purchased": false
+      }
+    ],
+    "talents": [
+      {
+        "linkedId": "VTJ2gonJGSCCGwov",
+        "name": "Doppelganger",
+        "uuid": "Compendium.zweihander.zh-talents.Item.VTJ2gonJGSCCGwov"
+      },
+      {
+        "linkedId": "gTfkADOvPRHZK5P4",
+        "name": "Gallows Humor",
+        "uuid": "Compendium.zweihander.zh-talents.Item.gTfkADOvPRHZK5P4"
+      },
+      {
+        "linkedId": "AHui6a3KaaMWrKp1",
+        "name": "Forked Tongue",
+        "uuid": "Compendium.zweihander.zh-talents.Item.AHui6a3KaaMWrKp1"
+      }
+    ],
+    "professionalTrait": {
+      "name": "‘x’ Marks the Spot",
+      "uuid": "Compendium.zweihander.zh-traits.Item.oyxpGab7dzxD4xzl",
+      "linkedId": null
+    },
+    "specialTrait": {
+      "name": "Prayers of the Nightfather",
+      "uuid": "Compendium.zweihander.zh-traits.Item.UFWiyvJpg38yXGwL",
+      "linkedId": null
+    },
+    "drawback": {
+      "name": "The Nightfather’s Commandments",
+      "uuid": "Compendium.zweihander.zh-drawbacks.Item.rd2e2vdT7U1cWOa1",
+      "linkedId": null
+    },
+    "tier": ""
+  },
+  "folder": null,
+  "sort": 16200000,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {},
+  "_key": "!items!u9s6SNyMkoALOG5G"
+}

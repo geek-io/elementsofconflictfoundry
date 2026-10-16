@@ -1,0 +1,124 @@
+{
+  "_id": "N83d5Twy6IkiH59J",
+  "effects": [],
+  "img": "systems/zweihander/assets/icons/abstract-082.svg",
+  "name": "Barber",
+  "type": "profession",
+  "_stats": {
+    "coreVersion": "13.342",
+    "systemId": "zweihander",
+    "systemVersion": "5.4.1",
+    "createdTime": null,
+    "modifiedTime": 1734972168206,
+    "lastModifiedBy": "rivg6xcMxdlVDM8y",
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "system": {
+    "description": {
+      "@en": "<p>Humankind is the perfect machine, and in that same vein, I could be called the body&rsquo;s carpenter. I wake up early every morning and here in my shop I prepare for the day. Ah, what a life, what a pleasure for a Barber of my quality! I am ready for anything, night and day&mdash;a nobler life cannot be found. With razors, combs, lancets and scissors at my command, I am ready for everyone who asks for me. Here are my wigs for powdering, my razor for shaving, leeches for bleeding&mdash;I mend and groom and send my clients on their way.</p>\n<p>I am a Barber, quick with the razor, quick with setting a broken bone, quick with whatever ails a person. Young and old, sick or well, I do not care&mdash;they are all the same. This war may come, or it may not, but I will stand stalwart as I always have. Everyone needs my services, and my work cares not for what someone believes or to whom they pledge loyalty. Though, if I were honest, there is something peculiar afoot that sometimes chills my spine. I see it in the eyes of those who come for my services. What this is, I hope never to find out.</p>"
+    },
+    "notes": "",
+    "expert": {
+      "value": false,
+      "requirements": ""
+    },
+    "archetype": "Intellectual Profession",
+    "bonusAdvances": [
+      {
+        "name": "[CB]"
+      },
+      {
+        "name": "[FB]"
+      },
+      {
+        "name": "[FB]"
+      },
+      {
+        "name": "[IB]"
+      },
+      {
+        "name": "[IB]"
+      },
+      {
+        "name": "[PB]"
+      },
+      {
+        "name": "[WB]"
+      }
+    ],
+    "skillRanks": [
+      {
+        "name": "Alchemy"
+      },
+      {
+        "name": "Awareness"
+      },
+      {
+        "name": "Bargain"
+      },
+      {
+        "name": "Charm"
+      },
+      {
+        "name": "Education"
+      },
+      {
+        "name": "Heal"
+      },
+      {
+        "name": "Rumor"
+      },
+      {
+        "name": "Scrutinize"
+      },
+      {
+        "name": "Simple Melee"
+      },
+      {
+        "name": "Toughness"
+      }
+    ],
+    "talents": [
+      {
+        "linkedId": null,
+        "name": "Field Dressing",
+        "uuid": "Compendium.zweihander.fof-talents.Item.7cYoZ9bBEUeAgVkA"
+      },
+      {
+        "linkedId": null,
+        "name": "Ribaldry",
+        "uuid": "Compendium.zweihander.fof-talents.Item.UYHYOEuf6PGruvL9"
+      },
+      {
+        "linkedId": null,
+        "name": "Sagacity",
+        "uuid": "Compendium.zweihander.fof-talents.Item.Gbeh9kTnfTnwBsDe"
+      }
+    ],
+    "professionalTrait": {
+      "name": "At Ease, My Friend",
+      "uuid": "Compendium.zweihander.fof-professional-traits.Item.cGeARnHdIiwdURHt",
+      "linkedId": null
+    },
+    "specialTrait": {
+      "name": "",
+      "uuid": "",
+      "linkedId": null
+    },
+    "drawback": {
+      "name": "My Hubris",
+      "uuid": "Compendium.zweihander.fof-quirks.Item.4Erz6JoU04P2yVnQ",
+      "linkedId": null
+    },
+    "tier": ""
+  },
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {},
+  "_key": "!items!N83d5Twy6IkiH59J"
+}
