@@ -5,6 +5,7 @@ A Foundry VTT v14 game system for *Elements of Conflict Zwei*, starting from the
 - System by: Nexus Flameheart of Nexus of Fantasy
 - Built off of Zweihander: Grim and Perilous RPG published by Grim and Perilous Studios, LLC
 - Foundry development by: Geek IO Dev Team
+- [Geek IO Discord](https://geek-io.net/discord)
 - Icons: [RPG-Awesome](https://github.com/nagoshiashumari/Rpg-Awesome) by Daniela Howe and Ivan Montiel (BSD 2-Clause Simplified; font/CSS notices included), and [Game-icons.net](https://game-icons.net) by Lorc and Delapouite (CC-BY-3.0). [Credits and bundled licenses](ICON-CREDITS.md).
 
 # v 0.3.15
