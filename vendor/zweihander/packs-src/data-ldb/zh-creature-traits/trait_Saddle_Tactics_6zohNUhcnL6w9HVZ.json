@@ -1,0 +1,37 @@
+{
+  "_id": "6zohNUhcnL6w9HVZ",
+  "effects": [],
+  "img": "systems/zweihander/assets/icons/saddle.svg",
+  "name": "Saddle Tactics",
+  "system": {
+    "description": {
+      "@en": ""
+    },
+    "notes": "",
+    "rules": {
+      "effect": {
+        "@en": "When fighting on horseback or a vehicle, they flip the results to succeed at Attack Actions and Perilous Stunts."
+      }
+    },
+    "category": "creature"
+  },
+  "type": "trait",
+  "_stats": {
+    "coreVersion": "13.342",
+    "systemId": "zweihander",
+    "systemVersion": "5.4.1",
+    "createdTime": null,
+    "modifiedTime": 1735915786823,
+    "lastModifiedBy": "rivg6xcMxdlVDM8y",
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {},
+  "_key": "!items!6zohNUhcnL6w9HVZ"
+}

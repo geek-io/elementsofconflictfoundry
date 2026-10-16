@@ -1,0 +1,37 @@
+{
+  "_id": "DWEC9Xm1f06rUPuw",
+  "effects": [],
+  "img": "systems/zweihander/assets/icons/vitruvian-man.svg",
+  "name": "Final Benediction",
+  "type": "trait",
+  "_stats": {
+    "coreVersion": "13.342",
+    "systemId": "zweihander",
+    "systemVersion": "5.4.1",
+    "createdTime": null,
+    "modifiedTime": 1735911103041,
+    "lastModifiedBy": "rivg6xcMxdlVDM8y",
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "system": {
+    "description": {
+      "@en": "In place of the Daemon Prince, you shall have me! Not dark, but bewitching and beauteous as the dawn! All shall adore me, and bask in my light of despair!"
+    },
+    "notes": "",
+    "rules": {
+      "effect": {
+        "@en": "Whenever you Critically Succeed at casting a Magick spell from your Covenant, you inspire Stress if it is Petty Magick, Fear if it is Lesser Magick and Terror if it is Greater Magick. Foes can attempt to Resist its effect by making a successful Resolve Test. Once a foe has been subjected to Stress, Fear or Terror from the casting of this spell, they cannot be subjected to it again until after 24 hours have passed."
+      }
+    },
+    "category": "professional"
+  },
+  "folder": null,
+  "sort": 3900000,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {},
+  "_key": "!items!DWEC9Xm1f06rUPuw"
+}

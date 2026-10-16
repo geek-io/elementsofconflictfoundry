@@ -1,0 +1,37 @@
+{
+  "_id": "rh9stNWO0kmHLRsE",
+  "effects": [],
+  "img": "systems/zweihander/assets/icons/vitruvian-man.svg",
+  "name": "Valorous Aura",
+  "type": "trait",
+  "_stats": {
+    "coreVersion": "13.342",
+    "systemId": "zweihander",
+    "systemVersion": "5.4.1",
+    "createdTime": null,
+    "modifiedTime": 1735911103109,
+    "lastModifiedBy": "rivg6xcMxdlVDM8y",
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "system": {
+    "description": {
+      "@en": "From how you carry yourself to the impassioned words you speak, your allies are inspired by your very presence."
+    },
+    "notes": "",
+    "rules": {
+      "effect": {
+        "@en": "Whenever you succeed at using Inspiring Words, your foes also suffer from Litany of Hatred. In addition, all allies who can clearly see and hear you reference your Percentile-based chances to succeed at Skill Tests to withstand the effects of Stress and Fear."
+      }
+    },
+    "category": "professional"
+  },
+  "folder": null,
+  "sort": 18500000,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {},
+  "_key": "!items!rh9stNWO0kmHLRsE"
+}

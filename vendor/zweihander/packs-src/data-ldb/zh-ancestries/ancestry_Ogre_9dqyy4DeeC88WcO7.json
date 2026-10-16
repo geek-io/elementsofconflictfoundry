@@ -1,0 +1,66 @@
+{
+  "_id": "9dqyy4DeeC88WcO7",
+  "effects": [],
+  "img": "systems/zweihander/assets/icons/family-tree.svg",
+  "name": "Ogre",
+  "type": "ancestry",
+  "_stats": {
+    "coreVersion": "13.342",
+    "systemId": "zweihander",
+    "systemVersion": "5.5.0",
+    "createdTime": 1745709616049,
+    "modifiedTime": 1745709616049,
+    "lastModifiedBy": "rivg6xcMxdlVDM8y",
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "system": {
+    "description": {
+      "@en": ""
+    },
+    "notes": "",
+    "ancestralModifiers": {
+      "value": [
+        {
+          "key": "[BB]",
+          "value": 2
+        },
+        {
+          "key": "[CB]",
+          "value": 1
+        },
+        {
+          "key": "[AB]",
+          "value": -2
+        },
+        {
+          "key": "[PB]",
+          "value": -1
+        }
+      ],
+      "positive": [
+        "[BB]",
+        "[BB]",
+        "[CB]"
+      ],
+      "negative": [
+        "[AB]",
+        "[AB]",
+        "[PB]"
+      ]
+    },
+    "ancestralTrait": {
+      "name": "",
+      "linkedId": null,
+      "uuid": ""
+    }
+  },
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {},
+  "_key": "!items!9dqyy4DeeC88WcO7"
+}

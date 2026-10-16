@@ -1,0 +1,37 @@
+{
+  "_id": "6j1bdIJHsoss947n",
+  "effects": [],
+  "img": "systems/zweihander/assets/icons/vitruvian-man.svg",
+  "name": "Mettle & Steel",
+  "type": "trait",
+  "_stats": {
+    "coreVersion": "13.342",
+    "systemId": "zweihander",
+    "systemVersion": "5.4.1",
+    "createdTime": null,
+    "modifiedTime": 1735911103032,
+    "lastModifiedBy": "rivg6xcMxdlVDM8y",
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "system": {
+    "description": {
+      "@en": "Squires undergo harsh and rigorous training, lessons which a knight instills into them with vicious beatings at the end of a wooden sword. This regimen teaches them the skills they need both on and off the battlefield through practice, evolving into muscle memory."
+    },
+    "notes": "",
+    "rules": {
+      "effect": {
+        "@en": "At your option, you may substitute the Warfare Skill in place of Resolve. In addition, you may substitute Warfare in place of any Skill required to Resist Perilous Stunts."
+      }
+    },
+    "category": "professional"
+  },
+  "folder": null,
+  "sort": 2000000,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {},
+  "_key": "!items!6j1bdIJHsoss947n"
+}

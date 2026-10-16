@@ -1,0 +1,37 @@
+{
+  "_id": "E2SOuhLAO1fExrCJ",
+  "effects": [],
+  "img": "systems/zweihander/assets/icons/vitruvian-man.svg",
+  "name": "The Black Art",
+  "type": "trait",
+  "_stats": {
+    "coreVersion": "13.342",
+    "systemId": "zweihander",
+    "systemVersion": "5.4.1",
+    "createdTime": null,
+    "modifiedTime": 1735911103043,
+    "lastModifiedBy": "rivg6xcMxdlVDM8y",
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "system": {
+    "description": {
+      "@en": "You are a practitioner of the ‘black art’, a simple yet deceptive form of prestidigitation where your hands\n  move lightning-quick."
+    },
+    "notes": "",
+    "rules": {
+      "effect": {
+        "@en": "You may flip the results to succeed at Skulduggery Tests. When you succeed, it is always considered a Critical Success. Furthermore, you may substitute Skulduggery in place of any Skill required to Parry melee\n  weapons."
+      }
+    },
+    "category": "professional"
+  },
+  "folder": null,
+  "sort": 4300000,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {},
+  "_key": "!items!E2SOuhLAO1fExrCJ"
+}

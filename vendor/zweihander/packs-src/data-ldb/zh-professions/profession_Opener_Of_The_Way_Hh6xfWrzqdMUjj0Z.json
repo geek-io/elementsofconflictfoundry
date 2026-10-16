@@ -1,0 +1,149 @@
+{
+  "_id": "Hh6xfWrzqdMUjj0Z",
+  "effects": [],
+  "img": "systems/zweihander/assets/icons/galaxy.svg",
+  "name": "Opener Of The Way",
+  "type": "profession",
+  "_stats": {
+    "coreVersion": "13.342",
+    "systemId": "zweihander",
+    "systemVersion": "5.4.1",
+    "createdTime": null,
+    "modifiedTime": 1735066678111,
+    "lastModifiedBy": "rivg6xcMxdlVDM8y",
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "system": {
+    "description": {
+      "@en": "The Outsider is an enigma wrapped within a mystery, so much so that even His followers do not understand Him. The Outsider was once an Abyssal Prince, said to have been the Prince of Anarchy. However, the Outsider was exiled from the Abyss by His four peers for the dangers He had sown among the forces of Corruption, cast out into the infinite Æthereal Veil. Thus, the Outsider has few followers, but those He does have are called the Openers Of The Way. Their overarching goal is to root out the religion of the Abyssal Princes wherever it spreads, so as for the Outsider to have carte blanche to rule. Openers Of The Way strive to honor their anarchic lord through agnosticism and contradiction. The forces of the Outsider do not believe in the existence of any god or Daemon, save their own. Even then, belief that the Outsider is truly real is sometimes questioned by his occultists. Openers Of The Way are truly queer specimens, but their goal stands clear: kill all believers.\\nJourneying with an Opener Of The Way is often a strange and paradoxical experience, as they are allying themselves with a follower of a former Abyssal Daemon whose sole purpose is to fight other Abyssal Daemons. Openers outwardly attract trouble, very rarely veiling their purpose or allegiance, and tend to seek out powerful demons and their ilk to destroy. When there are none left to suffer the vengeance of the Outsider, Openers turn their eyes towards the commonly-accepted faiths to squash. Their outward agnosticism means they care little for their safety or the safety of others who join them in these tasks, simply seeing them as hindrances, holding them back from their mission. So, they prefer to work alone, but what they do not realize is that the Abyss feeds on isolation, as corruptible Openers Of The Way may end up being swayed to another Daemon, another casualty of the Outsider’s liberation."
+    },
+    "notes": "",
+    "expert": {
+      "value": true,
+      "requirements": {
+        "skillRanks": [
+          {
+            "key": "incantation",
+            "value": 1
+          }
+        ],
+        "additional": "<p>You must have the Special Trait of either Arcane or Divine Magick.</p>"
+      }
+    },
+    "archetype": "Expert Profession",
+    "bonusAdvances": [
+      {
+        "name": "[CB]",
+        "purchased": false
+      },
+      {
+        "name": "[FB]",
+        "purchased": false
+      },
+      {
+        "name": "[FB]",
+        "purchased": false
+      },
+      {
+        "name": "[IB]",
+        "purchased": false
+      },
+      {
+        "name": "[PB]",
+        "purchased": false
+      },
+      {
+        "name": "[WB]",
+        "purchased": false
+      },
+      {
+        "name": "[WB]",
+        "purchased": false
+      }
+    ],
+    "skillRanks": [
+      {
+        "name": "Counterfeit",
+        "purchased": false
+      },
+      {
+        "name": "Eavesdrop",
+        "purchased": false
+      },
+      {
+        "name": "Education",
+        "purchased": false
+      },
+      {
+        "name": "Folklore",
+        "purchased": false
+      },
+      {
+        "name": "Guile",
+        "purchased": false
+      },
+      {
+        "name": "Incantation",
+        "purchased": false
+      },
+      {
+        "name": "Interrogation",
+        "purchased": false
+      },
+      {
+        "name": "Rumor",
+        "purchased": false
+      },
+      {
+        "name": "Scrutinize",
+        "purchased": false
+      },
+      {
+        "name": "Simple Melee",
+        "purchased": false
+      }
+    ],
+    "talents": [
+      {
+        "linkedId": "Fe3d2Oyig1kPYHTb",
+        "name": "Higher Mysteries",
+        "uuid": "Compendium.zweihander.zh-talents.Item.Fe3d2Oyig1kPYHTb"
+      },
+      {
+        "linkedId": "WsD0GRMRKX8Ov0mT",
+        "name": "Impervious Mind",
+        "uuid": "Compendium.zweihander.zh-talents.Item.WsD0GRMRKX8Ov0mT"
+      },
+      {
+        "linkedId": "mbtJHdgWqR6fct7f",
+        "name": "Supernatural Paranoia",
+        "uuid": "Compendium.zweihander.zh-talents.Item.mbtJHdgWqR6fct7f"
+      }
+    ],
+    "professionalTrait": {
+      "name": "Renegade Magick",
+      "uuid": "Compendium.zweihander.zh-traits.Item.YqxJEaRY2um9JtZI",
+      "linkedId": null
+    },
+    "specialTrait": {
+      "name": "Covenant Magick",
+      "uuid": "Compendium.zweihander.zh-traits.Item.7xtxO5xA5ouHjMWs",
+      "linkedId": null
+    },
+    "drawback": {
+      "name": "Ruinous Power",
+      "uuid": "Compendium.zweihander.zh-drawbacks.Item.RRb0ipwKkfxUO9Bi",
+      "linkedId": null
+    },
+    "tier": ""
+  },
+  "folder": null,
+  "sort": 6300000,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {},
+  "_key": "!items!Hh6xfWrzqdMUjj0Z"
+}

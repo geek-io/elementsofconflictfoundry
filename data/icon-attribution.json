@@ -1,0 +1,234 @@
+[
+  {
+    "file": "icons/gear.svg",
+    "author": "Delapouite",
+    "title": "backpack",
+    "url": "https://game-icons.net/1x1/delapouite/backpack.html",
+    "license": "CC-BY-3.0",
+    "modified": false
+  },
+  {
+    "file": "icons/weapon.svg",
+    "author": "Lorc",
+    "title": "broadsword",
+    "url": "https://game-icons.net/1x1/lorc/broadsword.html",
+    "license": "CC-BY-3.0",
+    "modified": false
+  },
+  {
+    "file": "icons/armor.svg",
+    "author": "Delapouite",
+    "title": "leather-armor",
+    "url": "https://game-icons.net/1x1/delapouite/leather-armor.html",
+    "license": "CC-BY-3.0",
+    "modified": false
+  },
+  {
+    "file": "icons/medicine.svg",
+    "author": "Delapouite",
+    "title": "health-potion",
+    "url": "https://game-icons.net/1x1/delapouite/health-potion.html",
+    "license": "CC-BY-3.0",
+    "modified": false
+  },
+  {
+    "file": "icons/tool.svg",
+    "author": "Lorc",
+    "title": "hammer-nails",
+    "url": "https://game-icons.net/1x1/lorc/hammer-nails.html",
+    "license": "CC-BY-3.0",
+    "modified": false
+  },
+  {
+    "file": "icons/trapping.svg",
+    "author": "Delapouite",
+    "title": "backpack",
+    "url": "https://game-icons.net/1x1/delapouite/backpack.html",
+    "license": "CC-BY-3.0",
+    "modified": false
+  },
+  {
+    "file": "icons/technique.svg",
+    "author": "Lorc",
+    "title": "scroll-unfurled",
+    "url": "https://game-icons.net/1x1/lorc/scroll-unfurled.html",
+    "license": "CC-BY-3.0",
+    "modified": false
+  },
+  {
+    "file": "icons/jutsu.svg",
+    "author": "Lorc",
+    "title": "scroll-unfurled",
+    "url": "https://game-icons.net/1x1/lorc/scroll-unfurled.html",
+    "license": "CC-BY-3.0",
+    "modified": false
+  },
+  {
+    "file": "icons/heritage.svg",
+    "author": "Lorc",
+    "title": "dna1",
+    "url": "https://game-icons.net/1x1/lorc/dna1.html",
+    "license": "CC-BY-3.0",
+    "modified": false
+  },
+  {
+    "file": "icons/ancestry.svg",
+    "author": "Lorc",
+    "title": "dna1",
+    "url": "https://game-icons.net/1x1/lorc/dna1.html",
+    "license": "CC-BY-3.0",
+    "modified": false
+  },
+  {
+    "file": "icons/profession.svg",
+    "author": "Lorc",
+    "title": "book-aura",
+    "url": "https://game-icons.net/1x1/lorc/book-aura.html",
+    "license": "CC-BY-3.0",
+    "modified": false
+  },
+  {
+    "file": "icons/talent.svg",
+    "author": "Lorc",
+    "title": "star-swirl",
+    "url": "https://game-icons.net/1x1/lorc/star-swirl.html",
+    "license": "CC-BY-3.0",
+    "modified": false
+  },
+  {
+    "file": "icons/trait.svg",
+    "author": "Lorc",
+    "title": "meditation",
+    "url": "https://game-icons.net/1x1/lorc/meditation.html",
+    "license": "CC-BY-3.0",
+    "modified": false
+  },
+  {
+    "file": "icons/skill.svg",
+    "author": "Delapouite",
+    "title": "skills",
+    "url": "https://game-icons.net/1x1/delapouite/skills.html",
+    "license": "CC-BY-3.0",
+    "modified": false
+  },
+  {
+    "file": "icons/condition.svg",
+    "author": "Lorc",
+    "title": "broken-heart",
+    "url": "https://game-icons.net/1x1/lorc/broken-heart.html",
+    "license": "CC-BY-3.0",
+    "modified": false
+  },
+  {
+    "file": "icons/disease.svg",
+    "author": "Lorc",
+    "title": "poison-bottle",
+    "url": "https://game-icons.net/1x1/lorc/poison-bottle.html",
+    "license": "CC-BY-3.0",
+    "modified": false
+  },
+  {
+    "file": "icons/disorder.svg",
+    "author": "Lorc",
+    "title": "brain",
+    "url": "https://game-icons.net/1x1/lorc/brain.html",
+    "license": "CC-BY-3.0",
+    "modified": false
+  },
+  {
+    "file": "icons/drawback.svg",
+    "author": "Lorc",
+    "title": "broken-heart",
+    "url": "https://game-icons.net/1x1/lorc/broken-heart.html",
+    "license": "CC-BY-3.0",
+    "modified": false
+  },
+  {
+    "file": "icons/injury.svg",
+    "author": "Lorc",
+    "title": "sword-wound",
+    "url": "https://game-icons.net/1x1/lorc/sword-wound.html",
+    "license": "CC-BY-3.0",
+    "modified": false
+  },
+  {
+    "file": "icons/quality.svg",
+    "author": "Lorc",
+    "title": "star-swirl",
+    "url": "https://game-icons.net/1x1/lorc/star-swirl.html",
+    "license": "CC-BY-3.0",
+    "modified": false
+  },
+  {
+    "file": "icons/ritual.svg",
+    "author": "Lorc",
+    "title": "tied-scroll",
+    "url": "https://game-icons.net/1x1/lorc/tied-scroll.html",
+    "license": "CC-BY-3.0",
+    "modified": false
+  },
+  {
+    "file": "icons/spell.svg",
+    "author": "Lorc",
+    "title": "magic-swirl",
+    "url": "https://game-icons.net/1x1/lorc/magic-swirl.html",
+    "license": "CC-BY-3.0",
+    "modified": false
+  },
+  {
+    "file": "icons/taint.svg",
+    "author": "Lorc",
+    "title": "skull-crack",
+    "url": "https://game-icons.net/1x1/lorc/skull-crack.html",
+    "license": "CC-BY-3.0",
+    "modified": false
+  },
+  {
+    "file": "icons/uniqueAdvance.svg",
+    "author": "Delapouite",
+    "title": "skills",
+    "url": "https://game-icons.net/1x1/delapouite/skills.html",
+    "license": "CC-BY-3.0",
+    "modified": false
+  },
+  {
+    "file": "icons/bukijutsu.svg",
+    "author": "Lorc",
+    "title": "daggers",
+    "url": "https://game-icons.net/1x1/lorc/daggers.html",
+    "license": "CC-BY-3.0",
+    "modified": false
+  },
+  {
+    "file": "icons/genjutsu.svg",
+    "author": "Lorc",
+    "title": "eye-shield",
+    "url": "https://game-icons.net/1x1/lorc/eye-shield.html",
+    "license": "CC-BY-3.0",
+    "modified": false
+  },
+  {
+    "file": "icons/ninjutsu.svg",
+    "author": "Lorc",
+    "title": "fireball",
+    "url": "https://game-icons.net/1x1/lorc/fireball.html",
+    "license": "CC-BY-3.0",
+    "modified": false
+  },
+  {
+    "file": "icons/taijutsu.svg",
+    "author": "Lorc",
+    "title": "fist",
+    "url": "https://game-icons.net/1x1/lorc/fist.html",
+    "license": "CC-BY-3.0",
+    "modified": false
+  },
+  {
+    "file": "icons/fuinjutsu.svg",
+    "author": "Delapouite",
+    "title": "knot",
+    "url": "https://game-icons.net/1x1/delapouite/knot.html",
+    "license": "CC-BY-3.0",
+    "modified": false
+  }
+]

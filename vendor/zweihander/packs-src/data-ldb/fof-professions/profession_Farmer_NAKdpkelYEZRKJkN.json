@@ -1,0 +1,124 @@
+{
+  "_id": "NAKdpkelYEZRKJkN",
+  "effects": [],
+  "img": "systems/zweihander/assets/icons/abstract-082.svg",
+  "name": "Farmer",
+  "type": "profession",
+  "_stats": {
+    "coreVersion": "13.342",
+    "systemId": "zweihander",
+    "systemVersion": "5.4.1",
+    "createdTime": null,
+    "modifiedTime": 1734972168207,
+    "lastModifiedBy": "rivg6xcMxdlVDM8y",
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "system": {
+    "description": {
+      "@en": "<p>Some might think planting, tending and cultivating crops and fish is easy, but it is the most difficult of all jobs, in truth. One bad rainstorm or parched growing season can spell doom for some, but I may not be as affected by the harsher seasons, as I can move my family to better soil. For those of us not raising crops, we may raise horses, cattle or even chickens. Very few people in the cities would choose to live the life I do. It&rsquo;s hard, backbreaking work, but I have to have my heart in it&mdash; otherwise, the labor would surely kill me.</p>\n<p>I have weathered many of life&rsquo;s storms. From raids to natural disasters, I have built up an immunity to all of this hardship. I farm outside of the city, making it easier to live off the land and be far away from war&rsquo;s worst weathering. When I am alone with my work, it is hard to notice what is happening in the wider world. When I journey into town to sell my crops, though, the tension is so thick you could cut it with a knife. I&rsquo;m not sure what the future will bring, but I can tell change is coming whether I welcome it or not.</p>"
+    },
+    "notes": "",
+    "expert": {
+      "value": false,
+      "requirements": ""
+    },
+    "archetype": "Frontier Profession",
+    "bonusAdvances": [
+      {
+        "name": "[AB]"
+      },
+      {
+        "name": "[BB]"
+      },
+      {
+        "name": "[BB]"
+      },
+      {
+        "name": "[CB]"
+      },
+      {
+        "name": "[FB]"
+      },
+      {
+        "name": "[PB]"
+      },
+      {
+        "name": "[WB]"
+      }
+    ],
+    "skillRanks": [
+      {
+        "name": "Athletics"
+      },
+      {
+        "name": "Drive"
+      },
+      {
+        "name": "Folklore"
+      },
+      {
+        "name": "Handle Animal"
+      },
+      {
+        "name": "Resolve"
+      },
+      {
+        "name": "Ride"
+      },
+      {
+        "name": "Simple Melee"
+      },
+      {
+        "name": "Simple Ranged"
+      },
+      {
+        "name": "Survival"
+      },
+      {
+        "name": "Toughness"
+      }
+    ],
+    "talents": [
+      {
+        "linkedId": null,
+        "name": "Break my Fast",
+        "uuid": "Compendium.zweihander.fof-talents.Item.a78ck3m7PScMjO1k"
+      },
+      {
+        "linkedId": null,
+        "name": "Farming",
+        "uuid": "Compendium.zweihander.fof-talents.Item.ScJ8yVFDgQzbv7eI"
+      },
+      {
+        "linkedId": null,
+        "name": "Herculean Effort",
+        "uuid": "Compendium.zweihander.fof-talents.Item.95dv573wENRKSFQX"
+      }
+    ],
+    "professionalTrait": {
+      "name": "Farmer's Almanac",
+      "uuid": "Compendium.zweihander.fof-professional-traits.Item.xN5yAxdqtMYVZq3w",
+      "linkedId": null
+    },
+    "specialTrait": {
+      "name": "",
+      "uuid": "",
+      "linkedId": null
+    },
+    "drawback": {
+      "name": "Bad Luck",
+      "uuid": "Compendium.zweihander.fof-quirks.Item.AiRWhAP1Lslqe4ZE",
+      "linkedId": null
+    },
+    "tier": ""
+  },
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {},
+  "_key": "!items!NAKdpkelYEZRKJkN"
+}

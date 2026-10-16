@@ -1,0 +1,37 @@
+{
+  "_id": "xnhDMnlkbo9WVLm5",
+  "effects": [],
+  "img": "systems/zweihander/assets/icons/book-aura.svg",
+  "name": "Book of Oaths",
+  "type": "trait",
+  "_stats": {
+    "coreVersion": "13.342",
+    "systemId": "zweihander",
+    "systemVersion": "5.4.1",
+    "createdTime": null,
+    "modifiedTime": 1735911103119,
+    "lastModifiedBy": "rivg6xcMxdlVDM8y",
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "system": {
+    "description": {
+      "@en": "Oathkeepers oftentimes keep a book of ‘grudges’ against others, but sometimes these stories are more inspirational rather than being fueled by hatred of other clans or Ancestries."
+    },
+    "notes": "",
+    "rules": {
+      "effect": {
+        "@en": "You can attempt a Skill Test, related to your Focus in the arts, to tell a story to others. If successful, a number of allies equal to your [FB] may either ignore any one Critically Failed Skill Test or treat one Fury Die as a face ‘6’ without spending a Fortune Point within the next 24 hours. If you Critically Succeed, you influence a number of allies equal to three times your [FB] instead. A Character may only gain the benefit of this storytelling once per day, which takes at least an hour of time to perform."
+      }
+    },
+    "category": "professional"
+  },
+  "folder": null,
+  "sort": 20700000,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {},
+  "_key": "!items!xnhDMnlkbo9WVLm5"
+}

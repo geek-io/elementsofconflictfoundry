@@ -1,0 +1,144 @@
+{
+  "_id": "mQ5SkDLfDvUU6E3k",
+  "effects": [],
+  "img": "systems/zweihander/assets/icons/animal-tamer.svg",
+  "name": "Animal Tamer",
+  "type": "profession",
+  "_stats": {
+    "coreVersion": "13.342",
+    "systemId": "zweihander",
+    "systemVersion": "5.4.1",
+    "createdTime": null,
+    "modifiedTime": 1734990834143,
+    "lastModifiedBy": "rivg6xcMxdlVDM8y",
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "system": {
+    "description": {
+      "@en": "Whether they be wranglers, rustlers or even sellers of horseflesh, Animal Tamers tend to live solitary lives with those creatures they handle. Brusque at times, even boorish, they typically carry the stench of the pen, replete with dung between their cleats and straw matted within their hide leggings. The lowliest train pigeons, ferrets and cats. Middling Animal Tamers breed hunting raptors and war dogs. Rarest are the ones who break, dominate and train bears or other foreign beasts raised in captivity. Some are even capable of taming the dangerous komodo raptors of the south or the mysterious rocs flown by certain elves; by far the most dangerous animals to tame, if they can be properly tamed at all.\nThe smallfolk have a particular fondness for the bear-baiter, as these Animal Tamers act as ringmaster of a menagerie or carnival. Employing brightly-colored clothing and large mustachios, they are well-paid to command shambling bears, thundering elephants and other twisted, foreign chimera to perform stupid tricks that only simple folk would be entertained by. Of course the crowd wishes to see these dangerous creatures perform, but also secretly yearns to see master of ceremonies torn to shreds, stomped into a pulpy mess or swallowed whole by the very creatures they command!"
+    },
+    "notes": "",
+    "expert": {
+      "value": false,
+      "requirements": {
+        "skillRanks": [],
+        "additional": ""
+      }
+    },
+    "archetype": "Ranger",
+    "bonusAdvances": [
+      {
+        "name": "[AB]",
+        "purchased": false
+      },
+      {
+        "name": "[BB]",
+        "purchased": false
+      },
+      {
+        "name": "[BB]",
+        "purchased": false
+      },
+      {
+        "name": "[FB]",
+        "purchased": false
+      },
+      {
+        "name": "[FB]",
+        "purchased": false
+      },
+      {
+        "name": "[PB]",
+        "purchased": false
+      },
+      {
+        "name": "[WB]",
+        "purchased": false
+      }
+    ],
+    "skillRanks": [
+      {
+        "name": "Athletics",
+        "purchased": false
+      },
+      {
+        "name": "Drive",
+        "purchased": false
+      },
+      {
+        "name": "Folklore",
+        "purchased": false
+      },
+      {
+        "name": "Guile",
+        "purchased": false
+      },
+      {
+        "name": "Handle Animal",
+        "purchased": false
+      },
+      {
+        "name": "Resolve",
+        "purchased": false
+      },
+      {
+        "name": "Ride",
+        "purchased": false
+      },
+      {
+        "name": "Rumor",
+        "purchased": false
+      },
+      {
+        "name": "Simple Melee",
+        "purchased": false
+      },
+      {
+        "name": "Survival",
+        "purchased": false
+      }
+    ],
+    "talents": [
+      {
+        "linkedId": "v6tIVgfHMuYK0Smy",
+        "name": "Carousing",
+        "uuid": "Compendium.zweihander.zh-talents.Item.v6tIVgfHMuYK0Smy"
+      },
+      {
+        "linkedId": "St0VOtocOhqdwLFC",
+        "name": "Clinch Fighter",
+        "uuid": "Compendium.zweihander.zh-talents.Item.St0VOtocOhqdwLFC"
+      },
+      {
+        "linkedId": "gTfkADOvPRHZK5P4",
+        "name": "Gallows Humor",
+        "uuid": "Compendium.zweihander.zh-talents.Item.gTfkADOvPRHZK5P4"
+      }
+    ],
+    "professionalTrait": {
+      "name": "Beastmaster",
+      "uuid": "Compendium.zweihander.zh-traits.Item.L3El3HgYaf9xXkuW",
+      "linkedId": null
+    },
+    "specialTrait": {
+      "name": "",
+      "uuid": "",
+      "linkedId": null
+    },
+    "drawback": {
+      "name": "",
+      "uuid": "",
+      "linkedId": null
+    },
+    "tier": ""
+  },
+  "folder": null,
+  "sort": 14100000,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {},
+  "_key": "!items!mQ5SkDLfDvUU6E3k"
+}

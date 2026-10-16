@@ -1,0 +1,37 @@
+{
+  "_id": "Hea13JnmQNvyagtK",
+  "effects": [],
+  "img": "systems/zweihander/assets/icons/vitruvian-man.svg",
+  "name": "Ogham of Truth",
+  "type": "trait",
+  "_stats": {
+    "coreVersion": "13.342",
+    "systemId": "zweihander",
+    "systemVersion": "5.4.1",
+    "createdTime": null,
+    "modifiedTime": 1735911103050,
+    "lastModifiedBy": "rivg6xcMxdlVDM8y",
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "system": {
+    "description": {
+      "@en": "Truthsayers are perfect vessels for order, able to control the Winds of the Æther and become perfectly aligned with divine truth. However, when possessed by the inner turmoil of chaos, Truthsayers begin to waver."
+    },
+    "notes": "",
+    "rules": {
+      "effect": {
+        "@en": "When your Order Ranks are higher than your Chaos Ranks, you never provoke Divine Punishment with Chaos Dice. However, you still gain Corruption by Channeling Power."
+      }
+    },
+    "category": "professional"
+  },
+  "folder": null,
+  "sort": 5700000,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {},
+  "_key": "!items!Hea13JnmQNvyagtK"
+}

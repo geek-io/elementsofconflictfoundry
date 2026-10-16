@@ -1,0 +1,149 @@
+{
+  "_id": "a62xxHuGfANRpM9y",
+  "effects": [],
+  "img": "systems/zweihander/assets/icons/prayer-beads.svg",
+  "name": "Revered Mother",
+  "type": "profession",
+  "_stats": {
+    "coreVersion": "13.342",
+    "systemId": "zweihander",
+    "systemVersion": "5.4.1",
+    "createdTime": null,
+    "modifiedTime": 1735050246817,
+    "lastModifiedBy": "rivg6xcMxdlVDM8y",
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "system": {
+    "description": {
+      "@en": "The sister of mercy and succor, the Martyr offers up Her own body and health to lead the children of the world from sickness and suffering. Just as she is well-loved and respected, Her priesthood of the Revered Mothers are equally well-loved and respected. Garbed totally in white – though the white may be stained from spattered blood and bile – Revered Mothers are healers, menders and midwives, asking little more for their services than a tithe and a shared prayer. Some are highly trained physicians, others simply rely upon the Martyr’s healing Magicks, but nearly all are women. Some men are sometimes accepted into their ranks – they retain the title of ‘mother’ as a point of pride. No matter their sex, Revered Mothers take strict oaths to never harm another soul, no matter how vile, mutated or diseased. Their matron of healing is a benevolent and loving figure who would never raise Her hand against anyone, so they do the same.\nRevered Mothers are passionate and loving, giving off a maternal or paternal glow no matter their attendant. Many are also chaste, knowing pleasures of the flesh distract from their mission. The Martyr’s hospices are great places of healing that give as much space to sick beds as they do their grand altar. Their worship is formalized and quite strict, including the needed ‘cleansing of hands’ between touching patients – a ritual believed to ward off sickness. Those Revered Mothers who see too many horrors begin to crack under pressure, often seeing quick merciful deaths to be the only solution to wounds and illness. These ‘red revenants’ are blood-stained representatives of the Martyr, valkyries that bring swift death to the dying by misericorde, ushering them towards the Well of Souls."
+    },
+    "notes": "",
+    "expert": {
+      "value": true,
+      "requirements": {
+        "skillRanks": [
+          {
+            "key": "incantation",
+            "value": 1
+          }
+        ],
+        "additional": "<p>You must have the Special Trait of Divine Magick.</p>"
+      }
+    },
+    "archetype": "Expert Profession",
+    "bonusAdvances": [
+      {
+        "name": "[FB]",
+        "purchased": false
+      },
+      {
+        "name": "[FB]",
+        "purchased": false
+      },
+      {
+        "name": "[IB]",
+        "purchased": false
+      },
+      {
+        "name": "[IB]",
+        "purchased": false
+      },
+      {
+        "name": "[PB]",
+        "purchased": false
+      },
+      {
+        "name": "[WB]",
+        "purchased": false
+      },
+      {
+        "name": "[WB]",
+        "purchased": false
+      }
+    ],
+    "skillRanks": [
+      {
+        "name": "Charm",
+        "purchased": false
+      },
+      {
+        "name": "Education",
+        "purchased": false
+      },
+      {
+        "name": "Folklore",
+        "purchased": false
+      },
+      {
+        "name": "Handle Animal",
+        "purchased": false
+      },
+      {
+        "name": "Heal",
+        "purchased": false
+      },
+      {
+        "name": "Incantation",
+        "purchased": false
+      },
+      {
+        "name": "Resolve",
+        "purchased": false
+      },
+      {
+        "name": "Rumor",
+        "purchased": false
+      },
+      {
+        "name": "Scrutinize",
+        "purchased": false
+      },
+      {
+        "name": "Simple Melee",
+        "purchased": false
+      }
+    ],
+    "talents": [
+      {
+        "linkedId": "fe7vdZghpPmVpFPn",
+        "name": "Die Hard",
+        "uuid": "Compendium.zweihander.zh-talents.Item.fe7vdZghpPmVpFPn"
+      },
+      {
+        "linkedId": "XagfAjJDzmkyHGk5",
+        "name": "Hard To Kill",
+        "uuid": "Compendium.zweihander.zh-talents.Item.XagfAjJDzmkyHGk5"
+      },
+      {
+        "linkedId": "WsD0GRMRKX8Ov0mT",
+        "name": "Impervious Mind",
+        "uuid": "Compendium.zweihander.zh-talents.Item.WsD0GRMRKX8Ov0mT"
+      }
+    ],
+    "professionalTrait": {
+      "name": "Sisters of Mercy",
+      "uuid": "Compendium.zweihander.zh-traits.Item.fMlvBU8lDKFxExKZ",
+      "linkedId": null
+    },
+    "specialTrait": {
+      "name": "Prayers of the Martyr",
+      "uuid": "Compendium.zweihander.zh-traits.Item.Txv97IoX5ZcKXFQR",
+      "linkedId": null
+    },
+    "drawback": {
+      "name": "The Martyr’s Commandments",
+      "uuid": "Compendium.zweihander.zh-drawbacks.Item.ZTq77A481RHMQeiL",
+      "linkedId": null
+    },
+    "tier": ""
+  },
+  "folder": null,
+  "sort": 11000000,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {},
+  "_key": "!items!a62xxHuGfANRpM9y"
+}

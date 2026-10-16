@@ -1,0 +1,106 @@
+{{#unless limited}}
+  <section class="sheet-body decal-target">
+    <section class="stats flexcol">
+      <h1>{{localize "ZWEI.actor.navigation.attributes"}} <a class="manual-mode-button" data-tooltip-direction="UP"><i
+            class="fas fa-toggle-{{#if system.stats.manualMode}}on{{else}}off{{/if}}"></i> {{localize "ZWEI.actor.navigation.manualmode"}}</a></h1>
+      <ul class="primary-attributes flexrow">
+        {{#each system.stats.primaryAttributes as | attr key | }}
+        <li class="pa pa-{{key}}" data-primary-attribute="{{key}}">
+          <span class="pa-title">{{localize (zhConcat "ZWEI.actor.primary." key)}}</span>
+          <div class="pa-display flexrow">
+            <input class="pa-value" size="2" type="number" name="system.stats.primaryAttributes.{{key}}.value"
+              value="{{attr.value}}">
+            <div class="pa-icon"><span class="{{lookup ../config.primaryAttributeIcons key}}"></span></div>
+            <div class="pa-bonus-container flexcol">
+              <span class="pa-bonus">{{attr.bonus}}</span>
+              <span class="pa-bonus-title">{{localize (zhConcat "ZWEI.actor.bonuses." (zhLowerCase key))}}</span>
+            </div>
+          </div>
+          <div class="pa-bonus-advances flexrow">
+            <button type="button" class="pa-bonus-advance-substract" data-primary-attribute="{{key}}">-</button>
+            <span class="pa-bonus-advance-counter">{{attr.bonusAdvances}}</span>
+            <button type="button" class="pa-bonus-advance-add" data-primary-attribute="{{key}}">+</button>
+          </div>
+        </li>
+        {{/each}}
+      </ul>
+      <ul class="secondary-attributes flexrow">
+        <li class="sa-int">
+          <span class="sa-title">{{localize "ZWEI.actor.secondary.initiative"}}</span>
+          <span class="sa-value">
+            <input class="sa-solo-value" size="2" type="number" name="system.stats.secondaryAttributes.initiative.value"
+              value="{{system.stats.secondaryAttributes.initiative.value}}" {{#unless
+              system.stats.manualMode}}readonly{{/unless}}>
+          </span>
+        </li>
+        <li class="sa-mov">
+          <span class="sa-title">{{localize "ZWEI.actor.secondary.movefly"}}</span>
+          <span class="sa-value">
+            <input size="2" type="number" name="system.stats.secondaryAttributes.movement.value"
+              value="{{system.stats.secondaryAttributes.movement.value}}" {{#unless
+              system.stats.manualMode}}readonly{{/unless}}>
+            <span class="sa-value-fly">
+              /<input size="2" type="number" name="system.stats.secondaryAttributes.movement.fly"
+                value="{{system.stats.secondaryAttributes.movement.fly}}" {{#unless
+                system.stats.manualMode}}readonly{{/unless}}>
+            </span>
+          </span>
+        </li>
+        <li class="sa-dth">
+          <span class="sa-title">{{localize "ZWEI.actor.secondary.dth"}}</span>
+          <span class="sa-value">
+            <input size="2" type="number" name="system.stats.secondaryAttributes.damageThreshold.value"
+              value="{{system.stats.secondaryAttributes.damageThreshold.value}}" {{#unless
+              system.stats.manualMode}}readonly{{/unless}}>
+            <span
+              class="sa-ladder">({{zhAdd system.stats.secondaryAttributes.damageThreshold.value '6'}}/{{zhAdd system.stats.secondaryAttributes.damageThreshold.value '12'}}/{{zhAdd system.stats.secondaryAttributes.damageThreshold.value '18'}})</span></span>
+        </li>
+        <li class="sa-dth">
+          <span class="sa-title">{{localize "ZWEI.actor.secondary.pth"}}</span>
+          <span class="sa-value">
+            <input size="2" type="number" name="system.stats.secondaryAttributes.perilThreshold.value"
+              value="{{system.stats.secondaryAttributes.perilThreshold.value}}" {{#unless
+              system.stats.manualMode}}readonly{{/unless}}>
+            <span
+              class="sa-ladder">({{zhAdd system.stats.secondaryAttributes.perilThreshold.value '6'}}/{{zhAdd system.stats.secondaryAttributes.perilThreshold.value '12'}}/{{zhAdd system.stats.secondaryAttributes.perilThreshold.value '18'}})</span></span>
+        </li>
+        <li class="sa-parry">
+          <span class="sa-title"><a class="parry-roll" data-roll="1d100"
+            data-label="{{system.stats.secondaryAttributes.parry.associatedSkill}}">{{localize "ZWEI.actor.secondary.parry"}}</a></span>
+          <span class="sa-value">
+            <input class="sa-solo-value" size="2" type="number" name="system.stats.secondaryAttributes.parry.value"
+              value="{{system.stats.secondaryAttributes.parry.value}}" {{#unless
+              system.stats.manualMode}}readonly{{/unless}}>
+          </span>
+        </li>
+        <li class="sa-dodge">
+          <span class="sa-title dodge-roll"><a class="dodge-roll" data-roll="1d100"
+            data-label="{{system.stats.secondaryAttributes.dodge.associatedSkill}}">{{localize "ZWEI.actor.secondary.dodge"}}</a></span>
+          <span class="sa-value">
+            <input class="sa-solo-value" size="2" type="number" name="system.stats.secondaryAttributes.dodge.value"
+              value="{{system.stats.secondaryAttributes.dodge.value}}" {{#unless
+              system.stats.manualMode}}readonly{{/unless}}>
+          </span>
+        </li>
+      </ul>
+    </section>
+    <section class="attack-profiles">
+      {{> ($$ "partials/items-list") listItems=itemLists.attackProfiles listClass="weapons-list"}}
+    </section>
+    <section class="skills skills-container flexcol save-scroll">
+      <h1>{{localize "ZWEI.actor.navigation.skills"}}</h1>
+      {{> ($$ "partials/skills-list" )}}
+    </section>
+    <section class="rules">
+      {{> ($$ "partials/items-list") listItems=itemLists.rules listClass="stacked-list"}}
+    </section>
+    <section class="loot">
+      {{> ($$ "partials/items-list") listItems=itemLists.loot listClass="loot-list"}}
+    </section>
+    <aside class="description">
+      <h1>{{localize "ZWEI.actor.navigation.description"}}</h1>
+      <textarea spellcheck="false" name="{{zhLocalizePath "system.description"}}"
+        placeholder="Put a nice description of your creature here...">{{zhLocalize system.description}}</textarea>
+    </aside>
+  </section>
+{{/unless}}

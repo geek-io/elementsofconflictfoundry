@@ -1,0 +1,36 @@
+{
+  "_id": "pyPi0Qo3V5CmE5uZ",
+  "effects": [],
+  "img": "systems/zweihander/assets/icons/spiked-halo.svg",
+  "name": "The End is Nigh",
+  "type": "drawback",
+  "_stats": {
+    "coreVersion": "13.342",
+    "systemId": null,
+    "systemVersion": null,
+    "createdTime": null,
+    "modifiedTime": 1733923835859,
+    "lastModifiedBy": "rivg6xcMxdlVDM8y",
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "system": {
+    "description": {
+      "@en": "Unfortunately, the process of ritual scarification has led its votaries toward the brink of madness."
+    },
+    "notes": "",
+    "rules": {
+      "effect": {
+        "@en": "You can never be restored to Unharmed on your Damage Condition Track, only to Lightly Wounded."
+      }
+    }
+  },
+  "folder": null,
+  "sort": 10900000,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {},
+  "_key": "!items!pyPi0Qo3V5CmE5uZ"
+}

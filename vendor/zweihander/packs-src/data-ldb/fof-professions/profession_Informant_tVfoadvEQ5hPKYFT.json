@@ -1,0 +1,124 @@
+{
+  "_id": "tVfoadvEQ5hPKYFT",
+  "effects": [],
+  "img": "systems/zweihander/assets/icons/abstract-082.svg",
+  "name": "Informant",
+  "type": "profession",
+  "_stats": {
+    "coreVersion": "13.342",
+    "systemId": "zweihander",
+    "systemVersion": "5.4.1",
+    "createdTime": null,
+    "modifiedTime": 1734972168227,
+    "lastModifiedBy": "rivg6xcMxdlVDM8y",
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "system": {
+    "description": {
+      "@en": "<p>I peddle in secrets and let me tell you, it is a dangerous business. If anyone follows or even sees my contact, both of our lives are at risk. I know the secrets people search for, as well as the plans they think no one else knows. Name your price, and I&rsquo;ll have the answers you need. If someone can&rsquo;t afford my rates, they should not be offended when I render my services to someone else. And if they decide to inform on me, well . . . they shouldn&rsquo;t be surprised when people in power start hearing their name whispered as a potential traitor.</p>\n<p>Many things are hiding in the shadows&mdash;far more than most even realize. On one side, you have the Sons of Liberty, protesters and those who wish to establish their own government. On the other side, you have Loyalist officials who bleed for king and country. Both sides want to know what the other is plotting, and I&rsquo;m able to provide that intelligence. There are secrets even I don&rsquo;t know, however, and the rumors of dark things lurking in the woods and marshes make me secondguess my knowledge at times.</p>"
+    },
+    "notes": "",
+    "expert": {
+      "value": false,
+      "requirements": ""
+    },
+    "archetype": "Lawbreaker Profession",
+    "bonusAdvances": [
+      {
+        "name": "[AB]"
+      },
+      {
+        "name": "[CB]"
+      },
+      {
+        "name": "[FB]"
+      },
+      {
+        "name": "[FB]"
+      },
+      {
+        "name": "[IB]"
+      },
+      {
+        "name": "[PB]"
+      },
+      {
+        "name": "[PB]"
+      }
+    ],
+    "skillRanks": [
+      {
+        "name": "Awareness"
+      },
+      {
+        "name": "Counterfeit"
+      },
+      {
+        "name": "Disguise"
+      },
+      {
+        "name": "Eavesdrop"
+      },
+      {
+        "name": "Guile"
+      },
+      {
+        "name": "Rumor"
+      },
+      {
+        "name": "Scrutinize"
+      },
+      {
+        "name": "Simple Melee"
+      },
+      {
+        "name": "Simple Ranged"
+      },
+      {
+        "name": "Stealth"
+      }
+    ],
+    "talents": [
+      {
+        "linkedId": null,
+        "name": "Nom de Guerre",
+        "uuid": "Compendium.zweihander.fof-talents.Item.S68hA5EBQ9WsShjO"
+      },
+      {
+        "linkedId": null,
+        "name": "Poker Face",
+        "uuid": "Compendium.zweihander.fof-talents.Item.9kvOSNcP5NY7hrRf"
+      },
+      {
+        "linkedId": null,
+        "name": "Whip Jacket",
+        "uuid": "Compendium.zweihander.fof-talents.Item.HSYCpfapdajs1l74"
+      }
+    ],
+    "professionalTrait": {
+      "name": "Shadow Broker",
+      "uuid": "Compendium.zweihander.zh-traits.Item.RbGV7B07mcMeVG5u",
+      "linkedId": null
+    },
+    "specialTrait": {
+      "name": "",
+      "uuid": "",
+      "linkedId": null
+    },
+    "drawback": {
+      "name": "Too Many Secrets",
+      "uuid": "Compendium.zweihander.fof-quirks.Item.zCIA0L9nNiPWf9SB",
+      "linkedId": null
+    },
+    "tier": ""
+  },
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {},
+  "_key": "!items!tVfoadvEQ5hPKYFT"
+}

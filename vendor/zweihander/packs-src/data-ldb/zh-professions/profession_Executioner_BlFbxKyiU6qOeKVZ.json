@@ -1,0 +1,149 @@
+{
+  "_id": "BlFbxKyiU6qOeKVZ",
+  "effects": [],
+  "img": "systems/zweihander/assets/icons/executioner.svg",
+  "name": "Executioner",
+  "type": "profession",
+  "_stats": {
+    "coreVersion": "13.342",
+    "systemId": "zweihander",
+    "systemVersion": "5.4.1",
+    "createdTime": null,
+    "modifiedTime": 1735047872937,
+    "lastModifiedBy": "rivg6xcMxdlVDM8y",
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "system": {
+    "description": {
+      "@en": "As the last figure seen by the condemned, the Executioner bears a most onerous and grisly task. They carry out acts of capital punishment – hanging, drawing, quartering and beheading – and in meting out justice, raise a hand that a king never would against their subjects. Although the grim spectacle of bloody execution draws great crowds and some Executioners become as famous as they are feared, their ghastly duties and their role as the king’s justice, means that they are feared and hated, even shunned by the community when their axe is laid to rest and their hoods removed. Most executions are performed on the chopping block, but new technologies mean new cruelties – crosses, gallows, firing lines, guillotines and more. Though they hold positions of wealth and privilege, Executioners rarely take any joy from their gruesome work. A rare few are reviled more than others and often the subject of reprisals from the families of those who died at the hands of their sloppy axe work. Some Executioners even accompany rulers or Inquisitors, serving as handy disposers of prisoners of war or heretics.\nPerforming executions is not for the faint of heart, so Executioners are invariably grim, adamant and cruel. Their weary work means many turn to alcohol and other drugs to help them forget, but this may not be enough to prevent the most lawful justicar from turning into a grim-hooded fiend. Then they may cut their bonds to lawfulness and sanity to engage in a gruesome, bloodthirsty rampage."
+    },
+    "notes": "",
+    "expert": {
+      "value": true,
+      "requirements": {
+        "skillRanks": [
+          {
+            "key": "interrogation",
+            "value": 1
+          }
+        ],
+        "additional": "<p>-</p>"
+      }
+    },
+    "archetype": "Expert Profession",
+    "bonusAdvances": [
+      {
+        "name": "[AB]",
+        "purchased": false
+      },
+      {
+        "name": "[BB]",
+        "purchased": false
+      },
+      {
+        "name": "[BB]",
+        "purchased": false
+      },
+      {
+        "name": "[CB]",
+        "purchased": false
+      },
+      {
+        "name": "[CB]",
+        "purchased": false
+      },
+      {
+        "name": "[WB]",
+        "purchased": false
+      },
+      {
+        "name": "[WB]",
+        "purchased": false
+      }
+    ],
+    "skillRanks": [
+      {
+        "name": "Athletics",
+        "purchased": false
+      },
+      {
+        "name": "Coordination",
+        "purchased": false
+      },
+      {
+        "name": "Disguise",
+        "purchased": false
+      },
+      {
+        "name": "Handle Animal",
+        "purchased": false
+      },
+      {
+        "name": "Interrogation",
+        "purchased": false
+      },
+      {
+        "name": "Intimidate",
+        "purchased": false
+      },
+      {
+        "name": "Martial Melee",
+        "purchased": false
+      },
+      {
+        "name": "Resolve",
+        "purchased": false
+      },
+      {
+        "name": "Rumor",
+        "purchased": false
+      },
+      {
+        "name": "Simple Melee",
+        "purchased": false
+      }
+    ],
+    "talents": [
+      {
+        "linkedId": "i9qfMytftadGhnm3",
+        "name": "Appalling Mien",
+        "uuid": "Compendium.zweihander.zh-talents.Item.i9qfMytftadGhnm3"
+      },
+      {
+        "linkedId": "EjJR2J7U8esJvLbc",
+        "name": "Beatdown",
+        "uuid": "Compendium.zweihander.zh-talents.Item.EjJR2J7U8esJvLbc"
+      },
+      {
+        "linkedId": "lDYbvmW0G7e9EiQY",
+        "name": "No Mercy",
+        "uuid": "Compendium.zweihander.zh-talents.Item.lDYbvmW0G7e9EiQY"
+      }
+    ],
+    "professionalTrait": {
+      "name": "Coup De Grâce",
+      "uuid": "Compendium.zweihander.zh-traits.Item.ikyc3m2pWCwOHry3",
+      "linkedId": null
+    },
+    "specialTrait": {
+      "name": "",
+      "uuid": "",
+      "linkedId": null
+    },
+    "drawback": {
+      "name": "A Grim Career",
+      "uuid": "Compendium.zweihander.zh-drawbacks.Item.v2PvssHRQo2MuuBt",
+      "linkedId": null
+    },
+    "tier": ""
+  },
+  "folder": null,
+  "sort": 4100000,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {},
+  "_key": "!items!BlFbxKyiU6qOeKVZ"
+}

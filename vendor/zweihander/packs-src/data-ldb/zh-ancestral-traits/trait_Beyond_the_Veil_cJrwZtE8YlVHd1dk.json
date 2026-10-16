@@ -1,0 +1,37 @@
+{
+  "_id": "cJrwZtE8YlVHd1dk",
+  "effects": [],
+  "img": "systems/zweihander/assets/icons/ink-swirl.svg",
+  "name": "Beyond the Veil",
+  "type": "trait",
+  "_stats": {
+    "coreVersion": "13.342",
+    "systemId": "zweihander",
+    "systemVersion": "5.4.1",
+    "createdTime": null,
+    "modifiedTime": 1734974463051,
+    "lastModifiedBy": "rivg6xcMxdlVDM8y",
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "system": {
+    "description": {
+      "@en": "Elves share a significant link with powers beyond mortal kith and kin and can manipulate them to their will. But, they have slowly fallen prey to the mind-bending warp and weft of the world beyond."
+    },
+    "notes": "",
+    "rules": {
+      "effect": {
+        "@en": "Whenever you fail or Critically Fail an Incantation Test, spend one Fortune Point to turn it into a Critical Success."
+      }
+    },
+    "category": "ancestral"
+  },
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {},
+  "_key": "!items!cJrwZtE8YlVHd1dk"
+}

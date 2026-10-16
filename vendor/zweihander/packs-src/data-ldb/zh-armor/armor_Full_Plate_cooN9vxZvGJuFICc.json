@@ -1,0 +1,44 @@
+{
+  "_id": "cooN9vxZvGJuFICc",
+  "effects": [],
+  "img": "systems/zweihander/assets/icons/visored-helm.svg",
+  "name": "Full Plate",
+  "type": "armor",
+  "_stats": {
+    "coreVersion": "13.342",
+    "systemId": "zweihander",
+    "systemVersion": "5.4.1",
+    "createdTime": null,
+    "modifiedTime": 1745250808422,
+    "lastModifiedBy": "rivg6xcMxdlVDM8y",
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "system": {
+    "description": {
+      "@en": "Expensive and clunky, it covers the entire body from toe to crown. It generally requires help to don and doff, and unfortunately can only be worn for short periods of time because it is so uncomfortable. It is often found gathering dust in alcoves of mansions or harnessed to knights that demand an impeccable appearance."
+    },
+    "notes": "",
+    "price": {
+      "bp": 0,
+      "gc": 179,
+      "ss": 0,
+      "ad": null
+    },
+    "encumbrance": 7,
+    "carried": true,
+    "equipped": false,
+    "qualities": [
+      "Compendium.zweihander.zh-qualities.Item.kkftpWRfSb4qazzJ"
+    ],
+    "damageThresholdModifier": 6
+  },
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {},
+  "_key": "!items!cooN9vxZvGJuFICc"
+}

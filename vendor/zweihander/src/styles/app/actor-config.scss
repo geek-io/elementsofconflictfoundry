@@ -1,0 +1,80 @@
+body.game.vtt.system-zweihander .zweihander.sheet.actor-config {
+  max-height: 820px;
+
+  .window-content {
+    overflow-y: auto;
+    padding: 0.5rem;
+  }
+
+  .actor-config-container {
+    display: flex;
+    flex-direction: column;
+    gap: 0.5rem;
+  }
+
+  .hint {
+    color: var(--color-form-hint);
+  }
+
+  .form-group {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    gap: 0.5rem;
+    align-items: flex-start;
+
+    > label {
+      line-height: var(--input-height);
+    }
+
+    > * {
+      flex: 1;
+    }
+
+    > select,
+    input,
+    multi-select {
+      flex: 2;
+    }
+
+    file-picker {
+      flex: 2;
+    }
+
+    input:not([type='checkbox']) {
+      width: 100%;
+      background-color: var(--zh-clr-bg1);
+      border-radius: 3px;
+      height: 27px;
+      line-height: normal;
+      padding: 3px;
+      text-align: center;
+      padding-inline: 0;
+    }
+
+    input[type='checkbox'] {
+      background: none;
+      margin: 0 0;
+      flex: 0 0 18px;
+    }
+
+    .hint {
+      flex: 0 0 100%;
+      margin: 0;
+    }
+  }
+
+  h3 {
+    font-family: var(--zh-font-title);
+    text-transform: uppercase;
+    font-weight: normal;
+    font-size: 20px;
+    border-bottom: none;
+  }
+
+  .notes {
+    font-size: 14px;
+    color: var(--zh-clr-fg2);
+    text-align: justify;
+  }
+}

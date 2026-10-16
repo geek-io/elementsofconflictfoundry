@@ -1,0 +1,37 @@
+{
+  "_id": "NZSJkqSLXgEIpXDF",
+  "effects": [],
+  "img": "systems/zweihander/assets/icons/sword-clash.svg",
+  "name": "Trial by Combat",
+  "type": "trait",
+  "_stats": {
+    "coreVersion": "13.342",
+    "systemId": "zweihander",
+    "systemVersion": "5.4.1",
+    "createdTime": null,
+    "modifiedTime": 1735911103056,
+    "lastModifiedBy": "rivg6xcMxdlVDM8y",
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "system": {
+    "description": {
+      "@en": "What justice giveth, justice can just as easily taketh away."
+    },
+    "notes": "",
+    "rules": {
+      "effect": {
+        "@en": "Whenever you inflict a Grievous Injury upon a foe, they are instantly Slain! instead. You must use a melee weapon to take advantage of this Trait."
+      }
+    },
+    "category": "professional"
+  },
+  "folder": null,
+  "sort": 7400000,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {},
+  "_key": "!items!NZSJkqSLXgEIpXDF"
+}

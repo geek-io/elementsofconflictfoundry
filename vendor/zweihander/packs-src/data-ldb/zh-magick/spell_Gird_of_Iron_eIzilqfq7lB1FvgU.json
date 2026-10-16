@@ -1,0 +1,60 @@
+{
+  "_id": "eIzilqfq7lB1FvgU",
+  "effects": [],
+  "img": "systems/zweihander/assets/icons/kaleidoscope-pearls.svg",
+  "name": "Gird of Iron",
+  "type": "spell",
+  "_stats": {
+    "coreVersion": "13.342",
+    "systemId": "zweihander",
+    "systemVersion": "5.4.1",
+    "createdTime": null,
+    "modifiedTime": 1745410540880,
+    "lastModifiedBy": "rivg6xcMxdlVDM8y",
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "system": {
+    "description": {
+      "@en": "Steel balls begin to rotate in unison around your body, shielding you from harm."
+    },
+    "notes": "",
+    "rules": {
+      "effect": {
+        "@en": "After successfully casting this spell, you can Dodge ranged attacks and Parry melee attacks using your Incantation Skill."
+      },
+      "criticalSuccess": {
+        "@en": "As above, but triple the Duration."
+      },
+      "criticalFailure": {
+        "@en": "The steel balls knock the Wind out of you. You immediately suffer [[/roll 1D10+1]] physical Peril."
+      },
+      "reagents": {
+        "@en": "A handful of small steel balls"
+      }
+    },
+    "tradition": "Arcane (Transmutation)",
+    "principle": "Petty",
+    "distance": "Yourself",
+    "duration": {
+      "value": "instantaneous",
+      "label": "[WB] + 3 minutes",
+      "formula": {
+        "override": true
+      },
+      "base": "[WB]",
+      "bonus": 3,
+      "unit": "minutes"
+    },
+    "castingTime": "1 min",
+    "castingCost": 0
+  },
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {},
+  "_key": "!items!eIzilqfq7lB1FvgU"
+}

@@ -1,0 +1,124 @@
+{
+  "_id": "718t3CN8ly1RB7Qz",
+  "effects": [],
+  "img": "systems/zweihander/assets/icons/abstract-082.svg",
+  "name": "Greengrocer",
+  "type": "profession",
+  "_stats": {
+    "coreVersion": "13.342",
+    "systemId": "zweihander",
+    "systemVersion": "5.4.1",
+    "createdTime": null,
+    "modifiedTime": 1734972168197,
+    "lastModifiedBy": "rivg6xcMxdlVDM8y",
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "system": {
+    "description": {
+      "@en": "<p>The farmer plants, the fisher fishes and the hunter hunts. All three work to provide for those who hunger and to ensure that bellies are full. That might be good enough for those in the rural areas, but that backward frontier-folk hardly ever think of us folks in the city. That is where I come in as a grocer&mdash;I buy foodstuffs for a low price and sell it at a profit for those incapable of producing their own. Yes, I am a split fig, and some may malign me for marking up the price on essential items. Yet in times like these, every coin counts when it comes to weathering the coming storm.</p>\n<p>There is trouble lately, and not just in the cities. This trouble is not only the never-ending rise in taxes or the growing tensions between the Loyalists and the Rebels. No, the problem is much more sinister. Crops are yielding less, the fish are getting smaller and meat is getting harder to acquire. Worse yet, I am hearing concerning rumors of strange people and creatures stalking the night. Disappearances, t errifying noises, strange lights and chanting from the woods. This all adds up to one thing: evil.</p>"
+    },
+    "notes": "",
+    "expert": {
+      "value": false,
+      "requirements": ""
+    },
+    "archetype": "Frontier Profession",
+    "bonusAdvances": [
+      {
+        "name": "[FB]"
+      },
+      {
+        "name": "[FB]"
+      },
+      {
+        "name": "[IB]"
+      },
+      {
+        "name": "[IB]"
+      },
+      {
+        "name": "[PB]"
+      },
+      {
+        "name": "[PB]"
+      },
+      {
+        "name": "[WB]"
+      }
+    ],
+    "skillRanks": [
+      {
+        "name": "Awareness"
+      },
+      {
+        "name": "Bargain"
+      },
+      {
+        "name": "Counterfeit"
+      },
+      {
+        "name": "Gamble"
+      },
+      {
+        "name": "Guile"
+      },
+      {
+        "name": "Rumor"
+      },
+      {
+        "name": "Scrutinize"
+      },
+      {
+        "name": "Simple Melee"
+      },
+      {
+        "name": "Simple Ranged"
+      },
+      {
+        "name": "Tradecraft"
+      }
+    ],
+    "talents": [
+      {
+        "linkedId": null,
+        "name": "Arithmetic",
+        "uuid": "Compendium.zweihander.fof-talents.Item.G3l9C98TYVmrUG3W"
+      },
+      {
+        "linkedId": null,
+        "name": "Hobnobbery",
+        "uuid": "Compendium.zweihander.fof-talents.Item.Ee8NNrY7d5Br9UC7"
+      },
+      {
+        "linkedId": null,
+        "name": "Role Reversal",
+        "uuid": "Compendium.zweihander.fof-talents.Item.IJREnAjfRIzk375h"
+      }
+    ],
+    "professionalTrait": {
+      "name": "A Fair Price",
+      "uuid": "Compendium.zweihander.fof-professional-traits.Item.oSH2eeioKwi61X8g",
+      "linkedId": null
+    },
+    "specialTrait": {
+      "name": "",
+      "uuid": "",
+      "linkedId": null
+    },
+    "drawback": {
+      "name": "Out of my Depth",
+      "uuid": "Compendium.zweihander.fof-quirks.Item.JD9oiGFbfKiiQijM",
+      "linkedId": null
+    },
+    "tier": ""
+  },
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {},
+  "_key": "!items!718t3CN8ly1RB7Qz"
+}

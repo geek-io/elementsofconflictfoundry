@@ -1,0 +1,36 @@
+{
+  "_id": "0HRVtKE9hJOQI9DG",
+  "effects": [],
+  "img": "systems/zweihander/assets/icons/bat-mask.svg",
+  "name": "Alter Ego",
+  "type": "drawback",
+  "_stats": {
+    "coreVersion": "13.342",
+    "systemId": null,
+    "systemVersion": null,
+    "createdTime": null,
+    "modifiedTime": 1733923835859,
+    "lastModifiedBy": "rivg6xcMxdlVDM8y",
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "system": {
+    "description": {
+      "@en": "The powers-above will not cast their favor upon you, until you don the mask of a Vigilante."
+    },
+    "notes": "",
+    "rules": {
+      "effect": {
+        "@en": "When in places where you may be recognized as anyone other than your moniker, you cannot use Fate Points."
+      }
+    }
+  },
+  "folder": null,
+  "sort": 300000,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {},
+  "_key": "!items!0HRVtKE9hJOQI9DG"
+}

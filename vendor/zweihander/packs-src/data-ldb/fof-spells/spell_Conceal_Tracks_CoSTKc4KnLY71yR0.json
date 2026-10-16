@@ -1,0 +1,60 @@
+{
+  "_id": "CoSTKc4KnLY71yR0",
+  "effects": [],
+  "img": "systems/zweihander/assets/icons/spell-book.svg",
+  "name": "Conceal Tracks",
+  "type": "spell",
+  "_stats": {
+    "coreVersion": "13.342",
+    "systemId": "zweihander",
+    "systemVersion": "5.4.1",
+    "createdTime": 1745429303229,
+    "modifiedTime": 1745429303229,
+    "lastModifiedBy": "rivg6xcMxdlVDM8y",
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "system": {
+    "description": {
+      "@en": "<p>At first you see me, now you don&rsquo;t . . .</p>"
+    },
+    "notes": "",
+    "rules": {
+      "effect": {
+        "@en": "<p>After successfully casting, you do not leave footprints or any trace of your passing.</p>"
+      },
+      "criticalSuccess": {
+        "@en": "Triple the duration."
+      },
+      "criticalFailure": {
+        "@en": "You leave a glowing trail in your wake, one that can be easily discovered."
+      },
+      "reagents": {
+        "@en": "Your own muddy or wet footwear"
+      }
+    },
+    "tradition": "Common",
+    "principle": "Intermediate Tier",
+    "distance": "Yourself",
+    "duration": {
+      "value": "instantaneous",
+      "label": "6+[WB] minutes",
+      "formula": {
+        "override": true
+      },
+      "base": "[WB]",
+      "bonus": 6,
+      "unit": "minutes"
+    },
+    "castingTime": "1 Minute",
+    "castingCost": 2
+  },
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {},
+  "_key": "!items!CoSTKc4KnLY71yR0"
+}

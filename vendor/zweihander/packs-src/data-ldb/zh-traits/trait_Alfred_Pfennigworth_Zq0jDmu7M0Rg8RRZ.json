@@ -1,0 +1,37 @@
+{
+  "_id": "Zq0jDmu7M0Rg8RRZ",
+  "effects": [],
+  "img": "systems/zweihander/assets/icons/shaking-hands.svg",
+  "name": "Alfred Pfennigworth",
+  "type": "trait",
+  "_stats": {
+    "coreVersion": "13.342",
+    "systemId": "zweihander",
+    "systemVersion": "5.4.1",
+    "createdTime": null,
+    "modifiedTime": 1735911103075,
+    "lastModifiedBy": "rivg6xcMxdlVDM8y",
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "system": {
+    "description": {
+      "@en": "Valets embody impeccable grace and confidence, attending to their duties with professional charm while galvanizing the presence of those whom they serve. Their presence mollifies reputation, lends credit to business dealings and ensures seamless social maneuvering."
+    },
+    "notes": "",
+    "rules": {
+      "effect": {
+        "@en": "When you Assist others with Skill Tests, they gain two Assist Dice instead, choosing the better of the two to use. In addition, when you Assist them, they may ignore any Critical Failures they roll, treating them as regular failures instead."
+      }
+    },
+    "category": "professional"
+  },
+  "folder": null,
+  "sort": 11600000,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {},
+  "_key": "!items!Zq0jDmu7M0Rg8RRZ"
+}

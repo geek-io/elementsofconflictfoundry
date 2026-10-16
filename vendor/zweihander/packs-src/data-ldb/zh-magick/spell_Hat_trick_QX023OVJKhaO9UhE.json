@@ -1,0 +1,60 @@
+{
+  "_id": "QX023OVJKhaO9UhE",
+  "effects": [],
+  "img": "systems/zweihander/assets/icons/magic-hat.svg",
+  "name": "Hat-trick",
+  "type": "spell",
+  "_stats": {
+    "coreVersion": "13.342",
+    "systemId": "zweihander",
+    "systemVersion": "5.4.1",
+    "createdTime": null,
+    "modifiedTime": 1745410666691,
+    "lastModifiedBy": "rivg6xcMxdlVDM8y",
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "system": {
+    "description": {
+      "@en": "You produce an aberrant creature from the folds of your clothing."
+    },
+    "notes": "",
+    "rules": {
+      "effect": {
+        "@en": "After successfully casting this spell, you produce a small living animal of your choice, such as a dove, fish, mouse or rabbit. This creature has an odd mutation about them, such as mismatched eyes, hidden boils beneath their fur or even two tails."
+      },
+      "criticalSuccess": {
+        "@en": "As above, but you draw three creatures forth instead."
+      },
+      "criticalFailure": {
+        "@en": "You draw nothing from your hat, save bloodied fingers! You begin to Bleed and are unable to use your primary hand for 24 hours."
+      },
+      "reagents": {
+        "@en": "A bag, hat or pocket from where an animal can be withdrawn"
+      }
+    },
+    "tradition": "Generalist",
+    "principle": "Generalist",
+    "distance": "Yourself",
+    "duration": {
+      "value": "instantaneous",
+      "label": "Instantaneous",
+      "formula": {
+        "override": false
+      },
+      "base": "[WB]",
+      "bonus": 0,
+      "unit": "Instantaneous"
+    },
+    "castingTime": "1 min",
+    "castingCost": 0
+  },
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {},
+  "_key": "!items!QX023OVJKhaO9UhE"
+}

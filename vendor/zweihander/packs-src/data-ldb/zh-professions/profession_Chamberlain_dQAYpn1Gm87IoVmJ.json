@@ -1,0 +1,149 @@
+{
+  "_id": "dQAYpn1Gm87IoVmJ",
+  "effects": [],
+  "img": "systems/zweihander/assets/icons/quill.svg",
+  "name": "Chamberlain",
+  "type": "profession",
+  "_stats": {
+    "coreVersion": "13.342",
+    "systemId": "zweihander",
+    "systemVersion": "5.4.1",
+    "createdTime": null,
+    "modifiedTime": 1735050984424,
+    "lastModifiedBy": "rivg6xcMxdlVDM8y",
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "system": {
+    "description": {
+      "@en": "Though a duchess or count may rule over a noble house and its surrounding lands, very rarely do they deal with the minutiae and bureaucracy necessary to governing. The Chamberlain, instead, fills that job. A Chamberlain is a household servant; unlike the Valet who serves as a personal butler, the Chamberlain actually manages the logistics of the house. They direct workers, balance budgets, advise their lady or lord, maintain the grounds and direct or carry out every other piece of daily work a lord is too busy to bother with. Many Chamberlains are taken for granted, although a select few are treated as trusted friends and the right-hand of the noble they serve. Rest assured, without a Chamberlain, a noble household would quickly fall into ruin as the small intricacies of rulership quickly become too much to bear for the master of the house. Chamberlains find comfort in this knowledge and use it as a balm to soothe the verbal barbs they may suffer from their employers.\\nSome Chamberlains take up an adventuring spirit if the house they are working for is dissolved or they were removed from their position. Though Chamberlains are not the greatest of fighters, their knowledge and head for logistics can keep a party operating far beyond its normal capabilities. But that is also their biggest weakness – to a Chamberlain, everything must go according to plan at all times. When confronted by the inscrutable machinations of Corruption, bandit hordes or deadly plagues, the Chamberlain finds little that fits into their worldview of prosperity and book-balancing. Many end up insane, rambling to themselves about schedules and dividends as waves of blood and brain splash about their feet."
+    },
+    "notes": "",
+    "expert": {
+      "value": true,
+      "requirements": {
+        "skillRanks": [
+          {
+            "key": "education",
+            "value": 1
+          }
+        ],
+        "additional": "<p>-</p>"
+      }
+    },
+    "archetype": "Expert Profession",
+    "bonusAdvances": [
+      {
+        "name": "[CB]",
+        "purchased": false
+      },
+      {
+        "name": "[FB]",
+        "purchased": false
+      },
+      {
+        "name": "[FB]",
+        "purchased": false
+      },
+      {
+        "name": "[IB]",
+        "purchased": false
+      },
+      {
+        "name": "[IB]",
+        "purchased": false
+      },
+      {
+        "name": "[PB]",
+        "purchased": false
+      },
+      {
+        "name": "[WB]",
+        "purchased": false
+      }
+    ],
+    "skillRanks": [
+      {
+        "name": "Bargain",
+        "purchased": false
+      },
+      {
+        "name": "Eavesdrop",
+        "purchased": false
+      },
+      {
+        "name": "Education",
+        "purchased": false
+      },
+      {
+        "name": "Folklore",
+        "purchased": false
+      },
+      {
+        "name": "Interrogation",
+        "purchased": false
+      },
+      {
+        "name": "Leadership",
+        "purchased": false
+      },
+      {
+        "name": "Rumor",
+        "purchased": false
+      },
+      {
+        "name": "Scrutinize",
+        "purchased": false
+      },
+      {
+        "name": "Simple Melee",
+        "purchased": false
+      },
+      {
+        "name": "Simple Ranged",
+        "purchased": false
+      }
+    ],
+    "talents": [
+      {
+        "linkedId": "sD4Et1dOsSjT3fPt",
+        "name": "Incredible Numeration",
+        "uuid": "Compendium.zweihander.zh-talents.Item.sD4Et1dOsSjT3fPt"
+      },
+      {
+        "linkedId": "LLp6kwPTz9wJLpvG",
+        "name": "Meeting of the Minds",
+        "uuid": "Compendium.zweihander.zh-talents.Item.LLp6kwPTz9wJLpvG"
+      },
+      {
+        "linkedId": "5TzEbf1VOmPfpolL",
+        "name": "Multilingual",
+        "uuid": "Compendium.zweihander.zh-talents.Item.5TzEbf1VOmPfpolL"
+      }
+    ],
+    "professionalTrait": {
+      "name": "Privy Council",
+      "uuid": "Compendium.zweihander.zh-traits.Item.ljQzL9lxKPac7MFP",
+      "linkedId": null
+    },
+    "specialTrait": {
+      "name": "",
+      "uuid": "",
+      "linkedId": null
+    },
+    "drawback": {
+      "name": "Master & Servant",
+      "uuid": "Compendium.zweihander.zh-drawbacks.Item.SjomKFjTKvb8XEw4",
+      "linkedId": null
+    },
+    "tier": ""
+  },
+  "folder": null,
+  "sort": 12100000,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {},
+  "_key": "!items!dQAYpn1Gm87IoVmJ"
+}

@@ -1,0 +1,36 @@
+{
+  "_id": "I0eE6lCigDiLcJIV",
+  "effects": [],
+  "img": "systems/zweihander/assets/icons/spiked-halo.svg",
+  "name": "Political Rivalry",
+  "type": "drawback",
+  "_stats": {
+    "coreVersion": "13.342",
+    "systemId": null,
+    "systemVersion": null,
+    "createdTime": null,
+    "modifiedTime": 1733923835859,
+    "lastModifiedBy": "rivg6xcMxdlVDM8y",
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "system": {
+    "description": {
+      "@en": "In the course of your career, you’ve earned a powerful political enemy. Both they and their followers have goals opposed to yours and will defame, embarrass and shame to achieve them. They may even be willing to kill you!"
+    },
+    "notes": "",
+    "rules": {
+      "effect": {
+        "@en": "You gain the Nemesis Drawback upon entering this Profession. If you already have a Nemesis, you gain another."
+      }
+    }
+  },
+  "folder": null,
+  "sort": 4100000,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {},
+  "_key": "!items!I0eE6lCigDiLcJIV"
+}

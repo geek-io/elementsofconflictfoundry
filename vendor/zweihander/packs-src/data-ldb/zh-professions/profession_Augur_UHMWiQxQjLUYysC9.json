@@ -1,0 +1,149 @@
+{
+  "_id": "UHMWiQxQjLUYysC9",
+  "effects": [],
+  "img": "systems/zweihander/assets/icons/augur.svg",
+  "name": "Augur",
+  "type": "profession",
+  "_stats": {
+    "coreVersion": "13.342",
+    "systemId": "zweihander",
+    "systemVersion": "5.4.1",
+    "createdTime": null,
+    "modifiedTime": 1735047389099,
+    "lastModifiedBy": "rivg6xcMxdlVDM8y",
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "system": {
+    "description": {
+      "@en": "There are two barriers between the Well of Souls and our Material Realm. One is the Æthereal Veil, the other is the realm of dreams, a borderland where sleepers can see the unreality inherent in the universe. The Custodian – the mysterious goddess of dreams and death – uses dreams to speak to Her devoted priesthood, the Augurs. As priests of the lady of death, Augurs hold that death is a part of the great cycle and grateful for the life given to them rather than the ending they must brood upon. Reserved rather than morose, Augurs serve as attendants to the dead – embalming and burying them for their journey to the Well. They also spend their lives in reflection of their dreams, and have obtained gifts of revelation and insight into the future and the nature of dreams. From under their dark and bilious cloaks, they prognosticate the fate of all men. It is even said that Augurs know the nature of the death that awaits every man, though their descriptions of such events are vague.\nAugur temples are dark and cold, for this is where they prepare the dead for burial and the afterlife. The Custodian is an inevitability, rather than a welcomed figure, and it is rare for anyone other than Augurs to actively worship her. To Augurs, the supernatural is the highest blasphemy against their lady, stealing souls that rightfully belong to the Well of Souls. Those Augurs who become utterly obsessed with the mysteries of death become Dark Disciples, transforming their once-holy rites into foul necromancy."
+    },
+    "notes": "",
+    "expert": {
+      "value": true,
+      "requirements": {
+        "skillRanks": [
+          {
+            "key": "incantation",
+            "value": 1
+          }
+        ],
+        "additional": "<p>You must have the Special Trait of Divine Magick.</p>"
+      }
+    },
+    "archetype": "Expert Profession",
+    "bonusAdvances": [
+      {
+        "name": "[BB]",
+        "purchased": false
+      },
+      {
+        "name": "[IB]",
+        "purchased": false
+      },
+      {
+        "name": "[IB]",
+        "purchased": false
+      },
+      {
+        "name": "[PB]",
+        "purchased": false
+      },
+      {
+        "name": "[PB]",
+        "purchased": false
+      },
+      {
+        "name": "[WB]",
+        "purchased": false
+      },
+      {
+        "name": "[WB]",
+        "purchased": false
+      }
+    ],
+    "skillRanks": [
+      {
+        "name": "Awareness",
+        "purchased": false
+      },
+      {
+        "name": "Bargain",
+        "purchased": false
+      },
+      {
+        "name": "Education",
+        "purchased": false
+      },
+      {
+        "name": "Folklore",
+        "purchased": false
+      },
+      {
+        "name": "Incantation",
+        "purchased": false
+      },
+      {
+        "name": "Intimidate",
+        "purchased": false
+      },
+      {
+        "name": "Resolve",
+        "purchased": false
+      },
+      {
+        "name": "Rumor",
+        "purchased": false
+      },
+      {
+        "name": "Scrutinize",
+        "purchased": false
+      },
+      {
+        "name": "Toughness",
+        "purchased": false
+      }
+    ],
+    "talents": [
+      {
+        "linkedId": "cIaEhW4y3xK76XWt",
+        "name": "Indifference",
+        "uuid": "Compendium.zweihander.zh-talents.Item.cIaEhW4y3xK76XWt"
+      },
+      {
+        "linkedId": "sr0nQ2JrQV4DnTeU",
+        "name": "Secret Signs",
+        "uuid": "Compendium.zweihander.zh-talents.Item.sr0nQ2JrQV4DnTeU"
+      },
+      {
+        "linkedId": "mbtJHdgWqR6fct7f",
+        "name": "Supernatural Paranoia",
+        "uuid": "Compendium.zweihander.zh-talents.Item.mbtJHdgWqR6fct7f"
+      }
+    ],
+    "professionalTrait": {
+      "name": "Shades of the Past",
+      "uuid": "Compendium.zweihander.zh-traits.Item.QYJYnUWd31tOv7lj",
+      "linkedId": null
+    },
+    "specialTrait": {
+      "name": "Prayers of the Custodian",
+      "uuid": "Compendium.zweihander.zh-traits.Item.zZ75VdTaW7WPCXFn",
+      "linkedId": null
+    },
+    "drawback": {
+      "name": "The Custodian’s Commandments",
+      "uuid": "Compendium.zweihander.zh-drawbacks.Item.NT8jra8lDl6kRpop",
+      "linkedId": null
+    },
+    "tier": ""
+  },
+  "folder": null,
+  "sort": 9700000,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {},
+  "_key": "!items!UHMWiQxQjLUYysC9"
+}

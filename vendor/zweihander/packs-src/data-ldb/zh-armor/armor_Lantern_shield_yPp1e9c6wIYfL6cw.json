@@ -1,0 +1,45 @@
+{
+  "_id": "yPp1e9c6wIYfL6cw",
+  "effects": [],
+  "img": "systems/zweihander/assets/icons/rosa-shield.svg",
+  "name": "Lantern Shield",
+  "type": "armor",
+  "_stats": {
+    "coreVersion": "13.342",
+    "systemId": "zweihander",
+    "systemVersion": "5.4.1",
+    "createdTime": null,
+    "modifiedTime": 1745250031332,
+    "lastModifiedBy": "rivg6xcMxdlVDM8y",
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "system": {
+    "description": {
+      "@en": "These personal defense devices are carried by burghers and other nobles who conduct their business in dangerous parts of the city, or in the dead of night. Utilizing a bizarre combination of a gauntlet and buckler – affixed with a candle light on the inside of a mirrored shield – it can be used to maim or blind would-be robbers."
+    },
+    "notes": "One-handed",
+    "price": {
+      "bp": 0,
+      "gc": 3,
+      "ss": 0,
+      "ad": null
+    },
+    "encumbrance": 2,
+    "carried": true,
+    "equipped": false,
+    "qualities": [
+      "Compendium.zweihander.zh-qualities.Item.3DGCaUossFziUOch",
+      "Compendium.zweihander.zh-qualities.Item.vOutwhK95uttj9j8"
+    ],
+    "damageThresholdModifier": 0
+  },
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {},
+  "_key": "!items!yPp1e9c6wIYfL6cw"
+}

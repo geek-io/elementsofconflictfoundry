@@ -1,0 +1,60 @@
+{
+  "_id": "cRFlS1MVfNpHDdUb",
+  "effects": [],
+  "img": "systems/zweihander/assets/icons/conversation.svg",
+  "name": "Primordial Tongue",
+  "type": "spell",
+  "_stats": {
+    "coreVersion": "13.342",
+    "systemId": "zweihander",
+    "systemVersion": "5.4.1",
+    "createdTime": null,
+    "modifiedTime": 1745410540876,
+    "lastModifiedBy": "rivg6xcMxdlVDM8y",
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "system": {
+    "description": {
+      "@en": "You are granted the gift of being able to speak the tongue of any creature of the wild, conversing as you would with a stranger. Be warned though, not every creature is willing to hold a normal conversation with you – their savage heart trumps reasoned communication!"
+    },
+    "notes": "",
+    "rules": {
+      "effect": {
+        "@en": "After successfully casting this spell, you gain the ability to speak with any creature classified as a Beast. In addition, you gain a +10 Base Chance to all Skill Tests to converse with and befriend them."
+      },
+      "criticalSuccess": {
+        "@en": "As above, but add a +20 Base Chance instead."
+      },
+      "criticalFailure": {
+        "@en": "With but a whisper, your voice is stricken from you and replaced by one taken from a Beast of the natural world (the GM will decide which Beast). For 24 hours you can nothing except grunt, growl or roar."
+      },
+      "reagents": {
+        "@en": "A crabapple, smashed beneath your boot (expended)"
+      }
+    },
+    "tradition": "Divine (Demiurge)",
+    "principle": "Petty",
+    "distance": "Yourself",
+    "duration": {
+      "value": "instantaneous",
+      "label": "[WB] + 3 minutes",
+      "formula": {
+        "override": true
+      },
+      "base": "[WB]",
+      "bonus": 3,
+      "unit": "minutes"
+    },
+    "castingTime": "1 min",
+    "castingCost": 0
+  },
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {},
+  "_key": "!items!cRFlS1MVfNpHDdUb"
+}

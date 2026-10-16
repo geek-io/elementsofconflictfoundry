@@ -1,0 +1,37 @@
+{
+  "_id": "wgWjrxRsoWVTNzJK",
+  "effects": [],
+  "img": "systems/zweihander/assets/icons/vitruvian-man.svg",
+  "name": "Don’t Kill the Messenger",
+  "type": "trait",
+  "_stats": {
+    "coreVersion": "13.342",
+    "systemId": "zweihander",
+    "systemVersion": "5.4.1",
+    "createdTime": null,
+    "modifiedTime": 1735911103118,
+    "lastModifiedBy": "rivg6xcMxdlVDM8y",
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "system": {
+    "description": {
+      "@en": "The timbre in your voice brings a certain comfort during exchanges, turning tense conversations into mutually beneficial ones. Your words are even-handed, appealing to all parties with gravitas and dignity."
+    },
+    "notes": "",
+    "rules": {
+      "effect": {
+        "@en": "When using Fellowship-based Skill Tests, you do not suffer any additional penalties due to differences in Social Class."
+      }
+    },
+    "category": "professional"
+  },
+  "folder": null,
+  "sort": 20200000,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {},
+  "_key": "!items!wgWjrxRsoWVTNzJK"
+}

@@ -1,0 +1,37 @@
+{
+  "_id": "u8ENYFAXaDfagL69",
+  "effects": [],
+  "img": "systems/zweihander/assets/icons/scar-wound.svg",
+  "name": "Scar the Flesh",
+  "system": {
+    "description": {
+      "@en": ""
+    },
+    "notes": "",
+    "rules": {
+      "effect": {
+        "@en": "These creatures add +3 to their Damage Threshold, but wear no armor."
+      }
+    },
+    "category": "creature"
+  },
+  "type": "trait",
+  "_stats": {
+    "coreVersion": "13.342",
+    "systemId": "zweihander",
+    "systemVersion": "5.4.1",
+    "createdTime": null,
+    "modifiedTime": 1735915786903,
+    "lastModifiedBy": "rivg6xcMxdlVDM8y",
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {},
+  "_key": "!items!u8ENYFAXaDfagL69"
+}

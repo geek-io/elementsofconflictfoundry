@@ -1,0 +1,37 @@
+{
+  "_id": "iTm6uUJNsqb8jRWx",
+  "effects": [],
+  "img": "systems/zweihander/assets/icons/vitruvian-man.svg",
+  "name": "Shaken Not Stirred",
+  "type": "trait",
+  "_stats": {
+    "coreVersion": "13.342",
+    "systemId": "zweihander",
+    "systemVersion": "5.4.1",
+    "createdTime": null,
+    "modifiedTime": 1735911103093,
+    "lastModifiedBy": "rivg6xcMxdlVDM8y",
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "system": {
+    "description": {
+      "@en": "Play it cool, hold your cards close to your chest and roll the dice only when you are absolutely certain you’ll win. But when all else fails, you always find another in-road for your ambitions."
+    },
+    "notes": "",
+    "rules": {
+      "effect": {
+        "@en": "When you fail a Charm or Eavesdrop Test, you may re-roll to generate a better result, but must accept the outcome."
+      }
+    },
+    "category": "professional"
+  },
+  "folder": null,
+  "sort": 15200000,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {},
+  "_key": "!items!iTm6uUJNsqb8jRWx"
+}

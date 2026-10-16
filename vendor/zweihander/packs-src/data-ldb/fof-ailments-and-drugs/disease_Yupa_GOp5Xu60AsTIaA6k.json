@@ -1,0 +1,50 @@
+{
+  "_id": "GOp5Xu60AsTIaA6k",
+  "effects": [],
+  "img": "systems/zweihander/assets/icons/vial.svg",
+  "name": "Yupa",
+  "type": "disease",
+  "_stats": {
+    "coreVersion": "13.342",
+    "systemId": "zweihander",
+    "systemVersion": "5.4.1",
+    "createdTime": null,
+    "modifiedTime": 1745428356908,
+    "lastModifiedBy": "rivg6xcMxdlVDM8y",
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "system": {
+    "description": {
+      "@en": "<p>I have been to the spirit realm where all ancestors live in eternity. I have conversed with them, and they speak of the Mandoag&mdash;the shadow people who shall consume the land.</p>"
+    },
+    "notes": "",
+    "rules": {
+      "effect": {
+        "@en": "<p><strong>Effect:</strong> An hour after ingestion, you suffer a -3 to all Primary Attribute Bonuses (to a minimum of 1) and 1D10+1 Peril. If you are Incapacitated! due to Yupa, you&rsquo;re Unconscious. While on Yupa, you gain a Vision. A Vision allows you to automatically succeed in any one Skill Test that pertains to your Flaw within the next month. Your Primary Attribute Bonuses recover +1 an hour until fully restored.</p>\n<p><strong>Other Considerations:</strong> This Drug cannot be applied to a weapon. The Vision cannot be gained more than once a month. You cannot recover your Damage &amp; Peril Condition Tracks for twenty-four hours after gaining a Vision.</p>"
+      },
+      "treatment": {
+        "@en": ""
+      }
+    },
+    "resist": "NONE",
+    "duration": {
+      "value": 0,
+      "formula": {
+        "number": 1,
+        "die": "d10",
+        "bonus": 1
+      },
+      "lastsUntilCured": false
+    },
+    "active": false
+  },
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {},
+  "_key": "!items!GOp5Xu60AsTIaA6k"
+}

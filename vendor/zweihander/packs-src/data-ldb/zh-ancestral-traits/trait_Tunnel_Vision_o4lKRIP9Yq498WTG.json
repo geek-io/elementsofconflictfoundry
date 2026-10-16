@@ -1,0 +1,37 @@
+{
+  "_id": "o4lKRIP9Yq498WTG",
+  "effects": [],
+  "img": "systems/zweihander/assets/icons/underground-cave.svg",
+  "name": "Tunnel Vision",
+  "type": "trait",
+  "_stats": {
+    "coreVersion": "13.342",
+    "systemId": "zweihander",
+    "systemVersion": "5.4.1",
+    "createdTime": null,
+    "modifiedTime": 1734974463057,
+    "lastModifiedBy": "rivg6xcMxdlVDM8y",
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "system": {
+    "description": {
+      "@en": "Like their Dwarven cousins, Gnomes have especially-attuned senses below the earth. Using a preternatural sense of touch, they can ‘ feel’ their way around the underworld."
+    },
+    "notes": "",
+    "rules": {
+      "effect": {
+        "@en": "You can see completely in the dark below ground as if it were daylight, providing you are able to use your hands freely."
+      }
+    },
+    "category": "ancestral"
+  },
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {},
+  "_key": "!items!o4lKRIP9Yq498WTG"
+}

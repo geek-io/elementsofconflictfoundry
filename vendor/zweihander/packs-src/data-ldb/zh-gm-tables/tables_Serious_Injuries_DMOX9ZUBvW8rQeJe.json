@@ -1,0 +1,352 @@
+{
+  "_id": "DMOX9ZUBvW8rQeJe",
+  "description": "",
+  "displayRoll": true,
+  "formula": "1d12",
+  "img": "systems/zweihander/assets/icons/internal-injury.svg",
+  "name": "Serious Injuries",
+  "replacement": true,
+  "results": [
+    {
+      "_id": "6LOCNOc1h5Pilwyg",
+      "drawn": false,
+      "flags": {},
+      "img": "systems/zweihander/assets/icons/shamrock.svg",
+      "range": [
+        1,
+        1
+      ],
+      "type": "text",
+      "weight": 1,
+      "_stats": {
+        "coreVersion": "13.342",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Fortune's Mercy! Ignore Injury, keep your Fate Point and continue fighting onwards!",
+      "name": "",
+      "_key": "!tables.results!DMOX9ZUBvW8rQeJe.6LOCNOc1h5Pilwyg"
+    },
+    {
+      "_id": "u3WVnnL0OVUHMbQK",
+      "drawn": false,
+      "flags": {},
+      "img": "systems/zweihander/assets/icons/ribcage.svg",
+      "range": [
+        2,
+        2
+      ],
+      "type": "document",
+      "weight": 1,
+      "_stats": {
+        "coreVersion": "13.342",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "name": "Broken Rib",
+      "documentUuid": "Compendium.zweihander.zh-injuries.Item.GkWoIpK8YpDo4QxJ",
+      "description": "",
+      "_key": "!tables.results!DMOX9ZUBvW8rQeJe.u3WVnnL0OVUHMbQK"
+    },
+    {
+      "_id": "lcxUYTrS21v28pjz",
+      "drawn": false,
+      "flags": {},
+      "img": "systems/zweihander/assets/icons/knee-cap.svg",
+      "range": [
+        3,
+        3
+      ],
+      "type": "document",
+      "weight": 1,
+      "_stats": {
+        "coreVersion": "13.342",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "name": "Busted Kneecap",
+      "documentUuid": "Compendium.zweihander.zh-injuries.Item.XO7vZyOUEie8KTGD",
+      "description": "",
+      "_key": "!tables.results!DMOX9ZUBvW8rQeJe.lcxUYTrS21v28pjz"
+    },
+    {
+      "_id": "ND0lUjx9wm0MHoTi",
+      "drawn": false,
+      "flags": {},
+      "img": "systems/zweihander/assets/icons/broken-bone.svg",
+      "range": [
+        4,
+        4
+      ],
+      "type": "document",
+      "weight": 1,
+      "_stats": {
+        "coreVersion": "13.342",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "name": "Fractured Larynx",
+      "documentUuid": "Compendium.zweihander.zh-injuries.Item.vpoqziaXJkWhCAn7",
+      "description": "",
+      "_key": "!tables.results!DMOX9ZUBvW8rQeJe.ND0lUjx9wm0MHoTi"
+    },
+    {
+      "_id": "R9tvQJkLtep640bU",
+      "drawn": false,
+      "flags": {},
+      "img": "systems/zweihander/assets/icons/stoned-skull.svg",
+      "range": [
+        5,
+        5
+      ],
+      "type": "document",
+      "weight": 1,
+      "_stats": {
+        "coreVersion": "13.342",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "name": "Head Trauma",
+      "documentUuid": "Compendium.zweihander.zh-injuries.Item.AABKxORvwNh9dw6z",
+      "description": "",
+      "_key": "!tables.results!DMOX9ZUBvW8rQeJe.R9tvQJkLtep640bU"
+    },
+    {
+      "_id": "yj7lU26pYJaJO1MF",
+      "drawn": false,
+      "flags": {},
+      "img": "systems/zweihander/assets/icons/skull-crack.svg",
+      "range": [
+        6,
+        6
+      ],
+      "type": "document",
+      "weight": 1,
+      "_stats": {
+        "coreVersion": "13.342",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "name": "Minor Concussion",
+      "documentUuid": "Compendium.zweihander.zh-injuries.Item.sVylrNB5aWZoySBy",
+      "description": "",
+      "_key": "!tables.results!DMOX9ZUBvW8rQeJe.yj7lU26pYJaJO1MF"
+    },
+    {
+      "_id": "3J5WgPZbCmczFEEE",
+      "drawn": false,
+      "flags": {},
+      "img": "systems/zweihander/assets/icons/brain.svg",
+      "range": [
+        7,
+        7
+      ],
+      "type": "document",
+      "weight": 1,
+      "_stats": {
+        "coreVersion": "13.342",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "name": "Shell Shock",
+      "documentUuid": "Compendium.zweihander.zh-injuries.Item.F5rA4MtYU5g6N73i",
+      "description": "",
+      "_key": "!tables.results!DMOX9ZUBvW8rQeJe.3J5WgPZbCmczFEEE"
+    },
+    {
+      "_id": "BcdE2gAJER1xqPFl",
+      "drawn": false,
+      "flags": {},
+      "img": "systems/zweihander/assets/icons/broken-skull.svg",
+      "range": [
+        8,
+        8
+      ],
+      "type": "document",
+      "weight": 1,
+      "_stats": {
+        "coreVersion": "13.342",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "name": "Skull Fracture",
+      "documentUuid": "Compendium.zweihander.zh-injuries.Item.CtfGKqz3Pc4QpUa1",
+      "description": "",
+      "_key": "!tables.results!DMOX9ZUBvW8rQeJe.BcdE2gAJER1xqPFl"
+    },
+    {
+      "_id": "uajuUvQUK06gSkav",
+      "drawn": false,
+      "flags": {},
+      "img": "systems/zweihander/assets/icons/broken-bone.svg",
+      "range": [
+        9,
+        9
+      ],
+      "type": "document",
+      "weight": 1,
+      "_stats": {
+        "coreVersion": "13.342",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "name": "Stress Fracture",
+      "documentUuid": "Compendium.zweihander.zh-injuries.Item.kDOQ9KgS8J619bSD",
+      "description": "",
+      "_key": "!tables.results!DMOX9ZUBvW8rQeJe.uajuUvQUK06gSkav"
+    },
+    {
+      "_id": "E4tvjJxC40kzVBlI",
+      "drawn": false,
+      "flags": {},
+      "img": "systems/zweihander/assets/icons/stoned-skull.svg",
+      "range": [
+        10,
+        10
+      ],
+      "type": "document",
+      "weight": 1,
+      "_stats": {
+        "coreVersion": "13.342",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "name": "Temporary Paralysis",
+      "documentUuid": "Compendium.zweihander.zh-injuries.Item.IUDTRmoBhggipYnl",
+      "description": "",
+      "_key": "!tables.results!DMOX9ZUBvW8rQeJe.E4tvjJxC40kzVBlI"
+    },
+    {
+      "_id": "huh8hHJqdYWchjsj",
+      "drawn": false,
+      "flags": {},
+      "img": "systems/zweihander/assets/icons/arm-sling.svg",
+      "range": [
+        11,
+        11
+      ],
+      "type": "document",
+      "weight": 1,
+      "_stats": {
+        "coreVersion": "13.342",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "name": "Torn Shoulder",
+      "documentUuid": "Compendium.zweihander.zh-injuries.Item.VFKBRYkeieBYbciS",
+      "description": "",
+      "_key": "!tables.results!DMOX9ZUBvW8rQeJe.huh8hHJqdYWchjsj"
+    },
+    {
+      "_id": "rtPr45ynudauWQhB",
+      "drawn": false,
+      "flags": {},
+      "img": "systems/zweihander/assets/icons/deadly-strike.svg",
+      "range": [
+        12,
+        12
+      ],
+      "type": "document",
+      "weight": 1,
+      "_stats": {
+        "coreVersion": "13.342",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "name": "Grievous Injuries",
+      "documentUuid": "Compendium.zweihander.zh-gm-tables.RollTable.GWec40ev4OEYJiKv",
+      "description": "",
+      "_key": "!tables.results!DMOX9ZUBvW8rQeJe.rtPr45ynudauWQhB"
+    }
+  ],
+  "_stats": {
+    "coreVersion": "13.342",
+    "systemId": null,
+    "systemVersion": null,
+    "createdTime": null,
+    "modifiedTime": 1747661445443,
+    "lastModifiedBy": "R0qXfdvm21RaZ5Yx",
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "folder": null,
+  "sort": 100000,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {},
+  "_key": "!tables!DMOX9ZUBvW8rQeJe"
+}

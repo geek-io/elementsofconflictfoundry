@@ -1,0 +1,37 @@
+{
+  "_id": "82gxzQJjRacdkBWB",
+  "effects": [],
+  "img": "systems/zweihander/assets/icons/pointing.svg",
+  "name": "What’s Yours is Mine",
+  "type": "trait",
+  "_stats": {
+    "coreVersion": "13.342",
+    "systemId": "zweihander",
+    "systemVersion": "5.4.1",
+    "createdTime": null,
+    "modifiedTime": 1735911103034,
+    "lastModifiedBy": "rivg6xcMxdlVDM8y",
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "system": {
+    "description": {
+      "@en": "Merchant Lords buy what they want, running roughshod over all those who’d stand in their way. For them, there are no critical errors or failure; there is only opportunity."
+    },
+    "notes": "",
+    "rules": {
+      "effect": {
+        "@en": "When you Critically Fail any Skill Test, immediately turn it into a Critical Success. However, you suffer 3 Corruption in kind."
+      }
+    },
+    "category": "professional"
+  },
+  "folder": null,
+  "sort": 2700000,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {},
+  "_key": "!items!82gxzQJjRacdkBWB"
+}

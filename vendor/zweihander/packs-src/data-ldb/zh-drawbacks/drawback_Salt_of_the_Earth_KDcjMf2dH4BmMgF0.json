@@ -1,0 +1,36 @@
+{
+  "_id": "KDcjMf2dH4BmMgF0",
+  "effects": [],
+  "img": "systems/zweihander/assets/icons/spiked-halo.svg",
+  "name": "Salt of the Earth",
+  "type": "drawback",
+  "_stats": {
+    "coreVersion": "13.342",
+    "systemId": null,
+    "systemVersion": null,
+    "createdTime": null,
+    "modifiedTime": 1733923835859,
+    "lastModifiedBy": "rivg6xcMxdlVDM8y",
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "system": {
+    "description": {
+      "@en": "Despicable wretch! Lowly worm! Kneel before your betters, and polish my boots while you’re at it!"
+    },
+    "notes": "",
+    "rules": {
+      "effect": {
+        "@en": "When you enter this Profession, immediately change your Social Class to Lowborn."
+      }
+    }
+  },
+  "folder": null,
+  "sort": 5200000,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {},
+  "_key": "!items!KDcjMf2dH4BmMgF0"
+}

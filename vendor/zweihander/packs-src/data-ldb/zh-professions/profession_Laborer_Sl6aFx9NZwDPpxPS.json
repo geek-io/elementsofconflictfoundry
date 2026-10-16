@@ -1,0 +1,144 @@
+{
+  "_id": "Sl6aFx9NZwDPpxPS",
+  "effects": [],
+  "img": "systems/zweihander/assets/icons/laborer.svg",
+  "name": "Laborer",
+  "type": "profession",
+  "_stats": {
+    "coreVersion": "13.342",
+    "systemId": "zweihander",
+    "systemVersion": "5.4.1",
+    "createdTime": null,
+    "modifiedTime": 1734990834117,
+    "lastModifiedBy": "rivg6xcMxdlVDM8y",
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "system": {
+    "description": {
+      "@en": "Despicable, backbreaking and often thankless work is the lot in life for the Laborers of a grim & perilous world. Such work is necessary to keep the wheels of society turning, whether it includes dung collecting, lamp lighting, chimney-sweeping, mining, fishing, and numerous other careers that bring rough hands and bent backs. Few songs are written about the noble chef who belabored over pots of stew, the carpenter who slaved for weeks to finish a nobleman’s wooden throne or the gong farmer who scraped the privy’s pipes for days following a week-long Dionysian feast. Laborers often tire of their menial jobs and demanding employers, so they will oft change positions, picking up a new trade that taps into their ability to endure physical labor.\nFor Laborers, the world outside their hovels is a very dangerous and frightening place, one they are ill prepared for. Encounters with scary monsters and the lure of chaos often marks their end, but for those that survive, they become the plague rats of corruption. They absorb the corruption and on returning home, spread it throughout their communities like a sickness. A once simple stable hand or midwife may resort to murder at the drop of a hat or spread blasphemous ideas, so corrupted they are. This draws other purveyors of chaos into the heart of civilization… just where they like it."
+    },
+    "notes": "",
+    "expert": {
+      "value": false,
+      "requirements": {
+        "skillRanks": [],
+        "additional": ""
+      }
+    },
+    "archetype": "Commoner",
+    "bonusAdvances": [
+      {
+        "name": "[AB]",
+        "purchased": false
+      },
+      {
+        "name": "[BB]",
+        "purchased": false
+      },
+      {
+        "name": "[BB]",
+        "purchased": false
+      },
+      {
+        "name": "Fellowship+1",
+        "purchased": false
+      },
+      {
+        "name": "[IB]",
+        "purchased": false
+      },
+      {
+        "name": "[WB]",
+        "purchased": false
+      },
+      {
+        "name": "[WB]",
+        "purchased": false
+      }
+    ],
+    "skillRanks": [
+      {
+        "name": "Athletics",
+        "purchased": false
+      },
+      {
+        "name": "Drive",
+        "purchased": false
+      },
+      {
+        "name": "Folklore",
+        "purchased": false
+      },
+      {
+        "name": "Gamble",
+        "purchased": false
+      },
+      {
+        "name": "Handle Animal",
+        "purchased": false
+      },
+      {
+        "name": "Resolve",
+        "purchased": false
+      },
+      {
+        "name": "Rumor",
+        "purchased": false
+      },
+      {
+        "name": "Pilot",
+        "purchased": false
+      },
+      {
+        "name": "Simple Melee",
+        "purchased": false
+      },
+      {
+        "name": "Toughness",
+        "purchased": false
+      }
+    ],
+    "talents": [
+      {
+        "linkedId": "v6tIVgfHMuYK0Smy",
+        "name": "Carousing",
+        "uuid": "Compendium.zweihander.zh-talents.Item.v6tIVgfHMuYK0Smy"
+      },
+      {
+        "linkedId": "2BQgCknFDwpvM47Q",
+        "name": "Nerves of Steel",
+        "uuid": "Compendium.zweihander.zh-talents.Item.2BQgCknFDwpvM47Q"
+      },
+      {
+        "linkedId": "rovDufjlTx9AgJIP",
+        "name": "Strong Jaw",
+        "uuid": "Compendium.zweihander.zh-talents.Item.rovDufjlTx9AgJIP"
+      }
+    ],
+    "professionalTrait": {
+      "name": "Backbreaking Labor",
+      "uuid": "Compendium.zweihander.zh-traits.Item.xEahzzuZEme5AEpW",
+      "linkedId": null
+    },
+    "specialTrait": {
+      "name": "",
+      "uuid": "",
+      "linkedId": null
+    },
+    "drawback": {
+      "name": "",
+      "uuid": "",
+      "linkedId": null
+    },
+    "tier": ""
+  },
+  "folder": null,
+  "sort": 9400000,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {},
+  "_key": "!items!Sl6aFx9NZwDPpxPS"
+}

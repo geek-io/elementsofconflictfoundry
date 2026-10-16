@@ -1,0 +1,37 @@
+{
+  "_id": "2Gg5fHQKwF7hoFfr",
+  "effects": [],
+  "img": "systems/zweihander/assets/icons/vitruvian-man.svg",
+  "name": "Learned Devotee",
+  "type": "trait",
+  "_stats": {
+    "coreVersion": "13.342",
+    "systemId": "zweihander",
+    "systemVersion": "5.4.1",
+    "createdTime": null,
+    "modifiedTime": 1735911103023,
+    "lastModifiedBy": "rivg6xcMxdlVDM8y",
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "system": {
+    "description": {
+      "@en": "Monks have spent many candle-lit hours studying the holy writ and ancient histories, laboriously transcribing many languages into the common tongue."
+    },
+    "notes": "",
+    "rules": {
+      "effect": {
+        "@en": "You can read, write and speak the language of any creature that is classified as a Humanoid (including player Ancestries). In addition, whenever you suffer Corruption, decrease the number you gain by 1 (to a minimum of one). This means that if you suffer 3 Corruption, you gain 2 instead."
+      }
+    },
+    "category": "professional"
+  },
+  "folder": null,
+  "sort": 500000,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {},
+  "_key": "!items!2Gg5fHQKwF7hoFfr"
+}

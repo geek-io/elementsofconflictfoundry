@@ -1,0 +1,36 @@
+{
+  "_id": "K9Rskdir34lAKyXI",
+  "effects": [],
+  "img": "systems/zweihander/assets/icons/wax-tablet.svg",
+  "name": "The God-Emperor’s Commandments",
+  "type": "drawback",
+  "_stats": {
+    "coreVersion": "13.342",
+    "systemId": null,
+    "systemVersion": null,
+    "createdTime": null,
+    "modifiedTime": 1733923835859,
+    "lastModifiedBy": "rivg6xcMxdlVDM8y",
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "system": {
+    "description": {
+      "@en": "The God-Emperor makes specific demands from His priesthood. Some of these include obeying your king. Others may be rooting out the Mutant incursion. You must befriend dwarves, and do your best to ally with them. Most of these edicts require you to sacrifice personal liberty so that justice is fulfilled for all."
+    },
+    "notes": "",
+    "rules": {
+      "effect": {
+        "@en": "When you would normally invoke a Chaos Manifestation, you instead provoke Punishments of the GodEmperor. In addition, you are bound by the commandments of your god. You must seek atonement if you violate these commandments."
+      }
+    }
+  },
+  "folder": null,
+  "sort": 5100000,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {},
+  "_key": "!items!K9Rskdir34lAKyXI"
+}

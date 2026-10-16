@@ -1,0 +1,37 @@
+{
+  "_id": "nZA1nzpKRb9kc3vU",
+  "effects": [],
+  "img": "systems/zweihander/assets/icons/skull-crack.svg",
+  "name": "Punishing Attack",
+  "system": {
+    "description": {
+      "@en": ""
+    },
+    "notes": "",
+    "rules": {
+      "effect": {
+        "@en": "When these creatures Take Aim and then make a successful Melee Attack, add 3 Damage."
+      }
+    },
+    "category": "creature"
+  },
+  "type": "trait",
+  "_stats": {
+    "coreVersion": "13.342",
+    "systemId": "zweihander",
+    "systemVersion": "5.4.1",
+    "createdTime": null,
+    "modifiedTime": 1735915786892,
+    "lastModifiedBy": "rivg6xcMxdlVDM8y",
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {},
+  "_key": "!items!nZA1nzpKRb9kc3vU"
+}

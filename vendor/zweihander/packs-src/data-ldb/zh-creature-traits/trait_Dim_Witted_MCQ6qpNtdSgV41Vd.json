@@ -1,0 +1,37 @@
+{
+  "_id": "MCQ6qpNtdSgV41Vd",
+  "effects": [],
+  "img": "systems/zweihander/assets/icons/dunce-cap.svg",
+  "name": "Dim-Witted",
+  "system": {
+    "description": {
+      "@en": ""
+    },
+    "notes": "",
+    "rules": {
+      "effect": {
+        "@en": "In combat, these creatures only use Attack Actions unless commanded otherwise by their leader with a successful Leadership Test."
+      }
+    },
+    "category": "creature"
+  },
+  "type": "trait",
+  "_stats": {
+    "coreVersion": "13.342",
+    "systemId": "zweihander",
+    "systemVersion": "5.4.1",
+    "createdTime": null,
+    "modifiedTime": 1735915786838,
+    "lastModifiedBy": "rivg6xcMxdlVDM8y",
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {},
+  "_key": "!items!MCQ6qpNtdSgV41Vd"
+}

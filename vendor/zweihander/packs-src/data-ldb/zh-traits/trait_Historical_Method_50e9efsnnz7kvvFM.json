@@ -1,0 +1,37 @@
+{
+  "_id": "50e9efsnnz7kvvFM",
+  "effects": [],
+  "img": "systems/zweihander/assets/icons/vitruvian-man.svg",
+  "name": "Historical Method",
+  "type": "trait",
+  "_stats": {
+    "coreVersion": "13.342",
+    "systemId": "zweihander",
+    "systemVersion": "5.4.1",
+    "createdTime": null,
+    "modifiedTime": 1735911103030,
+    "lastModifiedBy": "rivg6xcMxdlVDM8y",
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "system": {
+    "description": {
+      "@en": "Scholars use primary sources and other evidence to author accounts of the past and the world around them. Their formative knowledge allows them to understand to a preternatural degree the nature of life and the world at large."
+    },
+    "notes": "",
+    "rules": {
+      "effect": {
+        "@en": "You may treat all Intelligence-based Special Skills as Common Skills instead."
+      }
+    },
+    "category": "professional"
+  },
+  "folder": null,
+  "sort": 1500000,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {},
+  "_key": "!items!50e9efsnnz7kvvFM"
+}

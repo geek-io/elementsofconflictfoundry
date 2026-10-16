@@ -1,0 +1,37 @@
+{
+  "_id": "bYzGYGYwSvkRf28c",
+  "effects": [],
+  "img": "systems/zweihander/assets/icons/pay-money.svg",
+  "name": "Fair Share",
+  "type": "trait",
+  "_stats": {
+    "coreVersion": "13.342",
+    "systemId": "zweihander",
+    "systemVersion": "5.4.1",
+    "createdTime": null,
+    "modifiedTime": 1735911103078,
+    "lastModifiedBy": "rivg6xcMxdlVDM8y",
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "system": {
+    "description": {
+      "@en": "Love it or hate it, you are a professional hireling. This rough- and-tumble life has taught you a few important lessons before you joined an ‘adventuring party’."
+    },
+    "notes": "",
+    "rules": {
+      "effect": {
+        "@en": "Add 3 to your Encumbrance Limit. In addition, whenever you negotiate your rate of pay, add your [FB] in the type of coins you will be paid in. For instance, if you are being paid as a Stevedore (2bp daily) and have a [FB] of 4, you would be paid 6bp a day instead."
+      }
+    },
+    "category": "professional"
+  },
+  "folder": null,
+  "sort": 12300000,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {},
+  "_key": "!items!bYzGYGYwSvkRf28c"
+}

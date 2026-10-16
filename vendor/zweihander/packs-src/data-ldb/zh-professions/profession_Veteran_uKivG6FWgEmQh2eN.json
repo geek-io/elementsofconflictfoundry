@@ -1,0 +1,149 @@
+{
+  "_id": "uKivG6FWgEmQh2eN",
+  "effects": [],
+  "img": "systems/zweihander/assets/icons/veteran.svg",
+  "name": "Veteran",
+  "type": "profession",
+  "_stats": {
+    "coreVersion": "13.342",
+    "systemId": "zweihander",
+    "systemVersion": "5.4.1",
+    "createdTime": null,
+    "modifiedTime": 1735050496683,
+    "lastModifiedBy": "rivg6xcMxdlVDM8y",
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "system": {
+    "description": {
+      "@en": "The Veteran’s place in society is one of grudging respect, a passing acknowledgment of the horrors they have endured and what few freedoms and luxuries those sacrifices have purchased. Not uncommon among Veterans are false legs, amputated hands, and metal noses; a grim reminder of the physical sacrifices they’ve made. But the spiritual toll is not as outwardly apparent. A haunted look, a thousand-mile stare or even moments of intense psychological disturbance mark the Veteran as more the victim of war. For their sacrifices, they are honored on commemoration days, given at least meager amounts of food when they are hungry and drink when they are thirsty. Their advice in battle is keenly regarded and their ethics in trade are overlooked in lieu of this. They hold a minor place of honor, and while unglamorous, no one can say that it is unearned.\nHowever, in war, there are no survivors – only living victims. The Veteran is one who has lived through this savage brutality. They have seen dead children suckling dying mothers and know the color of flesh charred from the bone. They have smelled the leavings of their captured enemies, wasting away in cages. Their bodies are hardened and their minds more so, but the damage has been done and cannot be mended. They are sour, lost and cruelly indifferent, unable to acknowledge even the least further suffering in their world. While they may be slightly revered, no one cares to hear the Veteran’s stories … and the Veteran cares less to tell them."
+    },
+    "notes": "",
+    "expert": {
+      "value": true,
+      "requirements": {
+        "skillRanks": [
+          {
+            "key": "warfare",
+            "value": 2
+          }
+        ],
+        "additional": "<p>-</p>"
+      }
+    },
+    "archetype": "Expert Profession",
+    "bonusAdvances": [
+      {
+        "name": "[BB]",
+        "purchased": false
+      },
+      {
+        "name": "[CB]",
+        "purchased": false
+      },
+      {
+        "name": "[CB]",
+        "purchased": false
+      },
+      {
+        "name": "[FB]",
+        "purchased": false
+      },
+      {
+        "name": "[IB]",
+        "purchased": false
+      },
+      {
+        "name": "[WB]",
+        "purchased": false
+      },
+      {
+        "name": "[WB]",
+        "purchased": false
+      }
+    ],
+    "skillRanks": [
+      {
+        "name": "Folklore",
+        "purchased": false
+      },
+      {
+        "name": "Gamble",
+        "purchased": false
+      },
+      {
+        "name": "Leadership",
+        "purchased": false
+      },
+      {
+        "name": "Martial Melee",
+        "purchased": false
+      },
+      {
+        "name": "Martial Ranged",
+        "purchased": false
+      },
+      {
+        "name": "Resolve",
+        "purchased": false
+      },
+      {
+        "name": "Simple Melee",
+        "purchased": false
+      },
+      {
+        "name": "Simple Ranged",
+        "purchased": false
+      },
+      {
+        "name": "Toughness",
+        "purchased": false
+      },
+      {
+        "name": "Warfare",
+        "purchased": false
+      }
+    ],
+    "talents": [
+      {
+        "linkedId": "fe7vdZghpPmVpFPn",
+        "name": "Die Hard",
+        "uuid": "Compendium.zweihander.zh-talents.Item.fe7vdZghpPmVpFPn"
+      },
+      {
+        "linkedId": "WsD0GRMRKX8Ov0mT",
+        "name": "Impervious Mind",
+        "uuid": "Compendium.zweihander.zh-talents.Item.WsD0GRMRKX8Ov0mT"
+      },
+      {
+        "linkedId": "xxL0Z55MRpRP3fyP",
+        "name": "Military Formation",
+        "uuid": "Compendium.zweihander.zh-talents.Item.xxL0Z55MRpRP3fyP"
+      }
+    ],
+    "professionalTrait": {
+      "name": "I’ve Seen Worse",
+      "uuid": "Compendium.zweihander.zh-traits.Item.C8TQeABeuIDNBrv0",
+      "linkedId": null
+    },
+    "specialTrait": {
+      "name": "",
+      "uuid": "",
+      "linkedId": null
+    },
+    "drawback": {
+      "name": "Scarred Psyche",
+      "uuid": "Compendium.zweihander.zh-drawbacks.Item.P3oVI82WAx7FmC6X",
+      "linkedId": null
+    },
+    "tier": ""
+  },
+  "folder": null,
+  "sort": 16400000,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {},
+  "_key": "!items!uKivG6FWgEmQh2eN"
+}

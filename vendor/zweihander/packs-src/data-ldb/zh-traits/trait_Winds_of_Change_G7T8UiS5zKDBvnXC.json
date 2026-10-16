@@ -1,0 +1,37 @@
+{
+  "_id": "G7T8UiS5zKDBvnXC",
+  "effects": [],
+  "img": "systems/zweihander/assets/icons/wind-hole.svg",
+  "name": "Winds of Change",
+  "type": "trait",
+  "_stats": {
+    "coreVersion": "13.342",
+    "systemId": "zweihander",
+    "systemVersion": "5.4.1",
+    "createdTime": null,
+    "modifiedTime": 1735911103047,
+    "lastModifiedBy": "rivg6xcMxdlVDM8y",
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "system": {
+    "description": {
+      "@en": "The Æther is a powerful, but fickle force. It exists closer in relation to the powers of corruption than most would care to admit. However, as a Diabolist, you have learned to control the emergent chaos, reshaping it into a controlled, orderly force of power."
+    },
+    "notes": "",
+    "rules": {
+      "effect": {
+        "@en": "When you would potentially invoke a Chaos Manifestation, you must roll two or more face ‘6s’ on the Chaos Dice to invoke it. Otherwise, ignore the results. You also understand how to use the Ritual of Magick Circle."
+      }
+    },
+    "category": "professional"
+  },
+  "folder": null,
+  "sort": 5100000,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {},
+  "_key": "!items!G7T8UiS5zKDBvnXC"
+}

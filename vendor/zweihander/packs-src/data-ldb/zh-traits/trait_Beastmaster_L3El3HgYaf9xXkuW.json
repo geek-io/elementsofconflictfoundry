@@ -1,0 +1,37 @@
+{
+  "_id": "L3El3HgYaf9xXkuW",
+  "effects": [],
+  "img": "systems/zweihander/assets/icons/polar-bear.svg",
+  "name": "Beastmaster",
+  "type": "trait",
+  "_stats": {
+    "coreVersion": "13.342",
+    "systemId": "zweihander",
+    "systemVersion": "5.4.1",
+    "createdTime": null,
+    "modifiedTime": 1735911103054,
+    "lastModifiedBy": "rivg6xcMxdlVDM8y",
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "system": {
+    "description": {
+      "@en": "While the stench of manure and musk cling to their clothes, the Animal Trainer seems to be akin to the creatures they train. They may even emulate some of their more unusual behaviors, but only for the sake of befriending those same creatures."
+    },
+    "notes": "",
+    "rules": {
+      "effect": {
+        "@en": "You can use your Handle Animal Skill to not only tame and train creatures which are classified as Animals, but also those which are classified as Beasts. Whenever you attempt to tame and train Animals and Beasts, you may flip the results to succeed at Handle Animal Tests. When you succeed, it is always considered a Critical Success."
+      }
+    },
+    "category": "professional"
+  },
+  "folder": null,
+  "sort": 6800000,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {},
+  "_key": "!items!L3El3HgYaf9xXkuW"
+}

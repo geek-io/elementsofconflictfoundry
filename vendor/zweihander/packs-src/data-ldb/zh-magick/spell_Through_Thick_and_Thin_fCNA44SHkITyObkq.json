@@ -1,0 +1,60 @@
+{
+  "_id": "fCNA44SHkITyObkq",
+  "effects": [],
+  "img": "systems/zweihander/assets/icons/wizard-staff.svg",
+  "name": "Through Thick and Thin",
+  "type": "spell",
+  "_stats": {
+    "coreVersion": "13.342",
+    "systemId": "zweihander",
+    "systemVersion": "5.4.1",
+    "createdTime": null,
+    "modifiedTime": 1745410540884,
+    "lastModifiedBy": "rivg6xcMxdlVDM8y",
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "system": {
+    "description": {
+      "@en": "You fatten your body up, feeling full and well-prepared for travel."
+    },
+    "notes": "",
+    "rules": {
+      "effect": {
+        "@en": "After successfully casting this spell, the person you touch doesn’t need to eat or drink to survive for the Duration of the spell."
+      },
+      "criticalSuccess": {
+        "@en": "As above, but triple the Duration."
+      },
+      "criticalFailure": {
+        "@en": "Hunger immediately sets in, as the last meal the intended target of this Magick forcefully expels itself into whatever smallclothes they have on. They must eat three times the normal amount of food to fill themselves up each day – unable to sate their hunger – for the Duration of the spell."
+      },
+      "reagents": {
+        "@en": "A handful of oats, eaten (expended)"
+      }
+    },
+    "tradition": "Arcane (Elementalism)",
+    "principle": "Petty",
+    "distance": "Any one person you can touch",
+    "duration": {
+      "value": "instantaneous",
+      "label": "[WB] + 3 days",
+      "formula": {
+        "override": true
+      },
+      "base": "[WB]",
+      "bonus": 3,
+      "unit": "days"
+    },
+    "castingTime": "1 min",
+    "castingCost": 0
+  },
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {},
+  "_key": "!items!fCNA44SHkITyObkq"
+}

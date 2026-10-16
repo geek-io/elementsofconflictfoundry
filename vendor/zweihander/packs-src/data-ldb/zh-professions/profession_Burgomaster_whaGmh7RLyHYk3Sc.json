@@ -1,0 +1,149 @@
+{
+  "_id": "whaGmh7RLyHYk3Sc",
+  "effects": [],
+  "img": "systems/zweihander/assets/icons/power-ring.svg",
+  "name": "Burgomaster",
+  "type": "profession",
+  "_stats": {
+    "coreVersion": "13.342",
+    "systemId": "zweihander",
+    "systemVersion": "5.4.1",
+    "createdTime": null,
+    "modifiedTime": 1735050895749,
+    "lastModifiedBy": "rivg6xcMxdlVDM8y",
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "system": {
+    "description": {
+      "@en": "Not all politicians hold a large power base. Unlike members of the nobility they will never govern an entire country or even a county and neither will they take command of an army and take to the field of battle. Instead, a Burgomaster is a petty politician, typically the mayor of one of the many villages that dot the landscape, a village elder of a tribal clan, a seneschal for a province or county, or a spokesperson for a city borough. Burgomasters are generally not elected by their constituents, but are installed by the aristocracy to act in their stead. Burgomasters are a means to an end for the nobility; a necessary cog in the political machine who takes care of local concerns. That being said, they exist only in part because bluebloods lack the time or patience to govern every community beneath their rule. Surprisingly, Burgomasters do make fairly decent strategists, as it is they who organize the militias as part of a town or village’s defense.\\nThat does not necessarily mean that Burgomasters are well-loved by their people. Many are prone to political corruption, levying a sales tax on all goods coming in and going out of village markets; raising taxation to benefit from others’ labor; and hiring out the labor of constituents while skimming off the top – all to line their own coffers. Burgomasters are often not very strong or even that smart, but many are of low cunning, and able to sway individuals to do their dirty work for them. Sometimes such efforts lead to Burgomasters hiring bands of miscreants to protect their interests and to prevent do-gooding adventurers from interfering. However, when they are found out, Burgomasters are forced to flee, often forced to join the miscreants they hired to survive beyond the wooden palisades of the village or the curtain walls of the town they once controlled. Here they find the world quite savage and forced to turn to banditry to survive, continuing to make miserable – or worse – the lives of the townsfolk whose lives they previously governed."
+    },
+    "notes": "",
+    "expert": {
+      "value": true,
+      "requirements": {
+        "skillRanks": [
+          {
+            "key": "folklore",
+            "value": 2
+          }
+        ],
+        "additional": "<p>-</p>"
+      }
+    },
+    "archetype": "Expert Profession",
+    "bonusAdvances": [
+      {
+        "name": "[BB]",
+        "purchased": false
+      },
+      {
+        "name": "[FB]",
+        "purchased": false
+      },
+      {
+        "name": "[FB]",
+        "purchased": false
+      },
+      {
+        "name": "[IB]",
+        "purchased": false
+      },
+      {
+        "name": "[PB]",
+        "purchased": false
+      },
+      {
+        "name": "[WB]",
+        "purchased": false
+      },
+      {
+        "name": "[WB]",
+        "purchased": false
+      }
+    ],
+    "skillRanks": [
+      {
+        "name": "Bargain",
+        "purchased": false
+      },
+      {
+        "name": "Education",
+        "purchased": false
+      },
+      {
+        "name": "Folklore",
+        "purchased": false
+      },
+      {
+        "name": "Intimidate",
+        "purchased": false
+      },
+      {
+        "name": "Leadership",
+        "purchased": false
+      },
+      {
+        "name": "Resolve",
+        "purchased": false
+      },
+      {
+        "name": "Rumor",
+        "purchased": false
+      },
+      {
+        "name": "Scrutinize",
+        "purchased": false
+      },
+      {
+        "name": "Simple Melee",
+        "purchased": false
+      },
+      {
+        "name": "Warfare",
+        "purchased": false
+      }
+    ],
+    "talents": [
+      {
+        "linkedId": "i9qfMytftadGhnm3",
+        "name": "Appalling Mien",
+        "uuid": "Compendium.zweihander.zh-talents.Item.i9qfMytftadGhnm3"
+      },
+      {
+        "linkedId": "sD4Et1dOsSjT3fPt",
+        "name": "Incredible Numeration",
+        "uuid": "Compendium.zweihander.zh-talents.Item.sD4Et1dOsSjT3fPt"
+      },
+      {
+        "linkedId": "LLp6kwPTz9wJLpvG",
+        "name": "Meeting of the Minds",
+        "uuid": "Compendium.zweihander.zh-talents.Item.LLp6kwPTz9wJLpvG"
+      }
+    ],
+    "professionalTrait": {
+      "name": "De Facto",
+      "uuid": "Compendium.zweihander.zh-traits.Item.dJqC7XvJ8WDKIKew",
+      "linkedId": null
+    },
+    "specialTrait": {
+      "name": "",
+      "uuid": "",
+      "linkedId": null
+    },
+    "drawback": {
+      "name": "Do You Know Who I Am?",
+      "uuid": "Compendium.zweihander.zh-drawbacks.Item.rEwiuhbdlhQZPaFX",
+      "linkedId": null
+    },
+    "tier": ""
+  },
+  "folder": null,
+  "sort": 17200000,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {},
+  "_key": "!items!whaGmh7RLyHYk3Sc"
+}

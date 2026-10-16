@@ -1,0 +1,37 @@
+{
+  "_id": "iJTlqEQ0HoxkdSfA",
+  "effects": [],
+  "img": "systems/zweihander/assets/icons/lever.svg",
+  "name": "Red Baron",
+  "type": "trait",
+  "_stats": {
+    "coreVersion": "13.342",
+    "systemId": "zweihander",
+    "systemVersion": "5.4.1",
+    "createdTime": null,
+    "modifiedTime": 1735911103092,
+    "lastModifiedBy": "rivg6xcMxdlVDM8y",
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "system": {
+    "description": {
+      "@en": "You are the ace-of-aces, able to keep even the most ramshackle carriage or airborne dirigible from turning into a heaping, flaming wreck of wood and iron."
+    },
+    "notes": "",
+    "rules": {
+      "effect": {
+        "@en": "You may substitute Pilot in place of any Skill required to drive a vehicle, use a boat or ride a creature. Furthermore, whenever your vehicle is Wrecked!, you do not crash. Instead, your vehicle coasts a Distance of 6 yards and stops, collapsing to pieces."
+      }
+    },
+    "category": "professional"
+  },
+  "folder": null,
+  "sort": 15000000,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {},
+  "_key": "!items!iJTlqEQ0HoxkdSfA"
+}

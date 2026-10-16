@@ -1,0 +1,434 @@
+{
+  "_id": "s3ZcwAYEQg6DUdw8",
+  "description": "",
+  "displayRoll": true,
+  "formula": "1d100",
+  "img": "icons/svg/d20-grey.svg",
+  "name": "G&P Professions: Socialite",
+  "replacement": true,
+  "results": [
+    {
+      "_id": "nMsYlwgLqgYmazsU",
+      "drawn": false,
+      "flags": {},
+      "img": "systems/zweihander/assets/icons/anarchy.svg",
+      "range": [
+        1,
+        6
+      ],
+      "type": "document",
+      "weight": 1,
+      "_stats": {
+        "coreVersion": "13.342",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "name": "Anarchist",
+      "documentUuid": "Compendium.zweihander.zh-professions.Item.pFtLfOZqLmtO0veL",
+      "description": "",
+      "_key": "!tables.results!s3ZcwAYEQg6DUdw8.nMsYlwgLqgYmazsU"
+    },
+    {
+      "_id": "Fl969JbH8kTtF87j",
+      "drawn": false,
+      "flags": {},
+      "img": "systems/zweihander/assets/icons/shepherds-crook.svg",
+      "range": [
+        7,
+        13
+      ],
+      "type": "document",
+      "weight": 1,
+      "_stats": {
+        "coreVersion": "13.342",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "name": "Apostle",
+      "documentUuid": "Compendium.zweihander.zh-professions.Item.NcUt6skU265dITKH",
+      "description": "",
+      "_key": "!tables.results!s3ZcwAYEQg6DUdw8.Fl969JbH8kTtF87j"
+    },
+    {
+      "_id": "ubL96aKSuB41aXu2",
+      "drawn": false,
+      "flags": {},
+      "img": "systems/zweihander/assets/icons/courtier.svg",
+      "range": [
+        14,
+        20
+      ],
+      "type": "document",
+      "weight": 1,
+      "_stats": {
+        "coreVersion": "13.342",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "name": "Courtier",
+      "documentUuid": "Compendium.zweihander.zh-professions.Item.51dXx3kYoapwJ1tB",
+      "description": "",
+      "_key": "!tables.results!s3ZcwAYEQg6DUdw8.ubL96aKSuB41aXu2"
+    },
+    {
+      "_id": "Xr9SLXMmIIbiAQtk",
+      "drawn": false,
+      "flags": {},
+      "img": "systems/zweihander/assets/icons/cultist.svg",
+      "range": [
+        21,
+        27
+      ],
+      "type": "document",
+      "weight": 1,
+      "_stats": {
+        "coreVersion": "13.342",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "name": "Cultist",
+      "documentUuid": "Compendium.zweihander.zh-professions.Item.y9ORiK08M5BkqdBJ",
+      "description": "",
+      "_key": "!tables.results!s3ZcwAYEQg6DUdw8.Xr9SLXMmIIbiAQtk"
+    },
+    {
+      "_id": "FuAKTgiNh7abZal3",
+      "drawn": false,
+      "flags": {},
+      "img": "systems/zweihander/assets/icons/duality-mask.svg",
+      "range": [
+        28,
+        34
+      ],
+      "type": "document",
+      "weight": 1,
+      "_stats": {
+        "coreVersion": "13.342",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "name": "Entertainer",
+      "documentUuid": "Compendium.zweihander.zh-professions.Item.ZC14Smh8DtulQlpH",
+      "description": "",
+      "_key": "!tables.results!s3ZcwAYEQg6DUdw8.FuAKTgiNh7abZal3"
+    },
+    {
+      "_id": "zeO5J79slp8444mI",
+      "drawn": false,
+      "flags": {},
+      "img": "systems/zweihander/assets/icons/wax-seal.svg",
+      "range": [
+        35,
+        41
+      ],
+      "type": "document",
+      "weight": 1,
+      "_stats": {
+        "coreVersion": "13.342",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "name": "Envoy",
+      "documentUuid": "Compendium.zweihander.zh-professions.Item.Ln1pdS7GxN3BN1em",
+      "description": "",
+      "_key": "!tables.results!s3ZcwAYEQg6DUdw8.zeO5J79slp8444mI"
+    },
+    {
+      "_id": "gZ7gYMe2e11uNUH5",
+      "drawn": false,
+      "flags": {},
+      "img": "systems/zweihander/assets/icons/glass-celebration.svg",
+      "range": [
+        42,
+        47
+      ],
+      "type": "document",
+      "weight": 1,
+      "_stats": {
+        "coreVersion": "13.342",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "name": "Fop",
+      "documentUuid": "Compendium.zweihander.zh-professions.Item.HTSUGWmhBHU1fVZS",
+      "description": "",
+      "_key": "!tables.results!s3ZcwAYEQg6DUdw8.gZ7gYMe2e11uNUH5"
+    },
+    {
+      "_id": "Gm4FBanaPbE3KF2b",
+      "drawn": false,
+      "flags": {},
+      "img": "systems/zweihander/assets/icons/jester.svg",
+      "range": [
+        48,
+        54
+      ],
+      "type": "document",
+      "weight": 1,
+      "_stats": {
+        "coreVersion": "13.342",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "name": "Jester",
+      "documentUuid": "Compendium.zweihander.zh-professions.Item.4kXzbZ14QSP5LZJL",
+      "description": "",
+      "_key": "!tables.results!s3ZcwAYEQg6DUdw8.Gm4FBanaPbE3KF2b"
+    },
+    {
+      "_id": "SxfAjFGjeSHFzEUy",
+      "drawn": false,
+      "flags": {},
+      "img": "systems/zweihander/assets/icons/envelope.svg",
+      "range": [
+        55,
+        61
+      ],
+      "type": "document",
+      "weight": 1,
+      "_stats": {
+        "coreVersion": "13.342",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "name": "Messenger",
+      "documentUuid": "Compendium.zweihander.zh-professions.Item.FQ1aqki2kyODJvJn",
+      "description": "",
+      "_key": "!tables.results!s3ZcwAYEQg6DUdw8.SxfAjFGjeSHFzEUy"
+    },
+    {
+      "_id": "lpIcC1Wua3HcUdlC",
+      "drawn": false,
+      "flags": {},
+      "img": "systems/zweihander/assets/icons/provocateur.svg",
+      "range": [
+        62,
+        68
+      ],
+      "type": "document",
+      "weight": 1,
+      "_stats": {
+        "coreVersion": "13.342",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "name": "Provocateur",
+      "documentUuid": "Compendium.zweihander.zh-professions.Item.dI1Ec9peGw4SinUl",
+      "description": "",
+      "_key": "!tables.results!s3ZcwAYEQg6DUdw8.lpIcC1Wua3HcUdlC"
+    },
+    {
+      "_id": "ASaEFDI5joX3YsGn",
+      "drawn": false,
+      "flags": {},
+      "img": "systems/zweihander/assets/icons/bubbling-flask.svg",
+      "range": [
+        69,
+        75
+      ],
+      "type": "document",
+      "weight": 1,
+      "_stats": {
+        "coreVersion": "13.342",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "name": "Quacksalver",
+      "documentUuid": "Compendium.zweihander.zh-professions.Item.4TmyTM4jpzF0ll9E",
+      "description": "",
+      "_key": "!tables.results!s3ZcwAYEQg6DUdw8.ASaEFDI5joX3YsGn"
+    },
+    {
+      "_id": "99v3UhqaLdBsHer7",
+      "drawn": false,
+      "flags": {},
+      "img": "systems/zweihander/assets/icons/racketeer.svg",
+      "range": [
+        76,
+        82
+      ],
+      "type": "document",
+      "weight": 1,
+      "_stats": {
+        "coreVersion": "13.342",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "name": "Racketeer",
+      "documentUuid": "Compendium.zweihander.zh-professions.Item.qwXwnA9lyJuouwBn",
+      "description": "",
+      "_key": "!tables.results!s3ZcwAYEQg6DUdw8.99v3UhqaLdBsHer7"
+    },
+    {
+      "_id": "cDNQq7HndPlFxoeT",
+      "drawn": false,
+      "flags": {},
+      "img": "systems/zweihander/assets/icons/raconteur.svg",
+      "range": [
+        83,
+        89
+      ],
+      "type": "document",
+      "weight": 1,
+      "_stats": {
+        "coreVersion": "13.342",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "name": "Raconteur",
+      "documentUuid": "Compendium.zweihander.zh-professions.Item.ne3gJfgpzX0lDpAV",
+      "description": "",
+      "_key": "!tables.results!s3ZcwAYEQg6DUdw8.cDNQq7HndPlFxoeT"
+    },
+    {
+      "_id": "zKlQyyxBTraQc8g1",
+      "drawn": false,
+      "flags": {},
+      "img": "systems/zweihander/assets/icons/double-face-mask.svg",
+      "range": [
+        90,
+        95
+      ],
+      "type": "document",
+      "weight": 1,
+      "_stats": {
+        "coreVersion": "13.342",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "name": "Rake",
+      "documentUuid": "Compendium.zweihander.zh-professions.Item.quOt9yIU9O64PFZB",
+      "description": "",
+      "_key": "!tables.results!s3ZcwAYEQg6DUdw8.zKlQyyxBTraQc8g1"
+    },
+    {
+      "_id": "MD7gAnpM1jdA30JB",
+      "drawn": false,
+      "flags": {},
+      "img": "systems/zweihander/assets/icons/hot-meal.svg",
+      "range": [
+        96,
+        100
+      ],
+      "type": "document",
+      "weight": 1,
+      "_stats": {
+        "coreVersion": "13.342",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "name": "Valet",
+      "documentUuid": "Compendium.zweihander.zh-professions.Item.q4Qserk7ORiABsEi",
+      "description": "",
+      "_key": "!tables.results!s3ZcwAYEQg6DUdw8.MD7gAnpM1jdA30JB"
+    }
+  ],
+  "_stats": {
+    "coreVersion": "13.342",
+    "systemId": null,
+    "systemVersion": null,
+    "createdTime": null,
+    "modifiedTime": null,
+    "lastModifiedBy": null,
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {},
+  "_key": "!tables!s3ZcwAYEQg6DUdw8"
+}

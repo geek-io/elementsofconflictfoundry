@@ -1,0 +1,37 @@
+{
+  "_id": "ao3psE0jvfrHcHoG",
+  "effects": [],
+  "img": "systems/zweihander/assets/icons/theater-curtains.svg",
+  "name": "The Show Must Go On",
+  "type": "trait",
+  "_stats": {
+    "coreVersion": "13.342",
+    "systemId": "zweihander",
+    "systemVersion": "5.4.1",
+    "createdTime": null,
+    "modifiedTime": 1735911103078,
+    "lastModifiedBy": "rivg6xcMxdlVDM8y",
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "system": {
+    "description": {
+      "@en": "An Entertainer may be a poet, a comedian, a playwright, a bunko artist or even a burlesque dancer. They are a vaudevillian at heart, praised and paid for their performances. Whether lifting spirits through words or song, the Entertainer’s positive demeanor is infectious, setting the right mood for others."
+    },
+    "notes": "",
+    "rules": {
+      "effect": {
+        "@en": "You can attempt a Skill Test, related to your Focus in the arts, to perform for others. If successful, a number of allies equal to your [FB] gain the benefits of Inspiring Words for 24 hours. If you Critically Succeed, you influence a number of allies equal to three times your [FB] instead. A Character may only gain benefit of this performance once per day, which takes at least an hour of time to perform."
+      }
+    },
+    "category": "professional"
+  },
+  "folder": null,
+  "sort": 12200000,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {},
+  "_key": "!items!ao3psE0jvfrHcHoG"
+}

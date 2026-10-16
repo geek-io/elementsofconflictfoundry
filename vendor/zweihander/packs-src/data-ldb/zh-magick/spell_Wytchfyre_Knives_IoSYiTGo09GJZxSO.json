@@ -1,0 +1,60 @@
+{
+  "_id": "IoSYiTGo09GJZxSO",
+  "effects": [],
+  "img": "systems/zweihander/assets/icons/wizard-staff.svg",
+  "name": "Wytchfyre Knives",
+  "type": "spell",
+  "_stats": {
+    "coreVersion": "13.342",
+    "systemId": "zweihander",
+    "systemVersion": "5.4.1",
+    "createdTime": null,
+    "modifiedTime": 1745410666679,
+    "lastModifiedBy": "rivg6xcMxdlVDM8y",
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "system": {
+    "description": {
+      "@en": "A viridescent, electrified set of throwing stars unerringly hurtle towards your foes."
+    },
+    "notes": "",
+    "rules": {
+      "effect": {
+        "@en": "After successfully casting this spell, select a number of foes you can see equal to your [WB]. Each foe suffers [[/roll 3D10]]+[WB] in Damage. In addition, if your foes fail to Resist with a successful Coordination Test, they are Disarmed."
+      },
+      "criticalSuccess": {
+        "@en": "As above, but your foes cannot Resist this Magick."
+      },
+      "criticalFailure": {
+        "@en": "The throwing star dances overhead, sparking with fireworks. With a whirring sound, it strikes one of your allies (GM’s discretion). They suffer [[/roll 3D10]]+[WB] in Damage and are Disarmed."
+      },
+      "reagents": {
+        "@en": "A throwing star carved from Wytchstone (expended)"
+      }
+    },
+    "tradition": "Covenant",
+    "principle": "Greater",
+    "distance": "Any persons you can see",
+    "duration": {
+      "value": "instantaneous",
+      "label": "Instantaneous",
+      "formula": {
+        "override": false
+      },
+      "base": "[WB]",
+      "bonus": 0,
+      "unit": "Instantaneous"
+    },
+    "castingTime": "1 min",
+    "castingCost": 0
+  },
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {},
+  "_key": "!items!IoSYiTGo09GJZxSO"
+}

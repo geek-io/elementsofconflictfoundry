@@ -1,0 +1,73 @@
+{
+  "_id": "CgRyetKAOfHLbUNx",
+  "effects": [],
+  "img": "systems/zweihander/assets/icons/gunshot.svg",
+  "name": "Duelling Pistol",
+  "type": "weapon",
+  "_stats": {
+    "coreVersion": "13.342",
+    "systemId": "zweihander",
+    "systemVersion": "5.4.1",
+    "createdTime": null,
+    "modifiedTime": 1745255373622,
+    "lastModifiedBy": "rivg6xcMxdlVDM8y",
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "system": {
+    "description": {
+      "@en": "Ostentatious and unusually decorated, these flintlock pistols are deadly quick. A true ‘gentleman’s’ weapon, if there ever was one to be named."
+    },
+    "notes": "",
+    "price": {
+      "bp": 0,
+      "gc": 50,
+      "ss": 0,
+      "ad": null
+    },
+    "encumbrance": 2,
+    "carried": true,
+    "weaponType": "Gunpowder",
+    "equipped": false,
+    "associatedSkill": "Martial Ranged",
+    "ranged": {
+      "load": 3,
+      "value": true
+    },
+    "handling": "One-handed",
+    "qualities": [
+      "Compendium.zweihander.zh-qualities.Item.0L1YXMkZ0dXhGb0R"
+    ],
+    "distance": {
+      "value": "3 + [PB] ",
+      "base": "[PB]",
+      "bonus": 3
+    },
+    "damage": {
+      "formula": {
+        "override": false,
+        "value": "[CB] + (1+[#])d6x1&6"
+      },
+      "attributeBonus": "[CB]",
+      "number": 1,
+      "die": "d6",
+      "bonus": 0,
+      "fury": {
+        "value": true,
+        "explodesOn": [
+          "1",
+          "6"
+        ]
+      }
+    },
+    "load": 3
+  },
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {},
+  "_key": "!items!CgRyetKAOfHLbUNx"
+}

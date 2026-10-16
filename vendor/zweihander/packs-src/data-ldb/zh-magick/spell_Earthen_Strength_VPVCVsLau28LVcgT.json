@@ -1,0 +1,60 @@
+{
+  "_id": "VPVCVsLau28LVcgT",
+  "effects": [],
+  "img": "systems/zweihander/assets/icons/biceps.svg",
+  "name": "Earthen Strength",
+  "type": "spell",
+  "_stats": {
+    "coreVersion": "13.342",
+    "systemId": "zweihander",
+    "systemVersion": "5.4.1",
+    "createdTime": null,
+    "modifiedTime": 1745410540864,
+    "lastModifiedBy": "rivg6xcMxdlVDM8y",
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "system": {
+    "description": {
+      "@en": "You are given the strength of the mountain and the flames of the earth below."
+    },
+    "notes": "",
+    "rules": {
+      "effect": {
+        "@en": "After successfully casting this spell, add +30% to your Brawn. In addition, any attack you make with a melee weapon adds the Powerful Quality to it."
+      },
+      "criticalSuccess": {
+        "@en": "As above, but triple the Duration."
+      },
+      "criticalFailure": {
+        "@en": "The clay statuette shatters in your hands. The earth rejects your calling, as your flesh turns soft and your energy is sapped from you. Heavy and ponderous in your gait, you must subtract -30% from your Agility for the spell’s Duration. In addition, any attack you make with a melee weapon adds the Slow Quality to it."
+      },
+      "reagents": {
+        "@en": "A clay statuette of yourself"
+      }
+    },
+    "tradition": "Arcane (Elementalism)",
+    "principle": "Greater",
+    "distance": "Yourself",
+    "duration": {
+      "value": "instantaneous",
+      "label": "[WB] + 9 minutes",
+      "formula": {
+        "override": true
+      },
+      "base": "[WB]",
+      "bonus": 9,
+      "unit": "minutes"
+    },
+    "castingTime": "1 min",
+    "castingCost": 0
+  },
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {},
+  "_key": "!items!VPVCVsLau28LVcgT"
+}

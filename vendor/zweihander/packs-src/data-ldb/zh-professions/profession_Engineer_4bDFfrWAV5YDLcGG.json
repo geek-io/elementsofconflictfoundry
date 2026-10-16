@@ -1,0 +1,144 @@
+{
+  "_id": "4bDFfrWAV5YDLcGG",
+  "effects": [],
+  "img": "systems/zweihander/assets/icons/engineer.svg",
+  "name": "Engineer",
+  "type": "profession",
+  "_stats": {
+    "coreVersion": "13.342",
+    "systemId": "zweihander",
+    "systemVersion": "5.4.1",
+    "createdTime": null,
+    "modifiedTime": 1734990834077,
+    "lastModifiedBy": "rivg6xcMxdlVDM8y",
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "system": {
+    "description": {
+      "@en": "Soaring towers, flying buttresses, quaint storefronts and deep mines; all of them had to be built and the Engineer has a hand in their construction. Engineers are the builders of the modern age, experienced in all types of construction and materials. While some stick to the classic materials of stone and wood, others push the boundaries of technology, using steel and even strange steam-run machines. Besides building structures, Engineers also serve in most standing armies. Whether constructing siege towers, repairing cannons or packing gunpowder into enemy fortifications, Engineers are terrors on the modern battlefield. Dedicated and intelligent, able to calculate trajectories and angles with a mere glance, Engineers are also secretive. They know the strengths of their structures and inventions as well as their weaknesses; knowledge of both might be catastrophic – or lucrative – if revealed.\nEngineers will sometimes take on consulting jobs from groups of adventurers. Engineers love the challenge of finding the keystones to old temples, figuring out the perfect path to tunnel beneath an enemy’s lair or setting deadfall to fall upon trespassers. Other Engineers are freelancers, moving from one mine to another in search of bigger mother lodes or selling their services to the highest bidder. However, if confronted by the outer darkness of the Abyss, Engineers fold in quite peculiar ways. Their constructions no longer make sense, with passageways that seem to go nowhere or rooms that shouldn’t exist. An infamous example is the Coppertooth Vault. This Dwarven stronghold, built by the insane Frederick Coppertooth, contains numerous empty rooms, doors that open to walls of rock, and floors that have to be crawled through to navigate. This is the madness of genius brought true to life."
+    },
+    "notes": "",
+    "expert": {
+      "value": false,
+      "requirements": {
+        "skillRanks": [],
+        "additional": ""
+      }
+    },
+    "archetype": "Academic",
+    "bonusAdvances": [
+      {
+        "name": "[AB]",
+        "purchased": false
+      },
+      {
+        "name": "[BB]",
+        "purchased": false
+      },
+      {
+        "name": "[IB]",
+        "purchased": false
+      },
+      {
+        "name": "[IB]",
+        "purchased": false
+      },
+      {
+        "name": "[PB]",
+        "purchased": false
+      },
+      {
+        "name": "[PB]",
+        "purchased": false
+      },
+      {
+        "name": "[WB]",
+        "purchased": false
+      }
+    ],
+    "skillRanks": [
+      {
+        "name": "Awareness",
+        "purchased": false
+      },
+      {
+        "name": "Coordination",
+        "purchased": false
+      },
+      {
+        "name": "Drive",
+        "purchased": false
+      },
+      {
+        "name": "Education",
+        "purchased": false
+      },
+      {
+        "name": "Folklore",
+        "purchased": false
+      },
+      {
+        "name": "Scrutinize",
+        "purchased": false
+      },
+      {
+        "name": "Simple Ranged",
+        "purchased": false
+      },
+      {
+        "name": "Survival",
+        "purchased": false
+      },
+      {
+        "name": "Tradecraft",
+        "purchased": false
+      },
+      {
+        "name": "Warfare",
+        "purchased": false
+      }
+    ],
+    "talents": [
+      {
+        "linkedId": "sD4Et1dOsSjT3fPt",
+        "name": "Incredible Numeration",
+        "uuid": "Compendium.zweihander.zh-talents.Item.sD4Et1dOsSjT3fPt"
+      },
+      {
+        "linkedId": "HAAEmf4RBgOXbE4W",
+        "name": "Mine Craft",
+        "uuid": "Compendium.zweihander.zh-talents.Item.HAAEmf4RBgOXbE4W"
+      },
+      {
+        "linkedId": "UkKaKxOrVeJt9sj7",
+        "name": "Siegecraft",
+        "uuid": "Compendium.zweihander.zh-talents.Item.UkKaKxOrVeJt9sj7"
+      }
+    ],
+    "professionalTrait": {
+      "name": "Eureka!",
+      "uuid": "Compendium.zweihander.zh-traits.Item.KH6Yc7fRa3LHd9AY",
+      "linkedId": null
+    },
+    "specialTrait": {
+      "name": "",
+      "uuid": "",
+      "linkedId": null
+    },
+    "drawback": {
+      "name": "",
+      "uuid": "",
+      "linkedId": null
+    },
+    "tier": ""
+  },
+  "folder": null,
+  "sort": 1700000,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {},
+  "_key": "!items!4bDFfrWAV5YDLcGG"
+}

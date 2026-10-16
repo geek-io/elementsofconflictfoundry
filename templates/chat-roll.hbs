@@ -1,0 +1,8 @@
+<article class="eoc-roll-card">
+  <header class="eoc-chat-title">{{#if img}}<img src="{{img}}" alt="">{{/if}}<div><h3>{{title}}</h3><span>{{subtitle}}</span></div></header>
+  <div class="eoc-chat-pills">{{#each badges}}<span class="eoc-chat-pill {{kind}}">{{label}}</span>{{/each}}{{#each qualities}}<span class="eoc-chat-pill quality" tabindex="0" data-tooltip-html="{{tooltipHtml}}" data-tooltip-class="eoc-rules-tooltip">{{label}}</span>{{/each}}</div>
+  <div class="eoc-chat-result {{outcomeClass}}">{{#if outcome}}<h4>{{outcome}}</h4>{{/if}}<div class="eoc-chat-total">{{total}}{{#if percent}}%{{/if}}{{#if isTest}} <span>vs.</span> {{chance}}%{{/if}}</div>{{#if formula}}<span class="eoc-chat-formula">{{formula}}</span>{{/if}}</div>
+  {{#if rules}}<details class="eoc-technique-effect"><summary>Technique Effect</summary><p>{{rules}}</p></details>{{/if}}
+  {{#if techniqueOutcome}}<section class="eoc-technique-outcome"><h4>{{techniqueOutcome.label}}</h4><p>{{techniqueOutcome.text}}</p></section>{{/if}}
+  <details class="eoc-chat-breakdown"><summary>Dice &amp; modifiers</summary>{{{tooltip}}}{{#if details}}<dl>{{#each details}}<div><dt>{{label}}</dt><dd>{{value}}</dd></div>{{/each}}</dl>{{/if}}</details>
+</article>

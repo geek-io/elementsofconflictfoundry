@@ -1,0 +1,149 @@
+{
+  "_id": "unaovsGGIT90Mhfd",
+  "effects": [],
+  "img": "systems/zweihander/assets/icons/suspicious.svg",
+  "name": "Fanatic",
+  "type": "profession",
+  "_stats": {
+    "coreVersion": "13.342",
+    "systemId": "zweihander",
+    "systemVersion": "5.4.1",
+    "createdTime": null,
+    "modifiedTime": 1735051351128,
+    "lastModifiedBy": "rivg6xcMxdlVDM8y",
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "system": {
+    "description": {
+      "@en": "To most common folk, religion and the gods serve as a balm - as the world crumbles around them and descends into anarchy, they know that they are right with the gods and will receive their just reward upon death. However, there are those who believe that weekly prayers are not enough. These Fanatics feel their flesh is weak and unable to achieve or understand the full extent of divinity, and they must harden and temper it to achieve perfection. The ultimate result of the Doomsayer, Fanatics know nothing but pain and devotion. The more ‘benevolent’ Fanatics purge others’ sin with iron and fire, while others spend the remaining years of their life stripping their backs to ribbons to reveal the divine mysteries. Abbots of the faith can find some of their most militant and stalwart followers in the Fanatic, but many balk and cower at those who have blinded themselves for faith - sometimes even quite literally.\\nDaily do Fanatics toe the line between their obsession and the calls of Corruption. True, Fanatics know much canon and many have become so inured to pain they are resilient warriors of their god, but at what cost? They are already exiles among the common folk and often heretics among their own faithful, but the Abyssal Princes lauds and loves the Fanatic for their passion and dedication. What difference is there in flaying yourself for the God-Emperor or the Prince of Violence aside from a slight change in name? Even the most experienced, enlightened Fanatic can see the passion and fury in the hordes of Daemon-worshipers, and feel what may be called a form of begrudging respect. Thus, many of these lambs go to the lion’s den of outer darkness, and they are consumed by it."
+    },
+    "notes": "",
+    "expert": {
+      "value": true,
+      "requirements": {
+        "skillRanks": [
+          {
+            "key": "folklore",
+            "value": 1
+          }
+        ],
+        "additional": "<p>-</p>"
+      }
+    },
+    "archetype": "Expert Profession",
+    "bonusAdvances": [
+      {
+        "name": "[BB]",
+        "purchased": false
+      },
+      {
+        "name": "[BB]",
+        "purchased": false
+      },
+      {
+        "name": "[CB]",
+        "purchased": false
+      },
+      {
+        "name": "[CB]",
+        "purchased": false
+      },
+      {
+        "name": "[FB]",
+        "purchased": false
+      },
+      {
+        "name": "[WB]",
+        "purchased": false
+      },
+      {
+        "name": "[WB]",
+        "purchased": false
+      }
+    ],
+    "skillRanks": [
+      {
+        "name": "Awareness",
+        "purchased": false
+      },
+      {
+        "name": "Folklore",
+        "purchased": false
+      },
+      {
+        "name": "Handle Animal",
+        "purchased": false
+      },
+      {
+        "name": "Interrogation",
+        "purchased": false
+      },
+      {
+        "name": "Intimidate",
+        "purchased": false
+      },
+      {
+        "name": "Martial Melee",
+        "purchased": false
+      },
+      {
+        "name": "Navigation",
+        "purchased": false
+      },
+      {
+        "name": "Resolve",
+        "purchased": false
+      },
+      {
+        "name": "Simple Melee",
+        "purchased": false
+      },
+      {
+        "name": "Toughness",
+        "purchased": false
+      }
+    ],
+    "talents": [
+      {
+        "linkedId": "fe7vdZghpPmVpFPn",
+        "name": "Die Hard",
+        "uuid": "Compendium.zweihander.zh-talents.Item.fe7vdZghpPmVpFPn"
+      },
+      {
+        "linkedId": "WsD0GRMRKX8Ov0mT",
+        "name": "Impervious Mind",
+        "uuid": "Compendium.zweihander.zh-talents.Item.WsD0GRMRKX8Ov0mT"
+      },
+      {
+        "linkedId": "cIaEhW4y3xK76XWt",
+        "name": "Indifference",
+        "uuid": "Compendium.zweihander.zh-talents.Item.cIaEhW4y3xK76XWt"
+      }
+    ],
+    "professionalTrait": {
+      "name": "Religious Fervor",
+      "uuid": "Compendium.zweihander.zh-traits.Item.DrWTwPCalp60LK9a",
+      "linkedId": null
+    },
+    "specialTrait": {
+      "name": "",
+      "uuid": "",
+      "linkedId": null
+    },
+    "drawback": {
+      "name": "Gospel of Desolation",
+      "uuid": "Compendium.zweihander.zh-drawbacks.Item.8hVwb0ETfks5QIuq",
+      "linkedId": null
+    },
+    "tier": ""
+  },
+  "folder": null,
+  "sort": 16500000,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {},
+  "_key": "!items!unaovsGGIT90Mhfd"
+}

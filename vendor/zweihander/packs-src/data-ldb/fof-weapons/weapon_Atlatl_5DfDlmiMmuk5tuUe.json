@@ -1,0 +1,72 @@
+{
+  "_id": "5DfDlmiMmuk5tuUe",
+  "effects": [],
+  "img": "systems/zweihander/assets/icons/spear-hook.svg",
+  "name": "Atlatl",
+  "type": "weapon",
+  "_stats": {
+    "coreVersion": "13.342",
+    "systemId": "zweihander",
+    "systemVersion": "5.4.1",
+    "createdTime": 1745429307087,
+    "modifiedTime": 1745429307087,
+    "lastModifiedBy": "rivg6xcMxdlVDM8y",
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "system": {
+    "description": {
+      "@en": "<p>A weapon that uses levers to throw a javelin. The atlatl has a shaft with a cup at one end in which the butt of a javelin is placed. It is a favored weapon of Indigenous cultures.</p>"
+    },
+    "notes": "",
+    "price": {
+      "bp": "7",
+      "gc": "0",
+      "ss": "0"
+    },
+    "encumbrance": 1,
+    "carried": true,
+    "weaponType": "Ranged",
+    "equipped": false,
+    "associatedSkill": "Martial Ranged",
+    "ranged": {
+      "load": 1,
+      "value": true
+    },
+    "handling": "One-handed",
+    "qualities": [
+      "Compendium.zweihander.fof-qualities.Item.ZM0IprHywROv0fkx",
+      "Compendium.zweihander.zh-qualities.Item.7MgNQOn5EC5tCAum"
+    ],
+    "distance": {
+      "value": "6 + [PB] ",
+      "base": "[PB]",
+      "bonus": 6
+    },
+    "damage": {
+      "formula": {
+        "override": false,
+        "value": "[CB] + (1+[#])d6x6"
+      },
+      "attributeBonus": "[CB]",
+      "number": 1,
+      "die": "d6",
+      "bonus": 0,
+      "fury": {
+        "value": true,
+        "explodesOn": [
+          "6"
+        ]
+      }
+    },
+    "load": 1
+  },
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {},
+  "_key": "!items!5DfDlmiMmuk5tuUe"
+}

@@ -1,0 +1,37 @@
+{
+  "_id": "PlnHMTn6xD7OvDIe",
+  "effects": [],
+  "img": "systems/zweihander/assets/icons/sandal.svg",
+  "name": "Blood & Sand",
+  "type": "trait",
+  "_stats": {
+    "coreVersion": "13.342",
+    "systemId": "zweihander",
+    "systemVersion": "5.4.1",
+    "createdTime": null,
+    "modifiedTime": 1735911103061,
+    "lastModifiedBy": "rivg6xcMxdlVDM8y",
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "system": {
+    "description": {
+      "@en": "The roar of the crowd inspires the Pit Fighter to greatness. Let the lavish spectacle of the sport begin and rally the people to your favor!"
+    },
+    "notes": "",
+    "rules": {
+      "effect": {
+        "@en": "Whenever you spend a Fortune Point, you move one step up the Damage & Peril Condition Tracks positively."
+      }
+    },
+    "category": "professional"
+  },
+  "folder": null,
+  "sort": 8200000,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {},
+  "_key": "!items!PlnHMTn6xD7OvDIe"
+}

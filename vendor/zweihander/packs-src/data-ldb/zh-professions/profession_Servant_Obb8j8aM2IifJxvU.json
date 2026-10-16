@@ -1,0 +1,144 @@
+{
+  "_id": "Obb8j8aM2IifJxvU",
+  "effects": [],
+  "img": "systems/zweihander/assets/icons/servant.svg",
+  "name": "Servant",
+  "type": "profession",
+  "_stats": {
+    "coreVersion": "13.342",
+    "systemId": "zweihander",
+    "systemVersion": "5.4.1",
+    "createdTime": null,
+    "modifiedTime": 1734990834111,
+    "lastModifiedBy": "rivg6xcMxdlVDM8y",
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "system": {
+    "description": {
+      "@en": "Prospects are lean in a grim & perilous world and for the unskilled and those with no chance of learning a trade or joining a guild, the opportunity to enter service as a servant offers chances to support their families and better themselves. They sweep gutters, carry pints across a tavern, scrub gongs below the city, cook banquets and help dress lords and ladies many times a day. Their hours are long and exhausting, with respite found only in the small shacks or rooms under the stairs or eaves where they sleep. A lucky few work and live in better circumstances at a manor, but they are few in number, often recruited by the lords in question instead of being picked from the street. They‘re jobs that someone must do, but rarely are they remembered for doing them.\nTheir invisible presence means that Servants get involved in events quite unexpectedly, they hear secrets best left unsaid, witness acts of heinous violence or find tangible evidence of indiscretions. Overlooked by their superiors – unless they screw up a job – some Servants have turned it to their advantage. Even if they cannot find a way to profit from such titbits (for their employers surely would not suspect them?), they can at least take some pleasure in the gossip they have to spread. Found out, whipped and thrown out, in general, a Servant makes a poor traveling companion for adventurers. However, they find themselves perfectly content to tag along after being disenfranchised from their former master."
+    },
+    "notes": "",
+    "expert": {
+      "value": false,
+      "requirements": {
+        "skillRanks": [],
+        "additional": ""
+      }
+    },
+    "archetype": "Commoner",
+    "bonusAdvances": [
+      {
+        "name": "[AB]",
+        "purchased": false
+      },
+      {
+        "name": "[BB]",
+        "purchased": false
+      },
+      {
+        "name": "[FB]",
+        "purchased": false
+      },
+      {
+        "name": "[FB]",
+        "purchased": false
+      },
+      {
+        "name": "[IB]",
+        "purchased": false
+      },
+      {
+        "name": "[PB]",
+        "purchased": false
+      },
+      {
+        "name": "[PB]",
+        "purchased": false
+      }
+    ],
+    "skillRanks": [
+      {
+        "name": "Awareness",
+        "purchased": false
+      },
+      {
+        "name": "Bargain",
+        "purchased": false
+      },
+      {
+        "name": "Charm",
+        "purchased": false
+      },
+      {
+        "name": "Drive",
+        "purchased": false
+      },
+      {
+        "name": "Eavesdrop",
+        "purchased": false
+      },
+      {
+        "name": "Folklore",
+        "purchased": false
+      },
+      {
+        "name": "Gamble",
+        "purchased": false
+      },
+      {
+        "name": "Rumor",
+        "purchased": false
+      },
+      {
+        "name": "Simple Melee",
+        "purchased": false
+      },
+      {
+        "name": "Stealth",
+        "purchased": false
+      }
+    ],
+    "talents": [
+      {
+        "linkedId": "v6tIVgfHMuYK0Smy",
+        "name": "Carousing",
+        "uuid": "Compendium.zweihander.zh-talents.Item.v6tIVgfHMuYK0Smy"
+      },
+      {
+        "linkedId": "YNxzq8R08710DoOF",
+        "name": "Silver Tongue",
+        "uuid": "Compendium.zweihander.zh-talents.Item.YNxzq8R08710DoOF"
+      },
+      {
+        "linkedId": "pIAw2DKMeOlG7EyT",
+        "name": "Worldly",
+        "uuid": "Compendium.zweihander.zh-talents.Item.pIAw2DKMeOlG7EyT"
+      }
+    ],
+    "professionalTrait": {
+      "name": "Town Gossip",
+      "uuid": "Compendium.zweihander.zh-traits.Item.cMTH0dgcfu78bw9g",
+      "linkedId": null
+    },
+    "specialTrait": {
+      "name": "",
+      "uuid": "",
+      "linkedId": null
+    },
+    "drawback": {
+      "name": "",
+      "uuid": "",
+      "linkedId": null
+    },
+    "tier": ""
+  },
+  "folder": null,
+  "sort": 8200000,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {},
+  "_key": "!items!Obb8j8aM2IifJxvU"
+}

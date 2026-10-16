@@ -1,0 +1,36 @@
+{
+  "_id": "2l5wEUEyl7dRWjBm",
+  "effects": [],
+  "img": "systems/zweihander/assets/icons/spiked-halo.svg",
+  "name": "Savagery",
+  "type": "drawback",
+  "_stats": {
+    "coreVersion": "13.342",
+    "systemId": null,
+    "systemVersion": null,
+    "createdTime": null,
+    "modifiedTime": 1733923835859,
+    "lastModifiedBy": "rivg6xcMxdlVDM8y",
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "system": {
+    "description": {
+      "@en": "Your martial spirit is not easily sated and you are large in both raw appetite, adventurous spirit and belligerent attitudes."
+    },
+    "notes": "",
+    "rules": {
+      "effect": {
+        "@en": "Immediately change your Order Alignment to Ferocity and your Chaos Alignment to Hatred."
+      }
+    }
+  },
+  "folder": null,
+  "sort": 900000,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {},
+  "_key": "!items!2l5wEUEyl7dRWjBm"
+}

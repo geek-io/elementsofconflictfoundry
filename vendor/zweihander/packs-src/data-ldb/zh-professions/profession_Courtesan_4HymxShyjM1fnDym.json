@@ -1,0 +1,153 @@
+{
+  "_id": "4HymxShyjM1fnDym",
+  "effects": [],
+  "img": "systems/zweihander/assets/icons/female-legs.svg",
+  "name": "Courtesan",
+  "type": "profession",
+  "_stats": {
+    "coreVersion": "13.342",
+    "systemId": "zweihander",
+    "systemVersion": "5.4.1",
+    "createdTime": null,
+    "modifiedTime": 1735051124804,
+    "lastModifiedBy": "rivg6xcMxdlVDM8y",
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "system": {
+    "description": {
+      "@en": "Among those of the court and upper echelons of society, Prostitutes are seen as contemptible wretches - selling their bodies for coin or a filling meal, who have no self- respect. No, to the bluebloods of polite society, Courtesans are preferable. Courtesans are ‘professional’ paramours and mistresses – hanging on the arm of widows and dandies to laugh at their jokes, pour their sparkling wine or make it appear that these wretched nobles are something besides detestable. Courtesans know the value of their sex appeal - not only can it buy them houses and fine clothes, but can also buy information. The sweet whispering of pillow talk and the proximity to movers and shakers make Courtesans valuable allies who can depose dukes and knights with a single rumor of their… predilections.\\nCourtesans move easily in social circles and don’t carry the same stigma as a brothel worker. However, that doesn’t make them immune from tragedy. If a countess is both powerful enough and ignoble enough, the words of their extramarital affairs can be silenced with a court order or even an assassin’s blade. Courtesans that escape the red dagger are thrown below the status of the lowliest beggars, seen as tramps, liars and manipulators. Even if they had lofty goals of bringing despots to justice or shame, those get easily dashed if love letters or evidence of their petty treasons are discovered. These low Courtesans have lost their good name and will look for repairers of reputation to help them return to a normal life. However, sometimes these ‘aids’ come from the dark outside of Corruption, especially from the Prince of Pleasure who sees a willing supplicant in exchange for a Faustian bargain."
+    },
+    "notes": "",
+    "expert": {
+      "value": true,
+      "requirements": {
+        "skillRanks": [
+          {
+            "key": "bargain",
+            "value": 1
+          },
+          {
+            "key": "rumor",
+            "value": 1
+          }
+        ],
+        "additional": "<p>-</p>"
+      }
+    },
+    "archetype": "Expert Profession",
+    "bonusAdvances": [
+      {
+        "name": "[AB]",
+        "purchased": false
+      },
+      {
+        "name": "[AB]",
+        "purchased": false
+      },
+      {
+        "name": "[FB]",
+        "purchased": false
+      },
+      {
+        "name": "[FB]",
+        "purchased": false
+      },
+      {
+        "name": "[IB]",
+        "purchased": false
+      },
+      {
+        "name": "[IB]",
+        "purchased": false
+      },
+      {
+        "name": "[PB]",
+        "purchased": false
+      }
+    ],
+    "skillRanks": [
+      {
+        "name": "Charm",
+        "purchased": false
+      },
+      {
+        "name": "Coordination",
+        "purchased": false
+      },
+      {
+        "name": "Eavesdrop",
+        "purchased": false
+      },
+      {
+        "name": "Education",
+        "purchased": false
+      },
+      {
+        "name": "Folklore",
+        "purchased": false
+      },
+      {
+        "name": "Guile",
+        "purchased": false
+      },
+      {
+        "name": "Rumor",
+        "purchased": false
+      },
+      {
+        "name": "Scrutinize",
+        "purchased": false
+      },
+      {
+        "name": "Simple Melee",
+        "purchased": false
+      },
+      {
+        "name": "Stealth",
+        "purchased": false
+      }
+    ],
+    "talents": [
+      {
+        "linkedId": "AHui6a3KaaMWrKp1",
+        "name": "Forked Tongue",
+        "uuid": "Compendium.zweihander.zh-talents.Item.AHui6a3KaaMWrKp1"
+      },
+      {
+        "linkedId": "YNxzq8R08710DoOF",
+        "name": "Silver Tongue",
+        "uuid": "Compendium.zweihander.zh-talents.Item.YNxzq8R08710DoOF"
+      },
+      {
+        "linkedId": "nmeKtDNOuY6FGU8n",
+        "name": "Streetwise",
+        "uuid": "Compendium.zweihander.zh-talents.Item.nmeKtDNOuY6FGU8n"
+      }
+    ],
+    "professionalTrait": {
+      "name": "Deadly Beauty",
+      "uuid": "Compendium.zweihander.zh-traits.Item.BLRA6sZP5RMEEGLf",
+      "linkedId": null
+    },
+    "specialTrait": {
+      "name": "",
+      "uuid": "",
+      "linkedId": null
+    },
+    "drawback": {
+      "name": "Skin Deep",
+      "uuid": "Compendium.zweihander.zh-drawbacks.Item.YloBtzjHCHs6nJlN",
+      "linkedId": null
+    },
+    "tier": ""
+  },
+  "folder": null,
+  "sort": 1400000,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {},
+  "_key": "!items!4HymxShyjM1fnDym"
+}

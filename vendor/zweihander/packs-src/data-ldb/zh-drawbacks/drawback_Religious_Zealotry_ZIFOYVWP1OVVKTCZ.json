@@ -1,0 +1,36 @@
+{
+  "_id": "ZIFOYVWP1OVVKTCZ",
+  "effects": [],
+  "img": "systems/zweihander/assets/icons/spiked-halo.svg",
+  "name": "Religious Zealotry",
+  "type": "drawback",
+  "_stats": {
+    "coreVersion": "13.342",
+    "systemId": null,
+    "systemVersion": null,
+    "createdTime": null,
+    "modifiedTime": 1733923835859,
+    "lastModifiedBy": "rivg6xcMxdlVDM8y",
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "system": {
+    "description": {
+      "@en": "Inquisitors are a dogged folk, zealous to the point of posing danger to themselves and their friends around them."
+    },
+    "notes": "",
+    "rules": {
+      "effect": {
+        "@en": "Immediately change your Order Alignment to Zeal and your Chaos Alignment to Fanaticism."
+      }
+    }
+  },
+  "folder": null,
+  "sort": 7700000,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {},
+  "_key": "!items!ZIFOYVWP1OVVKTCZ"
+}

@@ -1,0 +1,37 @@
+{
+  "_id": "r8K7SQ1t03Bmh0Di",
+  "effects": [],
+  "img": "systems/zweihander/assets/icons/tarot-00-the-fool.svg",
+  "name": "Weaver of Fate",
+  "type": "trait",
+  "_stats": {
+    "coreVersion": "13.342",
+    "systemId": "zweihander",
+    "systemVersion": "5.4.1",
+    "createdTime": null,
+    "modifiedTime": 1735911103108,
+    "lastModifiedBy": "rivg6xcMxdlVDM8y",
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "system": {
+    "description": {
+      "@en": "Destiny is largely unknown, even to workers of miracles and arcane might. But in the Caravan Mystic, they can sacrifice a sliver of their soul to discover what lies in store for others."
+    },
+    "notes": "",
+    "rules": {
+      "effect": {
+        "@en": "You understand how to use the Ritual of Fortune- telling. Furthermore, you treat the Incantation Skill as a Common Skill for purposes of Fortune-telling. Finally, after successfully using Fortune-telling, the person to whom you told their future gains a Fate Point, which must be used within a month or it is lost. A person can only gain the benefits of the Weaver of Fate Trait once a month."
+      }
+    },
+    "category": "professional"
+  },
+  "folder": null,
+  "sort": 18300000,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {},
+  "_key": "!items!r8K7SQ1t03Bmh0Di"
+}

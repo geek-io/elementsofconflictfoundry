@@ -1,0 +1,144 @@
+{
+  "_id": "dPmhU1YMHkXMG2Wu",
+  "effects": [],
+  "img": "systems/zweihander/assets/icons/adherent.svg",
+  "name": "Adherent",
+  "type": "profession",
+  "_stats": {
+    "coreVersion": "13.342",
+    "systemId": "zweihander",
+    "systemVersion": "5.4.1",
+    "createdTime": null,
+    "modifiedTime": 1734990834130,
+    "lastModifiedBy": "rivg6xcMxdlVDM8y",
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "system": {
+    "description": {
+      "@en": "Adherents belong to ancient orders that embrace asceticism, taking vows to live lives of meditation and prayer. Generally female, most live cloistered in convents dedicated to years of religious devotion and worship, having abandoned both links and trappings to their former lives. Most orders are self-sufficient, adherents growing their own food and making their own clothes. Such cloisters also oﬀer succor to wandering travellers and even medical treatment. Other Adherents become itinerant priests, accepting alms in return for midwifery and animal husbandry, spreading charity, and educating everyday folk. While most Adherents typically abstain from pleasures of the ﬂesh, some convents promote hand-fasting within their order to bring harmony to the church; these are often arranged between male and female members of the order with little choice in partner.\nMany grow ﬂinty with age, hardened and worn by their faith and chastity. Each holy order is diﬀerent, but all advocate peace, charity and temperance while casting aside violence, greed and luxury. A rare few though, profess aberrant views, worshipping darker gods with profane names best left unspoken in polite company. Such Adherents take great measures to hide their true allegiance, secreting themselves into cults where sex Magick, sacred prostitution and ritual sacrifice are accepted forms of worship."
+    },
+    "notes": "",
+    "expert": {
+      "value": false,
+      "requirements": {
+        "skillRanks": [],
+        "additional": ""
+      }
+    },
+    "archetype": "Academic",
+    "bonusAdvances": [
+      {
+        "name": "[FB]",
+        "purchased": false
+      },
+      {
+        "name": "[FB]",
+        "purchased": false
+      },
+      {
+        "name": "[IB]",
+        "purchased": false
+      },
+      {
+        "name": "[IB]",
+        "purchased": false
+      },
+      {
+        "name": "[PB]",
+        "purchased": false
+      },
+      {
+        "name": "[WB]",
+        "purchased": false
+      },
+      {
+        "name": "[WB]",
+        "purchased": false
+      }
+    ],
+    "skillRanks": [
+      {
+        "name": "Charm",
+        "purchased": false
+      },
+      {
+        "name": "Education",
+        "purchased": false
+      },
+      {
+        "name": "Folklore",
+        "purchased": false
+      },
+      {
+        "name": "Handle Animal",
+        "purchased": false
+      },
+      {
+        "name": "Heal",
+        "purchased": false
+      },
+      {
+        "name": "Incantation",
+        "purchased": false
+      },
+      {
+        "name": "Resolve",
+        "purchased": false
+      },
+      {
+        "name": "Rumor",
+        "purchased": false
+      },
+      {
+        "name": "Scrutinize",
+        "purchased": false
+      },
+      {
+        "name": "Simple Melee",
+        "purchased": false
+      }
+    ],
+    "talents": [
+      {
+        "linkedId": "WsD0GRMRKX8Ov0mT",
+        "name": "Impervious Mind",
+        "uuid": "Compendium.zweihander.zh-talents.Item.WsD0GRMRKX8Ov0mT"
+      },
+      {
+        "linkedId": "cIaEhW4y3xK76XWt",
+        "name": "Indifference",
+        "uuid": "Compendium.zweihander.zh-talents.Item.cIaEhW4y3xK76XWt"
+      },
+      {
+        "linkedId": "5TzEbf1VOmPfpolL",
+        "name": "Multilingual",
+        "uuid": "Compendium.zweihander.zh-talents.Item.5TzEbf1VOmPfpolL"
+      }
+    ],
+    "professionalTrait": {
+      "name": "Turn the Other Cheek",
+      "uuid": "Compendium.zweihander.zh-traits.Item.pKuppJI3koKvWIIb",
+      "linkedId": null
+    },
+    "specialTrait": {
+      "name": "Divine Magick",
+      "uuid": "Compendium.zweihander.zh-traits.Item.7hbSL3txePqSbctr",
+      "linkedId": null
+    },
+    "drawback": {
+      "name": "Lure of Power",
+      "uuid": "Compendium.zweihander.zh-drawbacks.Item.AG7fCX4RXKvOoajE",
+      "linkedId": null
+    },
+    "tier": ""
+  },
+  "folder": null,
+  "sort": 12000000,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {},
+  "_key": "!items!dPmhU1YMHkXMG2Wu"
+}

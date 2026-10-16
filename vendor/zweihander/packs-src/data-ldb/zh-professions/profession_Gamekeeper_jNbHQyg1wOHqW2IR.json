@@ -1,0 +1,144 @@
+{
+  "_id": "jNbHQyg1wOHqW2IR",
+  "effects": [],
+  "img": "systems/zweihander/assets/icons/gamekeeper.svg",
+  "name": "Gamekeeper",
+  "type": "profession",
+  "_stats": {
+    "coreVersion": "13.342",
+    "systemId": "zweihander",
+    "systemVersion": "5.4.1",
+    "createdTime": null,
+    "modifiedTime": 1734990834139,
+    "lastModifiedBy": "rivg6xcMxdlVDM8y",
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "system": {
+    "description": {
+      "@en": "Children’s bedtime stories always abound with the mysterious folk of the wild, those that have heard the call of the wild, given up their civilized lives and gone to dwell with animals. As wilderness survivalists, they eat, sleep and bathe with animals, and rumor has it, even mate. Gamekeepers are loners, but in tune with the natural world like no other. Often living by themselves in a natural cave or run-down shack, they spend their days tending to their beloved creatures. Many are simply folk who want to live one with nature and who have no taste for civilization, but some Gamekeepers are employed to protect royal woods and maintain the sanctity of holy mountains.\nLoners they may be, Gamekeepers will turn their bows upon those that not only threaten their own woodlands, but the wilderness and the world in general. Though the Gamekeeper treats their animals like family, it should still be stressed that the animals are still wild. Animals seem to be more easily swayed by Corruption, perhaps because of their low intellect, and there is no darker day for a Gamekeeper when a trusted wolf or a favored bear turns on its master."
+    },
+    "notes": "",
+    "expert": {
+      "value": false,
+      "requirements": {
+        "skillRanks": [],
+        "additional": ""
+      }
+    },
+    "archetype": "Ranger",
+    "bonusAdvances": [
+      {
+        "name": "[AB]",
+        "purchased": false
+      },
+      {
+        "name": "[AB]",
+        "purchased": false
+      },
+      {
+        "name": "[BB]",
+        "purchased": false
+      },
+      {
+        "name": "[BB]",
+        "purchased": false
+      },
+      {
+        "name": "[FB]",
+        "purchased": false
+      },
+      {
+        "name": "[IB]",
+        "purchased": false
+      },
+      {
+        "name": "[PB]",
+        "purchased": false
+      }
+    ],
+    "skillRanks": [
+      {
+        "name": "Athletics",
+        "purchased": false
+      },
+      {
+        "name": "Awareness",
+        "purchased": false
+      },
+      {
+        "name": "Folklore",
+        "purchased": false
+      },
+      {
+        "name": "Handle Animal",
+        "purchased": false
+      },
+      {
+        "name": "Navigation",
+        "purchased": false
+      },
+      {
+        "name": "Ride",
+        "purchased": false
+      },
+      {
+        "name": "Simple Melee",
+        "purchased": false
+      },
+      {
+        "name": "Simple Ranged",
+        "purchased": false
+      },
+      {
+        "name": "Stealth",
+        "purchased": false
+      },
+      {
+        "name": "Survival",
+        "purchased": false
+      }
+    ],
+    "talents": [
+      {
+        "linkedId": "tLtCUfaidoxc4bAr",
+        "name": "Azimuth",
+        "uuid": "Compendium.zweihander.zh-talents.Item.tLtCUfaidoxc4bAr"
+      },
+      {
+        "linkedId": "Iiu9G1OsUFo0Tiw6",
+        "name": "Instincts",
+        "uuid": "Compendium.zweihander.zh-talents.Item.Iiu9G1OsUFo0Tiw6"
+      },
+      {
+        "linkedId": "m6uevku7yk6Qbyq2",
+        "name": "Rural Sensibility",
+        "uuid": "Compendium.zweihander.zh-talents.Item.m6uevku7yk6Qbyq2"
+      }
+    ],
+    "professionalTrait": {
+      "name": "Warden of the Wild",
+      "uuid": "Compendium.zweihander.zh-traits.Item.o51TRjB9qFANUaH6",
+      "linkedId": null
+    },
+    "specialTrait": {
+      "name": "",
+      "uuid": "",
+      "linkedId": null
+    },
+    "drawback": {
+      "name": "",
+      "uuid": "",
+      "linkedId": null
+    },
+    "tier": ""
+  },
+  "folder": null,
+  "sort": 13400000,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {},
+  "_key": "!items!jNbHQyg1wOHqW2IR"
+}

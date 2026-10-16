@@ -1,0 +1,37 @@
+{
+  "_id": "K5swN6oIGe5rj1FI",
+  "effects": [],
+  "img": "systems/zweihander/assets/icons/kneeling.svg",
+  "name": "Absolve Sin",
+  "type": "trait",
+  "_stats": {
+    "coreVersion": "13.342",
+    "systemId": "zweihander",
+    "systemVersion": "5.4.1",
+    "createdTime": null,
+    "modifiedTime": 1735911103053,
+    "lastModifiedBy": "rivg6xcMxdlVDM8y",
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "system": {
+    "description": {
+      "@en": "Although you do not command divine Magicks, you are charged with a sacred duty: to absolve others of their sinful through penance and acts of contrition."
+    },
+    "notes": "",
+    "rules": {
+      "effect": {
+        "@en": "You can spend a Fortune Point to immediately remove a curse or dispel harmful Magickal effects that ail another. In addition, you can spend a Fate Point to immediately reduce another Character’s Chaos Ranks equal to your [WB]. You must be able to touch the person in order for them to be absolved."
+      }
+    },
+    "category": "professional"
+  },
+  "folder": null,
+  "sort": 6400000,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {},
+  "_key": "!items!K5swN6oIGe5rj1FI"
+}

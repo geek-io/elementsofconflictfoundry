@@ -1,0 +1,679 @@
+{
+  "_id": "Kx8cEtTChkcHxSu8",
+  "displayRoll": true,
+  "formula": "1d100",
+  "img": "icons/svg/d20-grey.svg",
+  "name": "G&P Characters: Dooming of Autumn",
+  "replacement": true,
+  "results": [
+    {
+      "_id": "3V2LcgR39r2ZDVnu",
+      "drawn": false,
+      "flags": {},
+      "img": "icons/svg/d20-black.svg",
+      "range": [
+        1,
+        4
+      ],
+      "type": "text",
+      "weight": 1,
+      "_stats": {
+        "coreVersion": "13.342",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "The murder of another will herald thy death",
+      "name": "",
+      "_key": "!tables.results!Kx8cEtTChkcHxSu8.3V2LcgR39r2ZDVnu"
+    },
+    {
+      "_id": "VrBwSocstYbYjuIU",
+      "drawn": false,
+      "flags": {},
+      "img": "icons/svg/d20-black.svg",
+      "range": [
+        5,
+        8
+      ],
+      "type": "text",
+      "weight": 1,
+      "_stats": {
+        "coreVersion": "13.342",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Thy skin shall darken as if soaked in ink",
+      "name": "",
+      "_key": "!tables.results!Kx8cEtTChkcHxSu8.VrBwSocstYbYjuIU"
+    },
+    {
+      "_id": "4cGi1VD5RiQyNUaR",
+      "drawn": false,
+      "flags": {},
+      "img": "icons/svg/d20-black.svg",
+      "range": [
+        9,
+        12
+      ],
+      "type": "text",
+      "weight": 1,
+      "_stats": {
+        "coreVersion": "13.342",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Do not cross a freshly-dug tomb",
+      "name": "",
+      "_key": "!tables.results!Kx8cEtTChkcHxSu8.4cGi1VD5RiQyNUaR"
+    },
+    {
+      "_id": "yotXSdtctkV2cEE4",
+      "drawn": false,
+      "flags": {},
+      "img": "icons/svg/d20-black.svg",
+      "range": [
+        13,
+        16
+      ],
+      "type": "text",
+      "weight": 1,
+      "_stats": {
+        "coreVersion": "13.342",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "You shall see thy death twice",
+      "name": "",
+      "_key": "!tables.results!Kx8cEtTChkcHxSu8.yotXSdtctkV2cEE4"
+    },
+    {
+      "_id": "lsM3gwisogn5iOaI",
+      "drawn": false,
+      "flags": {},
+      "img": "icons/svg/d20-black.svg",
+      "range": [
+        17,
+        20
+      ],
+      "type": "text",
+      "weight": 1,
+      "_stats": {
+        "coreVersion": "13.342",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Up from the canyon, soars the raven",
+      "name": "",
+      "_key": "!tables.results!Kx8cEtTChkcHxSu8.lsM3gwisogn5iOaI"
+    },
+    {
+      "_id": "TJm3w6a1ZsWq8lan",
+      "drawn": false,
+      "flags": {},
+      "img": "icons/svg/d20-black.svg",
+      "range": [
+        21,
+        24
+      ],
+      "type": "text",
+      "weight": 1,
+      "_stats": {
+        "coreVersion": "13.342",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Sorrow will fill thy heart at death",
+      "name": "",
+      "_key": "!tables.results!Kx8cEtTChkcHxSu8.TJm3w6a1ZsWq8lan"
+    },
+    {
+      "_id": "hfcn2ShSlOkmi1Nn",
+      "drawn": false,
+      "flags": {},
+      "img": "icons/svg/d20-black.svg",
+      "range": [
+        25,
+        28
+      ],
+      "type": "text",
+      "weight": 1,
+      "_stats": {
+        "coreVersion": "13.342",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Thou shalt not see the end",
+      "name": "",
+      "_key": "!tables.results!Kx8cEtTChkcHxSu8.hfcn2ShSlOkmi1Nn"
+    },
+    {
+      "_id": "sSgTdyj7X67kPLJK",
+      "drawn": false,
+      "flags": {},
+      "img": "icons/svg/d20-black.svg",
+      "range": [
+        29,
+        32
+      ],
+      "type": "text",
+      "weight": 1,
+      "_stats": {
+        "coreVersion": "13.342",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "One step forward, two back",
+      "name": "",
+      "_key": "!tables.results!Kx8cEtTChkcHxSu8.sSgTdyj7X67kPLJK"
+    },
+    {
+      "_id": "bxYZbrZnZ7JhYoK2",
+      "drawn": false,
+      "flags": {},
+      "img": "icons/svg/d20-black.svg",
+      "range": [
+        33,
+        36
+      ],
+      "type": "text",
+      "weight": 1,
+      "_stats": {
+        "coreVersion": "13.342",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "The jackdaw is a false omen",
+      "name": "",
+      "_key": "!tables.results!Kx8cEtTChkcHxSu8.bxYZbrZnZ7JhYoK2"
+    },
+    {
+      "_id": "QRk9gdsdZLu8vP60",
+      "drawn": false,
+      "flags": {},
+      "img": "icons/svg/d20-black.svg",
+      "range": [
+        37,
+        40
+      ],
+      "type": "text",
+      "weight": 1,
+      "_stats": {
+        "coreVersion": "13.342",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "A visage shall haunt thee to thy grave",
+      "name": "",
+      "_key": "!tables.results!Kx8cEtTChkcHxSu8.QRk9gdsdZLu8vP60"
+    },
+    {
+      "_id": "O38H62Fic5ii4Ung",
+      "drawn": false,
+      "flags": {},
+      "img": "icons/svg/d20-black.svg",
+      "range": [
+        41,
+        44
+      ],
+      "type": "text",
+      "weight": 1,
+      "_stats": {
+        "coreVersion": "13.342",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "The Eye shall gaze upon thee with scorn",
+      "name": "",
+      "_key": "!tables.results!Kx8cEtTChkcHxSu8.O38H62Fic5ii4Ung"
+    },
+    {
+      "_id": "KY2xmLtlsjuNxcNp",
+      "drawn": false,
+      "flags": {},
+      "img": "icons/svg/d20-black.svg",
+      "range": [
+        45,
+        48
+      ],
+      "type": "text",
+      "weight": 1,
+      "_stats": {
+        "coreVersion": "13.342",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Thou shalt die in a pool of blood, but not thine own",
+      "name": "",
+      "_key": "!tables.results!Kx8cEtTChkcHxSu8.KY2xmLtlsjuNxcNp"
+    },
+    {
+      "_id": "AAWedokebNPUVHUq",
+      "drawn": false,
+      "flags": {},
+      "img": "icons/svg/d20-black.svg",
+      "range": [
+        49,
+        52
+      ],
+      "type": "text",
+      "weight": 1,
+      "_stats": {
+        "coreVersion": "13.342",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Thy end shall not be clean",
+      "name": "",
+      "_key": "!tables.results!Kx8cEtTChkcHxSu8.AAWedokebNPUVHUq"
+    },
+    {
+      "_id": "DryW56DuomJSYcHV",
+      "drawn": false,
+      "flags": {},
+      "img": "icons/svg/d20-black.svg",
+      "range": [
+        53,
+        56
+      ],
+      "type": "text",
+      "weight": 1,
+      "_stats": {
+        "coreVersion": "13.342",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Sickness shall be thy downfall",
+      "name": "",
+      "_key": "!tables.results!Kx8cEtTChkcHxSu8.DryW56DuomJSYcHV"
+    },
+    {
+      "_id": "NWjj9BT4q4pCewMt",
+      "drawn": false,
+      "flags": {},
+      "img": "icons/svg/d20-black.svg",
+      "range": [
+        57,
+        60
+      ],
+      "type": "text",
+      "weight": 1,
+      "_stats": {
+        "coreVersion": "13.342",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "The stench of the grave haunts thee",
+      "name": "",
+      "_key": "!tables.results!Kx8cEtTChkcHxSu8.NWjj9BT4q4pCewMt"
+    },
+    {
+      "_id": "Xjp0Ikj0SgtAEF9p",
+      "drawn": false,
+      "flags": {},
+      "img": "icons/svg/d20-black.svg",
+      "range": [
+        61,
+        64
+      ],
+      "type": "text",
+      "weight": 1,
+      "_stats": {
+        "coreVersion": "13.342",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "New beginnings herald sudden ends",
+      "name": "",
+      "_key": "!tables.results!Kx8cEtTChkcHxSu8.Xjp0Ikj0SgtAEF9p"
+    },
+    {
+      "_id": "gy5DmHv4RrUVPEOW",
+      "drawn": false,
+      "flags": {},
+      "img": "icons/svg/d20-black.svg",
+      "range": [
+        65,
+        68
+      ],
+      "type": "text",
+      "weight": 1,
+      "_stats": {
+        "coreVersion": "13.342",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "The Abyss also gazes back",
+      "name": "",
+      "_key": "!tables.results!Kx8cEtTChkcHxSu8.gy5DmHv4RrUVPEOW"
+    },
+    {
+      "_id": "cUFjAvmN4y5isOIL",
+      "drawn": false,
+      "flags": {},
+      "img": "icons/svg/d20-black.svg",
+      "range": [
+        69,
+        72
+      ],
+      "type": "text",
+      "weight": 1,
+      "_stats": {
+        "coreVersion": "13.342",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "The shadows stalk hungrily",
+      "name": "",
+      "_key": "!tables.results!Kx8cEtTChkcHxSu8.cUFjAvmN4y5isOIL"
+    },
+    {
+      "_id": "VTV9LvlSZ205CjFW",
+      "drawn": false,
+      "flags": {},
+      "img": "icons/svg/d20-black.svg",
+      "range": [
+        73,
+        76
+      ],
+      "type": "text",
+      "weight": 1,
+      "_stats": {
+        "coreVersion": "13.342",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Three flies bring thy doom",
+      "name": "",
+      "_key": "!tables.results!Kx8cEtTChkcHxSu8.VTV9LvlSZ205CjFW"
+    },
+    {
+      "_id": "AvcMP4qLqMHbY2jH",
+      "drawn": false,
+      "flags": {},
+      "img": "icons/svg/d20-black.svg",
+      "range": [
+        77,
+        80
+      ],
+      "type": "text",
+      "weight": 1,
+      "_stats": {
+        "coreVersion": "13.342",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Beware the black stallion",
+      "name": "",
+      "_key": "!tables.results!Kx8cEtTChkcHxSu8.AvcMP4qLqMHbY2jH"
+    },
+    {
+      "_id": "LlSPBmflktyFPuZR",
+      "drawn": false,
+      "flags": {},
+      "img": "icons/svg/d20-black.svg",
+      "range": [
+        81,
+        84
+      ],
+      "type": "text",
+      "weight": 1,
+      "_stats": {
+        "coreVersion": "13.342",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Do not fold, always stand",
+      "name": "",
+      "_key": "!tables.results!Kx8cEtTChkcHxSu8.LlSPBmflktyFPuZR"
+    },
+    {
+      "_id": "d3IrlGDlP9MlmOpX",
+      "drawn": false,
+      "flags": {},
+      "img": "icons/svg/d20-black.svg",
+      "range": [
+        85,
+        88
+      ],
+      "type": "text",
+      "weight": 1,
+      "_stats": {
+        "coreVersion": "13.342",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Confusion will kill more than thee",
+      "name": "",
+      "_key": "!tables.results!Kx8cEtTChkcHxSu8.d3IrlGDlP9MlmOpX"
+    },
+    {
+      "_id": "AHpjrEtClCPAsztA",
+      "drawn": false,
+      "flags": {},
+      "img": "icons/svg/d20-black.svg",
+      "range": [
+        89,
+        92
+      ],
+      "type": "text",
+      "weight": 1,
+      "_stats": {
+        "coreVersion": "13.342",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Be fooled not by appearances",
+      "name": "",
+      "_key": "!tables.results!Kx8cEtTChkcHxSu8.AHpjrEtClCPAsztA"
+    },
+    {
+      "_id": "twXNxo7y3Wa8zWad",
+      "drawn": false,
+      "flags": {},
+      "img": "icons/svg/d20-black.svg",
+      "range": [
+        93,
+        96
+      ],
+      "type": "text",
+      "weight": 1,
+      "_stats": {
+        "coreVersion": "13.342",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Avoid the exotic, when thou canst",
+      "name": "",
+      "_key": "!tables.results!Kx8cEtTChkcHxSu8.twXNxo7y3Wa8zWad"
+    },
+    {
+      "_id": "oSVQ6H6RBdGrGHDm",
+      "drawn": false,
+      "flags": {},
+      "img": "icons/svg/d20-black.svg",
+      "range": [
+        97,
+        100
+      ],
+      "type": "text",
+      "weight": 1,
+      "_stats": {
+        "coreVersion": "13.342",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Push not for more, as thou shalt receive it",
+      "name": "",
+      "_key": "!tables.results!Kx8cEtTChkcHxSu8.oSVQ6H6RBdGrGHDm"
+    }
+  ],
+  "_stats": {
+    "coreVersion": "13.342",
+    "systemId": null,
+    "systemVersion": null,
+    "createdTime": null,
+    "modifiedTime": null,
+    "lastModifiedBy": null,
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "description": "",
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {},
+  "_key": "!tables!Kx8cEtTChkcHxSu8"
+}

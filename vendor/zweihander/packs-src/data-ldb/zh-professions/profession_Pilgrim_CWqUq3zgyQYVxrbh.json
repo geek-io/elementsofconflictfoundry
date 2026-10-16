@@ -1,0 +1,144 @@
+{
+  "_id": "CWqUq3zgyQYVxrbh",
+  "effects": [],
+  "img": "systems/zweihander/assets/icons/pilgrim.svg",
+  "name": "Pilgrim",
+  "type": "profession",
+  "_stats": {
+    "coreVersion": "13.342",
+    "systemId": "zweihander",
+    "systemVersion": "5.4.1",
+    "createdTime": null,
+    "modifiedTime": 1734990834091,
+    "lastModifiedBy": "rivg6xcMxdlVDM8y",
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "system": {
+    "description": {
+      "@en": "Pilgrims devote themselves to their faiths entirely. They are religious wanderers, moving from village to village, preaching the gospel and visiting holy shrines. Whether in the deepest reaches of old ruins or great city temples, the Pilgrim actively seeks out miracles, relics and saints they can hold dear in their soul. Although often denounced as fanatics, they know within their heart of hearts that they are the closest of all mankind to the gods. This cannot be disputed, for despite not having taken holy vows and principles, they seem resistant to the dark pull of Abyssal promises of power.\nIf a Pilgrim needs more than their faith for protection, they take up their walking stick as a cudgel or fall in with a band of adventurers. Their calling’s need for them to be self-sufficient means they have skills useful in the wilderness, in healing and in social situations, so they are often welcome traveling companions. While the Pilgrim is a bulwark of his faith, chaos loves picking at their insecurities. Any flinching away from the Pilgrim’s divine certainty is like finding a chink in the armor for Corruption. Chaos thus feeds on a Pilgrim’s self-doubt, replacing their once beloved gods with new gods of blood, decay and perversion. A Pilgrim never loses their love for their old gods, but it lessens as their devotion to a sicker, more Abyssal lord festers."
+    },
+    "notes": "",
+    "expert": {
+      "value": false,
+      "requirements": {
+        "skillRanks": [],
+        "additional": ""
+      }
+    },
+    "archetype": "Ranger",
+    "bonusAdvances": [
+      {
+        "name": "[AB]",
+        "purchased": false
+      },
+      {
+        "name": "[FB]",
+        "purchased": false
+      },
+      {
+        "name": "[FB]",
+        "purchased": false
+      },
+      {
+        "name": "[IB]",
+        "purchased": false
+      },
+      {
+        "name": "[IB]",
+        "purchased": false
+      },
+      {
+        "name": "[PB]",
+        "purchased": false
+      },
+      {
+        "name": "[WB]",
+        "purchased": false
+      }
+    ],
+    "skillRanks": [
+      {
+        "name": "Folklore",
+        "purchased": false
+      },
+      {
+        "name": "Handle Animal",
+        "purchased": false
+      },
+      {
+        "name": "Heal",
+        "purchased": false
+      },
+      {
+        "name": "Navigation",
+        "purchased": false
+      },
+      {
+        "name": "Resolve",
+        "purchased": false
+      },
+      {
+        "name": "Rumor",
+        "purchased": false
+      },
+      {
+        "name": "Ride",
+        "purchased": false
+      },
+      {
+        "name": "Simple Melee",
+        "purchased": false
+      },
+      {
+        "name": "Survival",
+        "purchased": false
+      },
+      {
+        "name": "Toughness",
+        "purchased": false
+      }
+    ],
+    "talents": [
+      {
+        "linkedId": "WsD0GRMRKX8Ov0mT",
+        "name": "Impervious Mind",
+        "uuid": "Compendium.zweihander.zh-talents.Item.WsD0GRMRKX8Ov0mT"
+      },
+      {
+        "linkedId": "ZMjwQhEkPA9eaMYA",
+        "name": "Long-winded",
+        "uuid": "Compendium.zweihander.zh-talents.Item.ZMjwQhEkPA9eaMYA"
+      },
+      {
+        "linkedId": "bKpzxZZUiQVE0l1j",
+        "name": "Sprint",
+        "uuid": "Compendium.zweihander.zh-talents.Item.bKpzxZZUiQVE0l1j"
+      }
+    ],
+    "professionalTrait": {
+      "name": "Road to Enlightenment",
+      "uuid": "Compendium.zweihander.zh-traits.Item.j7HfkI8eErS6F6vo",
+      "linkedId": null
+    },
+    "specialTrait": {
+      "name": "",
+      "uuid": "",
+      "linkedId": null
+    },
+    "drawback": {
+      "name": "",
+      "uuid": "",
+      "linkedId": null
+    },
+    "tier": ""
+  },
+  "folder": null,
+  "sort": 4200000,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {},
+  "_key": "!items!CWqUq3zgyQYVxrbh"
+}

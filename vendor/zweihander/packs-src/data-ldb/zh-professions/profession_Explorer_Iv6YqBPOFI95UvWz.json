@@ -1,0 +1,153 @@
+{
+  "_id": "Iv6YqBPOFI95UvWz",
+  "effects": [],
+  "img": "systems/zweihander/assets/icons/explorer.svg",
+  "name": "Explorer",
+  "type": "profession",
+  "_stats": {
+    "coreVersion": "13.342",
+    "systemId": "zweihander",
+    "systemVersion": "5.4.1",
+    "createdTime": null,
+    "modifiedTime": 1735047919941,
+    "lastModifiedBy": "rivg6xcMxdlVDM8y",
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "system": {
+    "description": {
+      "@en": "Where the Antiquarian journeys far and wide in search of artifacts and history, the Explorer sets boldly forth to make a name for themselves and their country. Bearing a trademark “explorer’s hat”, they are often independently wealthy scholars, diplomats or traders that have been given royal writ to discover new lands, seek out new trade routes and found distant colonies. Great navigators and leaders, Explorers have the charisma to mount grand expeditions, to rally failing morale enough to drive men to explore just a little further and to mollify suspicious natives or the distrusting rulers of far nations with an extended olive branch – metaphorical and literal. No matter the identity of their sponsor, Explorers are really only doing it for the fame and glory – and if a modicum cultural vandalism or the death of a tribe results from their meddling, they care little as long as they are in a history book and their discovery on a map.\nThe egotistical Explorer is always ready to lead an expedition that could result in the discovery of a new civilization, a lost city or the fabled fountain of youth. Though they brave great dangers, their luck is invariably with them – if not with those under their command – and whatever sticky situation they find themselves in, a wisecrack, a crack of the whip or just plain luck are enough to get them out of it. They can be quite erratic and dogmatic however, seeing their possessions and discoveries as god given rights, their superiority as divine and savages as backwards and in need of education. Explorers presage the coming of imperialism, using rapine to take from collapsing nations and underdeveloped countries to bolster not only their patron’s prestige, but their own as well."
+    },
+    "notes": "",
+    "expert": {
+      "value": true,
+      "requirements": {
+        "skillRanks": [
+          {
+            "key": "education",
+            "value": 1
+          },
+          {
+            "key": "navigation",
+            "value": 1
+          }
+        ],
+        "additional": "<p>-</p>"
+      }
+    },
+    "archetype": "Expert Profession",
+    "bonusAdvances": [
+      {
+        "name": "[AB]",
+        "purchased": false
+      },
+      {
+        "name": "[FB]",
+        "purchased": false
+      },
+      {
+        "name": "[FB]",
+        "purchased": false
+      },
+      {
+        "name": "[IB]",
+        "purchased": false
+      },
+      {
+        "name": "[PB]",
+        "purchased": false
+      },
+      {
+        "name": "[WB]",
+        "purchased": false
+      },
+      {
+        "name": "[WB]",
+        "purchased": false
+      }
+    ],
+    "skillRanks": [
+      {
+        "name": "Awareness",
+        "purchased": false
+      },
+      {
+        "name": "Coordination",
+        "purchased": false
+      },
+      {
+        "name": "Education",
+        "purchased": false
+      },
+      {
+        "name": "Folklore",
+        "purchased": false
+      },
+      {
+        "name": "Leadership",
+        "purchased": false
+      },
+      {
+        "name": "Navigation",
+        "purchased": false
+      },
+      {
+        "name": "Resolve",
+        "purchased": false
+      },
+      {
+        "name": "Rumor",
+        "purchased": false
+      },
+      {
+        "name": "Simple Melee",
+        "purchased": false
+      },
+      {
+        "name": "Survival",
+        "purchased": false
+      }
+    ],
+    "talents": [
+      {
+        "linkedId": "tLtCUfaidoxc4bAr",
+        "name": "Azimuth",
+        "uuid": "Compendium.zweihander.zh-talents.Item.tLtCUfaidoxc4bAr"
+      },
+      {
+        "linkedId": "scPvPU5Hxn57st6O",
+        "name": "Strangler’s Union",
+        "uuid": "Compendium.zweihander.zh-talents.Item.scPvPU5Hxn57st6O"
+      },
+      {
+        "linkedId": "pIAw2DKMeOlG7EyT",
+        "name": "Worldly",
+        "uuid": "Compendium.zweihander.zh-talents.Item.pIAw2DKMeOlG7EyT"
+      }
+    ],
+    "professionalTrait": {
+      "name": "Pulp Hero",
+      "uuid": "Compendium.zweihander.zh-traits.Item.ZMu37LXmeEYYhCvA",
+      "linkedId": null
+    },
+    "specialTrait": {
+      "name": "",
+      "uuid": "",
+      "linkedId": null
+    },
+    "drawback": {
+      "name": "Fortune & Glory",
+      "uuid": "Compendium.zweihander.zh-drawbacks.Item.kZv2auOOsRzxci2B",
+      "linkedId": null
+    },
+    "tier": ""
+  },
+  "folder": null,
+  "sort": 6500000,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {},
+  "_key": "!items!Iv6YqBPOFI95UvWz"
+}

@@ -1,0 +1,60 @@
+{
+  "_id": "xUODuSxcSSrAtGda",
+  "effects": [],
+  "img": "systems/zweihander/assets/icons/eyeball.svg",
+  "name": "Eye for an Eye",
+  "type": "spell",
+  "_stats": {
+    "coreVersion": "13.342",
+    "systemId": "zweihander",
+    "systemVersion": "5.4.1",
+    "createdTime": null,
+    "modifiedTime": 1745410666730,
+    "lastModifiedBy": "rivg6xcMxdlVDM8y",
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "system": {
+    "description": {
+      "@en": "The balance between chaos and order will be preserved. Justice for all."
+    },
+    "notes": "",
+    "rules": {
+      "effect": {
+        "@en": "After successfully casting this spell, the forces of order ensure that any chaotic act committed upon you is returned in kind to the transgressor of such acts. This means that if someone stole your coin purse, they’d immediately lose their purse in return. The same will happen if someone intentionally causes you to suffer Damage or Peril, they immediately suffer the same Damage or Peril in kind. It also means that if you were the target of a Perilous Stunt, the offender would immediately suffer the same in kind. This Magick lasts until it has been triggered."
+      },
+      "criticalSuccess": {
+        "@en": "As above, but the affected is affected threefold. This means that if you suffered 4 Damage, they suffer 12 in kind. Or, if they stole your purse, they lose their purse and valuables of equal value in kind. It also means that if you had been the target of one Perilous Stunt, they are immediately made the target of three Perilous Stunts in kind."
+      },
+      "criticalFailure": {
+        "@en": "By some mistake, you have disrupted the cosmic balance between order and chaos. The scales of justice do not weigh in your favor. Sometime in the next 48 hours, you will suffer retribution for the actions you took, not once, but three-fold!"
+      },
+      "reagents": {
+        "@en": "A pair of weights from a scale, held in each pocket"
+      }
+    },
+    "tradition": "Divine (Learner)",
+    "principle": "Lesser",
+    "distance": "Yourself",
+    "duration": {
+      "value": "special",
+      "label": "Instantaneous",
+      "formula": {
+        "override": false
+      },
+      "base": "[WB]",
+      "bonus": 0,
+      "unit": "Special"
+    },
+    "castingTime": "1 min",
+    "castingCost": 0
+  },
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {},
+  "_key": "!items!xUODuSxcSSrAtGda"
+}

@@ -1,0 +1,679 @@
+{
+  "_id": "4FvPift75YrC23am",
+  "displayRoll": true,
+  "formula": "1d100",
+  "img": "icons/svg/d20-grey.svg",
+  "name": "G&P Characters: Dooming of Winter",
+  "replacement": true,
+  "results": [
+    {
+      "_id": "3V2LcgR39r2ZDVnu",
+      "drawn": false,
+      "flags": {},
+      "img": "icons/svg/d20-black.svg",
+      "range": [
+        1,
+        4
+      ],
+      "type": "text",
+      "weight": 1,
+      "_stats": {
+        "coreVersion": "13.342",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Beware the toothless hound",
+      "name": "",
+      "_key": "!tables.results!4FvPift75YrC23am.3V2LcgR39r2ZDVnu"
+    },
+    {
+      "_id": "VrBwSocstYbYjuIU",
+      "drawn": false,
+      "flags": {},
+      "img": "icons/svg/d20-black.svg",
+      "range": [
+        5,
+        8
+      ],
+      "type": "text",
+      "weight": 1,
+      "_stats": {
+        "coreVersion": "13.342",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Warm winters bring hard frost",
+      "name": "",
+      "_key": "!tables.results!4FvPift75YrC23am.VrBwSocstYbYjuIU"
+    },
+    {
+      "_id": "4cGi1VD5RiQyNUaR",
+      "drawn": false,
+      "flags": {},
+      "img": "icons/svg/d20-black.svg",
+      "range": [
+        9,
+        12
+      ],
+      "type": "text",
+      "weight": 1,
+      "_stats": {
+        "coreVersion": "13.342",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Trust not what thou canst not see",
+      "name": "",
+      "_key": "!tables.results!4FvPift75YrC23am.4cGi1VD5RiQyNUaR"
+    },
+    {
+      "_id": "yotXSdtctkV2cEE4",
+      "drawn": false,
+      "flags": {},
+      "img": "icons/svg/d20-black.svg",
+      "range": [
+        13,
+        16
+      ],
+      "type": "text",
+      "weight": 1,
+      "_stats": {
+        "coreVersion": "13.342",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Blood will be upon thy hands",
+      "name": "",
+      "_key": "!tables.results!4FvPift75YrC23am.yotXSdtctkV2cEE4"
+    },
+    {
+      "_id": "lsM3gwisogn5iOaI",
+      "drawn": false,
+      "flags": {},
+      "img": "icons/svg/d20-black.svg",
+      "range": [
+        17,
+        20
+      ],
+      "type": "text",
+      "weight": 1,
+      "_stats": {
+        "coreVersion": "13.342",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "The oldest are the strongest",
+      "name": "",
+      "_key": "!tables.results!4FvPift75YrC23am.lsM3gwisogn5iOaI"
+    },
+    {
+      "_id": "TJm3w6a1ZsWq8lan",
+      "drawn": false,
+      "flags": {},
+      "img": "icons/svg/d20-black.svg",
+      "range": [
+        21,
+        24
+      ],
+      "type": "text",
+      "weight": 1,
+      "_stats": {
+        "coreVersion": "13.342",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Be wary of false friends",
+      "name": "",
+      "_key": "!tables.results!4FvPift75YrC23am.TJm3w6a1ZsWq8lan"
+    },
+    {
+      "_id": "hfcn2ShSlOkmi1Nn",
+      "drawn": false,
+      "flags": {},
+      "img": "icons/svg/d20-black.svg",
+      "range": [
+        25,
+        28
+      ],
+      "type": "text",
+      "weight": 1,
+      "_stats": {
+        "coreVersion": "13.342",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Numbers overwhelm might",
+      "name": "",
+      "_key": "!tables.results!4FvPift75YrC23am.hfcn2ShSlOkmi1Nn"
+    },
+    {
+      "_id": "sSgTdyj7X67kPLJK",
+      "drawn": false,
+      "flags": {},
+      "img": "icons/svg/d20-black.svg",
+      "range": [
+        29,
+        32
+      ],
+      "type": "text",
+      "weight": 1,
+      "_stats": {
+        "coreVersion": "13.342",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Thy killer will not know thy name",
+      "name": "",
+      "_key": "!tables.results!4FvPift75YrC23am.sSgTdyj7X67kPLJK"
+    },
+    {
+      "_id": "bxYZbrZnZ7JhYoK2",
+      "drawn": false,
+      "flags": {},
+      "img": "icons/svg/d20-black.svg",
+      "range": [
+        33,
+        36
+      ],
+      "type": "text",
+      "weight": 1,
+      "_stats": {
+        "coreVersion": "13.342",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "At times, to be found is worse than to be lost",
+      "name": "",
+      "_key": "!tables.results!4FvPift75YrC23am.bxYZbrZnZ7JhYoK2"
+    },
+    {
+      "_id": "QRk9gdsdZLu8vP60",
+      "drawn": false,
+      "flags": {},
+      "img": "icons/svg/d20-black.svg",
+      "range": [
+        37,
+        40
+      ],
+      "type": "text",
+      "weight": 1,
+      "_stats": {
+        "coreVersion": "13.342",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Tread not upon thick ice nor thin",
+      "name": "",
+      "_key": "!tables.results!4FvPift75YrC23am.QRk9gdsdZLu8vP60"
+    },
+    {
+      "_id": "O38H62Fic5ii4Ung",
+      "drawn": false,
+      "flags": {},
+      "img": "icons/svg/d20-black.svg",
+      "range": [
+        41,
+        44
+      ],
+      "type": "text",
+      "weight": 1,
+      "_stats": {
+        "coreVersion": "13.342",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Iron is weak, gold is strong",
+      "name": "",
+      "_key": "!tables.results!4FvPift75YrC23am.O38H62Fic5ii4Ung"
+    },
+    {
+      "_id": "KY2xmLtlsjuNxcNp",
+      "drawn": false,
+      "flags": {},
+      "img": "icons/svg/d20-black.svg",
+      "range": [
+        45,
+        48
+      ],
+      "type": "text",
+      "weight": 1,
+      "_stats": {
+        "coreVersion": "13.342",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Thy left eye will not see the truth",
+      "name": "",
+      "_key": "!tables.results!4FvPift75YrC23am.KY2xmLtlsjuNxcNp"
+    },
+    {
+      "_id": "AAWedokebNPUVHUq",
+      "drawn": false,
+      "flags": {},
+      "img": "icons/svg/d20-black.svg",
+      "range": [
+        49,
+        52
+      ],
+      "type": "text",
+      "weight": 1,
+      "_stats": {
+        "coreVersion": "13.342",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Revenge is upon thee",
+      "name": "",
+      "_key": "!tables.results!4FvPift75YrC23am.AAWedokebNPUVHUq"
+    },
+    {
+      "_id": "DryW56DuomJSYcHV",
+      "drawn": false,
+      "flags": {},
+      "img": "icons/svg/d20-black.svg",
+      "range": [
+        53,
+        56
+      ],
+      "type": "text",
+      "weight": 1,
+      "_stats": {
+        "coreVersion": "13.342",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Absolute power corrupts absolutely",
+      "name": "",
+      "_key": "!tables.results!4FvPift75YrC23am.DryW56DuomJSYcHV"
+    },
+    {
+      "_id": "NWjj9BT4q4pCewMt",
+      "drawn": false,
+      "flags": {},
+      "img": "icons/svg/d20-black.svg",
+      "range": [
+        57,
+        60
+      ],
+      "type": "text",
+      "weight": 1,
+      "_stats": {
+        "coreVersion": "13.342",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "To be immovable is not always a boon",
+      "name": "",
+      "_key": "!tables.results!4FvPift75YrC23am.NWjj9BT4q4pCewMt"
+    },
+    {
+      "_id": "Xjp0Ikj0SgtAEF9p",
+      "drawn": false,
+      "flags": {},
+      "img": "icons/svg/d20-black.svg",
+      "range": [
+        61,
+        64
+      ],
+      "type": "text",
+      "weight": 1,
+      "_stats": {
+        "coreVersion": "13.342",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Some things, man should not know",
+      "name": "",
+      "_key": "!tables.results!4FvPift75YrC23am.Xjp0Ikj0SgtAEF9p"
+    },
+    {
+      "_id": "gy5DmHv4RrUVPEOW",
+      "drawn": false,
+      "flags": {},
+      "img": "icons/svg/d20-black.svg",
+      "range": [
+        65,
+        68
+      ],
+      "type": "text",
+      "weight": 1,
+      "_stats": {
+        "coreVersion": "13.342",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Justice is blind, deaf and dumb",
+      "name": "",
+      "_key": "!tables.results!4FvPift75YrC23am.gy5DmHv4RrUVPEOW"
+    },
+    {
+      "_id": "cUFjAvmN4y5isOIL",
+      "drawn": false,
+      "flags": {},
+      "img": "icons/svg/d20-black.svg",
+      "range": [
+        69,
+        72
+      ],
+      "type": "text",
+      "weight": 1,
+      "_stats": {
+        "coreVersion": "13.342",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Six of one, half dozen of the other",
+      "name": "",
+      "_key": "!tables.results!4FvPift75YrC23am.cUFjAvmN4y5isOIL"
+    },
+    {
+      "_id": "VTV9LvlSZ205CjFW",
+      "drawn": false,
+      "flags": {},
+      "img": "icons/svg/d20-black.svg",
+      "range": [
+        73,
+        76
+      ],
+      "type": "text",
+      "weight": 1,
+      "_stats": {
+        "coreVersion": "13.342",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Fear change, as it changes thee",
+      "name": "",
+      "_key": "!tables.results!4FvPift75YrC23am.VTV9LvlSZ205CjFW"
+    },
+    {
+      "_id": "AvcMP4qLqMHbY2jH",
+      "drawn": false,
+      "flags": {},
+      "img": "icons/svg/d20-black.svg",
+      "range": [
+        77,
+        80
+      ],
+      "type": "text",
+      "weight": 1,
+      "_stats": {
+        "coreVersion": "13.342",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "The gavel will ring twice",
+      "name": "",
+      "_key": "!tables.results!4FvPift75YrC23am.AvcMP4qLqMHbY2jH"
+    },
+    {
+      "_id": "LlSPBmflktyFPuZR",
+      "drawn": false,
+      "flags": {},
+      "img": "icons/svg/d20-black.svg",
+      "range": [
+        81,
+        84
+      ],
+      "type": "text",
+      "weight": 1,
+      "_stats": {
+        "coreVersion": "13.342",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "The stars can lead thee astray",
+      "name": "",
+      "_key": "!tables.results!4FvPift75YrC23am.LlSPBmflktyFPuZR"
+    },
+    {
+      "_id": "d3IrlGDlP9MlmOpX",
+      "drawn": false,
+      "flags": {},
+      "img": "icons/svg/d20-black.svg",
+      "range": [
+        85,
+        88
+      ],
+      "type": "text",
+      "weight": 1,
+      "_stats": {
+        "coreVersion": "13.342",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "The depths are crushing, the shallows inviting",
+      "name": "",
+      "_key": "!tables.results!4FvPift75YrC23am.d3IrlGDlP9MlmOpX"
+    },
+    {
+      "_id": "AHpjrEtClCPAsztA",
+      "drawn": false,
+      "flags": {},
+      "img": "icons/svg/d20-black.svg",
+      "range": [
+        89,
+        92
+      ],
+      "type": "text",
+      "weight": 1,
+      "_stats": {
+        "coreVersion": "13.342",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "From the cold, something eyes thee with hunger",
+      "name": "",
+      "_key": "!tables.results!4FvPift75YrC23am.AHpjrEtClCPAsztA"
+    },
+    {
+      "_id": "twXNxo7y3Wa8zWad",
+      "drawn": false,
+      "flags": {},
+      "img": "icons/svg/d20-black.svg",
+      "range": [
+        93,
+        96
+      ],
+      "type": "text",
+      "weight": 1,
+      "_stats": {
+        "coreVersion": "13.342",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Thou, too, can be touched by the unknown",
+      "name": "",
+      "_key": "!tables.results!4FvPift75YrC23am.twXNxo7y3Wa8zWad"
+    },
+    {
+      "_id": "oSVQ6H6RBdGrGHDm",
+      "drawn": false,
+      "flags": {},
+      "img": "icons/svg/d20-black.svg",
+      "range": [
+        97,
+        100
+      ],
+      "type": "text",
+      "weight": 1,
+      "_stats": {
+        "coreVersion": "13.342",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Fly not too close to the stars",
+      "name": "",
+      "_key": "!tables.results!4FvPift75YrC23am.oSVQ6H6RBdGrGHDm"
+    }
+  ],
+  "_stats": {
+    "coreVersion": "13.342",
+    "systemId": null,
+    "systemVersion": null,
+    "createdTime": null,
+    "modifiedTime": null,
+    "lastModifiedBy": null,
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "description": "",
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {},
+  "_key": "!tables!4FvPift75YrC23am"
+}

@@ -1,0 +1,37 @@
+{
+  "_id": "ZiZPG1IXKq4HDmA7",
+  "effects": [],
+  "img": "systems/zweihander/assets/icons/brandy-bottle.svg",
+  "name": "Grog, Guts & Glory",
+  "type": "trait",
+  "_stats": {
+    "coreVersion": "13.342",
+    "systemId": "zweihander",
+    "systemVersion": "5.4.1",
+    "createdTime": null,
+    "modifiedTime": 1735911103075,
+    "lastModifiedBy": "rivg6xcMxdlVDM8y",
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "system": {
+    "description": {
+      "@en": "You satisfy the Endless Gullet’s hunger by savoring every last drop of booze, blood and befouled water."
+    },
+    "notes": "",
+    "rules": {
+      "effect": {
+        "@en": "Whenever you are Intoxicated, add +3 to all Damage you inflict. Furthermore, you can consume spoilt or uncooked meat and drink filthy water without getting sick or diseased."
+      }
+    },
+    "category": "professional"
+  },
+  "folder": null,
+  "sort": 11500000,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {},
+  "_key": "!items!ZiZPG1IXKq4HDmA7"
+}

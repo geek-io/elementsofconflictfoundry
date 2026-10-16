@@ -1,0 +1,149 @@
+{
+  "_id": "JcKgwECRhIulR2Zy",
+  "effects": [],
+  "img": "systems/zweihander/assets/icons/snatch.svg",
+  "name": "Kinslayer",
+  "type": "profession",
+  "_stats": {
+    "coreVersion": "13.342",
+    "systemId": "zweihander",
+    "systemVersion": "5.4.1",
+    "createdTime": null,
+    "modifiedTime": 1735052178537,
+    "lastModifiedBy": "rivg6xcMxdlVDM8y",
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "system": {
+    "description": {
+      "@en": "In some societies, there is a curious institution called weregild – an old word meaning ‘man price’. Every object and person has a price, and if something untoward happens to a person or property, the guilty party is required as a penance to pay the weregild to victims. However, not everyone is willing to make these reparations. Enter the Kinslayer, whose job it is to collect the weregild through use of force. If necessary, Kinslayers can be utterly ruthless in their execution of duty, for their mandate includes the broad authority to do basically anything in order to retrieve a weregild and hand it over to its rightful owners – even if it involves murder. Often, the reputation of a Kinslayer is enough that word of their being hired will persuade the guilty party to pay the weregild. Though many other civilizations have mostly abandoned the idea of weregild and their Kinslayer enforcers, Gnomes roundly embrace its ideals. They openly boast of the ‘heroic’ Vigilante-turned- Kinslayer, where Gnomish bastard-borne amalgams of Elves and Dwarves are less upset about someone in their extended family being murdered, and more upset about the production that murder halted. Being a Kinslayer requires tenacity, apathy, ruthlessness and a little jadedness, all of which Gnomes embody in spades. Since Gnomes despise even their own, it is no wonder that they hold Kinslayer justicars in such high regard.\\nMake no mistake: Kinslayers are killers, through and through. Many become entranced with this lifestyle, as there is great money to be made in being a professional killer – living off the reputation of being a professional killer. Such Kinslayers become more interested in the gaudy clothes, expensive carriages and fine food that their duties can buy rather than in carrying them out. The worst Kinslayers are those that steal weregild and keep it for themselves – some even steal property because they believe to be the rightful inheritor of the bounty. These Kinslayers are not officially supported, but their esteem and celebrity means many common folk have at least heard rumors of the worst of the Kinslayers. The Daemon Princes do so love the Kinslayer, as this greed and avarice is sure to bring other disenfranchised people to follow these decadent lifestyles and do the same: to throw the world further into chaos."
+    },
+    "notes": "",
+    "expert": {
+      "value": true,
+      "requirements": {
+        "skillRanks": [
+          {
+            "key": "resolve",
+            "value": 1
+          }
+        ],
+        "additional": "<p>-</p>"
+      }
+    },
+    "archetype": "Expert Profession",
+    "bonusAdvances": [
+      {
+        "name": "[AB]",
+        "purchased": false
+      },
+      {
+        "name": "[AB]",
+        "purchased": false
+      },
+      {
+        "name": "[BB]",
+        "purchased": false
+      },
+      {
+        "name": "[CB]",
+        "purchased": false
+      },
+      {
+        "name": "[CB]",
+        "purchased": false
+      },
+      {
+        "name": "[WB]",
+        "purchased": false
+      },
+      {
+        "name": "[WB]",
+        "purchased": false
+      }
+    ],
+    "skillRanks": [
+      {
+        "name": "Awareness",
+        "purchased": false
+      },
+      {
+        "name": "Intimidate",
+        "purchased": false
+      },
+      {
+        "name": "Martial Melee",
+        "purchased": false
+      },
+      {
+        "name": "Resolve",
+        "purchased": false
+      },
+      {
+        "name": "Ride",
+        "purchased": false
+      },
+      {
+        "name": "Rumor",
+        "purchased": false
+      },
+      {
+        "name": "Simple Melee",
+        "purchased": false
+      },
+      {
+        "name": "Simple Ranged",
+        "purchased": false
+      },
+      {
+        "name": "Stealth",
+        "purchased": false
+      },
+      {
+        "name": "Survival",
+        "purchased": false
+      }
+    ],
+    "talents": [
+      {
+        "linkedId": "i9qfMytftadGhnm3",
+        "name": "Appalling Mien",
+        "uuid": "Compendium.zweihander.zh-talents.Item.i9qfMytftadGhnm3"
+      },
+      {
+        "linkedId": "lDYbvmW0G7e9EiQY",
+        "name": "No Mercy",
+        "uuid": "Compendium.zweihander.zh-talents.Item.lDYbvmW0G7e9EiQY"
+      },
+      {
+        "linkedId": "m6uevku7yk6Qbyq2",
+        "name": "Rural Sensibility",
+        "uuid": "Compendium.zweihander.zh-talents.Item.m6uevku7yk6Qbyq2"
+      }
+    ],
+    "professionalTrait": {
+      "name": "Blood Oath",
+      "uuid": "Compendium.zweihander.zh-traits.Item.qjk1QBtsoeUoeFfk",
+      "linkedId": null
+    },
+    "specialTrait": {
+      "name": "",
+      "uuid": "",
+      "linkedId": null
+    },
+    "drawback": {
+      "name": "Dead Or Alive",
+      "uuid": "Compendium.zweihander.zh-drawbacks.Item.Wl1bTXy0u7ICmB99",
+      "linkedId": null
+    },
+    "tier": ""
+  },
+  "folder": null,
+  "sort": 6800000,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {},
+  "_key": "!items!JcKgwECRhIulR2Zy"
+}

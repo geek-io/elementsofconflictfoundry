@@ -1,0 +1,37 @@
+{
+  "_id": "J7YctuoNZ9Rn5kk6",
+  "effects": [],
+  "img": "systems/zweihander/assets/icons/mountains.svg",
+  "name": "Strength of the Mountain",
+  "type": "trait",
+  "_stats": {
+    "coreVersion": "13.342",
+    "systemId": "zweihander",
+    "systemVersion": "5.4.1",
+    "createdTime": null,
+    "modifiedTime": 1734974463040,
+    "lastModifiedBy": "rivg6xcMxdlVDM8y",
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "system": {
+    "description": {
+      "@en": "Dwarves can perform incredible feats of stamina. They claim that even the smallest runt of their clans can haul a hogshead of mead without breaking a sweat."
+    },
+    "notes": "",
+    "rules": {
+      "effect": {
+        "@en": "Any Skill Rank you acquire that relies on the Brawn Primary Attribute modifies your Base Chance by +15, instead of +10."
+      }
+    },
+    "category": "ancestral"
+  },
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {},
+  "_key": "!items!J7YctuoNZ9Rn5kk6"
+}

@@ -1,0 +1,353 @@
+{
+  "_id": "aKcCkuel1nkS2W8Q",
+  "displayRoll": true,
+  "formula": "1d12",
+  "img": "systems/zweihander/assets/icons/vitruvian-man.svg",
+  "name": "Ancestral Traits (Human)",
+  "replacement": true,
+  "results": [
+    {
+      "_id": "F8Zwmz18VLxgnhnb",
+      "drawn": false,
+      "flags": {},
+      "img": "systems/zweihander/assets/icons/hand-of-god.svg",
+      "range": [
+        1,
+        1
+      ],
+      "type": "document",
+      "weight": 1,
+      "_stats": {
+        "coreVersion": "13.342",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "name": "Blessing in Disguise",
+      "documentUuid": "Compendium.zweihander.zh-ancestral-traits.Item.UXYdKOgpzJAAzgat",
+      "description": "",
+      "_key": "!tables.results!aKcCkuel1nkS2W8Q.F8Zwmz18VLxgnhnb"
+    },
+    {
+      "_id": "fcGIXc5RlLEdCvlp",
+      "drawn": false,
+      "flags": {},
+      "img": "systems/zweihander/assets/icons/awareness.svg",
+      "range": [
+        2,
+        2
+      ],
+      "type": "document",
+      "weight": 1,
+      "_stats": {
+        "coreVersion": "13.342",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "name": "Danger Sense",
+      "documentUuid": "Compendium.zweihander.zh-ancestral-traits.Item.fRYct9oIiLkaOX3Q",
+      "description": "",
+      "_key": "!tables.results!aKcCkuel1nkS2W8Q.fcGIXc5RlLEdCvlp"
+    },
+    {
+      "_id": "sWHR0raIxd0pAHP0",
+      "drawn": false,
+      "flags": {},
+      "img": "systems/zweihander/assets/icons/deadly-strike.svg",
+      "range": [
+        3,
+        3
+      ],
+      "type": "document",
+      "weight": 1,
+      "_stats": {
+        "coreVersion": "13.342",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "name": "Dauntless",
+      "documentUuid": "Compendium.zweihander.zh-ancestral-traits.Item.Lmsn0p8iNWaT9vCc",
+      "description": "",
+      "_key": "!tables.results!aKcCkuel1nkS2W8Q.sWHR0raIxd0pAHP0"
+    },
+    {
+      "_id": "zkhbZB1P2DEMiyKC",
+      "drawn": false,
+      "flags": {},
+      "img": "systems/zweihander/assets/icons/brain-stem.svg",
+      "range": [
+        4,
+        4
+      ],
+      "type": "document",
+      "weight": 1,
+      "_stats": {
+        "coreVersion": "13.342",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "name": "Esoteric Memory",
+      "documentUuid": "Compendium.zweihander.zh-ancestral-traits.Item.KrmvtRqPmE3jjVGm",
+      "description": "",
+      "_key": "!tables.results!aKcCkuel1nkS2W8Q.zkhbZB1P2DEMiyKC"
+    },
+    {
+      "_id": "TurOJuxKJzPh2aEn",
+      "drawn": false,
+      "flags": {},
+      "img": "systems/zweihander/assets/icons/honeypot.svg",
+      "range": [
+        5,
+        5
+      ],
+      "type": "document",
+      "weight": 1,
+      "_stats": {
+        "coreVersion": "13.342",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "name": "Fortune's Wheel",
+      "documentUuid": "Compendium.zweihander.zh-ancestral-traits.Item.BqchwvFSM1hsH61B",
+      "description": "",
+      "_key": "!tables.results!aKcCkuel1nkS2W8Q.TurOJuxKJzPh2aEn"
+    },
+    {
+      "_id": "V0wWLxwD9MInYXFe",
+      "drawn": false,
+      "flags": {},
+      "img": "systems/zweihander/assets/icons/armor-upgrade.svg",
+      "range": [
+        6,
+        6
+      ],
+      "type": "document",
+      "weight": 1,
+      "_stats": {
+        "coreVersion": "13.342",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "name": "Grim Resolve",
+      "documentUuid": "Compendium.zweihander.zh-ancestral-traits.Item.wdspCh4V6qpHetMs",
+      "description": "",
+      "_key": "!tables.results!aKcCkuel1nkS2W8Q.V0wWLxwD9MInYXFe"
+    },
+    {
+      "_id": "1FExedUf6JsTHnoV",
+      "drawn": false,
+      "flags": {},
+      "img": "systems/zweihander/assets/icons/orb-direction.svg",
+      "range": [
+        7,
+        7
+      ],
+      "type": "document",
+      "weight": 1,
+      "_stats": {
+        "coreVersion": "13.342",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "name": "Manifest Destiny",
+      "documentUuid": "Compendium.zweihander.zh-ancestral-traits.Item.vWE2ujpQG5tQWN8U",
+      "description": "",
+      "_key": "!tables.results!aKcCkuel1nkS2W8Q.1FExedUf6JsTHnoV"
+    },
+    {
+      "_id": "JDPVHwgtR3LnoAYV",
+      "drawn": false,
+      "flags": {},
+      "img": "systems/zweihander/assets/icons/transfuse.svg",
+      "range": [
+        8,
+        8
+      ],
+      "type": "document",
+      "weight": 1,
+      "_stats": {
+        "coreVersion": "13.342",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "name": "Mixed Bloodline",
+      "documentUuid": "Compendium.zweihander.zh-ancestral-traits.Item.32tSALcfYTyEcX53",
+      "description": "",
+      "_key": "!tables.results!aKcCkuel1nkS2W8Q.JDPVHwgtR3LnoAYV"
+    },
+    {
+      "_id": "yuLmJN6INQ0lmQG6",
+      "drawn": false,
+      "flags": {},
+      "img": "systems/zweihander/assets/icons/mountaintop.svg",
+      "range": [
+        9,
+        9
+      ],
+      "type": "document",
+      "weight": 1,
+      "_stats": {
+        "coreVersion": "13.342",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "name": "Mountain Amongst Men",
+      "documentUuid": "Compendium.zweihander.zh-ancestral-traits.Item.itZ66WNwh6I2t6S7",
+      "description": "",
+      "_key": "!tables.results!aKcCkuel1nkS2W8Q.yuLmJN6INQ0lmQG6"
+    },
+    {
+      "_id": "JE14cTfiAQjP4db0",
+      "drawn": false,
+      "flags": {},
+      "img": "systems/zweihander/assets/icons/divided-spiral.svg",
+      "range": [
+        10,
+        10
+      ],
+      "type": "document",
+      "weight": 1,
+      "_stats": {
+        "coreVersion": "13.342",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "name": "Natural Selection",
+      "documentUuid": "Compendium.zweihander.zh-ancestral-traits.Item.Ynuk9pcQfwtokd7w",
+      "description": "",
+      "_key": "!tables.results!aKcCkuel1nkS2W8Q.JE14cTfiAQjP4db0"
+    },
+    {
+      "_id": "OTa5iuADHvFcGaGF",
+      "drawn": false,
+      "flags": {},
+      "img": "systems/zweihander/assets/icons/mountain-climbing.svg",
+      "range": [
+        11,
+        11
+      ],
+      "type": "document",
+      "weight": 1,
+      "_stats": {
+        "coreVersion": "13.342",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "name": "Noble Savage",
+      "documentUuid": "Compendium.zweihander.zh-ancestral-traits.Item.p4Cr39TOB4xEDxk4",
+      "description": "",
+      "_key": "!tables.results!aKcCkuel1nkS2W8Q.OTa5iuADHvFcGaGF"
+    },
+    {
+      "_id": "qJt32kCR8ZDS1n3E",
+      "drawn": false,
+      "flags": {},
+      "img": "systems/zweihander/assets/icons/nose-side.svg",
+      "range": [
+        12,
+        12
+      ],
+      "type": "document",
+      "weight": 1,
+      "_stats": {
+        "coreVersion": "13.342",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "name": "Seventh Sense",
+      "documentUuid": "Compendium.zweihander.zh-ancestral-traits.Item.XkPqyWS11YX7vrVp",
+      "description": "",
+      "_key": "!tables.results!aKcCkuel1nkS2W8Q.qJt32kCR8ZDS1n3E"
+    }
+  ],
+  "_stats": {
+    "coreVersion": "13.342",
+    "systemId": null,
+    "systemVersion": null,
+    "createdTime": null,
+    "modifiedTime": 1735228613045,
+    "lastModifiedBy": "rivg6xcMxdlVDM8y",
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "description": "",
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {},
+  "_key": "!tables!aKcCkuel1nkS2W8Q"
+}

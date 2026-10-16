@@ -1,0 +1,29 @@
+<fieldset>
+  <legend>{{localize "ZWEI.actor.items.uniqueburden"}}</legend>
+  <div class="form-group stacked">
+    <label>{{localize "ZWEI.actor.items.effect"}}</label>
+    <prose-mirror
+      name="{{zhLocalizePath 'system.rules.effect'}}"
+      value="{{zhLocalize system.rules.effect}}"
+      toggled="true"
+    >
+      {{{html.rules.effect}}}
+    </prose-mirror>
+  </div>
+  <div class="form-group stacked">
+    <label>{{localize "ZWEI.actor.items.ineffect"}}</label>
+    <input name="system.active" type="checkbox" class="link-checkbox" {{checked system.active}} />
+  </div>
+</fieldset>
+
+<fieldset>
+  <legend>{{localize "ZWEI.actor.items.misc"}}</legend>
+  <div class="form-group">
+    <label>{{localize "ZWEI.actor.items.category"}}</label>
+    <input
+      name="{{zhLocalizePath 'system.details.category'}}"
+      type="text"
+      value="{{zhLocalize system.details.category}}"
+    />
+  </div>
+</fieldset>

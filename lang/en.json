@@ -1,0 +1,42 @@
+{
+  "EOC": {
+    "ActorSheet": "Elements of Conflict Actor",
+    "ItemSheet": "Elements of Conflict Item",
+    "Tabs": {
+      "skills": "Skills & Combat",
+      "combat": "Combat",
+      "inventory": "Inventory",
+      "identity": "Identity",
+      "notes": "Notes",
+      "effects": "Effects",
+      "jutsu": "Technique"
+    }
+  },
+  "TYPES": {
+    "Actor": {
+      "character": "Shinobi",
+      "npc": "NPC"
+    },
+    "Item": {
+      "gear": "Gear",
+      "weapon": "Weapon",
+      "armor": "Armor",
+      "technique": "Technique",
+      "profession": "Profession",
+      "trait": "Trait",
+      "ancestry": "Ancestry",
+      "condition": "Condition",
+      "disease": "Disease",
+      "disorder": "Disorder",
+      "drawback": "Drawback",
+      "injury": "Injury",
+      "quality": "Quality",
+      "skill": "Skill",
+      "talent": "Talent",
+      "trapping": "Trapping",
+      "medicine": "Medicine",
+      "tool": "Tool",
+      "heritage": "Heritage"
+    }
+  }
+}

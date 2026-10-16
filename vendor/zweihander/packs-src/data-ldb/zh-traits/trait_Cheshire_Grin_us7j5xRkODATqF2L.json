@@ -1,0 +1,37 @@
+{
+  "_id": "us7j5xRkODATqF2L",
+  "effects": [],
+  "img": "systems/zweihander/assets/icons/delighted.svg",
+  "name": "Cheshire Grin",
+  "type": "trait",
+  "_stats": {
+    "coreVersion": "13.342",
+    "systemId": "zweihander",
+    "systemVersion": "5.4.1",
+    "createdTime": null,
+    "modifiedTime": 1735911103116,
+    "lastModifiedBy": "rivg6xcMxdlVDM8y",
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "system": {
+    "description": {
+      "@en": "Ministers of Rot always seem to wear a wide grin, even in the hardest of circumstances. It leads to disquieting moments, when others don’t realize that the Minister’s inscrutability may be luring them further into danger."
+    },
+    "notes": "",
+    "rules": {
+      "effect": {
+        "@en": "At your option, you can substitute the Charm Skill in place of Guile. Furthermore, you can substitute Charm in place of any Skill required to Parry melee weapons."
+      }
+    },
+    "category": "professional"
+  },
+  "folder": null,
+  "sort": 19800000,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {},
+  "_key": "!items!us7j5xRkODATqF2L"
+}

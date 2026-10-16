@@ -1,0 +1,37 @@
+{
+  "_id": "SJ717bbpKOCR2sru",
+  "effects": [],
+  "img": "systems/zweihander/assets/icons/rod-of-asclepius.svg",
+  "name": "Nostrum Remedium",
+  "type": "trait",
+  "_stats": {
+    "coreVersion": "13.342",
+    "systemId": "zweihander",
+    "systemVersion": "5.4.1",
+    "createdTime": null,
+    "modifiedTime": 1735911103064,
+    "lastModifiedBy": "rivg6xcMxdlVDM8y",
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "system": {
+    "description": {
+      "@en": "Sometimes, the old ways are best. The Apothecary’s understanding of natural medicines and country remedies produces pure, undiluted concoctions that yield impressive results. You are trusted by wives and husbands as being a medical Doktor in your own right. But a canny chirurgeon may see through any deceptions should you try to ply quackery or fraudulent medicinal potions."
+    },
+    "notes": "",
+    "rules": {
+      "effect": {
+        "@en": "You may flip the results to succeed at Alchemy Tests. When you succeed, it is always considered a Critical Success. In addition, you never suffer Peril as a result of failed or Critically Failed Alchemy Tests."
+      }
+    },
+    "category": "professional"
+  },
+  "folder": null,
+  "sort": 8800000,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {},
+  "_key": "!items!SJ717bbpKOCR2sru"
+}

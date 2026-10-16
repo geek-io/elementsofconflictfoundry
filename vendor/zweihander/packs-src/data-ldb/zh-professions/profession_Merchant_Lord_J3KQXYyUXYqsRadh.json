@@ -1,0 +1,149 @@
+{
+  "_id": "J3KQXYyUXYqsRadh",
+  "effects": [],
+  "img": "systems/zweihander/assets/icons/merchant-lord.svg",
+  "name": "Merchant Lord",
+  "type": "profession",
+  "_stats": {
+    "coreVersion": "13.342",
+    "systemId": "zweihander",
+    "systemVersion": "5.4.1",
+    "createdTime": null,
+    "modifiedTime": 1735049889478,
+    "lastModifiedBy": "rivg6xcMxdlVDM8y",
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "system": {
+    "description": {
+      "@en": "There is no one economy in a grim & perilous world, but many. Each country has its own currency, standards and mercantile classes, but only one figure has the wherewithal to not only learn the ins-and-outs of each country, but also exploit them – the Merchant Lord. The Merchant Lord balances supply and demand between nations, diverting their trade fleets and caravans to where their masters can buy low and sell high. Merchant Lords are venture capitalists and risk-takers, with coffers deep enough to influence kingdoms and empires – and damn the consequences on those deprived of goods and staples. This influence often makes Merchant Lords haughty and egotistical, but that only drives them to make yet more money.\nMerchant Lords travel widely, from city to city, country to country, making trade deals that fill their coffers with thousands of gold and locating exotic and rare goods to sell. Merchant Lords are well travelled, used to dealing with members of all social classes, and have coin enough to buy their way out of – and probably into – trouble. Their greed though, is often their undoing, as they make trades both legal and illegal, corrupted into committing human trafficking, animal poaching and outright thievery to fill their coffers to overflowing."
+    },
+    "notes": "",
+    "expert": {
+      "value": true,
+      "requirements": {
+        "skillRanks": [
+          {
+            "key": "bargain",
+            "value": 2
+          }
+        ],
+        "additional": "<p>-</p>"
+      }
+    },
+    "archetype": "Expert Profession",
+    "bonusAdvances": [
+      {
+        "name": "[AB]",
+        "purchased": false
+      },
+      {
+        "name": "[FB]",
+        "purchased": false
+      },
+      {
+        "name": "[FB]",
+        "purchased": false
+      },
+      {
+        "name": "[PB]",
+        "purchased": false
+      },
+      {
+        "name": "[PB]",
+        "purchased": false
+      },
+      {
+        "name": "[WB]",
+        "purchased": false
+      },
+      {
+        "name": "[WB]",
+        "purchased": false
+      }
+    ],
+    "skillRanks": [
+      {
+        "name": "Bargain",
+        "purchased": false
+      },
+      {
+        "name": "Coordination",
+        "purchased": false
+      },
+      {
+        "name": "Folklore",
+        "purchased": false
+      },
+      {
+        "name": "Intimidate",
+        "purchased": false
+      },
+      {
+        "name": "Leadership",
+        "purchased": false
+      },
+      {
+        "name": "Resolve",
+        "purchased": false
+      },
+      {
+        "name": "Rumor",
+        "purchased": false
+      },
+      {
+        "name": "Scrutinize",
+        "purchased": false
+      },
+      {
+        "name": "Simple Ranged",
+        "purchased": false
+      },
+      {
+        "name": "Tradecraft",
+        "purchased": false
+      }
+    ],
+    "talents": [
+      {
+        "linkedId": "i9qfMytftadGhnm3",
+        "name": "Appalling Mien",
+        "uuid": "Compendium.zweihander.zh-talents.Item.i9qfMytftadGhnm3"
+      },
+      {
+        "linkedId": "WsD0GRMRKX8Ov0mT",
+        "name": "Impervious Mind",
+        "uuid": "Compendium.zweihander.zh-talents.Item.WsD0GRMRKX8Ov0mT"
+      },
+      {
+        "linkedId": "cIaEhW4y3xK76XWt",
+        "name": "Indifference",
+        "uuid": "Compendium.zweihander.zh-talents.Item.cIaEhW4y3xK76XWt"
+      }
+    ],
+    "professionalTrait": {
+      "name": "What’s Yours is Mine",
+      "uuid": "Compendium.zweihander.zh-traits.Item.82gxzQJjRacdkBWB",
+      "linkedId": null
+    },
+    "specialTrait": {
+      "name": "",
+      "uuid": "",
+      "linkedId": null
+    },
+    "drawback": {
+      "name": "The World is Mine",
+      "uuid": "Compendium.zweihander.zh-drawbacks.Item.Av8txBAacRzcdXWx",
+      "linkedId": null
+    },
+    "tier": ""
+  },
+  "folder": null,
+  "sort": 6600000,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {},
+  "_key": "!items!J3KQXYyUXYqsRadh"
+}

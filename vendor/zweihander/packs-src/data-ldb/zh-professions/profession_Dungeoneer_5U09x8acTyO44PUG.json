@@ -1,0 +1,149 @@
+{
+  "_id": "5U09x8acTyO44PUG",
+  "effects": [],
+  "img": "systems/zweihander/assets/icons/dungeoneer.svg",
+  "name": "Dungeoneer",
+  "type": "profession",
+  "_stats": {
+    "coreVersion": "13.342",
+    "systemId": "zweihander",
+    "systemVersion": "5.4.1",
+    "createdTime": null,
+    "modifiedTime": 1735047812588,
+    "lastModifiedBy": "rivg6xcMxdlVDM8y",
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "system": {
+    "description": {
+      "@en": "The world is built upon the ruins of the old – deep below modern streets lie aged sewers, ancient catacombs, and antediluvian caverns, infested with all manner of unspeakable threats to the world above. Few dare to think of the horrors below, let alone be prepared to delve into the depths unknown. Those who are, like the Dungeoneer, are regarded as foolish or mad. Dungeoneers are professional spelunkers and defenders, having trained themselves to fight in enclosed spaces and drive threats back into an underworld that is rife with beasts and other terrors that would love to spread their stench to the world above. Armed with little more than a torch, fifty feet of rope, a ten-foot pole and a few henchmen, a rare few make it back alive. Those who’ve lived to tell the tale are celebrated in fantastic stories, such as the famous Uncle Gygax and Arneson the Forgotten.\nMost Dungeoneers get their start with, and are employed by, a city to defend its sewers and its under-reaches, but some strike out to delve into ancient necromantic crypts, the vinecrawled ziggurats of the Aztlan and temples to gods long thought dead. Trained to stand stalwart, turning aside all threats at cost – even at the cost of their lives – Dungeoneers grow used to the rumblings of crumbling caverns and the dead whispering in their ears at every turn or twist of a passage. When all this proves too much for the Dungeoneer, they act in blind panic, perhaps fleeing upwards, perhaps downwards from the dungeon. Their fate may only be learned weeks later when another hapless Dungeoneer encounters the bones of a pack mule, a torch-bearer and their former colleague."
+    },
+    "notes": "",
+    "expert": {
+      "value": true,
+      "requirements": {
+        "skillRanks": [
+          {
+            "key": "folklore",
+            "value": 1
+          }
+        ],
+        "additional": "<p>-</p>"
+      }
+    },
+    "archetype": "Expert Profession",
+    "bonusAdvances": [
+      {
+        "name": "[AB]",
+        "purchased": false
+      },
+      {
+        "name": "[BB]",
+        "purchased": false
+      },
+      {
+        "name": "[CB]",
+        "purchased": false
+      },
+      {
+        "name": "[FB]",
+        "purchased": false
+      },
+      {
+        "name": "[IB]",
+        "purchased": false
+      },
+      {
+        "name": "[PB]",
+        "purchased": false
+      },
+      {
+        "name": "[WB]",
+        "purchased": false
+      }
+    ],
+    "skillRanks": [
+      {
+        "name": "Athletics",
+        "purchased": false
+      },
+      {
+        "name": "Coordination",
+        "purchased": false
+      },
+      {
+        "name": "Folklore",
+        "purchased": false
+      },
+      {
+        "name": "Martial Melee",
+        "purchased": false
+      },
+      {
+        "name": "Martial Ranged",
+        "purchased": false
+      },
+      {
+        "name": "Navigation",
+        "purchased": false
+      },
+      {
+        "name": "Resolve",
+        "purchased": false
+      },
+      {
+        "name": "Rumor",
+        "purchased": false
+      },
+      {
+        "name": "Simple Melee",
+        "purchased": false
+      },
+      {
+        "name": "Skulduggery",
+        "purchased": false
+      }
+    ],
+    "talents": [
+      {
+        "linkedId": "HAAEmf4RBgOXbE4W",
+        "name": "Mine Craft",
+        "uuid": "Compendium.zweihander.zh-talents.Item.HAAEmf4RBgOXbE4W"
+      },
+      {
+        "linkedId": "sr0nQ2JrQV4DnTeU",
+        "name": "Secret Signs",
+        "uuid": "Compendium.zweihander.zh-talents.Item.sr0nQ2JrQV4DnTeU"
+      },
+      {
+        "linkedId": "mbtJHdgWqR6fct7f",
+        "name": "Supernatural Paranoia",
+        "uuid": "Compendium.zweihander.zh-talents.Item.mbtJHdgWqR6fct7f"
+      }
+    ],
+    "professionalTrait": {
+      "name": "Gygaxian Naturalism",
+      "uuid": "Compendium.zweihander.zh-traits.Item.hUWKnLUe7gIcMwHM",
+      "linkedId": null
+    },
+    "specialTrait": {
+      "name": "",
+      "uuid": "",
+      "linkedId": null
+    },
+    "drawback": {
+      "name": "Foolhardy",
+      "uuid": "Compendium.zweihander.zh-drawbacks.Item.jd7dLJrGmeWcjRNW",
+      "linkedId": null
+    },
+    "tier": ""
+  },
+  "folder": null,
+  "sort": 2100000,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {},
+  "_key": "!items!5U09x8acTyO44PUG"
+}

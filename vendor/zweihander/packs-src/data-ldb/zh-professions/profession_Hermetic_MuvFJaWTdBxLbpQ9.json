@@ -1,0 +1,149 @@
+{
+  "_id": "MuvFJaWTdBxLbpQ9",
+  "effects": [],
+  "img": "systems/zweihander/assets/icons/hermetic.svg",
+  "name": "Hermetic",
+  "type": "profession",
+  "_stats": {
+    "coreVersion": "13.342",
+    "systemId": "zweihander",
+    "systemVersion": "5.4.1",
+    "createdTime": null,
+    "modifiedTime": 1735048152938,
+    "lastModifiedBy": "rivg6xcMxdlVDM8y",
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "system": {
+    "description": {
+      "@en": "Hermetics study the science of alchemy, with their primary study based on the properties of the four basic elements. However, they also recognize that the Æther permeates everything around them and is thus the primary element. They see it as a universal solvent, breaking down the traditional elements into lesser substances such as gases and matter. This influences their understanding of how Magick affects both the makeup of the Material Realm and their primary concern – the transmutation of metals and ore. Hermetics are metallurgists without peer, able to weave elements of the Æthereal Veil in subtle – and not so subtle – ways to change substances. Despite them being able make such transmutations, there is still one transmutation that eludes them all, that of one base metal into another, of nickel into iron, of lead into gold and so on. Discovering the secret of ‘true transmutation’ remains every Hermetic’s dream.\nPursuit of the secret of ‘true transmutation’ has also been many a Hermetic’s downfall. Younger Hermetics who lack the training and knowledge can spend years searching for it without success. It can drive some into madness – or worse, lead them onto darker paths, especially if they are seeking to transmute lead into gold. Their desire for the secret can transmute into a lust for gold to equal that of any dwarf and a Hermetic may end up using unsavory substances or making pacts with the Abyssal princes. One needs only to remember the tale of Midas to understand what becomes of a person whose greed consumes them."
+    },
+    "notes": "",
+    "expert": {
+      "value": true,
+      "requirements": {
+        "skillRanks": [
+          {
+            "key": "incantation",
+            "value": 1
+          }
+        ],
+        "additional": "<p>You must have the Special Trait of Arcane Magick.</p>"
+      }
+    },
+    "archetype": "Expert Profession",
+    "bonusAdvances": [
+      {
+        "name": "[AB]",
+        "purchased": false
+      },
+      {
+        "name": "[IB]",
+        "purchased": false
+      },
+      {
+        "name": "[IB]",
+        "purchased": false
+      },
+      {
+        "name": "[PB]",
+        "purchased": false
+      },
+      {
+        "name": "[PB]",
+        "purchased": false
+      },
+      {
+        "name": "[WB]",
+        "purchased": false
+      },
+      {
+        "name": "[WB]",
+        "purchased": false
+      }
+    ],
+    "skillRanks": [
+      {
+        "name": "Alchemy",
+        "purchased": false
+      },
+      {
+        "name": "Coordination",
+        "purchased": false
+      },
+      {
+        "name": "Education",
+        "purchased": false
+      },
+      {
+        "name": "Folklore",
+        "purchased": false
+      },
+      {
+        "name": "Incantation",
+        "purchased": false
+      },
+      {
+        "name": "Rumor",
+        "purchased": false
+      },
+      {
+        "name": "Scrutinize",
+        "purchased": false
+      },
+      {
+        "name": "Simple Melee",
+        "purchased": false
+      },
+      {
+        "name": "Survival",
+        "purchased": false
+      },
+      {
+        "name": "Tradecraft",
+        "purchased": false
+      }
+    ],
+    "talents": [
+      {
+        "linkedId": "XmrQY5We9Dj3m5Yn",
+        "name": "Ambidexterity",
+        "uuid": "Compendium.zweihander.zh-talents.Item.XmrQY5We9Dj3m5Yn"
+      },
+      {
+        "linkedId": "UMcOubezruAYIWze",
+        "name": "Determination",
+        "uuid": "Compendium.zweihander.zh-talents.Item.UMcOubezruAYIWze"
+      },
+      {
+        "linkedId": "WsD0GRMRKX8Ov0mT",
+        "name": "Impervious Mind",
+        "uuid": "Compendium.zweihander.zh-talents.Item.WsD0GRMRKX8Ov0mT"
+      }
+    ],
+    "professionalTrait": {
+      "name": "Alchemical Thaumaturgy",
+      "uuid": "Compendium.zweihander.zh-traits.Item.33HwMxq506ZISuBM",
+      "linkedId": null
+    },
+    "specialTrait": {
+      "name": "Arcana of Transmutation",
+      "uuid": "Compendium.zweihander.zh-traits.Item.4OFngpJFCkyia2Fm",
+      "linkedId": null
+    },
+    "drawback": {
+      "name": "Yellow Temperament",
+      "uuid": "Compendium.zweihander.zh-drawbacks.Item.cOaWDR6OvBPMf8tl",
+      "linkedId": null
+    },
+    "tier": ""
+  },
+  "folder": null,
+  "sort": 7500000,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {},
+  "_key": "!items!MuvFJaWTdBxLbpQ9"
+}

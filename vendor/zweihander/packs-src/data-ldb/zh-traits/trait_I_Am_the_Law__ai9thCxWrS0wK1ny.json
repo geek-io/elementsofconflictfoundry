@@ -1,0 +1,37 @@
+{
+  "_id": "ai9thCxWrS0wK1ny",
+  "effects": [],
+  "img": "systems/zweihander/assets/icons/vitruvian-man.svg",
+  "name": "I Am the Law!",
+  "type": "trait",
+  "_stats": {
+    "coreVersion": "13.342",
+    "systemId": "zweihander",
+    "systemVersion": "5.4.1",
+    "createdTime": null,
+    "modifiedTime": 1735911103077,
+    "lastModifiedBy": "rivg6xcMxdlVDM8y",
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "system": {
+    "description": {
+      "@en": "The Reeve is so cold, they bleed ice – when they speak, they never need to repeat themselves. There are times when patrolling the roads over windswept moor and through dark forest, when a distinct show of force is necessary to cow a brigand or highwaymen, all it takes is a flash of their badge."
+    },
+    "notes": "",
+    "rules": {
+      "effect": {
+        "@en": "You may flip the results to succeed at Intimidate Tests. When you succeed, it is always considered a Critical Success. Furthermore, you always influence a number of people with the Intimidate Skill equal to three times your [BB] – this includes use of Litany of Hatred during combat."
+      }
+    },
+    "category": "professional"
+  },
+  "folder": null,
+  "sort": 12000000,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {},
+  "_key": "!items!ai9thCxWrS0wK1ny"
+}

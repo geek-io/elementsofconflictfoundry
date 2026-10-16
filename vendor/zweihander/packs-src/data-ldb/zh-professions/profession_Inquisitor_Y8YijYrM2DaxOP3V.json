@@ -1,0 +1,149 @@
+{
+  "_id": "Y8YijYrM2DaxOP3V",
+  "effects": [],
+  "img": "systems/zweihander/assets/icons/inquisitor.svg",
+  "name": "Inquisitor",
+  "type": "profession",
+  "_stats": {
+    "coreVersion": "13.342",
+    "systemId": "zweihander",
+    "systemVersion": "5.4.1",
+    "createdTime": null,
+    "modifiedTime": 1735049794390,
+    "lastModifiedBy": "rivg6xcMxdlVDM8y",
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "system": {
+    "description": {
+      "@en": "Since the dawn of time, the forces of chaos have sought to corrupt the seeds of life and twist the soul of mankind. Locked within this eternal struggle, the Inquisitor knows there is no place for half measures. Vows of unwavering faith and fealty drive them to face the abominations of this world and beyond, and perhaps more importantly, to be the scourge to those tainted souls that would lead their kin down the path of destruction. It is their duty to be ever watchful, ever prepared, and ever ready to use any means necessary to keep their vows. Varied and dangerous duties see them hunting down apostates, rooting out local heresies and taking sword and flame into the depths of cult lairs. In staring down the heretic, the mutant and the supernatural, many Inquisitors come to be touched with madness themselves, an unwelcome side effect from exposure to fell ideas and dark energies. They must soldier on though, as they are the last line of defense when all other measures would be too extreme or too dangerous.\nPious warrior or self-justifying madman, it matters little when an Inquisitor arrives on your doorstep. For ill tidings are abroad, so doors are locked, neighbors accused and pyres prepared in readiness to cleanse witches in holy fire. In pursuit of the greater ‘good’, no sacrifice can be too great – many Inquisitors find themselves maimed or much less of a person than the one that took their vows of purity. And those who choose to stare into the heart of darkness often find it stares right back at them in the light. Some remain stalwart champions of the faith. Others find themselves embraced by the welcoming arms of chaos and destruction they once battled. An Inquisitor knows no deadlier foe than their fallen brethren."
+    },
+    "notes": "",
+    "expert": {
+      "value": true,
+      "requirements": {
+        "skillRanks": [
+          {
+            "key": "resolve",
+            "value": 2
+          }
+        ],
+        "additional": "<p>-</p>"
+      }
+    },
+    "archetype": "Expert Profession",
+    "bonusAdvances": [
+      {
+        "name": "[AB]",
+        "purchased": false
+      },
+      {
+        "name": "[CB]",
+        "purchased": false
+      },
+      {
+        "name": "[CB]",
+        "purchased": false
+      },
+      {
+        "name": "[IB]",
+        "purchased": false
+      },
+      {
+        "name": "[PB]",
+        "purchased": false
+      },
+      {
+        "name": "[WB]",
+        "purchased": false
+      },
+      {
+        "name": "[WB]",
+        "purchased": false
+      }
+    ],
+    "skillRanks": [
+      {
+        "name": "Folklore",
+        "purchased": false
+      },
+      {
+        "name": "Interrogation",
+        "purchased": false
+      },
+      {
+        "name": "Intimidate",
+        "purchased": false
+      },
+      {
+        "name": "Martial Melee",
+        "purchased": false
+      },
+      {
+        "name": "Martial Ranged",
+        "purchased": false
+      },
+      {
+        "name": "Resolve",
+        "purchased": false
+      },
+      {
+        "name": "Ride",
+        "purchased": false
+      },
+      {
+        "name": "Scrutinize",
+        "purchased": false
+      },
+      {
+        "name": "Simple Melee",
+        "purchased": false
+      },
+      {
+        "name": "Simple Ranged",
+        "purchased": false
+      }
+    ],
+    "talents": [
+      {
+        "linkedId": "iox3y41c5QOhZn0Y",
+        "name": "Menacing Demeanor",
+        "uuid": "Compendium.zweihander.zh-talents.Item.iox3y41c5QOhZn0Y"
+      },
+      {
+        "linkedId": "lDYbvmW0G7e9EiQY",
+        "name": "No Mercy",
+        "uuid": "Compendium.zweihander.zh-talents.Item.lDYbvmW0G7e9EiQY"
+      },
+      {
+        "linkedId": "mbtJHdgWqR6fct7f",
+        "name": "Supernatural Paranoia",
+        "uuid": "Compendium.zweihander.zh-talents.Item.mbtJHdgWqR6fct7f"
+      }
+    ],
+    "professionalTrait": {
+      "name": "Witch Hunter’s Insight",
+      "uuid": "Compendium.zweihander.zh-traits.Item.F0MWixUsPbk44nyb",
+      "linkedId": null
+    },
+    "specialTrait": {
+      "name": "",
+      "uuid": "",
+      "linkedId": null
+    },
+    "drawback": {
+      "name": "Religious Zealotry",
+      "uuid": "Compendium.zweihander.zh-drawbacks.Item.ZIFOYVWP1OVVKTCZ",
+      "linkedId": null
+    },
+    "tier": ""
+  },
+  "folder": null,
+  "sort": 10400000,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {},
+  "_key": "!items!Y8YijYrM2DaxOP3V"
+}

@@ -1,0 +1,679 @@
+{
+  "_id": "8DVAR2Gwq3chRIY8",
+  "displayRoll": true,
+  "formula": "1d100",
+  "img": "icons/svg/d20-grey.svg",
+  "name": "G&P Characters: Dooming of Summer",
+  "replacement": true,
+  "results": [
+    {
+      "_id": "3V2LcgR39r2ZDVnu",
+      "drawn": false,
+      "flags": {},
+      "img": "icons/svg/d20-black.svg",
+      "range": [
+        1,
+        4
+      ],
+      "type": "text",
+      "weight": 1,
+      "_stats": {
+        "coreVersion": "13.342",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Thy end will be at the head of a hammer",
+      "name": "",
+      "_key": "!tables.results!8DVAR2Gwq3chRIY8.3V2LcgR39r2ZDVnu"
+    },
+    {
+      "_id": "VrBwSocstYbYjuIU",
+      "drawn": false,
+      "flags": {},
+      "img": "icons/svg/d20-black.svg",
+      "range": [
+        5,
+        8
+      ],
+      "type": "text",
+      "weight": 1,
+      "_stats": {
+        "coreVersion": "13.342",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Thou wilt see thine own hubris end thy life",
+      "name": "",
+      "_key": "!tables.results!8DVAR2Gwq3chRIY8.VrBwSocstYbYjuIU"
+    },
+    {
+      "_id": "4cGi1VD5RiQyNUaR",
+      "drawn": false,
+      "flags": {},
+      "img": "icons/svg/d20-black.svg",
+      "range": [
+        9,
+        12
+      ],
+      "type": "text",
+      "weight": 1,
+      "_stats": {
+        "coreVersion": "13.342",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Those thou lovest will kill thee",
+      "name": "",
+      "_key": "!tables.results!8DVAR2Gwq3chRIY8.4cGi1VD5RiQyNUaR"
+    },
+    {
+      "_id": "yotXSdtctkV2cEE4",
+      "drawn": false,
+      "flags": {},
+      "img": "icons/svg/d20-black.svg",
+      "range": [
+        13,
+        16
+      ],
+      "type": "text",
+      "weight": 1,
+      "_stats": {
+        "coreVersion": "13.342",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Beware the comet's warning",
+      "name": "",
+      "_key": "!tables.results!8DVAR2Gwq3chRIY8.yotXSdtctkV2cEE4"
+    },
+    {
+      "_id": "lsM3gwisogn5iOaI",
+      "drawn": false,
+      "flags": {},
+      "img": "icons/svg/d20-black.svg",
+      "range": [
+        17,
+        20
+      ],
+      "type": "text",
+      "weight": 1,
+      "_stats": {
+        "coreVersion": "13.342",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "They will come as twins and leave as triplets",
+      "name": "",
+      "_key": "!tables.results!8DVAR2Gwq3chRIY8.lsM3gwisogn5iOaI"
+    },
+    {
+      "_id": "TJm3w6a1ZsWq8lan",
+      "drawn": false,
+      "flags": {},
+      "img": "icons/svg/d20-black.svg",
+      "range": [
+        21,
+        24
+      ],
+      "type": "text",
+      "weight": 1,
+      "_stats": {
+        "coreVersion": "13.342",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Thou wilt die trying to save someone thou lovest",
+      "name": "",
+      "_key": "!tables.results!8DVAR2Gwq3chRIY8.TJm3w6a1ZsWq8lan"
+    },
+    {
+      "_id": "hfcn2ShSlOkmi1Nn",
+      "drawn": false,
+      "flags": {},
+      "img": "icons/svg/d20-black.svg",
+      "range": [
+        25,
+        28
+      ],
+      "type": "text",
+      "weight": 1,
+      "_stats": {
+        "coreVersion": "13.342",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Beware a lover scorned",
+      "name": "",
+      "_key": "!tables.results!8DVAR2Gwq3chRIY8.hfcn2ShSlOkmi1Nn"
+    },
+    {
+      "_id": "sSgTdyj7X67kPLJK",
+      "drawn": false,
+      "flags": {},
+      "img": "icons/svg/d20-black.svg",
+      "range": [
+        29,
+        32
+      ],
+      "type": "text",
+      "weight": 1,
+      "_stats": {
+        "coreVersion": "13.342",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Thou wilt witness the end, then go into it",
+      "name": "",
+      "_key": "!tables.results!8DVAR2Gwq3chRIY8.sSgTdyj7X67kPLJK"
+    },
+    {
+      "_id": "bxYZbrZnZ7JhYoK2",
+      "drawn": false,
+      "flags": {},
+      "img": "icons/svg/d20-black.svg",
+      "range": [
+        33,
+        36
+      ],
+      "type": "text",
+      "weight": 1,
+      "_stats": {
+        "coreVersion": "13.342",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "The heathen will cut thee down",
+      "name": "",
+      "_key": "!tables.results!8DVAR2Gwq3chRIY8.bxYZbrZnZ7JhYoK2"
+    },
+    {
+      "_id": "QRk9gdsdZLu8vP60",
+      "drawn": false,
+      "flags": {},
+      "img": "icons/svg/d20-black.svg",
+      "range": [
+        37,
+        40
+      ],
+      "type": "text",
+      "weight": 1,
+      "_stats": {
+        "coreVersion": "13.342",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Thy final moments will be full of divine pain",
+      "name": "",
+      "_key": "!tables.results!8DVAR2Gwq3chRIY8.QRk9gdsdZLu8vP60"
+    },
+    {
+      "_id": "O38H62Fic5ii4Ung",
+      "drawn": false,
+      "flags": {},
+      "img": "icons/svg/d20-black.svg",
+      "range": [
+        41,
+        44
+      ],
+      "type": "text",
+      "weight": 1,
+      "_stats": {
+        "coreVersion": "13.342",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Thy flame shall consume you",
+      "name": "",
+      "_key": "!tables.results!8DVAR2Gwq3chRIY8.O38H62Fic5ii4Ung"
+    },
+    {
+      "_id": "KY2xmLtlsjuNxcNp",
+      "drawn": false,
+      "flags": {},
+      "img": "icons/svg/d20-black.svg",
+      "range": [
+        45,
+        48
+      ],
+      "type": "text",
+      "weight": 1,
+      "_stats": {
+        "coreVersion": "13.342",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Mercy will be thy downfall",
+      "name": "",
+      "_key": "!tables.results!8DVAR2Gwq3chRIY8.KY2xmLtlsjuNxcNp"
+    },
+    {
+      "_id": "AAWedokebNPUVHUq",
+      "drawn": false,
+      "flags": {},
+      "img": "icons/svg/d20-black.svg",
+      "range": [
+        49,
+        52
+      ],
+      "type": "text",
+      "weight": 1,
+      "_stats": {
+        "coreVersion": "13.342",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Thou wilt burn brightly, then be snuffed out",
+      "name": "",
+      "_key": "!tables.results!8DVAR2Gwq3chRIY8.AAWedokebNPUVHUq"
+    },
+    {
+      "_id": "DryW56DuomJSYcHV",
+      "drawn": false,
+      "flags": {},
+      "img": "icons/svg/d20-black.svg",
+      "range": [
+        53,
+        56
+      ],
+      "type": "text",
+      "weight": 1,
+      "_stats": {
+        "coreVersion": "13.342",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "The unlit path is the most dangerous",
+      "name": "",
+      "_key": "!tables.results!8DVAR2Gwq3chRIY8.DryW56DuomJSYcHV"
+    },
+    {
+      "_id": "NWjj9BT4q4pCewMt",
+      "drawn": false,
+      "flags": {},
+      "img": "icons/svg/d20-black.svg",
+      "range": [
+        57,
+        60
+      ],
+      "type": "text",
+      "weight": 1,
+      "_stats": {
+        "coreVersion": "13.342",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Iron will bend under heat",
+      "name": "",
+      "_key": "!tables.results!8DVAR2Gwq3chRIY8.NWjj9BT4q4pCewMt"
+    },
+    {
+      "_id": "Xjp0Ikj0SgtAEF9p",
+      "drawn": false,
+      "flags": {},
+      "img": "icons/svg/d20-black.svg",
+      "range": [
+        61,
+        64
+      ],
+      "type": "text",
+      "weight": 1,
+      "_stats": {
+        "coreVersion": "13.342",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Respect power, for it does not respect thee",
+      "name": "",
+      "_key": "!tables.results!8DVAR2Gwq3chRIY8.Xjp0Ikj0SgtAEF9p"
+    },
+    {
+      "_id": "gy5DmHv4RrUVPEOW",
+      "drawn": false,
+      "flags": {},
+      "img": "icons/svg/d20-black.svg",
+      "range": [
+        65,
+        68
+      ],
+      "type": "text",
+      "weight": 1,
+      "_stats": {
+        "coreVersion": "13.342",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Never leave a fire burning",
+      "name": "",
+      "_key": "!tables.results!8DVAR2Gwq3chRIY8.gy5DmHv4RrUVPEOW"
+    },
+    {
+      "_id": "cUFjAvmN4y5isOIL",
+      "drawn": false,
+      "flags": {},
+      "img": "icons/svg/d20-black.svg",
+      "range": [
+        69,
+        72
+      ],
+      "type": "text",
+      "weight": 1,
+      "_stats": {
+        "coreVersion": "13.342",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Never turn thy back on a foe",
+      "name": "",
+      "_key": "!tables.results!8DVAR2Gwq3chRIY8.cUFjAvmN4y5isOIL"
+    },
+    {
+      "_id": "VTV9LvlSZ205CjFW",
+      "drawn": false,
+      "flags": {},
+      "img": "icons/svg/d20-black.svg",
+      "range": [
+        73,
+        76
+      ],
+      "type": "text",
+      "weight": 1,
+      "_stats": {
+        "coreVersion": "13.342",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Thine embers shall smolder",
+      "name": "",
+      "_key": "!tables.results!8DVAR2Gwq3chRIY8.VTV9LvlSZ205CjFW"
+    },
+    {
+      "_id": "AvcMP4qLqMHbY2jH",
+      "drawn": false,
+      "flags": {},
+      "img": "icons/svg/d20-black.svg",
+      "range": [
+        77,
+        80
+      ],
+      "type": "text",
+      "weight": 1,
+      "_stats": {
+        "coreVersion": "13.342",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "The sun can be a cruel friend",
+      "name": "",
+      "_key": "!tables.results!8DVAR2Gwq3chRIY8.AvcMP4qLqMHbY2jH"
+    },
+    {
+      "_id": "LlSPBmflktyFPuZR",
+      "drawn": false,
+      "flags": {},
+      "img": "icons/svg/d20-black.svg",
+      "range": [
+        81,
+        84
+      ],
+      "type": "text",
+      "weight": 1,
+      "_stats": {
+        "coreVersion": "13.342",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Death comes from above and below",
+      "name": "",
+      "_key": "!tables.results!8DVAR2Gwq3chRIY8.LlSPBmflktyFPuZR"
+    },
+    {
+      "_id": "d3IrlGDlP9MlmOpX",
+      "drawn": false,
+      "flags": {},
+      "img": "icons/svg/d20-black.svg",
+      "range": [
+        85,
+        88
+      ],
+      "type": "text",
+      "weight": 1,
+      "_stats": {
+        "coreVersion": "13.342",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Lightning sometimes does strike twice",
+      "name": "",
+      "_key": "!tables.results!8DVAR2Gwq3chRIY8.d3IrlGDlP9MlmOpX"
+    },
+    {
+      "_id": "AHpjrEtClCPAsztA",
+      "drawn": false,
+      "flags": {},
+      "img": "icons/svg/d20-black.svg",
+      "range": [
+        89,
+        92
+      ],
+      "type": "text",
+      "weight": 1,
+      "_stats": {
+        "coreVersion": "13.342",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "A squall comes before the storm",
+      "name": "",
+      "_key": "!tables.results!8DVAR2Gwq3chRIY8.AHpjrEtClCPAsztA"
+    },
+    {
+      "_id": "twXNxo7y3Wa8zWad",
+      "drawn": false,
+      "flags": {},
+      "img": "icons/svg/d20-black.svg",
+      "range": [
+        93,
+        96
+      ],
+      "type": "text",
+      "weight": 1,
+      "_stats": {
+        "coreVersion": "13.342",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "The eye of a storm is just a reprieve",
+      "name": "",
+      "_key": "!tables.results!8DVAR2Gwq3chRIY8.twXNxo7y3Wa8zWad"
+    },
+    {
+      "_id": "oSVQ6H6RBdGrGHDm",
+      "drawn": false,
+      "flags": {},
+      "img": "icons/svg/d20-black.svg",
+      "range": [
+        97,
+        100
+      ],
+      "type": "text",
+      "weight": 1,
+      "_stats": {
+        "coreVersion": "13.342",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "The heavens will open, angry and bright",
+      "name": "",
+      "_key": "!tables.results!8DVAR2Gwq3chRIY8.oSVQ6H6RBdGrGHDm"
+    }
+  ],
+  "_stats": {
+    "coreVersion": "13.342",
+    "systemId": null,
+    "systemVersion": null,
+    "createdTime": null,
+    "modifiedTime": null,
+    "lastModifiedBy": null,
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "description": "",
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {},
+  "_key": "!tables!8DVAR2Gwq3chRIY8"
+}

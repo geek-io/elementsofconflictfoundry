@@ -1,0 +1,37 @@
+{
+  "_id": "IiolZXJcYNaj7wHh",
+  "effects": [],
+  "img": "systems/zweihander/assets/icons/knot.svg",
+  "name": "Escape Artist",
+  "type": "trait",
+  "_stats": {
+    "coreVersion": "13.342",
+    "systemId": "zweihander",
+    "systemVersion": "5.4.1",
+    "createdTime": null,
+    "modifiedTime": 1734974463040,
+    "lastModifiedBy": "rivg6xcMxdlVDM8y",
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "system": {
+    "description": {
+      "@en": "Gnomes are wheedling and conniving. They cannot easily be caught or detained by the law."
+    },
+    "notes": "",
+    "rules": {
+      "effect": {
+        "@en": "You can never be caught in a Chokehold and may flip the results to succeed at Coordination Tests to slip through bonds and other situations which may detain you from moving."
+      }
+    },
+    "category": "ancestral"
+  },
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {},
+  "_key": "!items!IiolZXJcYNaj7wHh"
+}

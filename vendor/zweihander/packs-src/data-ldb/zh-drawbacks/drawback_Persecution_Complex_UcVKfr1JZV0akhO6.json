@@ -1,0 +1,36 @@
+{
+  "_id": "UcVKfr1JZV0akhO6",
+  "effects": [],
+  "img": "systems/zweihander/assets/icons/spiked-halo.svg",
+  "name": "Persecution Complex",
+  "type": "drawback",
+  "_stats": {
+    "coreVersion": "13.342",
+    "systemId": null,
+    "systemVersion": null,
+    "createdTime": null,
+    "modifiedTime": 1733923835859,
+    "lastModifiedBy": "rivg6xcMxdlVDM8y",
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "system": {
+    "description": {
+      "@en": "Everyone – literally, everyone – is out to get you. There is no doubt in your mind that others may be following you, are trying to trick you or are ridiculing you behind your back."
+    },
+    "notes": "",
+    "rules": {
+      "effect": {
+        "@en": "You cannot rest to recover from Peril in urban environments, unless you take a dose of laudanum before resting."
+      }
+    }
+  },
+  "folder": null,
+  "sort": 6400000,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {},
+  "_key": "!items!UcVKfr1JZV0akhO6"
+}

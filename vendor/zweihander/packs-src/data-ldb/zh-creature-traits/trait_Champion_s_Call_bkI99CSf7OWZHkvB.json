@@ -1,0 +1,37 @@
+{
+  "_id": "bkI99CSf7OWZHkvB",
+  "effects": [],
+  "img": "systems/zweihander/assets/icons/pointing.svg",
+  "name": "Champion’s Call",
+  "system": {
+    "description": {
+      "@en": ""
+    },
+    "notes": "",
+    "rules": {
+      "effect": {
+        "@en": "One foe is left Defenseless to all this creature’s attacks, until the foe is defeated. The creature may select a new foe once the current one is defeated."
+      }
+    },
+    "category": "creature"
+  },
+  "type": "trait",
+  "_stats": {
+    "coreVersion": "13.342",
+    "systemId": "zweihander",
+    "systemVersion": "5.4.1",
+    "createdTime": null,
+    "modifiedTime": 1735915786862,
+    "lastModifiedBy": "rivg6xcMxdlVDM8y",
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {},
+  "_key": "!items!bkI99CSf7OWZHkvB"
+}

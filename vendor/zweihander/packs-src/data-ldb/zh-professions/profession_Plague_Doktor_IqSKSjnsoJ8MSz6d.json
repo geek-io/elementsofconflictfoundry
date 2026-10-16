@@ -1,0 +1,149 @@
+{
+  "_id": "IqSKSjnsoJ8MSz6d",
+  "effects": [],
+  "img": "systems/zweihander/assets/icons/plague-doktor.svg",
+  "name": "Plague Doktor",
+  "type": "profession",
+  "_stats": {
+    "coreVersion": "13.342",
+    "systemId": "zweihander",
+    "systemVersion": "5.4.1",
+    "createdTime": null,
+    "modifiedTime": 1735050000031,
+    "lastModifiedBy": "rivg6xcMxdlVDM8y",
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "system": {
+    "description": {
+      "@en": "As much as culture and technology have advanced in recent years, medical sciences have lagged behind and remain a relative mystery. Indeed, the discovery that sickness and disease is natural, almost a living creature that could be spread by breathing, is only a recent one. This discovery was made by Plague Doktors, who make made it their life’s calling to devote themselves to this new science and aid the science. Though many have standard training and can set bones, lance boils, and so on, Plague Doktors spend most of their time researching disease. Wearing a long, bird-like mask stuffed with herbs and spices to block out the smell of decay, Plague Doktors explore festering sores, amputate limbs, apply leech therapy and watch people die from hundreds of nasty illnesses. This includes Magickal diseases born from mutation and the stench of the Abyss that bring a host of new challenges. For patients, treatment can be as deadly as the disease – there are no antibiotics or anesthesia; the only alternatives being a prayer to the gods and a bottle of rotgut.\nSome Plague Doktors rarely leave their surgical theaters, but others are natural wanderers, traveling the world looking for cures and discovering even stranger diseases. The entire countryside is sick, so they have little remorse leaving behind ‘regulars’ in search of new breakthroughs. Highly intelligent and inquisitive, Plague Doktors employ scientific methods in their research and while some are amazing healers, their abilities are limited by their scientific knowledge. Being a Plague Doktor is grim and gruesome work; hearing the screams of your patient as you burn the stub that was once their hand, watching children cough up blood or seeing a friend succumb to mutation places a massive strain on their mental state. This can make some Plague Doktors erratic and unstable – and worse, drive others to see that the only way to find cures is to examine their symptoms again and again, which means spreading disease after disease. Then they truly become Plague Doktors!"
+    },
+    "notes": "",
+    "expert": {
+      "value": true,
+      "requirements": {
+        "skillRanks": [
+          {
+            "key": "heal",
+            "value": 1
+          }
+        ],
+        "additional": "<p>-</p>"
+      }
+    },
+    "archetype": "Expert Profession",
+    "bonusAdvances": [
+      {
+        "name": "[AB]",
+        "purchased": false
+      },
+      {
+        "name": "[BB]",
+        "purchased": false
+      },
+      {
+        "name": "[IB]",
+        "purchased": false
+      },
+      {
+        "name": "[IB]",
+        "purchased": false
+      },
+      {
+        "name": "[PB]",
+        "purchased": false
+      },
+      {
+        "name": "[WB]",
+        "purchased": false
+      },
+      {
+        "name": "[WB]",
+        "purchased": false
+      }
+    ],
+    "skillRanks": [
+      {
+        "name": "Coordination",
+        "purchased": false
+      },
+      {
+        "name": "Education",
+        "purchased": false
+      },
+      {
+        "name": "Folklore",
+        "purchased": false
+      },
+      {
+        "name": "Heal",
+        "purchased": false
+      },
+      {
+        "name": "Interrogation",
+        "purchased": false
+      },
+      {
+        "name": "Resolve",
+        "purchased": false
+      },
+      {
+        "name": "Rumor",
+        "purchased": false
+      },
+      {
+        "name": "Scrutinize",
+        "purchased": false
+      },
+      {
+        "name": "Simple Melee",
+        "purchased": false
+      },
+      {
+        "name": "Toughness",
+        "purchased": false
+      }
+    ],
+    "talents": [
+      {
+        "linkedId": "XmrQY5We9Dj3m5Yn",
+        "name": "Ambidexterity",
+        "uuid": "Compendium.zweihander.zh-talents.Item.XmrQY5We9Dj3m5Yn"
+      },
+      {
+        "linkedId": "WsD0GRMRKX8Ov0mT",
+        "name": "Impervious Mind",
+        "uuid": "Compendium.zweihander.zh-talents.Item.WsD0GRMRKX8Ov0mT"
+      },
+      {
+        "linkedId": "cIaEhW4y3xK76XWt",
+        "name": "Indifference",
+        "uuid": "Compendium.zweihander.zh-talents.Item.cIaEhW4y3xK76XWt"
+      }
+    ],
+    "professionalTrait": {
+      "name": "Blight-Born Immunity",
+      "uuid": "Compendium.zweihander.zh-traits.Item.jkfLwiYMsXPo8aqs",
+      "linkedId": null
+    },
+    "specialTrait": {
+      "name": "",
+      "uuid": "",
+      "linkedId": null
+    },
+    "drawback": {
+      "name": "Death Has Come to Town",
+      "uuid": "Compendium.zweihander.zh-drawbacks.Item.883mxHUj2vkGdijS",
+      "linkedId": null
+    },
+    "tier": ""
+  },
+  "folder": null,
+  "sort": 6400000,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {},
+  "_key": "!items!IqSKSjnsoJ8MSz6d"
+}

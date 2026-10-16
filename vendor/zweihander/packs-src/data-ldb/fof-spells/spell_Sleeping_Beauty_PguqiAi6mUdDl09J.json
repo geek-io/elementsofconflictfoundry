@@ -1,0 +1,60 @@
+{
+  "_id": "PguqiAi6mUdDl09J",
+  "effects": [],
+  "img": "systems/zweihander/assets/icons/wizard-staff.svg",
+  "name": "Sleeping Beauty",
+  "type": "spell",
+  "_stats": {
+    "coreVersion": "13.342",
+    "systemId": "zweihander",
+    "systemVersion": "5.4.1",
+    "createdTime": 1745429303231,
+    "modifiedTime": 1745429303231,
+    "lastModifiedBy": "rivg6xcMxdlVDM8y",
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "system": {
+    "description": {
+      "@en": "<p>But thy eternal summer shall not fade . . .</p>"
+    },
+    "notes": "",
+    "rules": {
+      "effect": {
+        "@en": "<p>After successfully casting, the fruit is preserved forever but filled with a sweet, vile poison. If eaten (and the foe cannot or fails to Resist using Toughness), they temporarily reduce all their Primary Attribute Bonuses by -6. If any of these values equal zero, they are knocked Unconscious. At the end of the duration, Primary Attribute Bonuses restore by +1 every twenty-four hours.</p>"
+      },
+      "criticalSuccess": {
+        "@en": "The foe cannot Resist."
+      },
+      "criticalFailure": {
+        "@en": "The fruit spoils before your eyes, and you suffer the effects instead."
+      },
+      "reagents": {
+        "@en": "One whole fruit, which you polish with cloth (expended)"
+      }
+    },
+    "tradition": "Witchcraft",
+    "principle": "Intermediate Tier",
+    "distance": "Self",
+    "duration": {
+      "value": "thirteen days",
+      "label": "Thirteen days",
+      "formula": {
+        "override": false
+      },
+      "base": "[WB]",
+      "bonus": 0,
+      "unit": "days"
+    },
+    "castingTime": "1 Minute",
+    "castingCost": 2
+  },
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {},
+  "_key": "!items!PguqiAi6mUdDl09J"
+}

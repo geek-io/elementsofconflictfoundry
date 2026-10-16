@@ -1,0 +1,144 @@
+{
+  "_id": "l2UeXRBOYthOu61d",
+  "effects": [],
+  "img": "systems/zweihander/assets/icons/scribe.svg",
+  "name": "Scribe",
+  "type": "profession",
+  "_stats": {
+    "coreVersion": "13.342",
+    "systemId": "zweihander",
+    "systemVersion": "5.4.1",
+    "createdTime": null,
+    "modifiedTime": 1734990834140,
+    "lastModifiedBy": "rivg6xcMxdlVDM8y",
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "system": {
+    "description": {
+      "@en": "Although there are wealthy nations that have developed fledgling printing-press technologies, elsewhere both the creation and replication of messages, proclamations, verbose legal texts, books and educational works as well as letters and deeds, remains the province of the Scribe. As professional readers and writers, Scribes work for those who can read – because they can afford to hire a Scribe – and those who cannot. They also need to be fast and to be able to write plain text as well as elaborate calligraphy. Many Scribes also serve as translators, turning one language into another, so that understanding can be reached between nation and races. Though the humble Scribe rarely admits it, the lives and fates of hundreds of thousands rest in their quills and ink pots.\nIt is rare that a Scribe is ousted from their work hunched over their desk, possible reasons include the forging of fake documents, the spreading of false information or propaganda, even anarchist screeds. Well-educated and quick of both wit and hand, one glance at noble’s hand and they can copy the script style as if it was a simple drawing of a flower. So many a Scribe has made themselves extra money by writing fake pardons. Such talents can land them in trouble, as many Scribes with broken and worthless hands can attest. Once ousted, the dark corners of reality their skills can take them to rarely appreciate those who can read dread scripts and translate their meaning; ask a blind Scribe how they lost their sight, and see them weep as they tell their tale of hubris and woe."
+    },
+    "notes": "",
+    "expert": {
+      "value": false,
+      "requirements": {
+        "skillRanks": [],
+        "additional": ""
+      }
+    },
+    "archetype": "Academic",
+    "bonusAdvances": [
+      {
+        "name": "[AB]",
+        "purchased": false
+      },
+      {
+        "name": "[AB]",
+        "purchased": false
+      },
+      {
+        "name": "[IB]",
+        "purchased": false
+      },
+      {
+        "name": "[IB]",
+        "purchased": false
+      },
+      {
+        "name": "[PB]",
+        "purchased": false
+      },
+      {
+        "name": "[WB]",
+        "purchased": false
+      },
+      {
+        "name": "[WB]",
+        "purchased": false
+      }
+    ],
+    "skillRanks": [
+      {
+        "name": "Awareness",
+        "purchased": false
+      },
+      {
+        "name": "Coordination",
+        "purchased": false
+      },
+      {
+        "name": "Counterfeit",
+        "purchased": false
+      },
+      {
+        "name": "Education",
+        "purchased": false
+      },
+      {
+        "name": "Folklore",
+        "purchased": false
+      },
+      {
+        "name": "Resolve",
+        "purchased": false
+      },
+      {
+        "name": "Rumor",
+        "purchased": false
+      },
+      {
+        "name": "Scrutinize",
+        "purchased": false
+      },
+      {
+        "name": "Simple Melee",
+        "purchased": false
+      },
+      {
+        "name": "Tradecraft",
+        "purchased": false
+      }
+    ],
+    "talents": [
+      {
+        "linkedId": "UMcOubezruAYIWze",
+        "name": "Determination",
+        "uuid": "Compendium.zweihander.zh-talents.Item.UMcOubezruAYIWze"
+      },
+      {
+        "linkedId": "sD4Et1dOsSjT3fPt",
+        "name": "Incredible Numeration",
+        "uuid": "Compendium.zweihander.zh-talents.Item.sD4Et1dOsSjT3fPt"
+      },
+      {
+        "linkedId": "5TzEbf1VOmPfpolL",
+        "name": "Multilingual",
+        "uuid": "Compendium.zweihander.zh-talents.Item.5TzEbf1VOmPfpolL"
+      }
+    ],
+    "professionalTrait": {
+      "name": "Scrivener’s Speed",
+      "uuid": "Compendium.zweihander.zh-traits.Item.SVF4DsF4pHKudLqf",
+      "linkedId": null
+    },
+    "specialTrait": {
+      "name": "",
+      "uuid": "",
+      "linkedId": null
+    },
+    "drawback": {
+      "name": "",
+      "uuid": "",
+      "linkedId": null
+    },
+    "tier": ""
+  },
+  "folder": null,
+  "sort": 13600000,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {},
+  "_key": "!items!l2UeXRBOYthOu61d"
+}

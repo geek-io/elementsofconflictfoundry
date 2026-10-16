@@ -1,0 +1,60 @@
+{
+  "_id": "wfw9oI6AS3lHgUbb",
+  "effects": [],
+  "img": "systems/zweihander/assets/icons/spell-book.svg",
+  "name": "Death Seal",
+  "type": "spell",
+  "_stats": {
+    "coreVersion": "13.342",
+    "systemId": "zweihander",
+    "systemVersion": "5.4.1",
+    "createdTime": 1745429303237,
+    "modifiedTime": 1745429303237,
+    "lastModifiedBy": "rivg6xcMxdlVDM8y",
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "system": {
+    "description": {
+      "@en": "<p>This mausoleum shall never be trespassed against, lest the intruders risk elemental wrath . . .</p>"
+    },
+    "notes": "",
+    "rules": {
+      "effect": {
+        "@en": "<p>After successfully casting, the monument you touched cannot be broken or opened by normal means. You begin to Bleed, no matter whether you succeeded or failed at using this Spell.</p>"
+      },
+      "criticalSuccess": {
+        "@en": "You do not Bleed."
+      },
+      "criticalFailure": {
+        "@en": "The monument and its contents explode, causing [[/roll 3D10+3]] Damage from fire."
+      },
+      "reagents": {
+        "@en": "Any monument to the dead (such as a coffin, grave or undercroft), sealed with your own blood"
+      }
+    },
+    "tradition": "Common",
+    "principle": "Intermediate Tier",
+    "distance": "By Touch",
+    "duration": {
+      "value": "forever",
+      "label": "Forever",
+      "formula": {
+        "override": false
+      },
+      "base": "[WB]",
+      "bonus": 0,
+      "unit": "Forever"
+    },
+    "castingTime": "1 Hour",
+    "castingCost": null
+  },
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {},
+  "_key": "!items!wfw9oI6AS3lHgUbb"
+}

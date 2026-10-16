@@ -1,0 +1,37 @@
+{
+  "_id": "9a0cGzx1EZ72GpX7",
+  "effects": [],
+  "img": "systems/zweihander/assets/icons/magic-portal.svg",
+  "name": "Hocus Pocus",
+  "type": "trait",
+  "_stats": {
+    "coreVersion": "13.342",
+    "systemId": "zweihander",
+    "systemVersion": "5.4.1",
+    "createdTime": null,
+    "modifiedTime": 1734974463035,
+    "lastModifiedBy": "rivg6xcMxdlVDM8y",
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "system": {
+    "description": {
+      "@en": "Gnomes have a penchant for manifesting sorcerous falsehoods which cannot be ignored."
+    },
+    "notes": "",
+    "rules": {
+      "effect": {
+        "@en": "Whenever a foe fails to Resist your Magicks, they Critically Fail instead."
+      }
+    },
+    "category": "ancestral"
+  },
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {},
+  "_key": "!items!9a0cGzx1EZ72GpX7"
+}

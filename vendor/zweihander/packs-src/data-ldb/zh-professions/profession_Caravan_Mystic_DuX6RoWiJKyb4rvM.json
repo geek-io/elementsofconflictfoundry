@@ -1,0 +1,149 @@
+{
+  "_id": "DuX6RoWiJKyb4rvM",
+  "effects": [],
+  "img": "systems/zweihander/assets/icons/dragon-orb.svg",
+  "name": "Caravan Mystic",
+  "type": "profession",
+  "_stats": {
+    "coreVersion": "13.342",
+    "systemId": "zweihander",
+    "systemVersion": "5.4.1",
+    "createdTime": null,
+    "modifiedTime": 1735050913331,
+    "lastModifiedBy": "rivg6xcMxdlVDM8y",
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "system": {
+    "description": {
+      "@en": "At every festival or carnival, in a far-off corner there often sits a lone caravan – one resplendent in faded colors and baubles, an enticing presence for anyone seeking to know their future. These enigmatic huts on wheels are home to the Caravan Mystic – an itinerant fortune teller and fate weaver. Caravan Mystics spend their lives wandering from town to town, offering their services as a seer and a scryer for a modest fee. Many brush them aside as peddlers of lies, but the Caravan Mystic has utmost faith in their craft. Using instruments such as tarot cards, bird bones and crystal balls, they can read the stars and feel the winds of the universe to prognosticate the fate to come. Caravan Mystics are not traditional arcanists, but they can tap slightly into the beyond for their craft. Their predictions may not always be accurate, but at times an almost preternatural accuracy overtakes them – a foreboding omen that takes over their body and leaves them weak.\\nCaravan Mystics are always travelling, and often end up on explorations and expeditions with little inkling of their own safety. They find the nature of fortune and fate terribly fascinating, so following occult activities is not an uncommon practice. Risking life and soul, some Caravan Mystics enter into fugue states they never come out of, clawing at their eyes as revelation upon revelation is divulged to them, constantly muttering of the things they see in their visions, until they die of starvation. Caravan Mystics are rarely respected or given aid, so many are left to rot in insanity."
+    },
+    "notes": "",
+    "expert": {
+      "value": true,
+      "requirements": {
+        "skillRanks": [
+          {
+            "key": "folklore",
+            "value": 1
+          }
+        ],
+        "additional": "<p>-</p>"
+      }
+    },
+    "archetype": "Expert Profession",
+    "bonusAdvances": [
+      {
+        "name": "[FB]",
+        "purchased": false
+      },
+      {
+        "name": "[FB]",
+        "purchased": false
+      },
+      {
+        "name": "[IB]",
+        "purchased": false
+      },
+      {
+        "name": "[IB]",
+        "purchased": false
+      },
+      {
+        "name": "[PB]",
+        "purchased": false
+      },
+      {
+        "name": "[WB]",
+        "purchased": false
+      },
+      {
+        "name": "[WB]",
+        "purchased": false
+      }
+    ],
+    "skillRanks": [
+      {
+        "name": "Eavesdrop",
+        "purchased": false
+      },
+      {
+        "name": "Education",
+        "purchased": false
+      },
+      {
+        "name": "Folklore",
+        "purchased": false
+      },
+      {
+        "name": "Guile",
+        "purchased": false
+      },
+      {
+        "name": "Handle Animal",
+        "purchased": false
+      },
+      {
+        "name": "Interrogation",
+        "purchased": false
+      },
+      {
+        "name": "Navigation",
+        "purchased": false
+      },
+      {
+        "name": "Rumor",
+        "purchased": false
+      },
+      {
+        "name": "Simple Melee",
+        "purchased": false
+      },
+      {
+        "name": "Survival",
+        "purchased": false
+      }
+    ],
+    "talents": [
+      {
+        "linkedId": "tLtCUfaidoxc4bAr",
+        "name": "Azimuth",
+        "uuid": "Compendium.zweihander.zh-talents.Item.tLtCUfaidoxc4bAr"
+      },
+      {
+        "linkedId": "AHui6a3KaaMWrKp1",
+        "name": "Forked Tongue",
+        "uuid": "Compendium.zweihander.zh-talents.Item.AHui6a3KaaMWrKp1"
+      },
+      {
+        "linkedId": "WsD0GRMRKX8Ov0mT",
+        "name": "Impervious Mind",
+        "uuid": "Compendium.zweihander.zh-talents.Item.WsD0GRMRKX8Ov0mT"
+      }
+    ],
+    "professionalTrait": {
+      "name": "Weaver of Fate",
+      "uuid": "Compendium.zweihander.zh-traits.Item.r8K7SQ1t03Bmh0Di",
+      "linkedId": null
+    },
+    "specialTrait": {
+      "name": "",
+      "uuid": "",
+      "linkedId": null
+    },
+    "drawback": {
+      "name": "Fugue State",
+      "uuid": "Compendium.zweihander.zh-drawbacks.Item.ftmWK646LfJ3iMz1",
+      "linkedId": null
+    },
+    "tier": ""
+  },
+  "folder": null,
+  "sort": 4500000,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {},
+  "_key": "!items!DuX6RoWiJKyb4rvM"
+}

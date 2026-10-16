@@ -1,0 +1,149 @@
+{
+  "_id": "pJJwkmwEibp0Dnxl",
+  "effects": [],
+  "img": "systems/zweihander/assets/icons/crosshair-arrow.svg",
+  "name": "Sharpshooter",
+  "type": "profession",
+  "_stats": {
+    "coreVersion": "13.342",
+    "systemId": "zweihander",
+    "systemVersion": "5.4.1",
+    "createdTime": null,
+    "modifiedTime": 1735052701427,
+    "lastModifiedBy": "rivg6xcMxdlVDM8y",
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "system": {
+    "description": {
+      "@en": "Since the earliest days of war, war parties and armies have strived to put distance between themselves and their opponents – resulting in such weaponry as spears, bows and more recently modern gunpowder weaponry. Even then, these weapons are often difficult to master with precise skill, but that is actually what the Sharpshooter has accomplished. Unlike their Pistolier kin, the Sharpshooter is an unparalleled targeteer who specializes in strung weapons, able to strike and pierce a coin out of the air like a snipe can snatch a worm. Their finesse is prized in many arenas, with some performing in tournaments during summer months and turning to hunting in the colder seasons The Sharpshooter is silent, calm and collected, able to drive an arrow through a helm’s eye slit at over 50 paces. It is no wonder why so many are acclaimed, travelling from tourney to tourney, commanding large purses and the accolades of the nobles who sponsor them as they put on display their sharpshooting skills.\\nSharpshooters are not necessarily great warriors, but they are great shots do appreciate opportunities to test their skill. There is no greater place to test their skill than on the field of battle where they are employed to target important individuals. In comparison to the simple man-at-arms, the tactics employed by Sharpshooters take advantage of their skill, their stealth, and their ability to separate the man from the target. It is no longer another man they are targeting with a shot, but rather just a bullseye to shoot – and another purse to be won depending upon the terms of their contract. Both this disconnect and willingness to kill another being tends to break at the most inopportune of times, like when they are given the order to attack a helpless serf or their younglings. This sedition leaves them broken and doubting their entire life, as they realize all they have been doing is killing poor souls their whole career."
+    },
+    "notes": "",
+    "expert": {
+      "value": true,
+      "requirements": {
+        "skillRanks": [
+          {
+            "key": "coordination",
+            "value": 1
+          }
+        ],
+        "additional": "<p>-</p>"
+      }
+    },
+    "archetype": "Expert Profession",
+    "bonusAdvances": [
+      {
+        "name": "[AB]",
+        "purchased": false
+      },
+      {
+        "name": "[AB]",
+        "purchased": false
+      },
+      {
+        "name": "[BB]",
+        "purchased": false
+      },
+      {
+        "name": "[CB]",
+        "purchased": false
+      },
+      {
+        "name": "[IB]",
+        "purchased": false
+      },
+      {
+        "name": "[PB]",
+        "purchased": false
+      },
+      {
+        "name": "[PB]",
+        "purchased": false
+      }
+    ],
+    "skillRanks": [
+      {
+        "name": "Athletics",
+        "purchased": false
+      },
+      {
+        "name": "Awareness",
+        "purchased": false
+      },
+      {
+        "name": "Coordination",
+        "purchased": false
+      },
+      {
+        "name": "Folklore",
+        "purchased": false
+      },
+      {
+        "name": "Gamble",
+        "purchased": false
+      },
+      {
+        "name": "Martial Ranged",
+        "purchased": false
+      },
+      {
+        "name": "Rumor",
+        "purchased": false
+      },
+      {
+        "name": "Simple Ranged",
+        "purchased": false
+      },
+      {
+        "name": "Stealth",
+        "purchased": false
+      },
+      {
+        "name": "Survival",
+        "purchased": false
+      }
+    ],
+    "talents": [
+      {
+        "linkedId": "jQEJGq6zzxjVcTZP",
+        "name": "Arbalest’s Speed",
+        "uuid": "Compendium.zweihander.zh-talents.Item.jQEJGq6zzxjVcTZP"
+      },
+      {
+        "linkedId": "Iiu9G1OsUFo0Tiw6",
+        "name": "Instincts",
+        "uuid": "Compendium.zweihander.zh-talents.Item.Iiu9G1OsUFo0Tiw6"
+      },
+      {
+        "linkedId": "GVpa5lVWCJJbor4m",
+        "name": "Take ‘em Down",
+        "uuid": "Compendium.zweihander.zh-talents.Item.GVpa5lVWCJJbor4m"
+      }
+    ],
+    "professionalTrait": {
+      "name": "Precision Shots",
+      "uuid": "Compendium.zweihander.zh-traits.Item.VWwMoT1IKL1ONoD2",
+      "linkedId": null
+    },
+    "specialTrait": {
+      "name": "",
+      "uuid": "",
+      "linkedId": null
+    },
+    "drawback": {
+      "name": "Psychotic Break",
+      "uuid": "Compendium.zweihander.zh-drawbacks.Item.pJwERZsv8Is9ijRD",
+      "linkedId": null
+    },
+    "tier": ""
+  },
+  "folder": null,
+  "sort": 14700000,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {},
+  "_key": "!items!pJJwkmwEibp0Dnxl"
+}

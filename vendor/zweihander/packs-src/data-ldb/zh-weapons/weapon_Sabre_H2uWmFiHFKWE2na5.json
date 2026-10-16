@@ -1,0 +1,72 @@
+{
+  "_id": "H2uWmFiHFKWE2na5",
+  "effects": [],
+  "img": "systems/zweihander/assets/icons/blade-fall.svg",
+  "name": "Sabre",
+  "type": "weapon",
+  "_stats": {
+    "coreVersion": "13.342",
+    "systemId": "zweihander",
+    "systemVersion": "5.4.1",
+    "createdTime": null,
+    "modifiedTime": 1745255864826,
+    "lastModifiedBy": "rivg6xcMxdlVDM8y",
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "system": {
+    "description": {
+      "@en": "<p>Not to be confused with the fanciful court sword, this is the standard weapon of civilians. It&rsquo;s a deadly tool in the proper hands, but little more than an unwieldy sharp crowbar for the inept.</p>"
+    },
+    "notes": "",
+    "price": {
+      "bp": 0,
+      "gc": 6,
+      "ss": 0,
+      "ad": null
+    },
+    "encumbrance": 1,
+    "carried": true,
+    "weaponType": "Bladed",
+    "equipped": false,
+    "associatedSkill": "Martial Melee",
+    "ranged": {
+      "load": 0,
+      "value": false
+    },
+    "handling": "One-handed",
+    "qualities": [
+      "Compendium.zweihander.zh-qualities.Item.8FWfohgwFCFmsfFR"
+    ],
+    "distance": {
+      "value": "Engaged",
+      "base": "[PB]",
+      "bonus": 0
+    },
+    "damage": {
+      "formula": {
+        "override": false,
+        "value": "[CB] + (1+[#])d6x6"
+      },
+      "attributeBonus": "[CB]",
+      "number": 1,
+      "die": "d6",
+      "bonus": 0,
+      "fury": {
+        "value": true,
+        "explodesOn": [
+          "6"
+        ]
+      }
+    },
+    "load": 0
+  },
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {},
+  "_key": "!items!H2uWmFiHFKWE2na5"
+}

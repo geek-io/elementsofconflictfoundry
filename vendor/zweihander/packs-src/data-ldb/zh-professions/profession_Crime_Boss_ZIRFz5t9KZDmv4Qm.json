@@ -1,0 +1,149 @@
+{
+  "_id": "ZIRFz5t9KZDmv4Qm",
+  "effects": [],
+  "img": "systems/zweihander/assets/icons/crime_boss.svg",
+  "name": "Crime Boss",
+  "type": "profession",
+  "_stats": {
+    "coreVersion": "13.342",
+    "systemId": "zweihander",
+    "systemVersion": "5.4.1",
+    "createdTime": null,
+    "modifiedTime": 1735047628500,
+    "lastModifiedBy": "rivg6xcMxdlVDM8y",
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "system": {
+    "description": {
+      "@en": "The world abounds with professional thugs and leg-breakers, but few ever realize that they are part of a larger enterprise. In the long run, few make a long and prosperous life out of crime, but the Crime Boss is one who has. They have risen from their hard-scrabble start on the streets to make something of themselves, to better themselves, to even become respectable. Crime Bosses lead entire networks of gangs, directing their activities, keeping them paid while taking a cut and with a bribe or three, protecting them from the law. They often achieve wealth and influence, even as much as any lord or lady, as few wish to incur the wrath of a band of cutthroats and bruisers. Those Crime Bosses that survive are not foolish or brash, often being subtle strategists, knowing when to eliminate threats; who to intimidate, bribe or blackmail; and where and when to expand their business interests and their territories. They always seem like friends at first sight, but they are ruthless behind the smile and they know where the bodies are buried – and where the bodies should be buried.\nCrime Bosses possess low cunning and perplexity, but their cleverness is not the only reason why they lead city-wide criminal networks – they are quick and stealthy, able to slit throats and coin purses with a skill beyond the men who work for them. They live paranoid lives, fearing betrayal from below and arrest from above, but they know how to survive close scrapes and near misses and are ready to retaliate should the need arise. Their paranoia claws at the Crime Boss’ mind, pushing them to acts of brutality, not as acts of retaliation, but as a pre-emptive strike before some upstarts makes a jealous and inevitably bloody bid for power (just as they once did before they were Crime Bosses). This drives them to take a tighter grip on their gangs and their operations and so they turn from what was once a despised but necessary evil into a maniac who controls a town’s underworld with a bloody iron fist."
+    },
+    "notes": "",
+    "expert": {
+      "value": true,
+      "requirements": {
+        "skillRanks": [
+          {
+            "key": "skulduggery",
+            "value": 2
+          }
+        ],
+        "additional": "<p>-</p>"
+      }
+    },
+    "archetype": "Expert Profession",
+    "bonusAdvances": [
+      {
+        "name": "[BB]",
+        "purchased": false
+      },
+      {
+        "name": "[BB]",
+        "purchased": false
+      },
+      {
+        "name": "[FB]",
+        "purchased": false
+      },
+      {
+        "name": "[FB]",
+        "purchased": false
+      },
+      {
+        "name": "[PB]",
+        "purchased": false
+      },
+      {
+        "name": "[WB]",
+        "purchased": false
+      },
+      {
+        "name": "[WB]",
+        "purchased": false
+      }
+    ],
+    "skillRanks": [
+      {
+        "name": "Interrogation",
+        "purchased": false
+      },
+      {
+        "name": "Intimidate",
+        "purchased": false
+      },
+      {
+        "name": "Leadership",
+        "purchased": false
+      },
+      {
+        "name": "Resolve",
+        "purchased": false
+      },
+      {
+        "name": "Rumor",
+        "purchased": false
+      },
+      {
+        "name": "Scrutinize",
+        "purchased": false
+      },
+      {
+        "name": "Simple Melee",
+        "purchased": false
+      },
+      {
+        "name": "Simple Ranged",
+        "purchased": false
+      },
+      {
+        "name": "Skulduggery",
+        "purchased": false
+      },
+      {
+        "name": "Toughness",
+        "purchased": false
+      }
+    ],
+    "talents": [
+      {
+        "linkedId": "i9qfMytftadGhnm3",
+        "name": "Appalling Mien",
+        "uuid": "Compendium.zweihander.zh-talents.Item.i9qfMytftadGhnm3"
+      },
+      {
+        "linkedId": "S2wqzahFwdc8uslR",
+        "name": "Gangster Grip",
+        "uuid": "Compendium.zweihander.zh-talents.Item.S2wqzahFwdc8uslR"
+      },
+      {
+        "linkedId": "iox3y41c5QOhZn0Y",
+        "name": "Menacing Demeanor",
+        "uuid": "Compendium.zweihander.zh-talents.Item.iox3y41c5QOhZn0Y"
+      }
+    ],
+    "professionalTrait": {
+      "name": "Skin O’ My Teeth",
+      "uuid": "Compendium.zweihander.zh-traits.Item.jRYQ5el9iMaovvhg",
+      "linkedId": null
+    },
+    "specialTrait": {
+      "name": "",
+      "uuid": "",
+      "linkedId": null
+    },
+    "drawback": {
+      "name": "Public Enemy",
+      "uuid": "Compendium.zweihander.zh-drawbacks.Item.ltGInmtf2UcPfJ22",
+      "linkedId": null
+    },
+    "tier": ""
+  },
+  "folder": null,
+  "sort": 10900000,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {},
+  "_key": "!items!ZIRFz5t9KZDmv4Qm"
+}

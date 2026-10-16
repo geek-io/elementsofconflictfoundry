@@ -1,0 +1,44 @@
+{
+  "_id": "SQVAFbM5hqJ0tsrC",
+  "effects": [],
+  "img": "systems/zweihander/assets/icons/breastplate.svg",
+  "name": "Munitions Plate",
+  "type": "armor",
+  "_stats": {
+    "coreVersion": "13.342",
+    "systemId": "zweihander",
+    "systemVersion": "5.4.1",
+    "createdTime": null,
+    "modifiedTime": 1745250819697,
+    "lastModifiedBy": "rivg6xcMxdlVDM8y",
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "system": {
+    "description": {
+      "@en": "This is none other than second- hand plate armor used to outfit state-sponsored soldiers in a hurry. Although it only covers the torso and upper limbs, it is still the best armor you can get if you weren’t born with a silver spoon in your mouth. It tends to rattle terribly when running and grates annoyingly when walking."
+    },
+    "notes": "",
+    "price": {
+      "bp": 0,
+      "gc": 88,
+      "ss": 0,
+      "ad": null
+    },
+    "encumbrance": 6,
+    "carried": true,
+    "equipped": false,
+    "qualities": [
+      "Compendium.zweihander.zh-qualities.Item.kkftpWRfSb4qazzJ"
+    ],
+    "damageThresholdModifier": 5
+  },
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {},
+  "_key": "!items!SQVAFbM5hqJ0tsrC"
+}

@@ -1,0 +1,37 @@
+{
+  "_id": "Hf7R1lPc0aWqXsBg",
+  "effects": [],
+  "img": "systems/zweihander/assets/icons/striped-sword.svg",
+  "name": "Chosen One",
+  "type": "trait",
+  "_stats": {
+    "coreVersion": "13.342",
+    "systemId": "zweihander",
+    "systemVersion": "5.4.1",
+    "createdTime": null,
+    "modifiedTime": 1735911103050,
+    "lastModifiedBy": "rivg6xcMxdlVDM8y",
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "system": {
+    "description": {
+      "@en": "In every generation, there is a chosen one. They alone will stand against the vampires, demons and forces of darkness. They are the slayer."
+    },
+    "notes": "",
+    "rules": {
+      "effect": {
+        "@en": "Any weapon you wield is always under the effects of the Generalist Magick called Anoint Weapon (as outlined under Generalist Magick from the Grimoire chapter in ZWEIHÄNDER). You also understand how to use the Ritual of Blessed Sacrament, but only to create holy water, despite not having the Special Trait of Divine Magick. Substitute Folklore in place of Incantation when using the Ritual of Blessed Sacrament, but you cannot Channel Power."
+      }
+    },
+    "category": "professional"
+  },
+  "folder": null,
+  "sort": 5800000,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {},
+  "_key": "!items!Hf7R1lPc0aWqXsBg"
+}

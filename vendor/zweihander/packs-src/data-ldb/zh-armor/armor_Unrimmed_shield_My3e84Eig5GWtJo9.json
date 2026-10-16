@@ -1,0 +1,45 @@
+{
+  "_id": "My3e84Eig5GWtJo9",
+  "effects": [],
+  "img": "systems/zweihander/assets/icons/packed-planks.svg",
+  "name": "Unrimmed Shield",
+  "type": "armor",
+  "_stats": {
+    "coreVersion": "13.342",
+    "systemId": "zweihander",
+    "systemVersion": "5.4.1",
+    "createdTime": null,
+    "modifiedTime": 1745251030495,
+    "lastModifiedBy": "rivg6xcMxdlVDM8y",
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "system": {
+    "description": {
+      "@en": "Considered to be a cheap form of defense, an unrimmed shield is usually made from a bucket lid or other poorly-made bits of lumber and bound together with a leather strap. In desperation, they are typically interposed to entirely absorb a single blow... only to shatter into splinters afterwards."
+    },
+    "notes": "One-handed",
+    "price": {
+      "bp": 0,
+      "gc": 0,
+      "ss": 2,
+      "ad": null
+    },
+    "encumbrance": 1,
+    "carried": true,
+    "equipped": false,
+    "qualities": [
+      "Compendium.zweihander.zh-qualities.Item.RihtCN1KtuSrnTxW",
+      "Compendium.zweihander.zh-qualities.Item.wXih2ldbp63137Dr"
+    ],
+    "damageThresholdModifier": 0
+  },
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {},
+  "_key": "!items!My3e84Eig5GWtJo9"
+}

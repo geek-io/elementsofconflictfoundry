@@ -1,0 +1,60 @@
+{
+  "_id": "n5Bop1gPGXYRHTbH",
+  "effects": [],
+  "img": "systems/zweihander/assets/icons/wizard-staff.svg",
+  "name": "Indomitable Spirit",
+  "type": "spell",
+  "_stats": {
+    "coreVersion": "13.342",
+    "systemId": "zweihander",
+    "systemVersion": "5.4.1",
+    "createdTime": null,
+    "modifiedTime": 1745410540898,
+    "lastModifiedBy": "rivg6xcMxdlVDM8y",
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "system": {
+    "description": {
+      "@en": "By crushing the shell in-hand, you are able to grant a minor gift of protection to another."
+    },
+    "notes": "",
+    "rules": {
+      "effect": {
+        "@en": "After successfully casting this spell, the person you touch increases their Peril Threshold by 3."
+      },
+      "criticalSuccess": {
+        "@en": "As above and they immediately move one step up the Peril Condition Track positively."
+      },
+      "criticalFailure": {
+        "@en": "With but a touch, the strength withers away from the intended beneficiary of this Magick. They suffer a -3 to Peril Threshold for the spell’s Duration."
+      },
+      "reagents": {
+        "@en": "A shell of a tortoise (expended)"
+      }
+    },
+    "tradition": "Generalist",
+    "principle": "Generalist",
+    "distance": "Any one person you can touch",
+    "duration": {
+      "value": "instantaneous",
+      "label": "[WB] + 3 hours",
+      "formula": {
+        "override": true
+      },
+      "base": "[WB]",
+      "bonus": 3,
+      "unit": "hours"
+    },
+    "castingTime": "1 min",
+    "castingCost": 0
+  },
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {},
+  "_key": "!items!n5Bop1gPGXYRHTbH"
+}

@@ -1,0 +1,107 @@
+{
+  "_id": "RJrfJL62EfDgI3qU",
+  "displayRoll": true,
+  "formula": "1d100",
+  "img": "icons/svg/d20-grey.svg",
+  "name": "G&P Characters: Social Class",
+  "replacement": true,
+  "results": [
+    {
+      "_id": "zdewJZPjW5ebHzPK",
+      "drawn": false,
+      "flags": {},
+      "img": "icons/svg/d20-black.svg",
+      "range": [
+        1,
+        60
+      ],
+      "type": "text",
+      "weight": 1,
+      "_stats": {
+        "coreVersion": "13.342",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Lowborn ([[3d10+3]] brass pennies)",
+      "name": "",
+      "_key": "!tables.results!RJrfJL62EfDgI3qU.zdewJZPjW5ebHzPK"
+    },
+    {
+      "_id": "LowOn2crGpCBvkXf",
+      "drawn": false,
+      "flags": {},
+      "img": "icons/svg/d20-black.svg",
+      "range": [
+        61,
+        90
+      ],
+      "type": "text",
+      "weight": 1,
+      "_stats": {
+        "coreVersion": "13.342",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Burgher ([[2d10+2]] silver shillings)",
+      "name": "",
+      "_key": "!tables.results!RJrfJL62EfDgI3qU.LowOn2crGpCBvkXf"
+    },
+    {
+      "_id": "KXCpXVl9iMd9iZnl",
+      "drawn": false,
+      "flags": {},
+      "img": "icons/svg/d20-black.svg",
+      "range": [
+        91,
+        100
+      ],
+      "type": "text",
+      "weight": 1,
+      "_stats": {
+        "coreVersion": "13.342",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Aristocrat ([[1d10+1]] gold crowns)",
+      "name": "",
+      "_key": "!tables.results!RJrfJL62EfDgI3qU.KXCpXVl9iMd9iZnl"
+    }
+  ],
+  "_stats": {
+    "coreVersion": "13.342",
+    "systemId": null,
+    "systemVersion": null,
+    "createdTime": null,
+    "modifiedTime": null,
+    "lastModifiedBy": null,
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "description": "",
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {},
+  "_key": "!tables!RJrfJL62EfDgI3qU"
+}

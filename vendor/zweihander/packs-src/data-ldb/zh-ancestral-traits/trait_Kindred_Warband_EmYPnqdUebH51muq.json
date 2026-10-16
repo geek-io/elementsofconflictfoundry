@@ -1,0 +1,37 @@
+{
+  "_id": "EmYPnqdUebH51muq",
+  "effects": [],
+  "img": "systems/zweihander/assets/icons/minions.svg",
+  "name": "Kindred Warband",
+  "type": "trait",
+  "_stats": {
+    "coreVersion": "13.342",
+    "systemId": "zweihander",
+    "systemVersion": "5.4.1",
+    "createdTime": null,
+    "modifiedTime": 1734974463038,
+    "lastModifiedBy": "rivg6xcMxdlVDM8y",
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "system": {
+    "description": {
+      "@en": "Elves can be perceived as being particularly aloof and taciturn, sticking to their own. Contemptible as their disdain towards others may be, it is this preternatural intuition that makes Elves incredibly dangerous when fighting side-by-side."
+    },
+    "notes": "",
+    "rules": {
+      "effect": {
+        "@en": "When fighting alongside other Elves, you gain a +10 Base Chance to strike with Attack Actions and Perilous Stunts."
+      }
+    },
+    "category": "ancestral"
+  },
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {},
+  "_key": "!items!EmYPnqdUebH51muq"
+}

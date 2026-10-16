@@ -1,0 +1,149 @@
+{
+  "_id": "xgb872RMeBrTTuSo",
+  "effects": [],
+  "img": "systems/zweihander/assets/icons/chattel-slaver.svg",
+  "name": "Chattel Slaver",
+  "type": "profession",
+  "_stats": {
+    "coreVersion": "13.342",
+    "systemId": "zweihander",
+    "systemVersion": "5.4.1",
+    "createdTime": null,
+    "modifiedTime": 1735047575737,
+    "lastModifiedBy": "rivg6xcMxdlVDM8y",
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "system": {
+    "description": {
+      "@en": "It is not just the incursions of Chaos and Orx hordes that those living on the fringes of society have to fear. There is also the danger that might be kidnapped and sold into slavery. Although slavery no longer exists as an institution in most civilized lands, there are some regions that are still run off the backs of slave labor and there is constant demand for slaves in these regions. Supplying this demand is the Chattel Slaver, a villainous figure who rounds up and sell others, but also works as a slave master and pit boss. Some Chattel Slavers simply deal in bondsmen or indentured servants, who work for them a certain time until their debts are paid, but most exploit the peoples of other lands, capturing and shipping them far away to be worked until their deaths. The very worst of them take vile delight in subjugating others, lashing their slaves for the slightest infraction or forcing themselves upon their slaves. Chattel Slavers are rarely tolerated in civilized lands, but this does not stop their dark trade continuing in the furthest recesses of the world.\nChattel Slavers who turn towards adventuring find use in their cruelty and violence, using their sword to speak when the crack of a rawhide whip is not loud enough. They also find a strange kindred with races that power their economies with slaves, such as the Siabra and the Dvergar. Some Chattel Slavers actually revoke their ways and try to reform themselves, becoming abolitionists who seek to undo slavery and all its consequences, but they are rare. The dark gods love a Chattel Slaver, for they are basically already doing their work for them – instilling fear, hatred and uprising among the weak. Vile demon lords will often welcome a Chattel Slaver with open arms, giving them red-hot brands and barbed whips to continue with their foul duties."
+    },
+    "notes": "",
+    "expert": {
+      "value": true,
+      "requirements": {
+        "skillRanks": [
+          {
+            "key": "interrogation",
+            "value": 1
+          }
+        ],
+        "additional": "<p>-</p>"
+      }
+    },
+    "archetype": "Expert Profession",
+    "bonusAdvances": [
+      {
+        "name": "[AB]",
+        "purchased": false
+      },
+      {
+        "name": "[BB]",
+        "purchased": false
+      },
+      {
+        "name": "[BB]",
+        "purchased": false
+      },
+      {
+        "name": "[CB]",
+        "purchased": false
+      },
+      {
+        "name": "[FB]",
+        "purchased": false
+      },
+      {
+        "name": "[WB]",
+        "purchased": false
+      },
+      {
+        "name": "[WB]",
+        "purchased": false
+      }
+    ],
+    "skillRanks": [
+      {
+        "name": "Bargain",
+        "purchased": false
+      },
+      {
+        "name": "Drive",
+        "purchased": false
+      },
+      {
+        "name": "Folklore",
+        "purchased": false
+      },
+      {
+        "name": "Handle Animal",
+        "purchased": false
+      },
+      {
+        "name": "Interrogation",
+        "purchased": false
+      },
+      {
+        "name": "Intimidate",
+        "purchased": false
+      },
+      {
+        "name": "Resolve",
+        "purchased": false
+      },
+      {
+        "name": "Rumor",
+        "purchased": false
+      },
+      {
+        "name": "SImple Melee",
+        "purchased": false
+      },
+      {
+        "name": "Skulduggery",
+        "purchased": false
+      }
+    ],
+    "talents": [
+      {
+        "linkedId": "EjJR2J7U8esJvLbc",
+        "name": "Beatdown",
+        "uuid": "Compendium.zweihander.zh-talents.Item.EjJR2J7U8esJvLbc"
+      },
+      {
+        "linkedId": "cIaEhW4y3xK76XWt",
+        "name": "Indifference",
+        "uuid": "Compendium.zweihander.zh-talents.Item.cIaEhW4y3xK76XWt"
+      },
+      {
+        "linkedId": "lDYbvmW0G7e9EiQY",
+        "name": "No Mercy",
+        "uuid": "Compendium.zweihander.zh-talents.Item.lDYbvmW0G7e9EiQY"
+      }
+    ],
+    "professionalTrait": {
+      "name": "Master’s Whip",
+      "uuid": "Compendium.zweihander.zh-traits.Item.pNi0vxs1p3mqaBaq",
+      "linkedId": null
+    },
+    "specialTrait": {
+      "name": "",
+      "uuid": "",
+      "linkedId": null
+    },
+    "drawback": {
+      "name": "Callous Attitudes",
+      "uuid": "Compendium.zweihander.zh-drawbacks.Item.Y5AOKYbxWOBKTX5x",
+      "linkedId": null
+    },
+    "tier": ""
+  },
+  "folder": null,
+  "sort": 17600000,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {},
+  "_key": "!items!xgb872RMeBrTTuSo"
+}

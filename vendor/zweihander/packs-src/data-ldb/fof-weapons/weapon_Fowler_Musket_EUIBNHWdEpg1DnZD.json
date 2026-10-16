@@ -1,0 +1,63 @@
+{
+  "_id": "EUIBNHWdEpg1DnZD",
+  "effects": [],
+  "img": "systems/zweihander/assets/icons/musket.svg",
+  "name": "Fowler Musket",
+  "type": "weapon",
+  "_stats": {
+    "coreVersion": "13.342",
+    "systemId": "zweihander",
+    "systemVersion": "5.4.1",
+    "createdTime": 1745429307088,
+    "modifiedTime": 1745429307088,
+    "lastModifiedBy": "rivg6xcMxdlVDM8y",
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "system": {
+    "description": {
+      "@en": "<p>Sometimes called the Hudson Valley Fowler or New England Fowler, this musket is the most commonly found musket in the Thirteen Colonies. With a 48-inch barrel, it is primarily used for hunting.</p>"
+    },
+    "notes": "",
+    "price": {
+      "bp": "0",
+      "gc": "2",
+      "ss": "0"
+    },
+    "encumbrance": 2,
+    "carried": true,
+    "weaponType": "Ranged",
+    "equipped": false,
+    "associatedSkill": "Simple Ranged",
+    "ranged": {
+      "load": 0,
+      "value": false
+    },
+    "handling": "Two-handed",
+    "qualities": {
+      "value": "Blackpowder, Inaccurate, Weak",
+      "arrayOfValues": []
+    },
+    "distance": "9 + [PB] yards",
+    "damage": {
+      "formula": "[CB] + (1+[#])d6x1,6",
+      "attributeBonus": "[CB]",
+      "number": 1,
+      "die": "d6",
+      "bonus": 0,
+      "fury": {
+        "value": false,
+        "explodesOn": []
+      }
+    },
+    "load": 3
+  },
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {},
+  "_key": "!items!EUIBNHWdEpg1DnZD"
+}

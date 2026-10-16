@@ -1,0 +1,74 @@
+{
+  "_id": "jLULGN3GPg7Y0ZqD",
+  "effects": [],
+  "img": "systems/zweihander/assets/icons/coiled-nail.svg",
+  "name": "Stake",
+  "type": "weapon",
+  "_stats": {
+    "coreVersion": "13.342",
+    "systemId": "zweihander",
+    "systemVersion": "5.4.1",
+    "createdTime": 1745429307093,
+    "modifiedTime": 1745429307093,
+    "lastModifiedBy": "rivg6xcMxdlVDM8y",
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "system": {
+    "description": {
+      "@en": "<p>Tipped with cold iron, these unusual weapons are carried by superstitious people.</p>"
+    },
+    "notes": "",
+    "price": {
+      "bp": "3",
+      "gc": "0",
+      "ss": "0"
+    },
+    "encumbrance": 1,
+    "carried": true,
+    "weaponType": "Melee",
+    "equipped": false,
+    "associatedSkill": "Simple Melee",
+    "ranged": {
+      "load": 0,
+      "value": false
+    },
+    "handling": "One-handed",
+    "qualities": [
+      "Compendium.zweihander.fof-qualities.Item.R9RtDnDfaTbK4Rqw",
+      "Compendium.zweihander.fof-qualities.Item.MP0cuCFOyUZmTiEN",
+      "Compendium.zweihander.zh-qualities.Item.XX3z9Md3skZ2CqTh"
+    ],
+    "distance": {
+      "value": "Engaged",
+      "base": "[PB]",
+      "bonus": 0
+    },
+    "damage": {
+      "formula": {
+        "override": false,
+        "value": "[BB] + (1+[#])d6x6"
+      },
+      "attributeBonus": "[BB]",
+      "number": 1,
+      "die": "d6",
+      "bonus": 0,
+      "fury": {
+        "value": true,
+        "explodesOn": [
+          "6"
+        ]
+      },
+      "associatedPrimaryAttribute": "Agility"
+    },
+    "load": 0
+  },
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {},
+  "_key": "!items!jLULGN3GPg7Y0ZqD"
+}

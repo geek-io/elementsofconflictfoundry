@@ -1,0 +1,144 @@
+{
+  "_id": "Aq2u395Fb2GRVH3U",
+  "effects": [],
+  "img": "systems/zweihander/assets/icons/beggar.svg",
+  "name": "Beggar",
+  "type": "profession",
+  "_stats": {
+    "coreVersion": "13.342",
+    "systemId": "zweihander",
+    "systemVersion": "5.4.1",
+    "createdTime": null,
+    "modifiedTime": 1734990834089,
+    "lastModifiedBy": "rivg6xcMxdlVDM8y",
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "system": {
+    "description": {
+      "@en": "The rich get richer and the poor get poorer in these trying times, with the Beggar evidence of just how poor you can get. Beggars are common in large cities, drifting in crowded marketplaces and digging in rubbish piles hoping for a piece of scrap. Every small town its own local tramp, or Beggar. Any number of misfortunes can drive you to the life of a Beggar: debilitating sickness, a terrible war wound or even psychological scarring. Such erstwhile unfortunates make their lives on the streets, clutching a chipped and cracked alms bowl to beg for a pfennig. Here they learn various underhanded skills and to know who will fill their bowls and who will kick them in the stomach. Few burghers and even fewer aristocrats have any sympathy for these poor wretches. Beggars remain stalwart and strangely optimistic that their lot will improve. Leaving behind the broken bowl and picking up a stolen knife to become an adventurer is a way to improve their lot; many see it as an infinitely better alternative to slogging through muddy streets and eating dead rats. Having become convinced that society doesn’t care for them, adventuring Beggars find little hope, the true nature of the universe being equally as uncaring. This has led many Beggars back where they started, sobbing in alleyways and jumping at shadows, even more scarred."
+    },
+    "notes": "",
+    "expert": {
+      "value": false,
+      "requirements": {
+        "skillRanks": [],
+        "additional": ""
+      }
+    },
+    "archetype": "Knave",
+    "bonusAdvances": [
+      {
+        "name": "[AB]",
+        "purchased": false
+      },
+      {
+        "name": "[AB]",
+        "purchased": false
+      },
+      {
+        "name": "[BB]",
+        "purchased": false
+      },
+      {
+        "name": "[FB]",
+        "purchased": false
+      },
+      {
+        "name": "[FB]",
+        "purchased": false
+      },
+      {
+        "name": "[PB]",
+        "purchased": false
+      },
+      {
+        "name": "[PB]",
+        "purchased": false
+      }
+    ],
+    "skillRanks": [
+      {
+        "name": "Awareness",
+        "purchased": false
+      },
+      {
+        "name": "Disguise",
+        "purchased": false
+      },
+      {
+        "name": "Eavesdrop",
+        "purchased": false
+      },
+      {
+        "name": "Folklore",
+        "purchased": false
+      },
+      {
+        "name": "Guile",
+        "purchased": false
+      },
+      {
+        "name": "Intimidate",
+        "purchased": false
+      },
+      {
+        "name": "Rumor",
+        "purchased": false
+      },
+      {
+        "name": "Simple Melee",
+        "purchased": false
+      },
+      {
+        "name": "Skulduggery",
+        "purchased": false
+      },
+      {
+        "name": "Stealth",
+        "purchased": false
+      }
+    ],
+    "talents": [
+      {
+        "linkedId": "AHui6a3KaaMWrKp1",
+        "name": "Forked Tongue",
+        "uuid": "Compendium.zweihander.zh-talents.Item.AHui6a3KaaMWrKp1"
+      },
+      {
+        "linkedId": "nmeKtDNOuY6FGU8n",
+        "name": "Streetwise",
+        "uuid": "Compendium.zweihander.zh-talents.Item.nmeKtDNOuY6FGU8n"
+      },
+      {
+        "linkedId": "mbtJHdgWqR6fct7f",
+        "name": "Supernatural Paranoia",
+        "uuid": "Compendium.zweihander.zh-talents.Item.mbtJHdgWqR6fct7f"
+      }
+    ],
+    "professionalTrait": {
+      "name": "Beggars Bowl",
+      "uuid": "Compendium.zweihander.zh-traits.Item.T2KTTC93YNYzM8OS",
+      "linkedId": null
+    },
+    "specialTrait": {
+      "name": "",
+      "uuid": "",
+      "linkedId": null
+    },
+    "drawback": {
+      "name": "",
+      "uuid": "",
+      "linkedId": null
+    },
+    "tier": ""
+  },
+  "folder": null,
+  "sort": 3800000,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {},
+  "_key": "!items!Aq2u395Fb2GRVH3U"
+}

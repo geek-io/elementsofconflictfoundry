@@ -1,0 +1,36 @@
+{
+  "_id": "UVWaCzwXCbUzgP14",
+  "effects": [],
+  "img": "systems/zweihander/assets/icons/wax-tablet.svg",
+  "name": "The Leviathan’s Commandments",
+  "type": "drawback",
+  "_stats": {
+    "coreVersion": "13.342",
+    "systemId": null,
+    "systemVersion": null,
+    "createdTime": null,
+    "modifiedTime": 1733923835859,
+    "lastModifiedBy": "rivg6xcMxdlVDM8y",
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "system": {
+    "description": {
+      "@en": "The Leviathan makes specific demands from Her priesthood. Whistling aboard a ship is considered unlucky, as is leaving any port with a lad aboard named Jonah. Meat of animals born on the land cannot be eaten. For the most part, these demands are traditional sailor’s superstitions only exacerbated by their cult tenfold and heavily ritualized."
+    },
+    "notes": "",
+    "rules": {
+      "effect": {
+        "@en": "When you would normally invoke a Chaos Manifestation, you instead provoke Punishments of the Leviathan. In addition, you are bound by the commandments of your god, as outlined in Chapter 10: Grimoire. You must seek atonement if you violate these commandments."
+      }
+    }
+  },
+  "folder": null,
+  "sort": 6300000,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {},
+  "_key": "!items!UVWaCzwXCbUzgP14"
+}

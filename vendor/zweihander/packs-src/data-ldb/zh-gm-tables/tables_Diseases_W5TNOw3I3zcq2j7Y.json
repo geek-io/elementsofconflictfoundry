@@ -1,0 +1,326 @@
+{
+  "_id": "W5TNOw3I3zcq2j7Y",
+  "displayRoll": true,
+  "formula": "1d11",
+  "img": "systems/zweihander/assets/icons/half-dead.svg",
+  "name": "Diseases",
+  "replacement": true,
+  "results": [
+    {
+      "_id": "ZUvKVzfPp9petXk5",
+      "drawn": false,
+      "flags": {},
+      "img": "systems/zweihander/assets/icons/half-dead.svg",
+      "range": [
+        1,
+        1
+      ],
+      "type": "document",
+      "weight": 1,
+      "_stats": {
+        "coreVersion": "13.342",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "name": "King's Disease",
+      "documentUuid": "Compendium.zweihander.zh-diseases.Item.vMcVEXlPvDizCqDo",
+      "description": "",
+      "_key": "!tables.results!W5TNOw3I3zcq2j7Y.ZUvKVzfPp9petXk5"
+    },
+    {
+      "_id": "1ks95ZUe5QvBLem0",
+      "drawn": false,
+      "flags": {},
+      "img": "systems/zweihander/assets/icons/half-dead.svg",
+      "range": [
+        2,
+        2
+      ],
+      "type": "document",
+      "weight": 1,
+      "_stats": {
+        "coreVersion": "13.342",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "name": "Treeman Syndrome",
+      "documentUuid": "Compendium.zweihander.zh-diseases.Item.F8PK8hiIJvj9S5B6",
+      "description": "",
+      "_key": "!tables.results!W5TNOw3I3zcq2j7Y.1ks95ZUe5QvBLem0"
+    },
+    {
+      "_id": "MloHHti6SytWBWZw",
+      "drawn": false,
+      "flags": {},
+      "img": "systems/zweihander/assets/icons/half-dead.svg",
+      "range": [
+        3,
+        3
+      ],
+      "type": "document",
+      "weight": 1,
+      "_stats": {
+        "coreVersion": "13.342",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "name": "War Fever",
+      "documentUuid": "Compendium.zweihander.zh-diseases.Item.QfkAoep1Oc2YywCL",
+      "description": "",
+      "_key": "!tables.results!W5TNOw3I3zcq2j7Y.MloHHti6SytWBWZw"
+    },
+    {
+      "_id": "87JZqpHsqaITQPc1",
+      "drawn": false,
+      "flags": {},
+      "img": "systems/zweihander/assets/icons/half-dead.svg",
+      "range": [
+        4,
+        4
+      ],
+      "type": "document",
+      "weight": 1,
+      "_stats": {
+        "coreVersion": "13.342",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "name": "Bloody Flux",
+      "documentUuid": "Compendium.zweihander.zh-diseases.Item.P3siCug3FY0C2GVI",
+      "description": "",
+      "_key": "!tables.results!W5TNOw3I3zcq2j7Y.87JZqpHsqaITQPc1"
+    },
+    {
+      "_id": "h9um2SXXwEsB6icg",
+      "drawn": false,
+      "flags": {},
+      "img": "systems/zweihander/assets/icons/half-dead.svg",
+      "range": [
+        5,
+        5
+      ],
+      "type": "document",
+      "weight": 1,
+      "_stats": {
+        "coreVersion": "13.342",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "name": "Chaotic Rot",
+      "documentUuid": "Compendium.zweihander.zh-diseases.Item.mFT26c6s7Z4Y73bh",
+      "description": "",
+      "_key": "!tables.results!W5TNOw3I3zcq2j7Y.h9um2SXXwEsB6icg"
+    },
+    {
+      "_id": "7OAGjbOPypYWAJm9",
+      "drawn": false,
+      "flags": {},
+      "img": "systems/zweihander/assets/icons/half-dead.svg",
+      "range": [
+        6,
+        6
+      ],
+      "type": "document",
+      "weight": 1,
+      "_stats": {
+        "coreVersion": "13.342",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "name": "Filth Fever",
+      "documentUuid": "Compendium.zweihander.zh-diseases.Item.u6SJAYzgOIAq2h6N",
+      "description": "",
+      "_key": "!tables.results!W5TNOw3I3zcq2j7Y.7OAGjbOPypYWAJm9"
+    },
+    {
+      "_id": "PBmSRKXs4bY540L4",
+      "drawn": false,
+      "flags": {},
+      "img": "systems/zweihander/assets/icons/half-dead.svg",
+      "range": [
+        7,
+        7
+      ],
+      "type": "document",
+      "weight": 1,
+      "_stats": {
+        "coreVersion": "13.342",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "name": "Grey Plague",
+      "documentUuid": "Compendium.zweihander.zh-diseases.Item.dG8Mu7jstYASdIQU",
+      "description": "",
+      "_key": "!tables.results!W5TNOw3I3zcq2j7Y.PBmSRKXs4bY540L4"
+    },
+    {
+      "_id": "zPMka2FJIcqfNQZg",
+      "drawn": false,
+      "flags": {},
+      "img": "systems/zweihander/assets/icons/half-dead.svg",
+      "range": [
+        8,
+        8
+      ],
+      "type": "document",
+      "weight": 1,
+      "_stats": {
+        "coreVersion": "13.342",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "name": "Orx-Molt",
+      "documentUuid": "Compendium.zweihander.zh-diseases.Item.nUEhuLvd9Z5iWlSB",
+      "description": "",
+      "_key": "!tables.results!W5TNOw3I3zcq2j7Y.zPMka2FJIcqfNQZg"
+    },
+    {
+      "_id": "A9Y8BKDT8GadJizT",
+      "drawn": false,
+      "flags": {},
+      "img": "systems/zweihander/assets/icons/half-dead.svg",
+      "range": [
+        9,
+        9
+      ],
+      "type": "document",
+      "weight": 1,
+      "_stats": {
+        "coreVersion": "13.342",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "name": "Red Death",
+      "documentUuid": "Compendium.zweihander.zh-diseases.Item.nzLiTWLJ1tqI0rYw",
+      "description": "",
+      "_key": "!tables.results!W5TNOw3I3zcq2j7Y.A9Y8BKDT8GadJizT"
+    },
+    {
+      "_id": "igHyW9pMGPJlm5nC",
+      "drawn": false,
+      "flags": {},
+      "img": "systems/zweihander/assets/icons/half-dead.svg",
+      "range": [
+        10,
+        10
+      ],
+      "type": "document",
+      "weight": 1,
+      "_stats": {
+        "coreVersion": "13.342",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "name": "Tomb Rot",
+      "documentUuid": "Compendium.zweihander.zh-diseases.Item.okFxFeQ1fgMn4Uyj",
+      "description": "",
+      "_key": "!tables.results!W5TNOw3I3zcq2j7Y.igHyW9pMGPJlm5nC"
+    },
+    {
+      "_id": "firLcyiwWOL475mA",
+      "drawn": false,
+      "flags": {},
+      "img": "systems/zweihander/assets/icons/half-dead.svg",
+      "range": [
+        11,
+        11
+      ],
+      "type": "document",
+      "weight": 1,
+      "_stats": {
+        "coreVersion": "13.342",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "name": "Veneral Disease",
+      "documentUuid": "Compendium.zweihander.zh-diseases.Item.FMehuWWqQ4ljCnWP",
+      "description": "",
+      "_key": "!tables.results!W5TNOw3I3zcq2j7Y.firLcyiwWOL475mA"
+    }
+  ],
+  "_stats": {
+    "coreVersion": "13.342",
+    "systemId": null,
+    "systemVersion": null,
+    "createdTime": null,
+    "modifiedTime": 1747661445443,
+    "lastModifiedBy": "R0qXfdvm21RaZ5Yx",
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "description": "",
+  "folder": null,
+  "sort": 400000,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {},
+  "_key": "!tables!W5TNOw3I3zcq2j7Y"
+}

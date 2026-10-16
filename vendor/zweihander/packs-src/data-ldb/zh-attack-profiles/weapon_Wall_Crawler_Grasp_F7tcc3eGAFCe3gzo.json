@@ -1,0 +1,73 @@
+{
+  "_id": "F7tcc3eGAFCe3gzo",
+  "effects": [],
+  "img": "systems/zweihander/assets/icons/carnivore-mouth.svg",
+  "name": "Wall Crawler Grasp",
+  "type": "weapon",
+  "_stats": {
+    "coreVersion": "13.342",
+    "systemId": "zweihander",
+    "systemVersion": "5.4.1",
+    "createdTime": 1745446374371,
+    "modifiedTime": 1745447097156,
+    "lastModifiedBy": "rivg6xcMxdlVDM8y",
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "system": {
+    "description": {
+      "@en": ""
+    },
+    "notes": "",
+    "price": {
+      "bp": 0,
+      "gc": 0,
+      "ss": 0
+    },
+    "encumbrance": 0,
+    "carried": true,
+    "weaponType": "Bladed",
+    "equipped": true,
+    "associatedSkill": "Simple Melee",
+    "ranged": {
+      "load": 1,
+      "value": true
+    },
+    "handling": "One-handed",
+    "qualities": [
+      "Compendium.zweihander.zh-qualities.Item.EDWoWhimqJnrV818",
+      "Compendium.zweihander.zh-qualities.Item.RihtCN1KtuSrnTxW",
+      "Compendium.zweihander.zh-qualities.Item.7MgNQOn5EC5tCAum"
+    ],
+    "distance": {
+      "value": "3+[PB] ",
+      "base": "[PB]",
+      "bonus": 3
+    },
+    "damage": {
+      "formula": {
+        "override": false,
+        "value": "0"
+      },
+      "attributeBonus": "[CB]",
+      "number": 1,
+      "die": "d6",
+      "bonus": 0,
+      "fury": {
+        "value": true,
+        "explodesOn": [
+          "6"
+        ]
+      }
+    },
+    "load": 1
+  },
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {},
+  "_key": "!items!F7tcc3eGAFCe3gzo"
+}

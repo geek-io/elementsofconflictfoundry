@@ -1,0 +1,144 @@
+{
+  "_id": "63Cw5rWJQrONxONv",
+  "effects": [],
+  "img": "systems/zweihander/assets/icons/pit_fighter.svg",
+  "name": "Pit Fighter",
+  "type": "profession",
+  "_stats": {
+    "coreVersion": "13.342",
+    "systemId": "zweihander",
+    "systemVersion": "5.4.1",
+    "createdTime": null,
+    "modifiedTime": 1734990834081,
+    "lastModifiedBy": "rivg6xcMxdlVDM8y",
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "system": {
+    "description": {
+      "@en": "The Pit Fighter does not engage in combat on the field of battle, but before baying crowds in acts of spectacle and butchery, sweat and viscera. Some are free, others slaves, but both slaughter criminals and beasts in the arena for the entertainment of others. In the simplest of fights, two men enter, one man leaves, but some arenas increase the spectacle and the danger by placing traps to pin the unwary, holding fights against beasts – or worse, mutants and demons or even as bloody sacrifices to the gods! Regarded as little more than butchers or sadists, Pit Fighters are adaptable in combat and skilled in a variety of fighting styles. Formidable fighters whatever implement is put into their hands, the Pit Fighter’s skill in sadism often drive crowds into an uproar as they scream “FINISH HIM!” in anticipation of the coup de grâce.\nWhether they are criminals that fight simply for the right to stay alive or mercenary entertainers who get a cut of the proceeds from the betting circuit, Pit Fighters are without question ruthless killers. With each vicious act, it eats away at their humanity bit by bit. Sure, a Pit Fighter may find fame in eviscerating opponent after opponent, but it rarely means they find friendship outside of the pit circuit. Theirs is a lonely life, one that can only end in death, but some reach celebrated heights, their names chanted aloud as the blood of fallen foes drips from their hands. That is when they become less of a man and more of a monster, following the call of the crowd for just a moment of acceptance."
+    },
+    "notes": "",
+    "expert": {
+      "value": false,
+      "requirements": {
+        "skillRanks": [],
+        "additional": ""
+      }
+    },
+    "archetype": "Warrior",
+    "bonusAdvances": [
+      {
+        "name": "[AB]",
+        "purchased": false
+      },
+      {
+        "name": "[AB]",
+        "purchased": false
+      },
+      {
+        "name": "[BB]",
+        "purchased": false
+      },
+      {
+        "name": "[BB]",
+        "purchased": false
+      },
+      {
+        "name": "[CB]",
+        "purchased": false
+      },
+      {
+        "name": "[CB]",
+        "purchased": false
+      },
+      {
+        "name": "[WB]",
+        "purchased": false
+      }
+    ],
+    "skillRanks": [
+      {
+        "name": "Athletics",
+        "purchased": false
+      },
+      {
+        "name": "Coordination",
+        "purchased": false
+      },
+      {
+        "name": "Folklore",
+        "purchased": false
+      },
+      {
+        "name": "Intimidate",
+        "purchased": false
+      },
+      {
+        "name": "Martial Melee",
+        "purchased": false
+      },
+      {
+        "name": "Resolve",
+        "purchased": false
+      },
+      {
+        "name": "Rumor",
+        "purchased": false
+      },
+      {
+        "name": "Scrutinize",
+        "purchased": false
+      },
+      {
+        "name": "Simple Melee",
+        "purchased": false
+      },
+      {
+        "name": "Toughness",
+        "purchased": false
+      }
+    ],
+    "talents": [
+      {
+        "linkedId": "XagfAjJDzmkyHGk5",
+        "name": "Hard to Kill",
+        "uuid": "Compendium.zweihander.zh-talents.Item.XagfAjJDzmkyHGk5"
+      },
+      {
+        "linkedId": "cIaEhW4y3xK76XWt",
+        "name": "Indifference",
+        "uuid": "Compendium.zweihander.zh-talents.Item.cIaEhW4y3xK76XWt"
+      },
+      {
+        "linkedId": "lDYbvmW0G7e9EiQY",
+        "name": "No Mercy",
+        "uuid": "Compendium.zweihander.zh-talents.Item.lDYbvmW0G7e9EiQY"
+      }
+    ],
+    "professionalTrait": {
+      "name": "Blood & Sand",
+      "uuid": "Compendium.zweihander.zh-traits.Item.PlnHMTn6xD7OvDIe",
+      "linkedId": null
+    },
+    "specialTrait": {
+      "name": "",
+      "uuid": "",
+      "linkedId": null
+    },
+    "drawback": {
+      "name": "",
+      "uuid": "",
+      "linkedId": null
+    },
+    "tier": ""
+  },
+  "folder": null,
+  "sort": 2400000,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {},
+  "_key": "!items!63Cw5rWJQrONxONv"
+}

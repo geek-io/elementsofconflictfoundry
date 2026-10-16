@@ -1,0 +1,144 @@
+{
+  "_id": "F86QXGM3NI6fyUTg",
+  "effects": [],
+  "img": "systems/zweihander/assets/icons/investigator.svg",
+  "name": "Investigator",
+  "type": "profession",
+  "_stats": {
+    "coreVersion": "13.342",
+    "systemId": "zweihander",
+    "systemVersion": "5.4.1",
+    "createdTime": null,
+    "modifiedTime": 1734990834094,
+    "lastModifiedBy": "rivg6xcMxdlVDM8y",
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "system": {
+    "description": {
+      "@en": "The gift of memory and the histories were seen as a great blessing, but no longer. Today, folk put their faith in the editor of the weekly broadsheets and penny dreadfuls to entertain. The gift is not lost though, the Investigator being a master of details, making their livelihood through investigating criminal (and sometimes infernal) activity. Though ‘the devil is in the details’, theirs is a science based on speculation rather than actual fact. For example, alchemy cannot determine who wielded a blade or whose blood was spilled, but keen observation, tracking, and a quick analytical mind are more than enough in cities with only a few thousand residents. Investigators seem almost impossibly, preternaturally keen, able to link together wildly unrelated clues to create a consistent narrative. It’s a pity that few gaolers or headsmen care as to the innocence or guilt of the condemned.\nTheir investigations sometimes lead them afar, tracking their quarry over land and sea. By imbibing opium and diving into their visions, little truths reveal themselves, as Investigators are ‘cursed’ to notice details both gruesome and seemingly mundane. Their bizarre, obsessive piecing of information together means that the Investigator often recreates the horrors of a scene within their mind’s eye, giving them a front seat to its attendant pain."
+    },
+    "notes": "",
+    "expert": {
+      "value": false,
+      "requirements": {
+        "skillRanks": [],
+        "additional": ""
+      }
+    },
+    "archetype": "Academic",
+    "bonusAdvances": [
+      {
+        "name": "[FB]",
+        "purchased": false
+      },
+      {
+        "name": "[IB]",
+        "purchased": false
+      },
+      {
+        "name": "[IB]",
+        "purchased": false
+      },
+      {
+        "name": "[PB]",
+        "purchased": false
+      },
+      {
+        "name": "[PB]",
+        "purchased": false
+      },
+      {
+        "name": "[WB]",
+        "purchased": false
+      },
+      {
+        "name": "[WB]",
+        "purchased": false
+      }
+    ],
+    "skillRanks": [
+      {
+        "name": "Charm",
+        "purchased": false
+      },
+      {
+        "name": "Counterfeit",
+        "purchased": false
+      },
+      {
+        "name": "Eavesdrop",
+        "purchased": false
+      },
+      {
+        "name": "Education",
+        "purchased": false
+      },
+      {
+        "name": "Folklore",
+        "purchased": false
+      },
+      {
+        "name": "Interrogation",
+        "purchased": false
+      },
+      {
+        "name": "Resolve",
+        "purchased": false
+      },
+      {
+        "name": "Rumor",
+        "purchased": false
+      },
+      {
+        "name": "Scrutinize",
+        "purchased": false
+      },
+      {
+        "name": "Simple Melee",
+        "purchased": false
+      }
+    ],
+    "talents": [
+      {
+        "linkedId": "WsD0GRMRKX8Ov0mT",
+        "name": "Impervious Mind",
+        "uuid": "Compendium.zweihander.zh-talents.Item.WsD0GRMRKX8Ov0mT"
+      },
+      {
+        "linkedId": "cIaEhW4y3xK76XWt",
+        "name": "Indifference",
+        "uuid": "Compendium.zweihander.zh-talents.Item.cIaEhW4y3xK76XWt"
+      },
+      {
+        "linkedId": "sr0nQ2JrQV4DnTeU",
+        "name": "Secret Signs",
+        "uuid": "Compendium.zweihander.zh-talents.Item.sr0nQ2JrQV4DnTeU"
+      }
+    ],
+    "professionalTrait": {
+      "name": "True Detective",
+      "uuid": "Compendium.zweihander.zh-traits.Item.HrAJnKuFENWjpd1y",
+      "linkedId": null
+    },
+    "specialTrait": {
+      "name": "",
+      "uuid": "",
+      "linkedId": null
+    },
+    "drawback": {
+      "name": "",
+      "uuid": "",
+      "linkedId": null
+    },
+    "tier": ""
+  },
+  "folder": null,
+  "sort": 4900000,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {},
+  "_key": "!items!F86QXGM3NI6fyUTg"
+}

@@ -1,0 +1,37 @@
+{
+  "_id": "IZTDnHfXsCL43MRp",
+  "effects": [],
+  "img": "systems/zweihander/assets/icons/knot.svg",
+  "name": "Inescapable",
+  "system": {
+    "description": {
+      "@en": ""
+    },
+    "notes": "",
+    "rules": {
+      "effect": {
+        "@en": "When these creatures use a Chokehold, they are able to maintain it for 0 AP and use other Actions In Combat."
+      }
+    },
+    "category": "creature"
+  },
+  "type": "trait",
+  "_stats": {
+    "coreVersion": "13.342",
+    "systemId": "zweihander",
+    "systemVersion": "5.4.1",
+    "createdTime": null,
+    "modifiedTime": 1735915786834,
+    "lastModifiedBy": "rivg6xcMxdlVDM8y",
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {},
+  "_key": "!items!IZTDnHfXsCL43MRp"
+}

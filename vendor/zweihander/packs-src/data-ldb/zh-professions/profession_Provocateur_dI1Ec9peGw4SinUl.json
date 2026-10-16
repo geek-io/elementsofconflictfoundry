@@ -1,0 +1,144 @@
+{
+  "_id": "dI1Ec9peGw4SinUl",
+  "effects": [],
+  "img": "systems/zweihander/assets/icons/provocateur.svg",
+  "name": "Provocateur",
+  "type": "profession",
+  "_stats": {
+    "coreVersion": "13.342",
+    "systemId": "zweihander",
+    "systemVersion": "5.4.1",
+    "createdTime": null,
+    "modifiedTime": 1734990834130,
+    "lastModifiedBy": "rivg6xcMxdlVDM8y",
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "system": {
+    "description": {
+      "@en": "In the games of prestige and power played at court, at masquerades and salons, in gambling halls and drug dens, there is one figure that the nobility and the well-to-do must watch and listen for – the Provocateur. Mysterious and manipulative, the Provocateur is capable of infiltrating and schmoozing any social circle, extracting information and even dispatching foes with elegant efficiency. They combine seductive charm, worldly knowledge and secret motives in one deadly but attractive package. Many a lord or lady has been found with their pantaloons down – both literally and figuratively – as a result of a Provocateur’s scheme, only for the culprit to have fled or plead ever so convincing innocence.\nThe Provocateur makes many enemies, and one misplaced kiss or ill-conceived plan could land them in hot water. Banished from their comfortable yet dangerous lifestyle, their guile, proficiency with disguise and knack at parlaying grants them advantages in both the slimiest of dens and the most gilded of halls. Of course, their overconfidence and brazen attitude can just as easily land them in hot water here and whether that ends up with them bare knuckle brawling in an alligator pit or chasing a wagon down a crowded street, trouble follows them. It also increases their chances of suffering injury, sickness and the even darker whispers of Abyssal fiends, seeking to lure them towards corruption."
+    },
+    "notes": "",
+    "expert": {
+      "value": false,
+      "requirements": {
+        "skillRanks": [],
+        "additional": ""
+      }
+    },
+    "archetype": "Socialite",
+    "bonusAdvances": [
+      {
+        "name": "[CB]",
+        "purchased": false
+      },
+      {
+        "name": "[FB]",
+        "purchased": false
+      },
+      {
+        "name": "[FB]",
+        "purchased": false
+      },
+      {
+        "name": "[IB]",
+        "purchased": false
+      },
+      {
+        "name": "[IB]",
+        "purchased": false
+      },
+      {
+        "name": "[PB]",
+        "purchased": false
+      },
+      {
+        "name": "[WB]",
+        "purchased": false
+      }
+    ],
+    "skillRanks": [
+      {
+        "name": "Charm",
+        "purchased": false
+      },
+      {
+        "name": "Disguise",
+        "purchased": false
+      },
+      {
+        "name": "Eavesdrop",
+        "purchased": false
+      },
+      {
+        "name": "Education",
+        "purchased": false
+      },
+      {
+        "name": "Gamble",
+        "purchased": false
+      },
+      {
+        "name": "Interrogation",
+        "purchased": false
+      },
+      {
+        "name": "Rumor",
+        "purchased": false
+      },
+      {
+        "name": "Scrutinize",
+        "purchased": false
+      },
+      {
+        "name": "Simple Melee",
+        "purchased": false
+      },
+      {
+        "name": "Simple Ranged",
+        "purchased": false
+      }
+    ],
+    "talents": [
+      {
+        "linkedId": "VTJ2gonJGSCCGwov",
+        "name": "Doppelganger",
+        "uuid": "Compendium.zweihander.zh-talents.Item.VTJ2gonJGSCCGwov"
+      },
+      {
+        "linkedId": "gwZntCros2VmucWm",
+        "name": "Holdout",
+        "uuid": "Compendium.zweihander.zh-talents.Item.gwZntCros2VmucWm"
+      },
+      {
+        "linkedId": "WsD0GRMRKX8Ov0mT",
+        "name": "Impervious Mind",
+        "uuid": "Compendium.zweihander.zh-talents.Item.WsD0GRMRKX8Ov0mT"
+      }
+    ],
+    "professionalTrait": {
+      "name": "Shaken Not Stirred",
+      "uuid": "Compendium.zweihander.zh-traits.Item.iTm6uUJNsqb8jRWx",
+      "linkedId": null
+    },
+    "specialTrait": {
+      "name": "",
+      "uuid": "",
+      "linkedId": null
+    },
+    "drawback": {
+      "name": "",
+      "uuid": "",
+      "linkedId": null
+    },
+    "tier": ""
+  },
+  "folder": null,
+  "sort": 11900000,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {},
+  "_key": "!items!dI1Ec9peGw4SinUl"
+}

@@ -1,0 +1,144 @@
+{
+  "_id": "b7SpZmPuQuhe2JUf",
+  "effects": [],
+  "img": "systems/zweihander/assets/icons/goblin-camp.svg",
+  "name": "Nomad",
+  "type": "profession",
+  "_stats": {
+    "coreVersion": "13.342",
+    "systemId": "zweihander",
+    "systemVersion": "5.4.1",
+    "createdTime": null,
+    "modifiedTime": 1734990834126,
+    "lastModifiedBy": "rivg6xcMxdlVDM8y",
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "system": {
+    "description": {
+      "@en": "Large tracts of land in many grim & perilous worlds remain unsettled and hazardous to travelers. From dangerous deserts to arid tundra, very little grows and it is hard for folk to thrive. Thus, many who live within these areas are itinerant travelers called Nomads. Being a Nomad is not so much a ‘profession’ as a way of life. Nomads travel with their tribe or village in order to follow herds, migrate between dry seasons, live as peripatetic workers or even to flee oppressors in a diaspora. Nomads have to be able to handle nearly any hardship the environment throws against them, from long marches through desolate wastes and hunting rabid beasts to protecting themselves from roving armies and other unspeakable horrors. Nomads are often hard and weather-worn, but they are also strong of heart and close of kin. Family is vital to a Nomad’s survival, for if one person falls, the whole tribe does, too.\\nNomads make most of their living off livestock, itinerant workmanship or other less savory, vaudevillian tasks. Nomads take easily to the adventuring life, though many are hesitant to leave their tribe behind as it amounts to their entire life and family. Therein lies the cruel irony for the Nomad – for not having a formal home, many of them grow homesick quite easily. Many Nomads will try to form bonds with their adventuring companions, but even then, it is not the same or as close as their tribe. Paranoia and loneliness can easily weigh down upon them, particularly as they strike out into the strange away from their traditional lands. From here, it is not difficult to implant a final seed of doubt that can lead them wandering off alone to their deaths."
+    },
+    "notes": "",
+    "expert": {
+      "value": false,
+      "requirements": {
+        "skillRanks": [],
+        "additional": ""
+      }
+    },
+    "archetype": "Ranger",
+    "bonusAdvances": [
+      {
+        "name": "[AB]",
+        "purchased": false
+      },
+      {
+        "name": "[AB]",
+        "purchased": false
+      },
+      {
+        "name": "[BB]",
+        "purchased": false
+      },
+      {
+        "name": "[FB]",
+        "purchased": false
+      },
+      {
+        "name": "[IB]",
+        "purchased": false
+      },
+      {
+        "name": "[PB]",
+        "purchased": false
+      },
+      {
+        "name": "[WB]",
+        "purchased": false
+      }
+    ],
+    "skillRanks": [
+      {
+        "name": "Folklore",
+        "purchased": false
+      },
+      {
+        "name": "Handle Animal",
+        "purchased": false
+      },
+      {
+        "name": "Navigation",
+        "purchased": false
+      },
+      {
+        "name": "Resolve",
+        "purchased": false
+      },
+      {
+        "name": "Ride",
+        "purchased": false
+      },
+      {
+        "name": "Rumor",
+        "purchased": false
+      },
+      {
+        "name": "Simple Melee",
+        "purchased": false
+      },
+      {
+        "name": "Simple Ranged",
+        "purchased": false
+      },
+      {
+        "name": "Stealth",
+        "purchased": false
+      },
+      {
+        "name": "Survival",
+        "purchased": false
+      }
+    ],
+    "talents": [
+      {
+        "linkedId": "tLtCUfaidoxc4bAr",
+        "name": "Azimuth",
+        "uuid": "Compendium.zweihander.zh-talents.Item.tLtCUfaidoxc4bAr"
+      },
+      {
+        "linkedId": "0l5T7zT8MMm0Fhp8",
+        "name": "Light Sleeper",
+        "uuid": "Compendium.zweihander.zh-talents.Item.0l5T7zT8MMm0Fhp8"
+      },
+      {
+        "linkedId": "ZMjwQhEkPA9eaMYA",
+        "name": "Long-winded",
+        "uuid": "Compendium.zweihander.zh-talents.Item.ZMjwQhEkPA9eaMYA"
+      }
+    ],
+    "professionalTrait": {
+      "name": "Weather-Worn",
+      "uuid": "Compendium.zweihander.zh-traits.Item.OUHSVKMiTv5rVBlc",
+      "linkedId": null
+    },
+    "specialTrait": {
+      "name": "",
+      "uuid": "",
+      "linkedId": null
+    },
+    "drawback": {
+      "name": "Wanderlust",
+      "uuid": "Compendium.zweihander.zh-drawbacks.Item.bWf9b8rezzH4FRm1",
+      "linkedId": null
+    },
+    "tier": ""
+  },
+  "folder": null,
+  "sort": 11300000,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {},
+  "_key": "!items!b7SpZmPuQuhe2JUf"
+}

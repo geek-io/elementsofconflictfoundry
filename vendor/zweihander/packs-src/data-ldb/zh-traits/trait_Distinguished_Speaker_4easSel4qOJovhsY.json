@@ -1,0 +1,37 @@
+{
+  "_id": "4easSel4qOJovhsY",
+  "effects": [],
+  "img": "systems/zweihander/assets/icons/uprising.svg",
+  "name": "Distinguished Speaker",
+  "type": "trait",
+  "_stats": {
+    "coreVersion": "13.342",
+    "systemId": "zweihander",
+    "systemVersion": "5.4.1",
+    "createdTime": null,
+    "modifiedTime": 1735911103029,
+    "lastModifiedBy": "rivg6xcMxdlVDM8y",
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "system": {
+    "description": {
+      "@en": "A Demagogue’s authority is widely recognized and they often abuse this privilege. Their voice carries weight, motivating those who’d call them an ally and instigating hatred in those who disagree with their policies."
+    },
+    "notes": "",
+    "rules": {
+      "effect": {
+        "@en": "You influence any number of people who can see and hear you clearly with Fellowship-based Skill Tests. In addition, change your Social Status to an Aristocrat."
+      }
+    },
+    "category": "professional"
+  },
+  "folder": null,
+  "sort": 1400000,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {},
+  "_key": "!items!4easSel4qOJovhsY"
+}

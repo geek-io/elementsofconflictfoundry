@@ -1,0 +1,37 @@
+{
+  "_id": "GEziQFsMYqVi8bgL",
+  "effects": [],
+  "img": "systems/zweihander/assets/icons/vitruvian-man.svg",
+  "name": "Thiefspawn",
+  "type": "trait",
+  "_stats": {
+    "coreVersion": "13.342",
+    "systemId": "zweihander",
+    "systemVersion": "5.4.1",
+    "createdTime": null,
+    "modifiedTime": 1735911103048,
+    "lastModifiedBy": "rivg6xcMxdlVDM8y",
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "system": {
+    "description": {
+      "@en": "You are the go-to when it comes to trafficking ‘hot items’ on the black market."
+    },
+    "notes": "",
+    "rules": {
+      "effect": {
+        "@en": "Any object you fence is treated and appraised at its full value. Furthermore, you may flip the results to succeed at Skill Tests to identify and sell stolen goods."
+      }
+    },
+    "category": "professional"
+  },
+  "folder": null,
+  "sort": 5200000,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {},
+  "_key": "!items!GEziQFsMYqVi8bgL"
+}

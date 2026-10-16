@@ -1,0 +1,37 @@
+{
+  "_id": "fOcQUOQO8oGS1WaH",
+  "effects": [],
+  "img": "systems/zweihander/assets/icons/vitruvian-man.svg",
+  "name": "Warmonger",
+  "type": "trait",
+  "_stats": {
+    "coreVersion": "13.342",
+    "systemId": "zweihander",
+    "systemVersion": "5.4.1",
+    "createdTime": null,
+    "modifiedTime": 1735911103088,
+    "lastModifiedBy": "rivg6xcMxdlVDM8y",
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "system": {
+    "description": {
+      "@en": "Raise the shield or be cast into death! Take a final look, your final breath! No turning back, in battle there is no law!"
+    },
+    "notes": "",
+    "rules": {
+      "effect": {
+        "@en": "Add both the Punishing and Reach Qualities to all one-handed melee weapons you wield."
+      }
+    },
+    "category": "professional"
+  },
+  "folder": null,
+  "sort": 14300000,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {},
+  "_key": "!items!fOcQUOQO8oGS1WaH"
+}

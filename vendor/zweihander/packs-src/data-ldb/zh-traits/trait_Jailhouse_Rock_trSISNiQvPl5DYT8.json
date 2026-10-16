@@ -1,0 +1,37 @@
+{
+  "_id": "trSISNiQvPl5DYT8",
+  "effects": [],
+  "img": "systems/zweihander/assets/icons/boxing-glove-surprise.svg",
+  "name": "Jailhouse Rock",
+  "type": "trait",
+  "_stats": {
+    "coreVersion": "13.342",
+    "systemId": "zweihander",
+    "systemVersion": "5.4.1",
+    "createdTime": null,
+    "modifiedTime": 1735911103114,
+    "lastModifiedBy": "rivg6xcMxdlVDM8y",
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "system": {
+    "description": {
+      "@en": "Your style of fighting is dirty and chaotic, confounding more traditional martial styles of combat."
+    },
+    "notes": "",
+    "rules": {
+      "effect": {
+        "@en": "Whenever you Parry a melee weapon, immediately make an Opportunity Attack against that same opponent. You may only make this attack if you are wielding a melee weapon of the Brawling type."
+      }
+    },
+    "category": "professional"
+  },
+  "folder": null,
+  "sort": 19500000,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {},
+  "_key": "!items!trSISNiQvPl5DYT8"
+}

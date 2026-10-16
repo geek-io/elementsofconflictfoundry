@@ -1,0 +1,37 @@
+{
+  "_id": "RqT9p0j1sZXFyrwF",
+  "effects": [],
+  "img": "systems/zweihander/assets/icons/hanging-spider.svg",
+  "name": "Creepy Crawlies",
+  "system": {
+    "description": {
+      "@en": ""
+    },
+    "notes": "",
+    "rules": {
+      "effect": {
+        "@en": "These creature can attack all foes in a Burst Template area of effect and are able to occupy the same space that its foes stand within. It also never provokes Opportunity Attacks."
+      }
+    },
+    "category": "creature"
+  },
+  "type": "trait",
+  "_stats": {
+    "coreVersion": "13.342",
+    "systemId": "zweihander",
+    "systemVersion": "5.4.1",
+    "createdTime": null,
+    "modifiedTime": 1735915786847,
+    "lastModifiedBy": "rivg6xcMxdlVDM8y",
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {},
+  "_key": "!items!RqT9p0j1sZXFyrwF"
+}

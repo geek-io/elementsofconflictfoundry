@@ -1,0 +1,124 @@
+{
+  "_id": "pUtM7xiHLGHsGwyD",
+  "effects": [],
+  "img": "systems/zweihander/assets/icons/abstract-082.svg",
+  "name": "Counterfeiter",
+  "type": "profession",
+  "_stats": {
+    "coreVersion": "13.342",
+    "systemId": "zweihander",
+    "systemVersion": "5.4.1",
+    "createdTime": null,
+    "modifiedTime": 1734972168225,
+    "lastModifiedBy": "rivg6xcMxdlVDM8y",
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "system": {
+    "description": {
+      "@en": "<p>Bills of sale, discharge orders, land deeds&mdash;I can take any document and make it appear as great as the real thing. I can do more than forge, though&mdash;I can clip and shave coins, gild objects with colored lead, even print banknotes if the price is worth the risk. I&rsquo;m a master artist of deception, and every new job is an opportunity to demonstrate and test my skills. And the few times I have been caught, they had no evidence of any kind to convict me.</p>\n<p>With the shortage of hard cash and the new Stamp Act, my services have been in massive demand. People are becoming more and more desperate, and I am simply filling a need in a time of trouble&mdash;at a fair price, of course. But as I work away at my printing plates, a thought does enter my mind that all may not be well. I have little worry that as time grows grimmer, I will get richer, but there is always a turning point when money is not enough to shield one from violence. And with each protest or riot that occurs, it seems more and more likely the world will need to forge a new identity itself.</p>"
+    },
+    "notes": "",
+    "expert": {
+      "value": false,
+      "requirements": ""
+    },
+    "archetype": "Lawbreaker Profession",
+    "bonusAdvances": [
+      {
+        "name": "[FB]"
+      },
+      {
+        "name": "[FB]"
+      },
+      {
+        "name": "[IB]"
+      },
+      {
+        "name": "[IB]"
+      },
+      {
+        "name": "[PB]"
+      },
+      {
+        "name": "[PB]"
+      },
+      {
+        "name": "[WB]"
+      }
+    ],
+    "skillRanks": [
+      {
+        "name": "Awareness"
+      },
+      {
+        "name": "Bargain"
+      },
+      {
+        "name": "Counterfeit"
+      },
+      {
+        "name": "Folklore"
+      },
+      {
+        "name": "Gamble"
+      },
+      {
+        "name": "Guile"
+      },
+      {
+        "name": "Rumor"
+      },
+      {
+        "name": "Scrutinize"
+      },
+      {
+        "name": "Simple Ranged"
+      },
+      {
+        "name": "Tradecraft"
+      }
+    ],
+    "talents": [
+      {
+        "linkedId": null,
+        "name": "Cheat Sheet",
+        "uuid": "Compendium.zweihander.fof-talents.Item.6DccrwD6NZa33kyp"
+      },
+      {
+        "linkedId": null,
+        "name": "Sagacity",
+        "uuid": "Compendium.zweihander.fof-talents.Item.Gbeh9kTnfTnwBsDe"
+      },
+      {
+        "linkedId": null,
+        "name": "Twistical",
+        "uuid": "Compendium.zweihander.fof-talents.Item.H511XKAe2nVpRZ1P"
+      }
+    ],
+    "professionalTrait": {
+      "name": "Mark of Inauthenticity",
+      "uuid": "Compendium.zweihander.fof-professional-traits.Item.e5WOkCo45tnwXA8Y",
+      "linkedId": null
+    },
+    "specialTrait": {
+      "name": "",
+      "uuid": "",
+      "linkedId": null
+    },
+    "drawback": {
+      "name": "Everyone Suspects Me",
+      "uuid": "Compendium.zweihander.fof-quirks.Item.JCd3q7VGkzXRdAm0",
+      "linkedId": null
+    },
+    "tier": ""
+  },
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {},
+  "_key": "!items!pUtM7xiHLGHsGwyD"
+}

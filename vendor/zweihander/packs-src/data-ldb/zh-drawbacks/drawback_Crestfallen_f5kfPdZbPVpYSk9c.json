@@ -1,0 +1,36 @@
+{
+  "_id": "f5kfPdZbPVpYSk9c",
+  "effects": [],
+  "img": "systems/zweihander/assets/icons/shattered-heart.svg",
+  "name": "Crestfallen",
+  "type": "drawback",
+  "_stats": {
+    "coreVersion": "13.342",
+    "systemId": null,
+    "systemVersion": null,
+    "createdTime": null,
+    "modifiedTime": 1733923835859,
+    "lastModifiedBy": "rivg6xcMxdlVDM8y",
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "system": {
+    "description": {
+      "@en": "Hedge Knights are restricted by a code, a set of principles and guidelines they adhere to. When they bend or even break this code, they make themselves susceptible to chaos’ influence."
+    },
+    "notes": "",
+    "rules": {
+      "effect": {
+        "@en": "When you suffer Corruption, increase the number of points you gain by one. This means that if you suffer 3 Corruption, you gain 4 instead."
+      }
+    }
+  },
+  "folder": null,
+  "sort": 9100000,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {},
+  "_key": "!items!f5kfPdZbPVpYSk9c"
+}

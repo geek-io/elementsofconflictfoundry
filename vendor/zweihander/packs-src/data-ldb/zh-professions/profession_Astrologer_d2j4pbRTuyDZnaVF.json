@@ -1,0 +1,144 @@
+{
+  "_id": "d2j4pbRTuyDZnaVF",
+  "effects": [],
+  "img": "systems/zweihander/assets/icons/astrologer.svg",
+  "name": "Astrologer",
+  "type": "profession",
+  "_stats": {
+    "coreVersion": "13.342",
+    "systemId": "zweihander",
+    "systemVersion": "5.4.1",
+    "createdTime": null,
+    "modifiedTime": 1734990834129,
+    "lastModifiedBy": "rivg6xcMxdlVDM8y",
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "system": {
+    "description": {
+      "@en": "Where everyone else simply gazes up at the same night sky and stares in awe at the majesty of the stars, the Astrologer makes the heavens their bread-and-butter. They not only mark the passage of the stars, the sun, the moon and other celestial bodies, they also assign important meaning to them. Zodiacs, movements of tides, divine providence and even your future can all be divined through the erudite interpretation of these pinpricks of light. The Astrologer is not just speaking hearsay; the heavens are indeed Magickal, and the year of your birth has just as much effect on your life as your profession will. Rarely respected, often labeled crackpots or fringe scientists, Astrologers simply ignore such jibes and put their faith in their telescopes, star charts, tarot cards and astrolabes.\nAstrologers often attest that ancient civilizations had greater knowledge of the heavens and the soul, so are prepared to explore abandoned libraries or dark crypts in search of charts of heavenly bodies long lost to time. Highly intelligent and inquisitive, Astrologers often jump to conclusions and apply meaning to things that have no meaning. Reading too much into these meanings sometimes ends with the Astrologer dead or missing, having wandered wide-eyed into a parlay with Skrzzak or allowing the whispers of an Abyssal host lead them astray. More often than not, an Astrologer’s love for Magick and the heavens is their undoing."
+    },
+    "notes": "",
+    "expert": {
+      "value": false,
+      "requirements": {
+        "skillRanks": [],
+        "additional": ""
+      }
+    },
+    "archetype": "Academic",
+    "bonusAdvances": [
+      {
+        "name": "[FB]",
+        "purchased": false
+      },
+      {
+        "name": "[IB]",
+        "purchased": false
+      },
+      {
+        "name": "[IB]",
+        "purchased": false
+      },
+      {
+        "name": "[PB]",
+        "purchased": false
+      },
+      {
+        "name": "[PB]",
+        "purchased": false
+      },
+      {
+        "name": "[WB]",
+        "purchased": false
+      },
+      {
+        "name": "[WB]",
+        "purchased": false
+      }
+    ],
+    "skillRanks": [
+      {
+        "name": "Awareness",
+        "purchased": false
+      },
+      {
+        "name": "Education",
+        "purchased": false
+      },
+      {
+        "name": "Folklore",
+        "purchased": false
+      },
+      {
+        "name": "Guile",
+        "purchased": false
+      },
+      {
+        "name": "Incantation",
+        "purchased": false
+      },
+      {
+        "name": "Navigation",
+        "purchased": false
+      },
+      {
+        "name": "Rumor",
+        "purchased": false
+      },
+      {
+        "name": "Scrutinize",
+        "purchased": false
+      },
+      {
+        "name": "Simple Ranged",
+        "purchased": false
+      },
+      {
+        "name": "Tradecraft",
+        "purchased": false
+      }
+    ],
+    "talents": [
+      {
+        "linkedId": "tLtCUfaidoxc4bAr",
+        "name": "Azimuth",
+        "uuid": "Compendium.zweihander.zh-talents.Item.tLtCUfaidoxc4bAr"
+      },
+      {
+        "linkedId": "sD4Et1dOsSjT3fPt",
+        "name": "Incredible Numeration",
+        "uuid": "Compendium.zweihander.zh-talents.Item.sD4Et1dOsSjT3fPt"
+      },
+      {
+        "linkedId": "sr0nQ2JrQV4DnTeU",
+        "name": "Secret Signs",
+        "uuid": "Compendium.zweihander.zh-talents.Item.sr0nQ2JrQV4DnTeU"
+      }
+    ],
+    "professionalTrait": {
+      "name": "Eldritch Signs",
+      "uuid": "Compendium.zweihander.zh-traits.Item.DweV62yrsDHZtzsl",
+      "linkedId": null
+    },
+    "specialTrait": {
+      "name": "Arcane Magick",
+      "uuid": "Compendium.zweihander.zh-traits.Item.23yolAn8Q2AkbXQi",
+      "linkedId": null
+    },
+    "drawback": {
+      "name": "Lure of Power",
+      "uuid": "Compendium.zweihander.zh-drawbacks.Item.AG7fCX4RXKvOoajE",
+      "linkedId": null
+    },
+    "tier": ""
+  },
+  "folder": null,
+  "sort": 11800000,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {},
+  "_key": "!items!d2j4pbRTuyDZnaVF"
+}

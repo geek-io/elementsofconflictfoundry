@@ -1,0 +1,60 @@
+{
+  "_id": "PqTIZHg8bJeh6djI",
+  "effects": [],
+  "img": "systems/zweihander/assets/icons/hospital-cross.svg",
+  "name": "Lay on Hands",
+  "type": "spell",
+  "_stats": {
+    "coreVersion": "13.342",
+    "systemId": "zweihander",
+    "systemVersion": "5.4.1",
+    "createdTime": null,
+    "modifiedTime": 1745410666689,
+    "lastModifiedBy": "rivg6xcMxdlVDM8y",
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "system": {
+    "description": {
+      "@en": "A warm glow emits from your hands, soothing the one you touch."
+    },
+    "notes": "",
+    "rules": {
+      "effect": {
+        "@en": "After successfully casting this spell, the person you touch moves one step up the Damage and Peril Condition Tracks positively. A Character may only gain the benefit of this Magick once per day."
+      },
+      "criticalSuccess": {
+        "@en": "As above, but they move three steps up the Damage and Peril Condition Tracks positively."
+      },
+      "criticalFailure": {
+        "@en": "Your touch causes a corpulent decay to spread across the intended beneficiary’s wounds. They are now suffering from Filth Fever."
+      },
+      "reagents": {
+        "@en": "Your bare hand, placed upon the chest of a victim"
+      }
+    },
+    "tradition": "Divine (Martyr)",
+    "principle": "Petty",
+    "distance": "Any one person you can touch",
+    "duration": {
+      "value": "instantaneous",
+      "label": "Instantaneous",
+      "formula": {
+        "override": false
+      },
+      "base": "[WB]",
+      "bonus": 0,
+      "unit": "Instantaneous"
+    },
+    "castingTime": "1 min",
+    "castingCost": 0
+  },
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {},
+  "_key": "!items!PqTIZHg8bJeh6djI"
+}

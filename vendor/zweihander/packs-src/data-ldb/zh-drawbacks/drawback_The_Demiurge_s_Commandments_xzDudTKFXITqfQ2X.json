@@ -1,0 +1,36 @@
+{
+  "_id": "xzDudTKFXITqfQ2X",
+  "effects": [],
+  "img": "systems/zweihander/assets/icons/wax-tablet.svg",
+  "name": "The Demiurge’s Commandments",
+  "type": "drawback",
+  "_stats": {
+    "coreVersion": "13.342",
+    "systemId": null,
+    "systemVersion": null,
+    "createdTime": null,
+    "modifiedTime": 1733923835859,
+    "lastModifiedBy": "rivg6xcMxdlVDM8y",
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "system": {
+    "description": {
+      "@en": "The Demiurge makes specific demands from Its priesthood. This includes sacrificial offerings, seclusion during the winter solstice for extended prayer and jubilant exhortation during the spring solstice."
+    },
+    "notes": "",
+    "rules": {
+      "effect": {
+        "@en": "When you would normally invoke a Chaos Manifestation, you instead provoke Punishments of the Demiurge. In addition, you are bound by the commandments of your god. You must seek atonement if you violate these commandments."
+      }
+    }
+  },
+  "folder": null,
+  "sort": 12500000,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {},
+  "_key": "!items!xzDudTKFXITqfQ2X"
+}

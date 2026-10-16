@@ -1,0 +1,144 @@
+{
+  "_id": "R1hh8a5kukeibLgg",
+  "effects": [],
+  "img": "systems/zweihander/assets/icons/vagabond.svg",
+  "name": "Vagabond",
+  "type": "profession",
+  "_stats": {
+    "coreVersion": "13.342",
+    "systemId": "zweihander",
+    "systemVersion": "5.4.1",
+    "createdTime": null,
+    "modifiedTime": 1734990834115,
+    "lastModifiedBy": "rivg6xcMxdlVDM8y",
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "system": {
+    "description": {
+      "@en": "A rolling stone gathers no moss, but you could say otherwise about the Vagabond. Vagabonds are wanderers, storytellers and well-weathered vagrants who find more solace on the roads between villages than they do settling into a dull drudgery. Wandering hither-and-yon, hopping on ships or tagging along with wagons to see what the world has to offer, Vagabonds live at the whim of their wanderlust and that is how they like it. Often strange and somewhat aloof, the Vagabond tends to pick up little mannerisms, stories and attitudes from places they visit, becoming more worldly and independent in the process.\nVagabonds are already adventurers in a sense, though they would rarely delve into tombs or walk alone into badlands. They are hardy and crafty individuals, having a smattering of skills from all walks of life they picked up on the road. The Vagabond is no stranger to tragedy, though, and sometimes the people they meet end up dead or worse. At times, having nowhere to call your own is rough on a wanderer, and Abyssal servants love tormenting these souls with visions of a life the Vagabond will never have, but one they will always chase after."
+    },
+    "notes": "",
+    "expert": {
+      "value": false,
+      "requirements": {
+        "skillRanks": [],
+        "additional": ""
+      }
+    },
+    "archetype": "Knave",
+    "bonusAdvances": [
+      {
+        "name": "[AB]",
+        "purchased": false
+      },
+      {
+        "name": "[AB]",
+        "purchased": false
+      },
+      {
+        "name": "[BB]",
+        "purchased": false
+      },
+      {
+        "name": "[FB]",
+        "purchased": false
+      },
+      {
+        "name": "[IB]",
+        "purchased": false
+      },
+      {
+        "name": "[PB]",
+        "purchased": false
+      },
+      {
+        "name": "[WB]",
+        "purchased": false
+      }
+    ],
+    "skillRanks": [
+      {
+        "name": "Athletics",
+        "purchased": false
+      },
+      {
+        "name": "Bargain",
+        "purchased": false
+      },
+      {
+        "name": "Disguise",
+        "purchased": false
+      },
+      {
+        "name": "Folklore",
+        "purchased": false
+      },
+      {
+        "name": "Navigation",
+        "purchased": false
+      },
+      {
+        "name": "Rumor",
+        "purchased": false
+      },
+      {
+        "name": "Simple Ranged",
+        "purchased": false
+      },
+      {
+        "name": "Stealth",
+        "purchased": false
+      },
+      {
+        "name": "Survival",
+        "purchased": false
+      },
+      {
+        "name": "Toughness",
+        "purchased": false
+      }
+    ],
+    "talents": [
+      {
+        "linkedId": "tLtCUfaidoxc4bAr",
+        "name": "Azimuth",
+        "uuid": "Compendium.zweihander.zh-talents.Item.tLtCUfaidoxc4bAr"
+      },
+      {
+        "linkedId": "m6uevku7yk6Qbyq2",
+        "name": "Rural Sensibility",
+        "uuid": "Compendium.zweihander.zh-talents.Item.m6uevku7yk6Qbyq2"
+      },
+      {
+        "linkedId": "pIAw2DKMeOlG7EyT",
+        "name": "Worldly",
+        "uuid": "Compendium.zweihander.zh-talents.Item.pIAw2DKMeOlG7EyT"
+      }
+    ],
+    "professionalTrait": {
+      "name": "Aimless Drifter",
+      "uuid": "Compendium.zweihander.zh-traits.Item.6PEZjj8jRcPdc18Z",
+      "linkedId": null
+    },
+    "specialTrait": {
+      "name": "",
+      "uuid": "",
+      "linkedId": null
+    },
+    "drawback": {
+      "name": "",
+      "uuid": "",
+      "linkedId": null
+    },
+    "tier": ""
+  },
+  "folder": null,
+  "sort": 9100000,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {},
+  "_key": "!items!R1hh8a5kukeibLgg"
+}

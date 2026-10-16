@@ -1,0 +1,144 @@
+{
+  "_id": "G89bcHOGNimwSXsn",
+  "effects": [],
+  "img": "systems/zweihander/assets/icons/hedge-knight.svg",
+  "name": "Hedge Knight",
+  "type": "profession",
+  "_stats": {
+    "coreVersion": "13.342",
+    "systemId": "zweihander",
+    "systemVersion": "5.4.1",
+    "createdTime": null,
+    "modifiedTime": 1734990834098,
+    "lastModifiedBy": "rivg6xcMxdlVDM8y",
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "system": {
+    "description": {
+      "@en": "Arm-strong, but penny-poor, the Hedge Knight has little to their name save their martial prowess and a pair of well-worn spurs. Most Hedge Knights are little more than upjumped mercenaries, constantly on the move in search of a new patron. With no lands or lord to serve, they lay their heads down each night ‘beneath the hedge’, sleeping beneath the stars. One thing is consistent; these freelancers oftentimes crop up in tournaments as a black knight, using the air of mystery to dominate the field while currying favor with local lords. Other Hedge Knights are disgraced Squires who never improved past their training – all they know is fighting and chivalry, yet they are not qualified to actually join a knightly order. It is a constant irony that hangs over them, forever cursed by their skills and mocked for their incompetence.\nThe Hedge Knight’s wanderings often take themselves in the extremes of a grim & perilous world. Smallfolk may beg these knights-errant to help protect their village or rally together against the Hedge Knight assuming them to be yet another marauder. Unencumbered of the politics of a formal order, some see themselves as the true embodiment of the knightly code. Others grow to scoff at useless titles and ideals, wondering why they must wait for them to be granted by others when they could just take them by force. Banditry is not an uncommon ‘virtue’ of such Hedge Knights, robbing and stealing as they see fit."
+    },
+    "notes": "",
+    "expert": {
+      "value": false,
+      "requirements": {
+        "skillRanks": [],
+        "additional": ""
+      }
+    },
+    "archetype": "Warrior",
+    "bonusAdvances": [
+      {
+        "name": "[AB]",
+        "purchased": false
+      },
+      {
+        "name": "[BB]",
+        "purchased": false
+      },
+      {
+        "name": "[BB]",
+        "purchased": false
+      },
+      {
+        "name": "[CB]",
+        "purchased": false
+      },
+      {
+        "name": "[CB]",
+        "purchased": false
+      },
+      {
+        "name": "[IB]",
+        "purchased": false
+      },
+      {
+        "name": "[WB]",
+        "purchased": false
+      }
+    ],
+    "skillRanks": [
+      {
+        "name": "Athletics",
+        "purchased": false
+      },
+      {
+        "name": "Folklore",
+        "purchased": false
+      },
+      {
+        "name": "Intimidate",
+        "purchased": false
+      },
+      {
+        "name": "Martial Melee",
+        "purchased": false
+      },
+      {
+        "name": "Navigation",
+        "purchased": false
+      },
+      {
+        "name": "Resolve",
+        "purchased": false
+      },
+      {
+        "name": "Ride",
+        "purchased": false
+      },
+      {
+        "name": "Simple Melee",
+        "purchased": false
+      },
+      {
+        "name": "Toughness",
+        "purchased": false
+      },
+      {
+        "name": "Warfare",
+        "purchased": false
+      }
+    ],
+    "talents": [
+      {
+        "linkedId": "4qKWmTyHCbx4LM1i",
+        "name": "Gatecrasher",
+        "uuid": "Compendium.zweihander.zh-talents.Item.4qKWmTyHCbx4LM1i"
+      },
+      {
+        "linkedId": "IIRQ4Q1t7FbBYUbM",
+        "name": "Impenetrable Wall",
+        "uuid": "Compendium.zweihander.zh-talents.Item.IIRQ4Q1t7FbBYUbM"
+      },
+      {
+        "linkedId": "b2btBHV6e3en2XFy",
+        "name": "Mounted Defense",
+        "uuid": "Compendium.zweihander.zh-talents.Item.b2btBHV6e3en2XFy"
+      }
+    ],
+    "professionalTrait": {
+      "name": "Issue Challenge",
+      "uuid": "Compendium.zweihander.zh-traits.Item.alxJAEVLTsg4aIEa",
+      "linkedId": null
+    },
+    "specialTrait": {
+      "name": "",
+      "uuid": "",
+      "linkedId": null
+    },
+    "drawback": {
+      "name": "Crestfallen",
+      "uuid": "Compendium.zweihander.zh-drawbacks.Item.f5kfPdZbPVpYSk9c",
+      "linkedId": null
+    },
+    "tier": ""
+  },
+  "folder": null,
+  "sort": 5700000,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {},
+  "_key": "!items!G89bcHOGNimwSXsn"
+}

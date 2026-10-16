@@ -1,0 +1,36 @@
+{
+  "_id": "TnX7rbBH4C8HoL9R",
+  "effects": [],
+  "img": "systems/zweihander/assets/icons/spiked-halo.svg",
+  "name": "Intellectual Rigor",
+  "type": "drawback",
+  "_stats": {
+    "coreVersion": "13.342",
+    "systemId": null,
+    "systemVersion": null,
+    "createdTime": null,
+    "modifiedTime": 1733923835859,
+    "lastModifiedBy": "rivg6xcMxdlVDM8y",
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "system": {
+    "description": {
+      "@en": "Scholars are slavishly devoted to the truth. To speak an untruth or stretch the truth thin is not only grossly negligent towards their studies, but is a mark upon their shield of reputation and stake in the scientific community."
+    },
+    "notes": "",
+    "rules": {
+      "effect": {
+        "@en": "Any time you tell a lie, cheat or spread a falsehood, you gain 3 Corruption."
+      }
+    }
+  },
+  "folder": null,
+  "sort": 6100000,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {},
+  "_key": "!items!TnX7rbBH4C8HoL9R"
+}

@@ -1,0 +1,40 @@
+{
+  "name": "zweihander",
+  "description": "Implementation of the d100 Zweihänder system for FoundryVTT",
+  "license": "MIT",
+  "private": true,
+  "type": "module",
+  "author": "Saveliy Ivanov <sa_veliy@hotmail.com> (https://github.com/Re4XN)",
+  "contributors": [
+    "Kevin Dreßler <mail@kxfin.xyz> (https://github.com/kvndrsslr)",
+    "Saveliy Ivanov <sa_veliy@hotmail.com> (https://github.com/Re4XN)"
+  ],
+  "dependencies": {
+    "@typhonjs-fvtt/runtime": "^0.0.20",
+    "@typhonjs-fvtt/svelte-standard": "^0.0.16",
+    "svelte": "^3.52.0"
+  },
+  "devDependencies": {
+    "@foundryvtt/foundryvtt-cli": "^1.0.3",
+    "@typhonjs-config/eslint-config": "^0.3.0",
+    "@typhonjs-fvtt/eslint-config-foundry.js": "^0.8.0",
+    "eslint": "^8",
+    "nedb-promises": "^6.2.1",
+    "prettier": "^2.7.1",
+    "svelte-preprocess": "^4.10.0",
+    "vite": "^3",
+    "yargs": "^17.6.2"
+  },
+  "browserslist": [
+    ">5%",
+    "not IE 11"
+  ],
+  "scripts": {
+    "build": "npm run build:packs && vite build",
+    "build:dev": "npm run build:packs && vite",
+    "build:packs": "node ./packs-src/scripts/build-packs-fvtt.mjs",
+    "extractPacks": "node ./packs-src/scripts/extract-packs-fvtt.mjs",
+    "dev": "vite",
+    "eslint": "eslint ."
+  }
+}

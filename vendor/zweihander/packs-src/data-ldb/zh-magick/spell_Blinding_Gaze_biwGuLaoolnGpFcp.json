@@ -1,0 +1,60 @@
+{
+  "_id": "biwGuLaoolnGpFcp",
+  "effects": [],
+  "img": "systems/zweihander/assets/icons/star-pupil.svg",
+  "name": "Blinding Gaze",
+  "type": "spell",
+  "_stats": {
+    "coreVersion": "13.342",
+    "systemId": "zweihander",
+    "systemVersion": "5.4.1",
+    "createdTime": null,
+    "modifiedTime": 1745410666704,
+    "lastModifiedBy": "rivg6xcMxdlVDM8y",
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "system": {
+    "description": {
+      "@en": "Your eyes shine with such brightness that looks could blind and will likely kill."
+    },
+    "notes": "",
+    "rules": {
+      "effect": {
+        "@en": "After successfully casting this spell, they suffer [[/roll 1D10]]+[WB] in physical Peril and cannot Counterspell, Dodge or Parry for one Turn. Your foe can successfully Resist with an Awareness Test."
+      },
+      "criticalSuccess": {
+        "@en": "As above, but the foe is left Defenseless for one Turn."
+      },
+      "criticalFailure": {
+        "@en": "Light comes pouring out of your eyes. Filled with intense Ætheric energy, you have no choice but to ‘vent’ this power towards the sky in a ray of searing white light. Unfortunately, one ally – as selected by the GM – suffers the Effects of Blinding Gaze."
+      },
+      "reagents": {
+        "@en": "A monocle, held in-hand (expended)"
+      }
+    },
+    "tradition": "Arcane (Luminescence)",
+    "principle": "Petty",
+    "distance": "Any one person you can see",
+    "duration": {
+      "value": "instantaneous",
+      "label": "Instantaneous",
+      "formula": {
+        "override": false
+      },
+      "base": "[WB]",
+      "bonus": 0,
+      "unit": "Instantaneous"
+    },
+    "castingTime": "1 min",
+    "castingCost": 0
+  },
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {},
+  "_key": "!items!biwGuLaoolnGpFcp"
+}

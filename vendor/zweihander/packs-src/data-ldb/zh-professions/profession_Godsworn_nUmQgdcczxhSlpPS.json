@@ -1,0 +1,149 @@
+{
+  "_id": "nUmQgdcczxhSlpPS",
+  "effects": [],
+  "img": "systems/zweihander/assets/icons/godsworn.svg",
+  "name": "Godsworn",
+  "type": "profession",
+  "_stats": {
+    "coreVersion": "13.342",
+    "systemId": "zweihander",
+    "systemVersion": "5.4.1",
+    "createdTime": null,
+    "modifiedTime": 1735047987555,
+    "lastModifiedBy": "rivg6xcMxdlVDM8y",
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "system": {
+    "description": {
+      "@en": "Of all the faithful in a grim & perilous world, the Godsworn are perhaps the most recognizable. Branded with the burning star of their god and wielding oversized war hammers as their holy weapons, these warrior-priests make it their sole mission to protect civilization at all costs. The Godsworn are more a crusading order than a church – even their frailest of priests constantly train for war. They despise all inhumans, their hammers and their prayers striking down Mutants and any other creature that dares threaten the sanctity of civilized life with a searing divine light. Though they are a terror to behold in battle, Godsworn also uphold the other generous qualities of the God-Emperor: many are charitable and devoted, going above and beyond their duty in any situation, battle or no. Their god, The God-Emperor is the most relatable of the gods; He too was once a person and as in life, as a god, He embodies courage, valor, honesty, and swift justice.\nThe God-Emperor is the most widely worshipped of the gods and this shows in His often lavish and beautiful temples with their gold statues and ivory pillars surrounding the burning pyres Godsworn priests maintain day and night. Godsworn services are full of pomp and circumstance, with prayers that start long before and after each ceremony. However, their prayers extend beyond their temples. Some Godsworn take their zealotry too far though and start killing anyone of a different creed and race so as to maintain the purity of their faith and their people. Such ‘dark’ Godsworn, burned free of all hair and scarred by their righteous zealotry, brook no defiance. They carry out sanguine tasks without impunity and with extreme discrimination."
+    },
+    "notes": "",
+    "expert": {
+      "value": true,
+      "requirements": {
+        "skillRanks": [
+          {
+            "key": "incantation",
+            "value": 1
+          }
+        ],
+        "additional": "<p>You must have the Special Trait of Divine Magick.</p>"
+      }
+    },
+    "archetype": "Expert Profession",
+    "bonusAdvances": [
+      {
+        "name": "[AB]",
+        "purchased": false
+      },
+      {
+        "name": "[BB]",
+        "purchased": false
+      },
+      {
+        "name": "[BB]",
+        "purchased": false
+      },
+      {
+        "name": "[CB]",
+        "purchased": false
+      },
+      {
+        "name": "[FB]",
+        "purchased": false
+      },
+      {
+        "name": "[WB]",
+        "purchased": false
+      },
+      {
+        "name": "[WB]",
+        "purchased": false
+      }
+    ],
+    "skillRanks": [
+      {
+        "name": "Folklore",
+        "purchased": false
+      },
+      {
+        "name": "Incantation",
+        "purchased": false
+      },
+      {
+        "name": "Intimidate",
+        "purchased": false
+      },
+      {
+        "name": "Martial Melee",
+        "purchased": false
+      },
+      {
+        "name": "Resolve",
+        "purchased": false
+      },
+      {
+        "name": "Ride",
+        "purchased": false
+      },
+      {
+        "name": "Rumor",
+        "purchased": false
+      },
+      {
+        "name": "Simple Melee",
+        "purchased": false
+      },
+      {
+        "name": "Toughness",
+        "purchased": false
+      },
+      {
+        "name": "Warfare",
+        "purchased": false
+      }
+    ],
+    "talents": [
+      {
+        "linkedId": "WsD0GRMRKX8Ov0mT",
+        "name": "Impervious Mind",
+        "uuid": "Compendium.zweihander.zh-talents.Item.WsD0GRMRKX8Ov0mT"
+      },
+      {
+        "linkedId": "b2btBHV6e3en2XFy",
+        "name": "Mounted Defense",
+        "uuid": "Compendium.zweihander.zh-talents.Item.b2btBHV6e3en2XFy"
+      },
+      {
+        "linkedId": "mbtJHdgWqR6fct7f",
+        "name": "Supernatural Paranoia",
+        "uuid": "Compendium.zweihander.zh-talents.Item.mbtJHdgWqR6fct7f"
+      }
+    ],
+    "professionalTrait": {
+      "name": "Armor of God",
+      "uuid": "Compendium.zweihander.zh-traits.Item.jQVWa42KhgkTgC4I",
+      "linkedId": null
+    },
+    "specialTrait": {
+      "name": "Prayers of the God-Emperor",
+      "uuid": "Compendium.zweihander.zh-traits.Item.KiC8am8KnxhU9VeE",
+      "linkedId": null
+    },
+    "drawback": {
+      "name": "The God-Emperor’s Commandments",
+      "uuid": "Compendium.zweihander.zh-drawbacks.Item.K9Rskdir34lAKyXI",
+      "linkedId": null
+    },
+    "tier": ""
+  },
+  "folder": null,
+  "sort": 14300000,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {},
+  "_key": "!items!nUmQgdcczxhSlpPS"
+}

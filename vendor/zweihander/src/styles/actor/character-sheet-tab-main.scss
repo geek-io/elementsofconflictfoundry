@@ -1,0 +1,278 @@
+.tab.main {
+  &.flexrow > * {
+    height: 100%;
+  }
+
+  .flexcol > * {
+    flex: 1;
+  }
+
+  overflow-y: auto;
+  // scrollbar-gutter: stable both-edges;
+  margin: 10px 0 0.5rem;
+  padding: 0px 0.5rem; //10px;
+  .primary-attributes {
+    min-height: 540px;
+    border: 2px groove var(--zh-clr-bg2);
+    border-radius: 3px 3px 3px 6px;
+    flex: 0 0 content; // 50px;
+    font-size: 14px;
+    // height: 100%;
+    list-style: none;
+    margin: 0;
+    padding: 0;
+    .pa {
+      border-bottom: 2px groove var(--zh-clr-bg2);
+      display: flex;
+      flex: 1 0 72px;
+      flex-direction: column;
+      justify-content: center;
+      padding-top: 5px;
+      position: relative;
+      text-align: center;
+      width: 100%;
+      margin-bottom: 0;
+      .pa-wrapper {
+        display: flex;
+        flex-direction: row;
+      }
+      input.pa-value {
+        font-size: 28px;
+        height: 30px;
+        line-height: 32px;
+        text-align: center;
+        width: 40px;
+        padding: 0;
+      }
+      &:last-of-type {
+        border: none;
+      }
+      h4.block-title,
+      pa-icon {
+        transition: color 175ms ease-in;
+      }
+      &.pa-hover-helper {
+        h4.block-title,
+        .pa-icon {
+          color: var(--zh-clr-yellow);
+          transition: color 350ms ease-out;
+        }
+      }
+    }
+    .pa-display {
+      align-items: center;
+      margin: 0 18px;
+      .pa-icon {
+        color: var(--zh-clr-fg4);
+        font-size: 16px;
+        padding-top: 4px;
+      }
+      .pa-bonus {
+        font-size: 18px;
+      }
+      .pa-value {
+        &.modded-value {
+          color: var(--zh-clr-yellow-alt);
+        }
+      }
+    }
+  }
+
+  .skills-container {
+    min-height: 540px;
+    flex: 1 0 212px;
+    border: 2px groove var(--zh-clr-bg2);
+    margin: 0 5px;
+    border-radius: 3px;
+    line-height: 1.7;
+  }
+
+  .combat-container {
+    min-height: 540px;
+    border: 2px groove var(--zh-clr-bg2);
+    border-radius: 3px 3px 6px 3px;
+    flex: 0 0 380px;
+    & > * {
+      flex: 1 0 content;
+      align-items: center;
+    }
+    .combat-stats {
+      border-bottom: 2px groove var(--zh-clr-bg2);
+      padding: 0.5rem 0;
+    }
+    .combat-reactions {
+      border-bottom: 2px groove var(--zh-clr-bg2);
+      padding: 0.5rem 0;
+      gap: 0.5rem;
+
+      & .dodge {
+        margin-left: 0.5rem;
+      }
+
+      & .madness {
+        margin-right: 0.5rem;
+      }
+    }
+    .condition-thresholds {
+      border-bottom: 2px groove var(--zh-clr-bg2);
+      padding: 0.5rem 0;
+      .peril,
+      .damage {
+        margin: 0 0.25rem;
+      }
+      .values-derived-bracket {
+        color: var(--zh-clr-bg1);
+        flex: 0 0 35px;
+        font-family: var(--zh-font-title);
+        font-size: 75px;
+        height: 72px;
+        line-height: 65px;
+        position: relative;
+        top: -8px;
+      }
+      .values-derived {
+        height: 72px;
+
+        > div {
+          display: flex;
+          flex-direction: row;
+          align-items: center;
+          justify-content: flex-start;
+        }
+      }
+      .threshold-value {
+        align-items: center;
+        height: 50px;
+        left: 12px;
+        position: relative;
+        top: 10px; //14px;
+      }
+      .inline-formula {
+        color: var(--zh-clr-fg3);
+        display: inline-block;
+        margin-right: 1.5ex;
+        text-align: right;
+        width: 3.25ex;
+      }
+    }
+    .condition-tracker {
+      flex: 2 0 content;
+      align-items: stretch;
+      padding: 0.5rem 0;
+      .condition-tracker-list {
+        &.damage-list {
+          .radio-and-status {
+            margin-left: 55px;
+            margin-right: 0;
+            text-align: left;
+            align-items: center;
+            justify-content: flex-start;
+          }
+          input[type='radio'] + label::before {
+            left: -23px;
+          }
+        }
+      }
+      .radio-and-status {
+        flex: 1; //0 18px;
+        margin-right: 55px;
+        text-align: right;
+        align-items: center;
+        justify-content: flex-end;
+        padding-top: 2px;
+      }
+      input[type='radio'] {
+        appearance: none;
+        display: none;
+        & + label {
+          flex: 0 0 content;
+          cursor: pointer;
+          display: inline-block;
+          font-size: 12px;
+          position: relative;
+          text-align: center;
+          z-index: 1000;
+          &:hover {
+            color: var(--zh-clr-yellow);
+            &::before {
+              border-color: var(--zh-clr-yellow);
+              color: var(--zh-clr-yellow);
+              content: '🗶';
+            }
+          }
+          &::before {
+            border: 1px solid var(--zh-clr-bg3);
+            border-radius: 50%;
+            content: ' ';
+            display: block;
+            height: 14px;
+            line-height: 13px;
+            font-size: 14px;
+            position: absolute;
+            right: -23px;
+            top: 0px;
+            width: 14px;
+            z-index: -1;
+          }
+        }
+        &:checked + label {
+          color: var(--zh-clr-aqua);
+          &::before {
+            background: var(--zh-clr-aqua);
+            border: 1px solid var(--zh-clr-aqua-alt);
+            color: var(--zh-clr-bg0);
+            content: '🗶';
+          }
+        }
+      }
+    }
+    .values {
+      .value,
+      .formula {
+        display: flex;
+        flex-direction: row;
+        justify-content: center;
+        align-items: center;
+        font-size: 28px;
+        line-height: 24px;
+        margin-top: 5px;
+
+        &.color-overage:not([data-overage='0']) {
+          color: var(--zh-clr-red);
+        }
+
+        &.damage,
+        &.peril {
+          flex: 0 0 26px;
+          margin: 0;
+          width: 50px;
+        }
+      }
+      .formula {
+        flex: 0;
+        color: var(--zh-clr-fg3);
+        font-size: 12px;
+        line-height: 18px;
+        margin-top: 0px;
+      }
+    }
+    .dodge,
+    .parry,
+    .madness {
+      .combat-icon {
+        color: var(--zh-clr-aqua);
+        &:hover {
+          color: var(--zh-clr-yellow);
+          text-shadow: none;
+        }
+      }
+    }
+    .skill-dropdown {
+      margin: 10px 0 0px 0;
+      flex: 0 0 27px;
+    }
+    h4.block-title {
+      flex: 0 1 1.5em;
+    }
+  }
+}

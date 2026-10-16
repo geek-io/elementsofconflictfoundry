@@ -1,0 +1,149 @@
+{
+  "_id": "PEMY6b1ekQNxvFTI",
+  "effects": [],
+  "img": "systems/zweihander/assets/icons/heartburn.svg",
+  "name": "Ecstatic Celebrant",
+  "type": "profession",
+  "_stats": {
+    "coreVersion": "13.342",
+    "systemId": "zweihander",
+    "systemVersion": "5.4.1",
+    "createdTime": null,
+    "modifiedTime": 1735066514990,
+    "lastModifiedBy": "rivg6xcMxdlVDM8y",
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "system": {
+    "description": {
+      "@en": "<p>The rich and powerful enjoy much leisurely idling – from banquets and boating to billiards and bowling. But what happens when a marchioness becomes bored of her masquerades or a duke grows grim of his drink? The Prince of Pleasure sees this as an opportunity to subtly plant His Daemonic seed, so thus sending one of His Ecstatic Celebrants to the door of their estates in order to spread the dark prince’s influence. Celebrants pose as well-landed bon vivants or wondrous mystics, come to offer the pleasures of the wider world to those who are bored of calcio and have had enough of primero. Once welcomed into manor houses by their curious patrons, the Ecstatic Celebrant quickly gets to work, leading the vapid nobility into pleasures unheard of… as well as pains. Saying that they will soon unlock ‘ultimate bliss’, the Ecstatic Celebrant organizes secret clubs of libertines and debauchees. These sybarites fill their nights with Bacchic carousing, opioid-induced spirit journeys, joyous erotica and self-mutilation, only to bring decadence to its final level, cavorting in the foul halls of the Prince of Pleasure Himself.</p><p>Ecstatic Celebrants ooze charisma. With but a word, they can instill orgasmic nocturnal emissions in an attentive student or send a joyous convert spiraling down into endless pain with a brush of their fingertips. Heedless of the dangers involved, Celebrants seek to experience every and any type of amusement and torment imaginable, so that they can ‘share’ it with others through their insidious whisperings. This of course will drive them into the arms of lunacy, but the Prince of Pleasure cares little for His occultist’s madness, for the dark prince loves to see them writhe in their own wanton, joyous destruction. He, too, was born from mankind’s willingness to engage in jubilant decadence and self-destructive hubris, so the Prince of Pleasure knows He will always hold sway for time immemorial. This is why many Ecstatic Celebrants do not even know that they glorify Him – they are simply too far removed from reality to realize that their debauchery is fueling the Prince’s destructive ends.</p>"
+    },
+    "notes": "",
+    "expert": {
+      "value": true,
+      "requirements": {
+        "skillRanks": [
+          {
+            "key": "incantation",
+            "value": 1
+          }
+        ],
+        "additional": "<p>You must have the Special Trait of either Arcane or Divine Magick.</p>"
+      }
+    },
+    "archetype": "Expert Profession",
+    "bonusAdvances": [
+      {
+        "name": "[AB]",
+        "purchased": false
+      },
+      {
+        "name": "[FB]",
+        "purchased": false
+      },
+      {
+        "name": "[FB]",
+        "purchased": false
+      },
+      {
+        "name": "[IB]",
+        "purchased": false
+      },
+      {
+        "name": "[PB]",
+        "purchased": false
+      },
+      {
+        "name": "[WB]",
+        "purchased": false
+      },
+      {
+        "name": "[WB]",
+        "purchased": false
+      }
+    ],
+    "skillRanks": [
+      {
+        "name": "Charm",
+        "purchased": false
+      },
+      {
+        "name": "Eavesdrop",
+        "purchased": false
+      },
+      {
+        "name": "Folklore",
+        "purchased": false
+      },
+      {
+        "name": "Guile",
+        "purchased": false
+      },
+      {
+        "name": "Incantation",
+        "purchased": false
+      },
+      {
+        "name": "Interrogation",
+        "purchased": false
+      },
+      {
+        "name": "Rumor",
+        "purchased": false
+      },
+      {
+        "name": "Scrutinize",
+        "purchased": false
+      },
+      {
+        "name": "Simple Melee",
+        "purchased": false
+      },
+      {
+        "name": "Toughness",
+        "purchased": false
+      }
+    ],
+    "talents": [
+      {
+        "linkedId": "v6tIVgfHMuYK0Smy",
+        "name": "Carousing",
+        "uuid": "Compendium.zweihander.zh-talents.Item.v6tIVgfHMuYK0Smy"
+      },
+      {
+        "linkedId": "sVFqLRKgBdMFvBOh",
+        "name": "Left-handed Path",
+        "uuid": "Compendium.zweihander.zh-talents.Item.sVFqLRKgBdMFvBOh"
+      },
+      {
+        "linkedId": "pIAw2DKMeOlG7EyT",
+        "name": "Worldly",
+        "uuid": "Compendium.zweihander.zh-talents.Item.pIAw2DKMeOlG7EyT"
+      }
+    ],
+    "professionalTrait": {
+      "name": "Insidious Whisper",
+      "uuid": "Compendium.zweihander.zh-traits.Item.OgfiXm9RaLBSJNxd",
+      "linkedId": null
+    },
+    "specialTrait": {
+      "name": "Covenant Magick",
+      "uuid": "Compendium.zweihander.zh-traits.Item.7xtxO5xA5ouHjMWs",
+      "linkedId": null
+    },
+    "drawback": {
+      "name": "Ruinous Power",
+      "uuid": "Compendium.zweihander.zh-drawbacks.Item.8nv62Fq7O00SCy86",
+      "linkedId": null
+    },
+    "tier": ""
+  },
+  "folder": null,
+  "sort": 8500000,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {},
+  "_key": "!items!PEMY6b1ekQNxvFTI"
+}

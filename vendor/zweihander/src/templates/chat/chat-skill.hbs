@@ -1,0 +1,57 @@
+<div class="skill-test flexcol" data-item-id="{{itemId}}">
+  {{#if spellTest}}
+    {{> ($$ "item-card/item-card-spell") spell skill=skill effectiveOutcome=effectiveOutcome isRoll=true}}
+  {{else if weaponTest}}
+    {{> ($$ "item-card/item-card-weapon") weapon isRoll=true}}
+  {{else if madnessTest}}
+    <div class="flexcol title-and-subtitle">
+      <div class="title">{{localize "ZWEI.rolls.withstandmadness"}}</div>
+      <div class="subtitle">{{skill}}</div>
+    </div>
+  {{else}}
+  <div class="flexcol title-and-subtitle">
+    <div class="title">{{#if dodgeOrParryTest}}{{primaryAttribute}}{{else}}{{skill}}{{/if}}</div>
+    <div class="subtitle">{{#if dodgeOrParryTest}}{{skill}}{{else}}{{primaryAttribute}}{{/if}}</div>
+  </div>
+  {{/if}}
+</div>
+<div class="pill-container">
+  <span class="pill pill-roll-mode">{{localize (zhConcat "ZWEI.rolls." testModeLabel)}} ({{diceFormula}})</span>
+  <span class="pill pill-difficulty-{{difficultyRating.total}}">{{difficultyRating.label}}</span>
+  {{#if flipToFail}}<span class="pill pill-flip-fail">{{localize "ZWEI.rolls.flipfail"}}</span>{{/if}}
+  {{#if flipToSucceed}}<span class="pill pill-flip-succeed">{{localize "ZWEI.rolls.flipsucceed"}}</span>{{/if}}
+  {{!--{{#if isReroll}}<span class="pill pill-reroll">{{localize "ZWEI.rolls.reroll"}}</span>{{/if}}--}}
+  {{#if weaponTest}}{{#each weapon.system.qualities}}<span class="pill pill-quality quality-link" data-tooltip-direction="LEFT" data-tooltip="{{effect}}">{{localize "TYPES.Item.quality"}}: {{name}}</span>{{/each}}{{/if}}
+  {{#if usedFortune}}<span class="pill pill-fortune">{{localize "ZWEI.rolls.usefortune"}}</span>{{/if}}
+  {{#if usedMisfortune}}<span class="pill pill-misfortune">{{localize "ZWEI.rolls.usemisfortune"}}</span>{{/if}}
+  {{!--{{#if (or spellTest weaponTest)}}<span class="pill">{{localize "ZWEI.rolls.test"}}: {{skill}}</span>{{/if}}--}}
+</div>
+<div class="dice-roll" data-action="expandRoll" data-tooltip-html="{{zhSkillTestTooltip this}}" data-tooltip-direction="LEFT" data-tooltip-class="fancy-tooltip">
+  <div class="dice-result">
+      <h4 class="dice-total outcome-{{effectiveOutcome}}"><span class="outcome-text">{{localize (zhConcat "ZWEI.chatskill." (zhLowerCaseSpaces outcomeLabel))}}</span><br /><span class="vs-chance">{{roll}} vs. {{totalChance}}</span></h4>
+      {{{tooltip}}}
+  </div>
+</div>
+
+{{#if chaosManifestation}}
+  <div class="additional-outcome-info chaos-manifestation">
+    {{localize "ZWEI.chatskill.chaosspawns"}}
+  </div>
+{{/if}}
+
+{{#if degreesOfSuccess}}
+  <div class="additional-outcome-info">
+    {{localize "ZWEI.chatskill.degrees"}}: {{degreesOfSuccess}}
+  </div>
+{{/if}}
+
+<div class="skill-test-controls flexrow skill">
+  <button type="button" class="skill-test-reroll" disabled><i class="fas fa-rotate-right"></i><span>{{localize "ZWEI.chatskill.goreroll"}}</span></button>
+  {{#if weaponTest}}
+  <button type="button" class="skill-test-damage" disabled><i class="ra ra-sword"></i><span>{{localize "ZWEI.chatskill.godamage"}}</span></button>
+  <button type="button" class="skill-test-parry" disabled><i class="ra ra-round-shield"></i><span>{{localize "ZWEI.chatskill.goparry"}}</span></button>
+  <button type="button" class="skill-test-dodge" disabled><i class="ra ra-player-dodge"></i><span>{{localize "ZWEI.chatskill.gododge"}}</span></button>
+  {{else if madnessTest}}
+  <button type="button" class="skill-test-madness" disabled><i class="fas fa-brain"></i><span>{{localize "ZWEI.chatskill.gomadness"}}</span></button>
+  {{/if}}
+</div>

@@ -1,0 +1,153 @@
+{
+  "_id": "z6CTVYR6RN7fUGvj",
+  "effects": [],
+  "img": "systems/zweihander/assets/icons/military-officer.svg",
+  "name": "Military Officer",
+  "type": "profession",
+  "_stats": {
+    "coreVersion": "13.342",
+    "systemId": "zweihander",
+    "systemVersion": "5.4.1",
+    "createdTime": null,
+    "modifiedTime": 1735049918918,
+    "lastModifiedBy": "rivg6xcMxdlVDM8y",
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "system": {
+    "description": {
+      "@en": "Military Officers hold ranks in armies and navies, from sergeants to generals and first mates to admirals. Some have risen from the ranks, others have attended military academies, but they now command small mercenary bands, naval vessels or fleets and army regiments or whole armies. The Military Officer ensures those under their command are kept supplied and plans their maneuvers and strategies in battle, but when the war horns sound, they still don their mail and take up their swords to wade into battle alongside their men. Military Officers are brilliant tacticians, fighters and leaders, often rising to become statesmen and diplomats. Well respected, dedicated to their cause and the leading figures in any campaign, Military Officers are also valuable targets. Sadly, the successful kidnap or assassination attempt of a great captain can break the morale of an entire army.\nMost Military Officers are intelligent soldiers, renowned for their skills and knowledge and their courage and skill on the battlefield. This makes them useful when temporarily assigned to small parties for specialized missions and when they leave military life. Some even sell their skills to the highest bidder, serving one nation, then another, perhaps even fighting a nation they previously served. Others eschew a life of service, rallying their own personal armies to set out and establish their own kingdoms or take existing ones, turning them into militaristic autocracies. These dictators are often cruel, using the only thing they know as a means to rule: excessive force, violence and a cult of terror."
+    },
+    "notes": "",
+    "expert": {
+      "value": true,
+      "requirements": {
+        "skillRanks": [
+          {
+            "key": "leadership",
+            "value": 1
+          },
+          {
+            "key": "warfare",
+            "value": 1
+          }
+        ],
+        "additional": "<p>-</p>"
+      }
+    },
+    "archetype": "Expert Profession",
+    "bonusAdvances": [
+      {
+        "name": "[CB]",
+        "purchased": false
+      },
+      {
+        "name": "[CB]",
+        "purchased": false
+      },
+      {
+        "name": "[BB]",
+        "purchased": false
+      },
+      {
+        "name": "[FB]",
+        "purchased": false
+      },
+      {
+        "name": "[FB]",
+        "purchased": false
+      },
+      {
+        "name": "[WB]",
+        "purchased": false
+      },
+      {
+        "name": "[WB]",
+        "purchased": false
+      }
+    ],
+    "skillRanks": [
+      {
+        "name": "Awareness",
+        "purchased": false
+      },
+      {
+        "name": "Leadership",
+        "purchased": false
+      },
+      {
+        "name": "Martial Melee",
+        "purchased": false
+      },
+      {
+        "name": "Martial Ranged",
+        "purchased": false
+      },
+      {
+        "name": "Resolve",
+        "purchased": false
+      },
+      {
+        "name": "Rumor",
+        "purchased": false
+      },
+      {
+        "name": "Simple Melee",
+        "purchased": false
+      },
+      {
+        "name": "Simple Ranged",
+        "purchased": false
+      },
+      {
+        "name": "Toughness",
+        "purchased": false
+      },
+      {
+        "name": "Warfare",
+        "purchased": false
+      }
+    ],
+    "talents": [
+      {
+        "linkedId": "IIRQ4Q1t7FbBYUbM",
+        "name": "Impenetrable Wall",
+        "uuid": "Compendium.zweihander.zh-talents.Item.IIRQ4Q1t7FbBYUbM"
+      },
+      {
+        "linkedId": "Iiu9G1OsUFo0Tiw6",
+        "name": "Instincts",
+        "uuid": "Compendium.zweihander.zh-talents.Item.Iiu9G1OsUFo0Tiw6"
+      },
+      {
+        "linkedId": "xxL0Z55MRpRP3fyP",
+        "name": "Military Formation",
+        "uuid": "Compendium.zweihander.zh-talents.Item.xxL0Z55MRpRP3fyP"
+      }
+    ],
+    "professionalTrait": {
+      "name": "Call of Duty",
+      "uuid": "Compendium.zweihander.zh-traits.Item.7LC7YsdtI0sZ9hHJ",
+      "linkedId": null
+    },
+    "specialTrait": {
+      "name": "",
+      "uuid": "",
+      "linkedId": null
+    },
+    "drawback": {
+      "name": "You Can’t Handle the Truth!",
+      "uuid": "Compendium.zweihander.zh-drawbacks.Item.U27l0zIPrxZcxjzb",
+      "linkedId": null
+    },
+    "tier": ""
+  },
+  "folder": null,
+  "sort": 18100000,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {},
+  "_key": "!items!z6CTVYR6RN7fUGvj"
+}

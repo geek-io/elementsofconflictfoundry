@@ -1,0 +1,127 @@
+{
+  "_id": "GpK7hkrt6bAxdGqL",
+  "effects": [],
+  "img": "systems/zweihander/assets/icons/abstract-082.svg",
+  "name": "Smith",
+  "type": "profession",
+  "_stats": {
+    "coreVersion": "13.342",
+    "systemId": "zweihander",
+    "systemVersion": "5.4.1",
+    "createdTime": null,
+    "modifiedTime": 1734972168203,
+    "lastModifiedBy": "rivg6xcMxdlVDM8y",
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "system": {
+    "description": {
+      "@en": "<p>With fire and hammer, I take metal and forge it into objects not only useful but also beautiful in their craftsmanship. People take horseshoes, plows and castiron pans for granted, but when their horse throws a shoe, I become the most critical merchant in town. When I have no orders, I let my creative mind wander at the forge&mdash;forging beautiful cavalry sabres or ornate iron sculptures. Through my hands and knowledge, I bring meaning and function to a chaotic world.</p>\n<p>War is coming, though. I have seen the signs and heard the arguments, and I know humankind has a propensity to be unyielding when faced with difference. Humankind is like iron: once it is forged, it is nearly impossible to reshape. However, some nights when I dwell late by the forge, I feel a prickling on the back of my neck&mdash;like someone is watching me, waiting. I&rsquo;ve heard stirrings of things at the edge of the cities. If worse comes to worse though, I am certain I can forge a blade to vanquish whatever is coming.</p>"
+    },
+    "notes": "",
+    "expert": {
+      "value": false,
+      "requirements": ""
+    },
+    "archetype": "Commoner Profession",
+    "bonusAdvances": [
+      {
+        "name": "[AB]"
+      },
+      {
+        "name": "[BB]"
+      },
+      {
+        "name": "[BB]"
+      },
+      {
+        "name": "[CB]"
+      },
+      {
+        "name": "[CB]"
+      },
+      {
+        "name": "[PB]"
+      },
+      {
+        "name": "[WB]"
+      }
+    ],
+    "skillRanks": [
+      {
+        "name": "Athletics"
+      },
+      {
+        "name": "Awareness"
+      },
+      {
+        "name": "Coordination"
+      },
+      {
+        "name": "Intimidate"
+      },
+      {
+        "name": "Martial Melee"
+      },
+      {
+        "name": "Rumor"
+      },
+      {
+        "name": "Simple Melee"
+      },
+      {
+        "name": "Simple Ranged"
+      },
+      {
+        "name": "Toughness"
+      },
+      {
+        "name": "Tradecraft"
+      }
+    ],
+    "talents": [
+      {
+        "linkedId": null,
+        "name": "Ambidexterity",
+        "uuid": "Compendium.zweihander.zh-talents.Item.XmrQY5We9Dj3m5Yn"
+      },
+      {
+        "linkedId": null,
+        "name": "Blacksmithing",
+        "uuid": "Compendium.zweihander.fof-talents.Item.9JlMASM4OqhlKn7T"
+      },
+      {
+        "linkedId": null,
+        "name": "Natural Wrestler",
+        "uuid": "Compendium.zweihander.fof-talents.Item.w9rOjeRFKUp3otjS"
+      },
+      {
+        "uuid": "Compendium.zweihander.fof-talents.Item.5dyoRyWXhQe3DiS8"
+      }
+    ],
+    "professionalTrait": {
+      "name": "Technical Mastery",
+      "uuid": "Compendium.zweihander.fof-professional-traits.Item.9AjrbO5WIZxBDQ2w",
+      "linkedId": null
+    },
+    "specialTrait": {
+      "name": "",
+      "uuid": "",
+      "linkedId": null
+    },
+    "drawback": {
+      "name": "Forge-Scarred",
+      "uuid": "Compendium.zweihander.fof-quirks.Item.oh8huuKOJFJiKS1c",
+      "linkedId": null
+    },
+    "tier": ""
+  },
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {},
+  "_key": "!items!GpK7hkrt6bAxdGqL"
+}

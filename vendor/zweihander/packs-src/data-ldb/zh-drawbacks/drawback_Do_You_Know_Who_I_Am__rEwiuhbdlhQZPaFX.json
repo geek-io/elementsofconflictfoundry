@@ -1,0 +1,36 @@
+{
+  "_id": "rEwiuhbdlhQZPaFX",
+  "effects": [],
+  "img": "systems/zweihander/assets/icons/spiked-halo.svg",
+  "name": "Do You Know Who I Am?",
+  "type": "drawback",
+  "_stats": {
+    "coreVersion": "13.342",
+    "systemId": null,
+    "systemVersion": null,
+    "createdTime": null,
+    "modifiedTime": 1733923835859,
+    "lastModifiedBy": "rivg6xcMxdlVDM8y",
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "system": {
+    "description": {
+      "@en": "Burgomasters are often dogmatic in their worldview and impart these same values over the people they rule over."
+    },
+    "notes": "",
+    "rules": {
+      "effect": {
+        "@en": "Immediately change your Order Alignment to Dignity and your Chaos Alignment to Vehemence."
+      }
+    }
+  },
+  "folder": null,
+  "sort": 11600000,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {},
+  "_key": "!items!rEwiuhbdlhQZPaFX"
+}

@@ -1,0 +1,45 @@
+import test from 'node:test';
+import assert from 'node:assert/strict';
+import {readFile} from 'node:fs/promises';
+import {recordFacets,matchesLibrary,libraryFacets} from '../scripts/library-filters.mjs';
+import {isCloneTechnique,executeClone} from '../scripts/clones.mjs';
+import {techniqueArea} from '../scripts/area.mjs';
+import {SYSTEM_ID} from '../scripts/config.mjs';
+test('library facets distinguish melee paces from ranged weapons and combine filters',()=>{
+ const katana={name:'Katana',type:'weapon',system:{category:'Melee Weapons',range:'1 pace(s)',qualities:'Vicious, Sharp',tags:'Shinobi, starter'}};
+ const bow={name:'Bow',type:'weapon',system:{category:'Ranged Weapons',range:'20 + PB paces'}};
+ const tech={name:'Flame',type:'jutsu',system:{jutsuType:'Ninjutsu',jutsuRank:'C',nature:'Fire',tags:'Area, attack'}};
+ assert.equal(recordFacets(katana).weaponStyle,'Melee');assert.equal(recordFacets(bow).weaponStyle,'Ranged');
+ assert.equal(matchesLibrary(tech,{techniqueType:'Ninjutsu',rank:'C',nature:'Fire',tag:'area'}),true);
+ assert.equal(matchesLibrary(tech,{rank:'B'}),false);assert.equal(matchesLibrary(katana,{weaponStyle:'Ranged'}),false);
+ assert.equal(matchesLibrary(katana,{},'shinobi'),true);assert.equal(libraryFacets([tech,katana,bow]).find(f=>f.key==='weaponStyle').choices.length,2);
+});
+test('generic items and Spread weapons have targeting templates; trackers immediately follow thresholds',async()=>{
+ assert.equal(techniqueArea({type:'weapon',system:{qualities:'Spread',range:'Short (1-5 Paces)'}}).type,'cone');
+ assert.equal(techniqueArea({type:'gear',system:{template:'Blast',areaLength:4}}).length,4);
+ const actor=await readFile('templates/actor.hbs','utf8');
+ assert.ok(actor.indexOf('eoc-threshold-row')<actor.indexOf('eoc-condition-columns'));
+ assert.ok(actor.indexOf('eoc-condition-columns')<actor.indexOf('eoc-stat-grid'));
+ assert.ok(actor.indexOf('eoc-condition-columns')<actor.indexOf('eoc-npc-actions'));
+});
+test('clone creation uses owned successful Technique, independent snapshot, optional animation and one clone per use',async()=>{
+ assert.equal(isCloneTechnique({name:'Ice Clone',system:{}}),true);assert.equal(isCloneTechnique({name:'Ice Clone',system:{cloneMode:'off'}}),false);
+ assert.equal(isCloneTechnique({name:'Custom summon',system:{cloneMode:'on'}}),true);
+ const user={id:'p',active:true,viewedScene:'s'},gm={id:'gm',active:true,isGM:true};
+ const item={id:'i',name:'Ice Clone',system:{}},snapshot={type:'character',system:{damageState:3,perilState:2,chakra:{value:9}},items:[{name:'Custom sword'}],effects:[],ownership:{p:3}};
+ const actor={name:'Akira',uuid:'Actor.a',testUserPermission:u=>u===user,toObject:()=>structuredClone(snapshot),items:{get:()=>item}};
+ const source={id:'src',actor,uuid:'Scene.s.Token.src',toObject:()=>({_id:'src',actorId:'a',actorLink:true,texture:{src:'token.webp'},flags:{}})};
+ let created,deleted=0,animation=0;
+ const message={id:'clone-use',speakerActor:actor,flags:{[SYSTEM_ID]:{test:{itemId:'i',success:true}}},update:async data=>{message.flags[SYSTEM_ID].cloneToken=Object.values(data)[0];}};
+ const scene={id:'s',grid:{size:50},tokens:{get:()=>source},createEmbeddedDocuments:async(type,data)=>{created=data[0];return [{...data[0],width:1,height:1,uuid:'Scene.s.Token.clone',delete:async()=>deleted++}];}};
+ globalThis.game={user:gm,users:{activeGM:gm,get:()=>user},messages:{get:()=>message},scenes:{get:()=>scene},modules:{get:()=>({active:true})}};
+ globalThis.Sequencer={Database:{getEntry:key=>key.endsWith('grey')}};
+ globalThis.Sequence=class{effect(){return this;}file(path){assert.match(path,/jb2a/);return this;}atLocation(p){assert.equal(p.x,125);return this;}async play(){animation++;}};
+ await executeClone(message.id,'p',{sceneId:'s',sourceId:'src',x:100,y:100});
+ assert.equal(created.actorLink,false);assert.equal(created.delta.system.damageState,0);assert.equal(created.delta.items[0].name,'Custom sword');assert.equal(snapshot.system.damageState,3);assert.equal(animation,1);
+ await assert.rejects(executeClone(message.id,'p',{sceneId:'s',sourceId:'src',x:100,y:100}),/already/);
+ message.id='second-use';delete message.flags[SYSTEM_ID].cloneToken;game.modules.get=()=>undefined;
+ await executeClone(message.id,'p',{sceneId:'s',sourceId:'src',x:100,y:100});assert.equal(animation,1);
+ message.id='bad-use';delete message.flags[SYSTEM_ID].cloneToken;message.flags[SYSTEM_ID].test.success=false;
+ await assert.rejects(executeClone(message.id,'p',{sceneId:'s',sourceId:'src',x:100,y:100}),/successful/);assert.equal(deleted,0);
+});

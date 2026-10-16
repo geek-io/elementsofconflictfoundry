@@ -1,0 +1,37 @@
+{
+  "_id": "XKKy1w0zadGHNMK4",
+  "effects": [],
+  "img": "systems/zweihander/assets/icons/skeleton.svg",
+  "name": "I Sell the Dead",
+  "type": "trait",
+  "_stats": {
+    "coreVersion": "13.342",
+    "systemId": "zweihander",
+    "systemVersion": "5.4.1",
+    "createdTime": null,
+    "modifiedTime": 1735911103071,
+    "lastModifiedBy": "rivg6xcMxdlVDM8y",
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "system": {
+    "description": {
+      "@en": "A Graverobber has heard and seen their share of strange things over the years; the dead rattling in their coffins, corpses reanimating upon their own accord, the wailing of banshees from crypts and the clanking of a revenant’s chains deep below the earth."
+    },
+    "notes": "",
+    "rules": {
+      "effect": {
+        "@en": "When facing Supernatural creatures, you always succeed at Resolve Tests to save yourself from Stress and Fear provoked by them. In addition, you are immune to specific Diseases such as Red Death and Tomb Rot."
+      }
+    },
+    "category": "professional"
+  },
+  "folder": null,
+  "sort": 10900000,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {},
+  "_key": "!items!XKKy1w0zadGHNMK4"
+}

@@ -1,0 +1,37 @@
+{
+  "_id": "eNK9L8EzfLujEirc",
+  "effects": [],
+  "img": "systems/zweihander/assets/icons/tattered-banner.svg",
+  "name": "Man O’War",
+  "system": {
+    "description": {
+      "@en": ""
+    },
+    "notes": "",
+    "rules": {
+      "effect": {
+        "@en": "When these creatures are Injured, always refer to the Moderate Injuries table to determine their severity. This Trait overrides any potential for increase in Injuries due to Qualities, Traits or other Talents."
+      }
+    },
+    "category": "creature"
+  },
+  "type": "trait",
+  "_stats": {
+    "coreVersion": "13.342",
+    "systemId": "zweihander",
+    "systemVersion": "5.4.1",
+    "createdTime": null,
+    "modifiedTime": 1735915786871,
+    "lastModifiedBy": "rivg6xcMxdlVDM8y",
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {},
+  "_key": "!items!eNK9L8EzfLujEirc"
+}

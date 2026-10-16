@@ -1,0 +1,37 @@
+{
+  "_id": "Q02sPEGGlo57GuKV",
+  "effects": [],
+  "img": "systems/zweihander/assets/icons/dwarf-face.svg",
+  "name": "Children of the Earth",
+  "type": "trait",
+  "_stats": {
+    "coreVersion": "13.342",
+    "systemId": "zweihander",
+    "systemVersion": "5.4.1",
+    "createdTime": null,
+    "modifiedTime": 1734974463044,
+    "lastModifiedBy": "rivg6xcMxdlVDM8y",
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "system": {
+    "description": {
+      "@en": "Dwarves have an almost magnetic pull toward the earth. This, combined with a lower center of gravity, makes a Dwarf nigh impossible to topple. This obstinacy is unmatched, save for the fact that the mountain does not bend to the wishes of the wind."
+    },
+    "notes": "",
+    "rules": {
+      "effect": {
+        "@en": "You can never be forced off your feet or knocked Prone onto the ground by the elements, your enemies or even Magick. Finally, you will have a Corpulent build on the Build table."
+      }
+    },
+    "category": "ancestral"
+  },
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {},
+  "_key": "!items!Q02sPEGGlo57GuKV"
+}

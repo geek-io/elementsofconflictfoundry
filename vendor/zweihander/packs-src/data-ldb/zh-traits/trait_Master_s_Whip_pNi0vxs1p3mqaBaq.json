@@ -1,0 +1,37 @@
+{
+  "_id": "pNi0vxs1p3mqaBaq",
+  "effects": [],
+  "img": "systems/zweihander/assets/icons/slavery-whip.svg",
+  "name": "Master’s Whip",
+  "type": "trait",
+  "_stats": {
+    "coreVersion": "13.342",
+    "systemId": "zweihander",
+    "systemVersion": "5.4.1",
+    "createdTime": null,
+    "modifiedTime": 1735911103106,
+    "lastModifiedBy": "rivg6xcMxdlVDM8y",
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "system": {
+    "description": {
+      "@en": "With every vicious lash of the whip, with every rod unspared and arm broken, the Chattel Slaver continues their disdainful drive to subjugate and oppress."
+    },
+    "notes": "",
+    "rules": {
+      "effect": {
+        "@en": "You ignore the Ineffective and Pummeling Qualities when fighting with Brawling type weapons."
+      }
+    },
+    "category": "professional"
+  },
+  "folder": null,
+  "sort": 17700000,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {},
+  "_key": "!items!pNi0vxs1p3mqaBaq"
+}

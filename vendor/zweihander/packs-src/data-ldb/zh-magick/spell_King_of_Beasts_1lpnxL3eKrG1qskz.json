@@ -1,0 +1,60 @@
+{
+  "_id": "1lpnxL3eKrG1qskz",
+  "effects": [],
+  "img": "systems/zweihander/assets/icons/lion.svg",
+  "name": "King of Beasts",
+  "type": "spell",
+  "_stats": {
+    "coreVersion": "13.342",
+    "systemId": "zweihander",
+    "systemVersion": "5.4.1",
+    "createdTime": null,
+    "modifiedTime": 1745410666667,
+    "lastModifiedBy": "rivg6xcMxdlVDM8y",
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "system": {
+    "description": {
+      "@en": "You command the creature to do your bidding; its response is obedience."
+    },
+    "notes": "",
+    "rules": {
+      "effect": {
+        "@en": "After successfully casting this spell, the creature you touch (providing they are considered to be a Beast) is yours to command for exactly one minute. Note that if you attack the creature or cause it further harm, the spell ends immediately."
+      },
+      "criticalSuccess": {
+        "@en": "As above, but triple the Duration."
+      },
+      "criticalFailure": {
+        "@en": "Your words only serve to antagonize the creature. Rearing up, it has a new-found passion – to kill and eat you! The creature can add a 1D6 Fury Die to Total Damage whenever it strikes you in the next three minutes."
+      },
+      "reagents": {
+        "@en": "The tooth of a creature type you wish to tame (expended)"
+      }
+    },
+    "tradition": "Divine (Demiurge)",
+    "principle": "Petty",
+    "distance": "Any one creature you can touch",
+    "duration": {
+      "value": "special",
+      "label": "Instantaneous",
+      "formula": {
+        "override": false
+      },
+      "base": "[WB]",
+      "bonus": 0,
+      "unit": "Special"
+    },
+    "castingTime": "1 min",
+    "castingCost": 0
+  },
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {},
+  "_key": "!items!1lpnxL3eKrG1qskz"
+}

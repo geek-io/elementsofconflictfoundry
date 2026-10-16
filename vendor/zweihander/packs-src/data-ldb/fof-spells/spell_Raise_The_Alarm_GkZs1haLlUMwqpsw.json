@@ -1,0 +1,60 @@
+{
+  "_id": "GkZs1haLlUMwqpsw",
+  "effects": [],
+  "img": "systems/zweihander/assets/icons/spell-book.svg",
+  "name": "Raise The Alarm",
+  "type": "spell",
+  "_stats": {
+    "coreVersion": "13.342",
+    "systemId": "zweihander",
+    "systemVersion": "5.4.1",
+    "createdTime": 1745429303230,
+    "modifiedTime": 1745429303230,
+    "lastModifiedBy": "rivg6xcMxdlVDM8y",
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "system": {
+    "description": {
+      "@en": "<p>Warning, intruder alert!</p>"
+    },
+    "notes": "",
+    "rules": {
+      "effect": {
+        "@en": "<p>After successfully casting, any person other than you who passes by the object you touched immediately announces any three words you select, using any language you speak. The alarm can be as soft as a whisper, at normal volume or as a yell. Once triggered, the Spell ends.</p>"
+      },
+      "criticalSuccess": {
+        "@en": "As above, but Raise The Alarm’s Spell never ends. It can be dispelled, though."
+      },
+      "criticalFailure": {
+        "@en": "You experience intestinal discomfort, suffering [[/roll 2D10+2]] Peril due to it."
+      },
+      "reagents": {
+        "@en": "Any object, such as a chest, door, plant or rock"
+      }
+    },
+    "tradition": "Common",
+    "principle": "Basic Tier",
+    "distance": "By Touch",
+    "duration": {
+      "value": "until triggered",
+      "label": "Until triggered",
+      "formula": {
+        "override": false
+      },
+      "base": "[WB]",
+      "bonus": 0,
+      "unit": "triggered"
+    },
+    "castingTime": "1 Minute",
+    "castingCost": 1
+  },
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {},
+  "_key": "!items!GkZs1haLlUMwqpsw"
+}

@@ -1,0 +1,569 @@
+{
+  "_id": "dMO4BFHO5xT7Qec2",
+  "displayRoll": true,
+  "formula": "1d20",
+  "img": "systems/zweihander/assets/icons/abstract-057.svg",
+  "name": "Disorders",
+  "replacement": true,
+  "results": [
+    {
+      "_id": "2kpRPA5HwLb09kbg",
+      "drawn": false,
+      "flags": {},
+      "img": "systems/zweihander/assets/icons/abstract-057.svg",
+      "range": [
+        1,
+        1
+      ],
+      "type": "document",
+      "weight": 1,
+      "_stats": {
+        "coreVersion": "13.342",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "name": "Bound to the Bottle",
+      "documentUuid": "Compendium.zweihander.zh-disorders.Item.xRAU6xkI3xbKavXN",
+      "description": "",
+      "_key": "!tables.results!dMO4BFHO5xT7Qec2.2kpRPA5HwLb09kbg"
+    },
+    {
+      "_id": "ZEb2NRjUYtrTNOVz",
+      "drawn": false,
+      "flags": {},
+      "img": "systems/zweihander/assets/icons/abstract-057.svg",
+      "range": [
+        2,
+        2
+      ],
+      "type": "document",
+      "weight": 1,
+      "_stats": {
+        "coreVersion": "13.342",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "name": "Deranged Hero",
+      "documentUuid": "Compendium.zweihander.zh-disorders.Item.S5EdjCmgAeqwRnp1",
+      "description": "",
+      "_key": "!tables.results!dMO4BFHO5xT7Qec2.ZEb2NRjUYtrTNOVz"
+    },
+    {
+      "_id": "HJmlXdZMo3DPWLgZ",
+      "drawn": false,
+      "flags": {},
+      "img": "systems/zweihander/assets/icons/abstract-057.svg",
+      "range": [
+        3,
+        3
+      ],
+      "type": "document",
+      "weight": 1,
+      "_stats": {
+        "coreVersion": "13.342",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "name": "Gambler's Lament",
+      "documentUuid": "Compendium.zweihander.zh-disorders.Item.nZzoj7mkG16Mv1rv",
+      "description": "",
+      "_key": "!tables.results!dMO4BFHO5xT7Qec2.HJmlXdZMo3DPWLgZ"
+    },
+    {
+      "_id": "uZoqJFXaG8WqulYL",
+      "drawn": false,
+      "flags": {},
+      "img": "systems/zweihander/assets/icons/abstract-057.svg",
+      "range": [
+        4,
+        4
+      ],
+      "type": "document",
+      "weight": 1,
+      "_stats": {
+        "coreVersion": "13.342",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "name": "Hophead",
+      "documentUuid": "Compendium.zweihander.zh-disorders.Item.fc6CldTkI6xLZEce",
+      "description": "",
+      "_key": "!tables.results!dMO4BFHO5xT7Qec2.uZoqJFXaG8WqulYL"
+    },
+    {
+      "_id": "1PIDvMn1z7JESWMY",
+      "drawn": false,
+      "flags": {},
+      "img": "systems/zweihander/assets/icons/abstract-057.svg",
+      "range": [
+        5,
+        5
+      ],
+      "type": "document",
+      "weight": 1,
+      "_stats": {
+        "coreVersion": "13.342",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "name": "Mana Junkie",
+      "documentUuid": "Compendium.zweihander.zh-disorders.Item.VWkGZg93doeQjT60",
+      "description": "",
+      "_key": "!tables.results!dMO4BFHO5xT7Qec2.1PIDvMn1z7JESWMY"
+    },
+    {
+      "_id": "mGzhBZAQIsy8nCm8",
+      "drawn": false,
+      "flags": {},
+      "img": "systems/zweihander/assets/icons/abstract-057.svg",
+      "range": [
+        6,
+        6
+      ],
+      "type": "document",
+      "weight": 1,
+      "_stats": {
+        "coreVersion": "13.342",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "name": "Sticky Fingers",
+      "documentUuid": "Compendium.zweihander.zh-disorders.Item.WypobnqXZZOz5zcY",
+      "description": "",
+      "_key": "!tables.results!dMO4BFHO5xT7Qec2.mGzhBZAQIsy8nCm8"
+    },
+    {
+      "_id": "Nfdy3ptvcMFiOoCd",
+      "drawn": false,
+      "flags": {},
+      "img": "systems/zweihander/assets/icons/abstract-057.svg",
+      "range": [
+        7,
+        7
+      ],
+      "type": "document",
+      "weight": 1,
+      "_stats": {
+        "coreVersion": "13.342",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "name": "Clawing Obsession",
+      "documentUuid": "Compendium.zweihander.zh-disorders.Item.NuanFsUQqKD8GR28",
+      "description": "",
+      "_key": "!tables.results!dMO4BFHO5xT7Qec2.Nfdy3ptvcMFiOoCd"
+    },
+    {
+      "_id": "EZVZIZZXL9LeQgWk",
+      "drawn": false,
+      "flags": {},
+      "img": "systems/zweihander/assets/icons/abstract-057.svg",
+      "range": [
+        8,
+        8
+      ],
+      "type": "document",
+      "weight": 1,
+      "_stats": {
+        "coreVersion": "13.342",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "name": "Dark Passenger",
+      "documentUuid": "Compendium.zweihander.zh-disorders.Item.rrszjnHIMxuAJCAO",
+      "description": "",
+      "_key": "!tables.results!dMO4BFHO5xT7Qec2.EZVZIZZXL9LeQgWk"
+    },
+    {
+      "_id": "3y2Q9UvekLwqhzew",
+      "drawn": false,
+      "flags": {},
+      "img": "systems/zweihander/assets/icons/abstract-057.svg",
+      "range": [
+        9,
+        9
+      ],
+      "type": "document",
+      "weight": 1,
+      "_stats": {
+        "coreVersion": "13.342",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "name": "Dreadful Phobia",
+      "documentUuid": "Compendium.zweihander.zh-disorders.Item.4RmxjN0yi1dXOWAN",
+      "description": "",
+      "_key": "!tables.results!dMO4BFHO5xT7Qec2.3y2Q9UvekLwqhzew"
+    },
+    {
+      "_id": "JWVamf9RKHfrPkB0",
+      "drawn": false,
+      "flags": {},
+      "img": "systems/zweihander/assets/icons/abstract-057.svg",
+      "range": [
+        10,
+        10
+      ],
+      "type": "document",
+      "weight": 1,
+      "_stats": {
+        "coreVersion": "13.342",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "name": "Prophecy of Doom",
+      "documentUuid": "Compendium.zweihander.zh-disorders.Item.HkPYHaYDsy4NwLAs",
+      "description": "",
+      "_key": "!tables.results!dMO4BFHO5xT7Qec2.JWVamf9RKHfrPkB0"
+    },
+    {
+      "_id": "yG77qchwGYs7RNuJ",
+      "drawn": false,
+      "flags": {},
+      "img": "systems/zweihander/assets/icons/abstract-057.svg",
+      "range": [
+        11,
+        11
+      ],
+      "type": "document",
+      "weight": 1,
+      "_stats": {
+        "coreVersion": "13.342",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "name": "Pyromania",
+      "documentUuid": "Compendium.zweihander.zh-disorders.Item.HDUSNRHiTIzdDUUI",
+      "description": "",
+      "_key": "!tables.results!dMO4BFHO5xT7Qec2.yG77qchwGYs7RNuJ"
+    },
+    {
+      "_id": "JXlWsTjPF69TQdm9",
+      "drawn": false,
+      "flags": {},
+      "img": "systems/zweihander/assets/icons/abstract-057.svg",
+      "range": [
+        12,
+        12
+      ],
+      "type": "document",
+      "weight": 1,
+      "_stats": {
+        "coreVersion": "13.342",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "name": "Soldier's Heart",
+      "documentUuid": "Compendium.zweihander.zh-disorders.Item.HLAGI0Zzlx5pHq79",
+      "description": "",
+      "_key": "!tables.results!dMO4BFHO5xT7Qec2.JXlWsTjPF69TQdm9"
+    },
+    {
+      "_id": "5IGTHJ0acX3BAh0V",
+      "drawn": false,
+      "flags": {},
+      "img": "systems/zweihander/assets/icons/abstract-057.svg",
+      "range": [
+        13,
+        13
+      ],
+      "type": "document",
+      "weight": 1,
+      "_stats": {
+        "coreVersion": "13.342",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "name": "Host to the Abyss",
+      "documentUuid": "Compendium.zweihander.zh-disorders.Item.G37CXsaJee3v822G",
+      "description": "",
+      "_key": "!tables.results!dMO4BFHO5xT7Qec2.5IGTHJ0acX3BAh0V"
+    },
+    {
+      "_id": "l3cVtYQ6NQ5ZRqmL",
+      "drawn": false,
+      "flags": {},
+      "img": "systems/zweihander/assets/icons/abstract-057.svg",
+      "range": [
+        14,
+        14
+      ],
+      "type": "document",
+      "weight": 1,
+      "_stats": {
+        "coreVersion": "13.342",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "name": "The Flesh Revolts",
+      "documentUuid": "Compendium.zweihander.zh-disorders.Item.4JDvdnhtyZ8Rqqlh",
+      "description": "",
+      "_key": "!tables.results!dMO4BFHO5xT7Qec2.l3cVtYQ6NQ5ZRqmL"
+    },
+    {
+      "_id": "4t7o7uXhhnbwlYwf",
+      "drawn": false,
+      "flags": {},
+      "img": "systems/zweihander/assets/icons/abstract-057.svg",
+      "range": [
+        15,
+        15
+      ],
+      "type": "document",
+      "weight": 1,
+      "_stats": {
+        "coreVersion": "13.342",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "name": "The Hunger",
+      "documentUuid": "Compendium.zweihander.zh-disorders.Item.f3vANvx4xPObaWH3",
+      "description": "",
+      "_key": "!tables.results!dMO4BFHO5xT7Qec2.4t7o7uXhhnbwlYwf"
+    },
+    {
+      "_id": "p4S8HiUfSaXWw5n4",
+      "drawn": false,
+      "flags": {},
+      "img": "systems/zweihander/assets/icons/abstract-057.svg",
+      "range": [
+        16,
+        16
+      ],
+      "type": "document",
+      "weight": 1,
+      "_stats": {
+        "coreVersion": "13.342",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "name": "Moon Fever",
+      "documentUuid": "Compendium.zweihander.zh-disorders.Item.ablu09HyNgzdGx59",
+      "description": "",
+      "_key": "!tables.results!dMO4BFHO5xT7Qec2.p4S8HiUfSaXWw5n4"
+    },
+    {
+      "_id": "LvSUFVLj8wa8LNh5",
+      "drawn": false,
+      "flags": {},
+      "img": "systems/zweihander/assets/icons/abstract-057.svg",
+      "range": [
+        17,
+        17
+      ],
+      "type": "document",
+      "weight": 1,
+      "_stats": {
+        "coreVersion": "13.342",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "name": "Sanguine Thrall",
+      "documentUuid": "Compendium.zweihander.zh-disorders.Item.hgARE5rUqmRk8YF9",
+      "description": "",
+      "_key": "!tables.results!dMO4BFHO5xT7Qec2.LvSUFVLj8wa8LNh5"
+    },
+    {
+      "_id": "qDb4v8fmlz2uSktf",
+      "drawn": false,
+      "flags": {},
+      "img": "systems/zweihander/assets/icons/abstract-057.svg",
+      "range": [
+        18,
+        18
+      ],
+      "type": "document",
+      "weight": 1,
+      "_stats": {
+        "coreVersion": "13.342",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "name": "Taint of Chaos",
+      "documentUuid": "Compendium.zweihander.zh-disorders.Item.TwlX2tP6DeCp0HaD",
+      "description": "",
+      "_key": "!tables.results!dMO4BFHO5xT7Qec2.qDb4v8fmlz2uSktf"
+    },
+    {
+      "_id": "3P7pBH08ZhpoldN3",
+      "drawn": false,
+      "flags": {},
+      "img": "systems/zweihander/assets/icons/abstract-057.svg",
+      "range": [
+        19,
+        19
+      ],
+      "type": "document",
+      "weight": 1,
+      "_stats": {
+        "coreVersion": "13.342",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "name": "Possessed!",
+      "documentUuid": "Compendium.zweihander.zh-disorders.Item.5wBQjKkGTpWXyq5o",
+      "description": "",
+      "_key": "!tables.results!dMO4BFHO5xT7Qec2.3P7pBH08ZhpoldN3"
+    },
+    {
+      "_id": "SyBvUpZXMySmwKyN",
+      "drawn": false,
+      "flags": {},
+      "img": "systems/zweihander/assets/icons/abstract-057.svg",
+      "range": [
+        20,
+        20
+      ],
+      "type": "document",
+      "weight": 1,
+      "_stats": {
+        "coreVersion": "13.342",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "name": "Wytchstone Addiction",
+      "documentUuid": "Compendium.zweihander.zh-disorders.Item.MBlA7EWhgSU5PKFM",
+      "description": "",
+      "_key": "!tables.results!dMO4BFHO5xT7Qec2.SyBvUpZXMySmwKyN"
+    }
+  ],
+  "_stats": {
+    "coreVersion": "13.342",
+    "systemId": null,
+    "systemVersion": null,
+    "createdTime": null,
+    "modifiedTime": 1747661445443,
+    "lastModifiedBy": "R0qXfdvm21RaZ5Yx",
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "description": "",
+  "folder": null,
+  "sort": 600000,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {},
+  "_key": "!tables!dMO4BFHO5xT7Qec2"
+}

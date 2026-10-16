@@ -1,0 +1,149 @@
+{
+  "_id": "E5DSEPlN7syp56bu",
+  "effects": [],
+  "img": "systems/zweihander/assets/icons/iron-abbot.svg",
+  "name": "Iron Abbot",
+  "type": "profession",
+  "_stats": {
+    "coreVersion": "13.342",
+    "systemId": "zweihander",
+    "systemVersion": "5.4.1",
+    "createdTime": null,
+    "modifiedTime": 1735049869151,
+    "lastModifiedBy": "rivg6xcMxdlVDM8y",
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "system": {
+    "description": {
+      "@en": "There are many subtleties to war. Maneuvers, morale, when to attack, when to retreat; it’s all a deadly dance that culminates in death, defeat and victory. No one knows this more than the Iron Abbots, the priesthood of the god of war and strategy, the Steward, who devote themselves to battle and order. Their armor emblazoned with symbols of the sun and wielding their trusty, blessed spears, these battle priests serve as aide-de-camps to generals or lead regiments themselves. When they do, the Steward’s blazing sun banners fly proudly alongside the banners of the nobility. When battles end, Iron Abbots tend to wounded soldiers and often facilitate parleys between the opposing sides – though ideals may be different, war and honor are universal languages. In times of peace, Iron Abbots lead pilgrimages to ancient battlefields to witness the horrors and beauty of warfare.\nAlthough nearly every guardhouse and encampment has a shrine to the Steward, His steely temples are usually found in barracks and military academies. Iron Abbots worship consists of drills and exercises, each spear thrust and shield block a prayer to their lord of war. These prayers ensure that Iron Abbot soldiers stand firm when other regiments falter, bolstering their morale and rallying them under continued assault. The Steward demands His followers to be disciplined and honorable, so discord is rare among His ranks. Those who give into more dishonorable and chaotic ways become vehicles for bloody, senseless destruction."
+    },
+    "notes": "",
+    "expert": {
+      "value": true,
+      "requirements": {
+        "skillRanks": [
+          {
+            "key": "incantation",
+            "value": 1
+          }
+        ],
+        "additional": "<p>You must have the Special Trait of Divine Magick. </p>"
+      }
+    },
+    "archetype": "Expert Profession",
+    "bonusAdvances": [
+      {
+        "name": "[BB]",
+        "purchased": false
+      },
+      {
+        "name": "[CB]",
+        "purchased": false
+      },
+      {
+        "name": "[CB]",
+        "purchased": false
+      },
+      {
+        "name": "[FB]",
+        "purchased": false
+      },
+      {
+        "name": "[IB]",
+        "purchased": false
+      },
+      {
+        "name": "[WB]",
+        "purchased": false
+      },
+      {
+        "name": "[WB]",
+        "purchased": false
+      }
+    ],
+    "skillRanks": [
+      {
+        "name": "Awareness",
+        "purchased": false
+      },
+      {
+        "name": "Folklore",
+        "purchased": false
+      },
+      {
+        "name": "Incantation",
+        "purchased": false
+      },
+      {
+        "name": "Leadership",
+        "purchased": false
+      },
+      {
+        "name": "Martial Melee",
+        "purchased": false
+      },
+      {
+        "name": "Resolve",
+        "purchased": false
+      },
+      {
+        "name": "Ride",
+        "purchased": false
+      },
+      {
+        "name": "Rumor",
+        "purchased": false
+      },
+      {
+        "name": "Simple Melee",
+        "purchased": false
+      },
+      {
+        "name": "Warfare",
+        "purchased": false
+      }
+    ],
+    "talents": [
+      {
+        "linkedId": "ApvdCU96TYOe2FEs",
+        "name": "Battle Magick",
+        "uuid": "Compendium.zweihander.zh-talents.Item.ApvdCU96TYOe2FEs"
+      },
+      {
+        "linkedId": "IIRQ4Q1t7FbBYUbM",
+        "name": "Impenetrable Wall",
+        "uuid": "Compendium.zweihander.zh-talents.Item.IIRQ4Q1t7FbBYUbM"
+      },
+      {
+        "linkedId": "xxL0Z55MRpRP3fyP",
+        "name": "Military Formation",
+        "uuid": "Compendium.zweihander.zh-talents.Item.xxL0Z55MRpRP3fyP"
+      }
+    ],
+    "professionalTrait": {
+      "name": "Shield of the Blazing Sun",
+      "uuid": "Compendium.zweihander.zh-traits.Item.34jMaOx1ISp6NhEc",
+      "linkedId": null
+    },
+    "specialTrait": {
+      "name": "Prayers of the Steward",
+      "uuid": "Compendium.zweihander.zh-traits.Item.vI1kHQWT36rw1ppW",
+      "linkedId": null
+    },
+    "drawback": {
+      "name": "The Steward’s Commandments",
+      "uuid": "Compendium.zweihander.zh-drawbacks.Item.qSJi8XquSugfuHSy",
+      "linkedId": null
+    },
+    "tier": ""
+  },
+  "folder": null,
+  "sort": 4600000,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {},
+  "_key": "!items!E5DSEPlN7syp56bu"
+}

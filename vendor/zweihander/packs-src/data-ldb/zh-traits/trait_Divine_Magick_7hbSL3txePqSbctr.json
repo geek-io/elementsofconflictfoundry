@@ -1,0 +1,37 @@
+{
+  "_id": "7hbSL3txePqSbctr",
+  "effects": [],
+  "img": "systems/zweihander/assets/icons/eclipse-flare.svg",
+  "name": "Divine Magick",
+  "type": "trait",
+  "_stats": {
+    "coreVersion": "13.342",
+    "systemId": "zweihander",
+    "systemVersion": "5.4.1",
+    "createdTime": null,
+    "modifiedTime": 1734974123655,
+    "lastModifiedBy": "rivg6xcMxdlVDM8y",
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "system": {
+    "description": {
+      "@en": "You are a proxy to a distant god, calling for divine intervention with the utterance of sacred prayers."
+    },
+    "notes": "",
+    "rules": {
+      "effect": {
+        "@en": "You are solely a practitioner of Divine Magick. As a consequence, you may never adopt a Profession which has Arcane Magick as a Special Trait. In addition, you immediately learn three Generalist Magick spells when you enter this Profession. If you gained Divine Magick from a previous Profession, you learn an additional Generalist Magick spell instead."
+      }
+    },
+    "category": "special"
+  },
+  "folder": null,
+  "sort": 2400000,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {},
+  "_key": "!items!7hbSL3txePqSbctr"
+}

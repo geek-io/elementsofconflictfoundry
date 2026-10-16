@@ -1,0 +1,144 @@
+{
+  "_id": "rNNmXhciyYskIbrJ",
+  "effects": [],
+  "img": "systems/zweihander/assets/icons/apothecary.svg",
+  "name": "Apothecary",
+  "type": "profession",
+  "_stats": {
+    "coreVersion": "13.342",
+    "systemId": "zweihander",
+    "systemVersion": "5.4.1",
+    "createdTime": null,
+    "modifiedTime": 1734990834150,
+    "lastModifiedBy": "rivg6xcMxdlVDM8y",
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "system": {
+    "description": {
+      "@en": "Whilst the Barber Surgeon seeks to cure the ailing, it is the Apothecary who brews the medicine. Distilled from natural (and sometimes unnatural) elements acquired by Old Believers, Apothecaries apply their knowledge to create a multitude of archaic remedies. These medicines treat infections with solutions of wine, ward away miasmas and ‘unhealthy fogs’ with pastes and reduce pain originating from venereal disease and even a skinned knee with the application of simple unguents. Indeed, the Apothecary is seen as every bit important as the village Barber Surgeon, but with a license to brew. Whether any of these potions work is much debated, as more than a few have died from too many doses or succumbed to crippling addiction. Most Apothecaries simply shrug and call it the will of nature, returning to their pestles and flasks to fulfill the demand for their treatments.\nOften, ingredients will be too risky for others to gather, so Apothecaries must pick up their flasks and set out in search of their reagents. Of course, not every Apothecary is a humanitarian. Some do so purely for profit, taking advantage of good-natured people with quackery. Others create illegal opiates for consumption by those who can afford it, working with criminal syndicates to dispense their drugs. But never double-cross or underpay an Apothecary, as academicians roundly agree that there’s a thin line between medicine and poison. Any sort of medicine taken in large enough doses can be made into concentrated death… quite a few enterprising rich widows have made use of the Apothecary’s knowledge in this fashion."
+    },
+    "notes": "",
+    "expert": {
+      "value": false,
+      "requirements": {
+        "skillRanks": [],
+        "additional": ""
+      }
+    },
+    "archetype": "Academic",
+    "bonusAdvances": [
+      {
+        "name": "[AB]",
+        "purchased": false
+      },
+      {
+        "name": "[FB]",
+        "purchased": false
+      },
+      {
+        "name": "[IB]",
+        "purchased": false
+      },
+      {
+        "name": "[IB]",
+        "purchased": false
+      },
+      {
+        "name": "[PB]",
+        "purchased": false
+      },
+      {
+        "name": "[PB]",
+        "purchased": false
+      },
+      {
+        "name": "[WB]",
+        "purchased": false
+      }
+    ],
+    "skillRanks": [
+      {
+        "name": "Alchemy",
+        "purchased": false
+      },
+      {
+        "name": "Awareness",
+        "purchased": false
+      },
+      {
+        "name": "Bargain",
+        "purchased": false
+      },
+      {
+        "name": "Coordination",
+        "purchased": false
+      },
+      {
+        "name": "Education",
+        "purchased": false
+      },
+      {
+        "name": "Folklore",
+        "purchased": false
+      },
+      {
+        "name": "Rumor",
+        "purchased": false
+      },
+      {
+        "name": "Simple Ranged",
+        "purchased": false
+      },
+      {
+        "name": "Survival",
+        "purchased": false
+      },
+      {
+        "name": "Tradecraft",
+        "purchased": false
+      }
+    ],
+    "talents": [
+      {
+        "linkedId": "XmrQY5We9Dj3m5Yn",
+        "name": "Ambidexterity",
+        "uuid": "Compendium.zweihander.zh-talents.Item.XmrQY5We9Dj3m5Yn"
+      },
+      {
+        "linkedId": "UMcOubezruAYIWze",
+        "name": "Determination",
+        "uuid": "Compendium.zweihander.zh-talents.Item.UMcOubezruAYIWze"
+      },
+      {
+        "linkedId": "2BQgCknFDwpvM47Q",
+        "name": "Nerves of Steel",
+        "uuid": "Compendium.zweihander.zh-talents.Item.2BQgCknFDwpvM47Q"
+      }
+    ],
+    "professionalTrait": {
+      "name": "Nostrum Remedium",
+      "uuid": "Compendium.zweihander.zh-traits.Item.SJ717bbpKOCR2sru",
+      "linkedId": null
+    },
+    "specialTrait": {
+      "name": "",
+      "uuid": "",
+      "linkedId": null
+    },
+    "drawback": {
+      "name": "",
+      "uuid": "",
+      "linkedId": null
+    },
+    "tier": ""
+  },
+  "folder": null,
+  "sort": 15400000,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {},
+  "_key": "!items!rNNmXhciyYskIbrJ"
+}

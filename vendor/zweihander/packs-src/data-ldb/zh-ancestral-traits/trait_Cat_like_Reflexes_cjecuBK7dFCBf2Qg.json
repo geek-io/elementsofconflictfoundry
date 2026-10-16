@@ -1,0 +1,37 @@
+{
+  "_id": "cjecuBK7dFCBf2Qg",
+  "effects": [],
+  "img": "systems/zweihander/assets/icons/hollow-cat.svg",
+  "name": "Cat-like Reflexes",
+  "type": "trait",
+  "_stats": {
+    "coreVersion": "13.342",
+    "systemId": "zweihander",
+    "systemVersion": "5.4.1",
+    "createdTime": null,
+    "modifiedTime": 1734974463051,
+    "lastModifiedBy": "rivg6xcMxdlVDM8y",
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "system": {
+    "description": {
+      "@en": "Some say that Halflings are watched over by Abyssal demons. Those with this affectation are oftentimes shadowed by a black cat or have it as a beloved pet, ‘found ’ at their doorstep as a kitten."
+    },
+    "notes": "",
+    "rules": {
+      "effect": {
+        "@en": "Whenever you fall, you may spend one Fortune Point to avoid Damage. In this case, you land on your feet, apparently unharmed. You can learn more about falling in Chapter 9: Hazards & Healing."
+      }
+    },
+    "category": "ancestral"
+  },
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {},
+  "_key": "!items!cjecuBK7dFCBf2Qg"
+}

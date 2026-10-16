@@ -1,0 +1,37 @@
+{
+  "_id": "gxo9WggD8JfBmApJ",
+  "effects": [],
+  "img": "systems/zweihander/assets/icons/vitruvian-man.svg",
+  "name": "Fame & Fortune",
+  "type": "trait",
+  "_stats": {
+    "coreVersion": "13.342",
+    "systemId": "zweihander",
+    "systemVersion": "5.4.1",
+    "createdTime": null,
+    "modifiedTime": 1735911103090,
+    "lastModifiedBy": "rivg6xcMxdlVDM8y",
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "system": {
+    "description": {
+      "@en": "Even when the chips are down, a Fop always seems to come out on top. Unlike others, they make their own luck."
+    },
+    "notes": "",
+    "rules": {
+      "effect": {
+        "@en": "When making any Skill Test, you never suffer the ill-effects of Critical Failures, instead treating it as a failed Skill Test."
+      }
+    },
+    "category": "professional"
+  },
+  "folder": null,
+  "sort": 14700000,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {},
+  "_key": "!items!gxo9WggD8JfBmApJ"
+}

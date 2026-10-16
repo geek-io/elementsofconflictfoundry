@@ -1,0 +1,334 @@
+{
+  "id": "elementsofconflictfoundry",
+  "title": "Elements of Conflict Zwei",
+  "description": "Elements of Conflict Zwei: character sheets, skill tests, equipment and rules libraries.",
+  "version": "0.3.15",
+  "compatibility": {
+    "minimum": "14.367",
+    "verified": "14.367",
+    "maximum": "14.999"
+  },
+  "authors": [
+    {
+      "name": "Geek IO Dev Team"
+    }
+  ],
+  "url": "https://github.com/geek-io/elementsofconflictfoundry",
+  "manifest": "https://github.com/geek-io/elementsofconflictfoundry/releases/latest/download/system.json",
+  "download": "https://github.com/geek-io/elementsofconflictfoundry/releases/download/v0.3.15/elementsofconflictfoundry-0.3.15.zip",
+  "esmodules": [
+    "scripts/entry-0.3.15.mjs"
+  ],
+  "styles": [
+    "assets/rpg-awesome/css/rpg-awesome.css",
+    "styles/system.css"
+  ],
+  "languages": [
+    {
+      "lang": "en",
+      "name": "English",
+      "path": "lang/en.json"
+    }
+  ],
+  "documentTypes": {
+    "Actor": {
+      "character": {},
+      "npc": {}
+    },
+    "Item": {
+      "gear": {
+        "htmlFields": [
+          "description"
+        ]
+      },
+      "weapon": {
+        "htmlFields": [
+          "description"
+        ]
+      },
+      "armor": {
+        "htmlFields": [
+          "description"
+        ]
+      },
+      "technique": {
+        "htmlFields": [
+          "description"
+        ]
+      },
+      "profession": {
+        "htmlFields": [
+          "description"
+        ]
+      },
+      "trait": {
+        "htmlFields": [
+          "description"
+        ]
+      },
+      "ancestry": {
+        "htmlFields": [
+          "description"
+        ]
+      },
+      "condition": {
+        "htmlFields": [
+          "description"
+        ]
+      },
+      "disease": {
+        "htmlFields": [
+          "description"
+        ]
+      },
+      "disorder": {
+        "htmlFields": [
+          "description"
+        ]
+      },
+      "drawback": {
+        "htmlFields": [
+          "description"
+        ]
+      },
+      "injury": {
+        "htmlFields": [
+          "description"
+        ]
+      },
+      "quality": {
+        "htmlFields": [
+          "description"
+        ]
+      },
+      "skill": {
+        "htmlFields": [
+          "description"
+        ]
+      },
+      "talent": {
+        "htmlFields": [
+          "description"
+        ]
+      },
+      "trapping": {
+        "htmlFields": [
+          "description"
+        ]
+      },
+      "medicine": {
+        "htmlFields": [
+          "description"
+        ]
+      },
+      "tool": {
+        "htmlFields": [
+          "description"
+        ]
+      },
+      "heritage": {
+        "htmlFields": [
+          "description"
+        ]
+      }
+    }
+  },
+  "packs": [
+    {
+      "name": "eoc-skills",
+      "label": "EoC · Skills",
+      "system": "elementsofconflictfoundry",
+      "path": "packs/eoc-skills",
+      "type": "Item",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    },
+    {
+      "name": "eoc-weapons",
+      "label": "EoC · Weapons",
+      "system": "elementsofconflictfoundry",
+      "path": "packs/eoc-weapons",
+      "type": "Item",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    },
+    {
+      "name": "eoc-armor",
+      "label": "EoC · Armor",
+      "system": "elementsofconflictfoundry",
+      "path": "packs/eoc-armor",
+      "type": "Item",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    },
+    {
+      "name": "eoc-medicine",
+      "label": "EoC · Medicine",
+      "system": "elementsofconflictfoundry",
+      "path": "packs/eoc-medicine",
+      "type": "Item",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    },
+    {
+      "name": "eoc-tools",
+      "label": "EoC · Tools",
+      "system": "elementsofconflictfoundry",
+      "path": "packs/eoc-tools",
+      "type": "Item",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    },
+    {
+      "name": "eoc-gear",
+      "label": "EoC · Gear & Poisons",
+      "system": "elementsofconflictfoundry",
+      "path": "packs/eoc-gear",
+      "type": "Item",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    },
+    {
+      "name": "eoc-book-techniques",
+      "label": "EoC · Techniques",
+      "system": "elementsofconflictfoundry",
+      "path": "packs/eoc-book-techniques",
+      "type": "Item",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    },
+    {
+      "name": "eoc-heritages",
+      "label": "EoC · Heritage Expansion",
+      "system": "elementsofconflictfoundry",
+      "path": "packs/eoc-heritages",
+      "type": "Item",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    },
+    {
+      "name": "eoc-professions",
+      "label": "EoC · Professions",
+      "system": "elementsofconflictfoundry",
+      "path": "packs/eoc-professions",
+      "type": "Item",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    },
+    {
+      "name": "eoc-talents",
+      "label": "EoC · Talents",
+      "system": "elementsofconflictfoundry",
+      "path": "packs/eoc-talents",
+      "type": "Item",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    },
+    {
+      "name": "eoc-specialist-traits",
+      "label": "EoC · Specialist Traits",
+      "system": "elementsofconflictfoundry",
+      "path": "packs/eoc-specialist-traits",
+      "type": "Item",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    }
+  ],
+  "packFolders": [
+    {
+      "name": "Elements of Conflict",
+      "packs": [],
+      "folders": [
+        {
+          "name": "Skills",
+          "packs": [
+            "eoc-skills"
+          ]
+        },
+        {
+          "name": "Weapons",
+          "packs": [
+            "eoc-weapons"
+          ]
+        },
+        {
+          "name": "Armor",
+          "packs": [
+            "eoc-armor"
+          ]
+        },
+        {
+          "name": "Medicine",
+          "packs": [
+            "eoc-medicine"
+          ]
+        },
+        {
+          "name": "Tools",
+          "packs": [
+            "eoc-tools"
+          ]
+        },
+        {
+          "name": "Gear & Poisons",
+          "packs": [
+            "eoc-gear"
+          ]
+        },
+        {
+          "name": "Professions",
+          "packs": [
+            "eoc-professions"
+          ]
+        },
+        {
+          "name": "Talents",
+          "packs": [
+            "eoc-talents"
+          ]
+        },
+        {
+          "name": "Specialist Traits",
+          "packs": [
+            "eoc-specialist-traits"
+          ]
+        },
+        {
+          "name": "Techniques",
+          "packs": [
+            "eoc-book-techniques"
+          ]
+        },
+        {
+          "name": "Heritages",
+          "packs": [
+            "eoc-heritages"
+          ]
+        }
+      ]
+    }
+  ],
+  "primaryTokenAttribute": "chakra"
+}

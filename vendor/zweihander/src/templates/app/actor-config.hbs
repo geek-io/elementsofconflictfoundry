@@ -1,0 +1,172 @@
+<div class="actor-config-container">
+  {{#if (eq actorType "character")}}
+    <fieldset>
+      <legend>{{localize "ZWEI.settings.acsettings.primarytitle"}}</legend>
+      <p class="hint">{{localize "ZWEI.settings.acsettings.primarytitlehint"}}</p>
+
+      {{#each governingAttributes as |gov|}}
+        <div class="form-group">
+          <label>{{gov.label}}</label>
+          <select name="{{gov.nameAttr}}">
+            {{selectOptions gov.attributes valueAttr="value" labelAttr="label" selected=selected}}
+          </select>
+        </div>
+      {{/each}}
+    </fieldset>
+
+    <fieldset>
+      <legend>{{localize "ZWEI.settings.acsettings.globaltitle"}}</legend>
+      <p class="hint">{{{localize "ZWEI.settings.acsettings.globaltitlehint"}}}</p>
+
+      {{#each globalModifiers as |mod|}}
+        <div class="form-group">
+          <label>{{mod.label}}</label>
+          <input type="number" name="{{mod.nameAttr}}" value="{{mod.valueAttr}}" />
+          {{#if mod.hint}}<p class="hint">{{mod.hint}}</p>{{/if}}
+        </div>
+      {{/each}}
+    </fieldset>
+
+    <fieldset>
+      <legend>{{localize "ZWEI.settings.acsettings.skillstitle"}}</legend>
+      <p class="hint">{{localize "ZWEI.settings.acsettings.skillstitlehint"}}</p>
+      <div class="form-group">
+        <label>{{localize "ZWEI.settings.acsettings.skillsparry"}}</label>
+        <multi-select name="parrySkills">
+          {{selectOptions parrySkills valueAttr="value" labelAttr="label" selected=selected}}
+        </multi-select>
+      </div>
+
+      <div class="form-group">
+        <label>{{localize "ZWEI.settings.acsettings.skillsdodge"}}</label>
+        <multi-select name="dodgeSkills">
+          {{selectOptions dodgeSkills valueAttr="value" labelAttr="label" selected=selected}}
+        </multi-select>
+      </div>
+
+      <div class="form-group">
+        <label>{{localize "ZWEI.settings.acsettings.skillsmadness"}}</label>
+        <multi-select name="perilSkills">
+          {{selectOptions perilSkills valueAttr="value" labelAttr="label" selected=selected}}
+        </multi-select>
+      </div>
+    </fieldset>
+
+    <fieldset>
+      <legend>{{localize "ZWEI.settings.acsettings.periltitle"}}</legend>
+      <p class="hint">{{localize "ZWEI.settings.acsettings.periltitlehint"}}</p>
+      <div class="form-group">
+        <label>{{localize "ZWEI.settings.acsettings.peril1"}}</label>
+        <input
+          type="checkbox"
+          name="isIgnoredPerilLadderValue.[0]"
+          {{checked isIgnoredPerilLadderValue.[0]}}
+        />
+      </div>
+
+      <div class="form-group">
+        <label>{{localize "ZWEI.settings.acsettings.peril2"}}</label>
+        <input
+          type="checkbox"
+          name="isIgnoredPerilLadderValue.[1]"
+          {{checked isIgnoredPerilLadderValue.[1]}}
+        />
+      </div>
+
+      <div class="form-group">
+        <label>{{localize "ZWEI.settings.acsettings.peril3"}}</label>
+        <input
+          type="checkbox"
+          name="isIgnoredPerilLadderValue.[2]"
+          {{checked isIgnoredPerilLadderValue.[2]}}
+        />
+      </div>
+
+    <div class="form-group">
+      <label>{{localize "ZWEI.settings.acsettings.peril4"}}</label>
+      <input type="checkbox" name="avoidAllPeril" {{checked avoidAllPeril}} />
+      <p class="hint">{{localize "ZWEI.settings.acsettings.peril4hint"}}</p>
+    </div>
+    </fieldset>
+
+    <fieldset>
+      <legend>{{localize "ZWEI.settings.acsettings.magicktitle"}}</legend>
+      <div class="form-group">
+        <label>{{localize "ZWEI.settings.acsettings.magickuser"}}</label>
+        <input type="checkbox" name="isMagickUser" {{checked isMagickUser}} />
+        <p class="hint">{{localize "ZWEI.settings.acsettings.magickuserhint"}}</p>
+      </div>
+
+      <div class="form-group">
+        <label>{{localize "ZWEI.settings.acsettings.magickskill"}}</label>
+        <multi-select name="magickSkills">
+          {{selectOptions magickSkills valueAttr="value" labelAttr="label" selected=selected}}
+        </multi-select>
+        <p class="hint">{{localize "ZWEI.settings.acsettings.magickskillhint"}}</p>
+      </div>
+    </fieldset>
+
+    <fieldset>
+      <legend>{{localize "ZWEI.settings.acsettings.octitle"}}</legend>
+      <p class="hint">{{localize "ZWEI.settings.acsettings.octitlehint"}}</p>
+      <div class="form-group">
+        <label>{{localize "ZWEI.settings.acsettings.occhaosrank"}}</label>
+        <input type="number" name="permanentChaosRanks" value="{{permanentRanks.chaos}}" />
+      </div>
+
+      <div class="form-group">
+        <label>{{localize "ZWEI.settings.acsettings.ocorderrank"}}</label>
+        <input type="number" name="permanentOrderRanks" value="{{permanentRanks.order}}" />
+      </div>
+    </fieldset>
+
+    <fieldset>
+      <legend>{{localize "ZWEI.settings.acsettings.bgtitle"}}</legend>
+      <div class="form-group">
+        <label>{{localize "ZWEI.settings.acsettings.bglabel"}}</label>
+        <file-picker name="headerBackground" type="image">{{filePaths.headerBackground}}</file-picker>
+        <p class="hint">{{localize "ZWEI.settings.acsettings.bgtitlehint"}}</p>
+      </div>
+    </fieldset>
+  {{/if}}
+
+  {{#if (not (or (eq actorType "character") (eq actorType "vehicle")))}}
+  <fieldset>
+    <legend>{{localize "ZWEI.settings.acsettings.globaltitle"}}</legend>
+      {{#each globalModifiers as |mod|}}
+      <div class="form-group">
+        <label>{{mod.label}}</label>
+        <input type="number" name="{{mod.nameAttr}}" value="{{mod.valueAttr}}" />
+      </div>
+      {{#if mod.hint}}<p class="hint">{{mod.hint}}</p>{{/if}}
+      {{/each}}
+  </fieldset>
+  {{/if}}
+
+  {{#if (not (eq actorType "vehicle"))}}
+  <fieldset>
+    <legend>{{localize "ZWEI.settings.acsettings.soundtitle"}}</legend>
+    <div class="form-group">
+      <label>{{localize "ZWEI.settings.acsettings.sounddodge"}}</label>
+      <file-picker name="dodgeSound" type="sound">{{filePaths.dodgeSound}}</file-picker>
+    </div>
+
+    <div class="form-group">
+      <label>{{localize "ZWEI.settings.acsettings.soundparry"}}</label>
+      <file-picker name="parrySound" type="sound">{{filePaths.parrySound}}</file-picker>
+    </div>
+
+    <div class="form-group">
+      <label>{{localize "ZWEI.settings.acsettings.soundgrunt"}}</label>
+      <file-picker name="gruntSound" type="sound">{{filePaths.gruntSound}}</file-picker>
+    </div>
+
+    <div class="form-group">
+      <label>{{localize "ZWEI.settings.acsettings.soundplaygrunt"}}</label>
+      <input type="checkbox" name="playGruntSound" {{checked playGruntSound}} />
+      <p class="hint">{{localize "ZWEI.settings.acsettings.soundplaygrunthint"}}</p>
+    </div>
+  </fieldset>
+  {{else}}
+  {{/if}}
+</div>

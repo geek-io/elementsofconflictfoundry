@@ -1,0 +1,37 @@
+{
+  "_id": "0dN7XydUbyPtfOFw",
+  "effects": [],
+  "img": "systems/zweihander/assets/icons/cogsplosion.svg",
+  "name": "Clockworks of War",
+  "type": "trait",
+  "_stats": {
+    "coreVersion": "13.342",
+    "systemId": "zweihander",
+    "systemVersion": "5.4.1",
+    "createdTime": null,
+    "modifiedTime": 1734974463031,
+    "lastModifiedBy": "rivg6xcMxdlVDM8y",
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "system": {
+    "description": {
+      "@en": "Telescoping muzzles, switchblade-style two-handed swords, cog- driven crossbows and folding axes are only the tip of the iceberg of what can be accomplished by modifying implements of war."
+    },
+    "notes": "",
+    "rules": {
+      "effect": {
+        "@en": "<p>Provided you have the appropriate tools, any two-handed weapon can be modified into a compact one-handed version (which only you can wield). Despite being one-handed, it retains its original function, but now has an Encumbrance of 1.</p>"
+      }
+    },
+    "category": "ancestral"
+  },
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {},
+  "_key": "!items!0dN7XydUbyPtfOFw"
+}

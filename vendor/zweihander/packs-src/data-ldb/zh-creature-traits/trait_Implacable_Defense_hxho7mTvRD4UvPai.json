@@ -1,0 +1,37 @@
+{
+  "_id": "hxho7mTvRD4UvPai",
+  "effects": [],
+  "img": "systems/zweihander/assets/icons/skull-shield.svg",
+  "name": "Implacable Defense",
+  "system": {
+    "description": {
+      "@en": ""
+    },
+    "notes": "",
+    "rules": {
+      "effect": {
+        "@en": "When this creature’s Turn begins, they gain 1 additional AP. However, it can only be used to Dodge and Parry."
+      }
+    },
+    "category": "creature"
+  },
+  "type": "trait",
+  "_stats": {
+    "coreVersion": "13.342",
+    "systemId": "zweihander",
+    "systemVersion": "5.4.1",
+    "createdTime": null,
+    "modifiedTime": 1735915786883,
+    "lastModifiedBy": "rivg6xcMxdlVDM8y",
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {},
+  "_key": "!items!hxho7mTvRD4UvPai"
+}

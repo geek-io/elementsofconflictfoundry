@@ -1,0 +1,37 @@
+{
+  "_id": "KyzmfbTsxSkqYOYw",
+  "effects": [],
+  "img": "systems/zweihander/assets/icons/strong-man.svg",
+  "name": "Physical Prowess",
+  "type": "trait",
+  "_stats": {
+    "coreVersion": "13.342",
+    "systemId": "zweihander",
+    "systemVersion": "5.4.1",
+    "createdTime": null,
+    "modifiedTime": 1734974463042,
+    "lastModifiedBy": "rivg6xcMxdlVDM8y",
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "system": {
+    "description": {
+      "@en": "Dwarves are naturally athletic, excelling at feats most normal people could never hope to achieve. Barrel-chested and powerfully muscled, they have an excellent physique and constantly train to maintain peak fitness. But when in private company, they enjoy binge eating on pies, sausages and blood pudding."
+    },
+    "notes": "",
+    "rules": {
+      "effect": {
+        "@en": "Reference either your [BB] or [AB] when determining Movement. Additionally, you may substitute Athletics in place of Coordination when Dodging ranged weapons. Finally, you will have a Husky build on the Build table."
+      }
+    },
+    "category": "ancestral"
+  },
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {},
+  "_key": "!items!KyzmfbTsxSkqYOYw"
+}

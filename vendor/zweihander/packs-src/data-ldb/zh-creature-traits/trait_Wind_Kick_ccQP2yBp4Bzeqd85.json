@@ -1,0 +1,37 @@
+{
+  "_id": "ccQP2yBp4Bzeqd85",
+  "effects": [],
+  "img": "systems/zweihander/assets/icons/high-kick.svg",
+  "name": "Wind Kick",
+  "system": {
+    "description": {
+      "@en": ""
+    },
+    "notes": "",
+    "rules": {
+      "effect": {
+        "@en": "When creatures use this attack, it forces a foe to Resist with a Coordination Test or be thrown 1D10+[BB] in yards. This attack can be used against three foes at once."
+      }
+    },
+    "category": "creature"
+  },
+  "type": "trait",
+  "_stats": {
+    "coreVersion": "13.342",
+    "systemId": "zweihander",
+    "systemVersion": "5.4.1",
+    "createdTime": null,
+    "modifiedTime": 1735915786867,
+    "lastModifiedBy": "rivg6xcMxdlVDM8y",
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {},
+  "_key": "!items!ccQP2yBp4Bzeqd85"
+}

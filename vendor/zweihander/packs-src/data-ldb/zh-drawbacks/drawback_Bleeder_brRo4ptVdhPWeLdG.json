@@ -1,0 +1,36 @@
+{
+  "_id": "brRo4ptVdhPWeLdG",
+  "effects": [],
+  "img": "systems/zweihander/assets/icons/spiked-halo.svg",
+  "name": "Bleeder",
+  "type": "drawback",
+  "_stats": {
+    "coreVersion": "13.342",
+    "systemId": null,
+    "systemVersion": null,
+    "createdTime": null,
+    "modifiedTime": 1733923835859,
+    "lastModifiedBy": "rivg6xcMxdlVDM8y",
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "system": {
+    "description": {
+      "@en": "Your blood doesn’t easily clot. This means you bruise like a peach when hurt, and spurt like a stuck pig whenever you are injured."
+    },
+    "notes": "",
+    "rules": {
+      "effect": {
+        "@en": "Whenever you are treated with the Heal Skill, a caregiver suffers an additional -20 Base Chance, unless they expend an additional bandage during treatment."
+      }
+    }
+  },
+  "folder": null,
+  "sort": 8200000,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {},
+  "_key": "!items!brRo4ptVdhPWeLdG"
+}
