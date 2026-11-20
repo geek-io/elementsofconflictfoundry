@@ -271,3 +271,7 @@
 .eoc .eoc-initiative-roll { color:#f0d49b; border-color:#b99b60; background:#344530; }
 .eoc .eoc-combat-traits .eoc-item-name small { display:block; color:#b8c5ab; margin-top:4px; }
 .eoc .eoc-import-profession h3 { margin:16px 0 8px; }
+
+.eoc-conditional-row{display:grid;grid-template-columns:24px minmax(90px,1fr) minmax(95px,1fr) 60px auto;gap:5px;align-items:center;margin:6px 0}.eoc-conditionals{margin:8px 0;padding:8px;border:1px solid var(--eoc-border,#555)}
+
+.eoc-creation .eoc-creation-body{border:0;padding:10px;overflow:auto;min-height:0}.eoc-creation .eoc-content{height:100%;display:flex;flex-direction:column}.eoc-xp-summary{display:flex;gap:16px;flex-wrap:wrap;padding:10px;border:1px solid #a58b54;border-radius:4px}.eoc-creation-tables{display:grid;grid-template-columns:1fr 1fr;gap:10px}.eoc-creation-tables>div{display:flex;align-items:end;gap:8px}.eoc-creation-tables label{flex:1}.eoc-creation-tables button{flex:0 0 92px}.eoc-creation-advance{display:flex;align-items:center;justify-content:space-between;gap:12px;padding:8px;border-bottom:1px solid #50574d}.eoc-creation-advance small{display:block;opacity:.8}.eoc-creation .eoc-import-tabs{display:flex;gap:6px;flex-wrap:wrap;margin:10px 0}.eoc-creation .eoc-import-tabs button{flex:1}.eoc-creation-header h2{margin-bottom:8px}
