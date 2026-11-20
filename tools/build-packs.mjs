@@ -1,3 +1,4 @@
+import {cleanTechniqueDescription} from '../scripts/technique-description.mjs';
 import { readFile, writeFile, mkdir, mkdtemp } from "node:fs/promises";
 import { resolve, dirname } from "node:path";
 import { fileURLToPath } from "node:url";
@@ -37,6 +38,7 @@ for(const spec of specs) {
  for(const record of spec.records) {
   const id=record._id??idFor(record.type+":"+record.name);
   const system=record.type==="heritage"?migrateHeritageData(record.system):spec.techniques?migrateTechniqueData(structuredClone(record.system)):record.system;
+  if(spec.techniques)system.description=cleanTechniqueDescription(system);
   const path=spec.techniques?`${system.jutsuType}/${system.nature || "Neutral"}/${system.jutsuRank}-Rank`:spec.heritages || spec.professions?system.category:null;
   const img=spec.techniques?`systems/${SYSTEM_ID}/icons/${system.jutsuType.toLowerCase()}.svg`:ITEM_ICONS[record.type];
   const doc={...record,system,_id:id,_key:"!items!"+id,img,effects:[],folder:path?await folder(path):null};

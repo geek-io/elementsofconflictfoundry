@@ -2,7 +2,7 @@
   "id": "elementsofconflictfoundry",
   "title": "Elements of Conflict Zwei",
   "description": "Elements of Conflict Zwei: character sheets, skill tests, equipment and rules libraries.",
-  "version": "0.3.15",
+  "version": "0.3.19",
   "compatibility": {
     "minimum": "14.367",
     "verified": "14.367",
@@ -15,9 +15,9 @@
   ],
   "url": "https://github.com/geek-io/elementsofconflictfoundry",
   "manifest": "https://github.com/geek-io/elementsofconflictfoundry/releases/latest/download/system.json",
-  "download": "https://github.com/geek-io/elementsofconflictfoundry/releases/download/v0.3.15/elementsofconflictfoundry-0.3.15.zip",
+  "download": "https://github.com/geek-io/elementsofconflictfoundry/releases/download/v0.3.19/elementsofconflictfoundry-0.3.19.zip",
   "esmodules": [
-    "scripts/entry-0.3.15.mjs"
+    "scripts/entry-0.3.19.mjs"
   ],
   "styles": [
     "assets/rpg-awesome/css/rpg-awesome.css",
@@ -330,5 +330,8 @@
       ]
     }
   ],
+  "socket": true,
   "primaryTokenAttribute": "chakra"
 }
+
+

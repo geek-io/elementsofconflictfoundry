@@ -8,6 +8,30 @@ A Foundry VTT v14 game system for *Elements of Conflict Zwei*, starting from the
 - [Geek IO Discord](https://geek-io.net/discord)
 - Icons: [RPG-Awesome](https://github.com/nagoshiashumari/Rpg-Awesome) by Daniela Howe and Ivan Montiel (BSD 2-Clause Simplified; font/CSS notices included), and [Game-icons.net](https://game-icons.net) by Lorc and Delapouite (CC-BY-3.0). [Credits and bundled licenses](ICON-CREDITS.md).
 
+# v 0.3.19
+
+- Fixed player-side Fortune spending, rerolls, chat damage application, and clone requests by enabling the system socket.
+- Draft Techniques no longer appear in or can be learned through Character Creation & Advancement.
+- Added B, A, and S rank Technique learning prices of 400, 500, and 600 XP; matching Chakra Nature still halves the cost.
+- Unspent starting XP can now be banked when finishing character creation.
+
+# v 0.3.18
+
+- Added Conditional Bonus fields to Talents, Techniques, and Heritages, with named targets, positive/negative values, and toggles.
+- Connected item bonuses to character and roll-dialog controls; only the selected Heritage contributes its bonuses.
+
+# v 0.3.17
+
+- Added optional Automated Animations support for weapon attacks and Technique uses, with target and hit/miss data.
+- Prevented duplicate animations on damage cards and Fortune/Misfortune rerolls.
+
+# v 0.3.16
+
+- Added folder depth and parent paths to the Importer destination picker.
+- Added named conditional bonuses with sheet and roll-dialog toggles, independent of passive Active Effects.
+- Removed duplicated Technique metadata from new imports and compendium descriptions.
+- Added Character Creation & Advancement with book tables, attribute assignment, Profession purchases, Nature learning discounts, restricted Technique-only XP, an XP ledger, and affordable Technique selection.
+
 # v 0.3.15
 
 - Added GitHub Release installation/update URLs and a portable export package.
@@ -156,3 +180,5 @@ A Foundry VTT v14 game system for *Elements of Conflict Zwei*, starting from the
 - Added blank Gear, Weapon, Armor, Technique, Profession, and Trait records, with descriptions, source references, quantity, and a recorded equipped state.
 - Established case-sensitive package checks, portable packaging, Ubuntu installation instructions, and an initial rules/roadmap guide.
 - Reorganized this README around release history, following the 10,000 Swords system's structure.
+
+

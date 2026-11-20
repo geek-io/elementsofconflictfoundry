@@ -51,6 +51,9 @@ assert.equal(removed.modifiers.length,0);assert.equal(removed.boons.length,0);
 const preserved = new EocActorModel({ attributes: { combat: 45, brawn: 56 }, profession: "Existing Shinobi", notes: "Existing notes", chakra: { value: 7, max: 10 }, shonen: 2 });
 assert.equal(preserved.attributes.combat, 45); assert.equal(preserved.profession, "Existing Shinobi"); assert.equal(preserved.chakra.value, 7); assert.equal(preserved.shonen, 2); assert.equal(preserved.notes, "Existing notes"); assert.equal(Object.keys(preserved.skills).length, SKILLS.length);
 assert.equal(new EocActorModel({ skills: { ninjutsu: 4 } }).skills.ninjutsu, 3);
+const creationState=new EocActorModel({creationState:{initialized:true,restrictedTotal:500,restrictedSpent:100,ledger:[{kind:'technique',cost:100}]},conditionalBonuses:[{id:'rain',name:'Rain',target:'athletics',value:-10,enabled:true}]});
+assert.equal(creationState.creationState.restrictedTotal,500);assert.equal(creationState.creationState.ledger[0].cost,100);assert.equal(creationState.conditionalBonuses[0].value,-10);
+assert.equal(new EocJutsuModel({xpCost:450}).xpCost,450);assert.equal(new EocJutsuModel({}).xpCost,null);
 const manifest = JSON.parse(await readFile("system.json", "utf8"));
 globalThis.release = { version: "14.367", generation: 14, maxStableGeneration: 14, maxGeneration: 14 };
 globalThis.getDocumentClass = name => foundry.documents[`Base${name}`];
@@ -73,6 +76,7 @@ for (const pack of manifest.packs) {
     if(doc._key.startsWith("!folders!")){assert.equal(new foundry.documents.BaseFolder(structuredClone(doc)).validate(),true);folderCount++;continue;}
     if (pack.type === "Item") { const model=new (itemModel(doc.type))(doc.system); assert.ok(manifest.documentTypes.Item[doc.type]); assert.ok(doc.img.startsWith(`systems/${manifest.id}/icons/`)); await readFile(doc.img.replace(`systems/${manifest.id}/`,""));packTypes.add(doc.type); items++;
       if(["technique","jutsu"].includes(doc.type))for(const key of ["jutsuType","jutsuRank","duration","actionType","range","template"])assert.equal(model[key],doc.system[key],`${doc.name}: ${key} changed by schema validation`);
+      if(doc.type==='technique')assert.doesNotMatch(doc.system.description,/<h[1-6][^>]*>\s*(?:Type|Nature|Rank|Chakra Cost|Action Cost|Duration|Range)\s*<\/h/i,`${doc.name}: metadata duplicated in description`);
     }
     if (pack.type === "Actor") {
       new EocActorModel(doc.system); assert.ok(doc.items.every(i=>typeof i==="object"));
